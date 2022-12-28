@@ -59,7 +59,7 @@ get_header(); ?>
     </div>
 </div>
 
-<div class="container home-entry-div gx-0">
+<div class="container home-entry-div gx-0 margin-120px">
 
     <div class="row">
 
