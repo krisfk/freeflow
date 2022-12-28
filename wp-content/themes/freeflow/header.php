@@ -40,4 +40,8 @@
         <a class="d-none skip-link screen-reader-text"
             href="#content"><?php esc_html_e( 'Skip to content', 'freeflow' ); ?></a>
 
+
+        <div class="curve-bg"></div>
+
+
         <?php //get_template_part( 'template-parts/header/site-header' ); ?>

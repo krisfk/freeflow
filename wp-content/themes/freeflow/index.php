@@ -22,8 +22,6 @@ get_header(); ?>
 </header><!-- .page-header -->
 <?php endif; ?>
 
-<div class="curve-bg"></div>
-
 
 
 <div class="home-banner-div">

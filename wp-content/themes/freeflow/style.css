@@ -142,17 +142,6 @@ body {
     margin: 0rem;
 }
 
-.curve-bg {
-    background: url(./assets/images/curve.gif);
-    background-size: 100% auto;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    display: none;
-}
-
 .home-entry-div {
     display: block;
     background: #fffee9;
@@ -193,4 +182,18 @@ body {
 .fake-video {
     width: 100%;
     height: auto;
+}
+
+#page {
+    position: relative;
+}
+
+.curve-bg {
+    background: url(./assets/images/curve.gif);
+    background-size: 100% auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
