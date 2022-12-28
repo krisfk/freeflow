@@ -59,7 +59,7 @@ get_header(); ?>
     </div>
 </div>
 
-<div class="container home-entry-div gx-0 margin-120px">
+<div class="container home-entry-div gx-0 mt-120px">
 
     <div class="row">
 
@@ -98,7 +98,7 @@ get_header(); ?>
 
 </div>
 
-<div class="container home-entry-div gx-0 margin-120px">
+<div class="container home-entry-div gx-0 mt-120px">
 
     <div class="row">
 
@@ -141,6 +141,7 @@ get_header(); ?>
 </div>
 
 
+<img class="mt-120px" src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/fake-video-1-scaled.jpg" alt="">
 <!-- <img src="<?php echo get_template_directory_uri(); ?>/assets/images/curve.gif" alt=""> -->
 <?php
 get_footer();
