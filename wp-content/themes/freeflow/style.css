@@ -118,3 +118,7 @@ Twenty Twenty-One is distributed under the terms of the GNU GPL.
 .top-icons-div table {
     display: inline-block;
 }
+
+.top-icons-div table a {
+    display: inline-block;
+}
