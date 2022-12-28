@@ -98,6 +98,10 @@ Twenty Twenty-One is distributed under the terms of the GNU GPL.
 
 /* Categories 01 to 03 are the basics. */
 
+body {
+    font-size: 18px;
+}
+
 .home-banner-div {
     display: block;
     width: 100vw;
@@ -149,4 +153,9 @@ Twenty Twenty-One is distributed under the terms of the GNU GPL.
 .home-entry-div {
     display: block;
     background: #fffee9;
+}
+
+.home-entry-title {
+    color: #605ed3;
+    font-size: 24px;
 }
