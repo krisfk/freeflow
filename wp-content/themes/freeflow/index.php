@@ -63,7 +63,7 @@ get_header(); ?>
 
     <div class="row">
 
-        <div class="col-4">
+        <div class="col-6">
 
 
             <table>
@@ -79,7 +79,7 @@ get_header(); ?>
             </table>
 
         </div>
-        <div class="col-8">
+        <div class="col-6">
 
             <div class="home-entry-title">
                 賽馬會「自主・流」身體律動計劃 <br>
