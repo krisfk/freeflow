@@ -22,6 +22,10 @@ get_header(); ?>
 </header><!-- .page-header -->
 <?php endif; ?>
 
+<div class="curve-bg"></div>
+
+
+
 <div class="home-banner-div">
 
     <div class="top-icons-div">
@@ -55,7 +59,40 @@ get_header(); ?>
     </div>
 </div>
 
-<div class="curve-bg"></div>
+<div class="container home-entry-div">
+
+    <div class="row">
+
+        <div class="col-4">
+
+
+            <table>
+                <tr>
+                    <td> <img class="home-entry-img"
+                            src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/home-entry-1-photo.jpg" alt="">
+
+                        <div>使 <br>命</div>
+                    </td>
+                </tr>
+            </table>
+
+        </div>
+        <div class="col-8">
+
+            <div class="home-entry-title">
+                賽馬會「自主・流」身體律動計劃 <br>
+                Jockey Club ‘FreeFlow’ Body Movement Project
+            </div>
+            <div>
+                計劃為全港首個試點項目，與台灣雲門舞集舞蹈教室合作，設計出一套為香港青少女需求而定的身體律動課程，透過身體律動培育青少女對身體的好奇心，發掘身體多樣性；再輔以社會服務介入，致力為青少女充權，鼓勵創新和開放對話，促進個人成長和加深自我認識。
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
 <!-- <img src="<?php echo get_template_directory_uri(); ?>/assets/images/curve.gif" alt=""> -->
 <?php
 get_footer();
