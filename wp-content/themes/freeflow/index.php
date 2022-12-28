@@ -72,7 +72,7 @@ get_header(); ?>
                             src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/home-entry-1-photo.jpg" alt="">
 
                     </td>
-                    <td class="subtitle-td">
+                    <td class="subtitle-td align-bottom">
                         使 <br>命
                     </td>
                 </tr>
