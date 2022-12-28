@@ -90,7 +90,7 @@ get_header(); ?>
             </div>
 
 
-            <a href="javascript:void(0);" class="home-entry-link">發掘更多律動課程</a>
+            <a href="javascript:void(0);" class="home-entry-link mt-4">發掘更多律動課程</a>
 
         </div>
 
