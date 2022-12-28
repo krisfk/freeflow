@@ -97,3 +97,11 @@ Twenty Twenty-One is distributed under the terms of the GNU GPL.
 
 
 /* Categories 01 to 03 are the basics. */
+
+.home-banner-div {
+    display: block;
+    width: 100vw;
+    height: 100vh;
+    background: url(http://64.227.13.14/freeflow/wp-content/uploads/2022/12/home-banner-scaled.jpg) no-repeat;
+    background-size: contain;
+}
