@@ -113,6 +113,9 @@ Twenty Twenty-One is distributed under the terms of the GNU GPL.
 .top-icons-div {
     font-size: 12px;
     color: #605ed3;
+    position: absolute;
+    top: 33px;
+    right: 43px;
 }
 
 .top-icons-div table {
