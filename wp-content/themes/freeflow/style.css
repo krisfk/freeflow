@@ -156,6 +156,11 @@ body {
     background: #fffee9;
 }
 
+.home-entry-div img {
+    display: block;
+    border-radius: 1rem;
+}
+
 .home-entry-title {
     color: #605ed3;
     font-size: 24px;
