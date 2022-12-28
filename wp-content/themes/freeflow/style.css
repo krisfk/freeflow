@@ -185,6 +185,8 @@ body {
 .fake-video {
     width: 100%;
     height: auto;
+    position: relative;
+    z-index: 100;
 }
 
 #page {
