@@ -98,6 +98,49 @@ get_header(); ?>
 
 </div>
 
+<div class="container home-entry-div gx-0 margin-120px">
+
+    <div class="row">
+
+        <div class="col-7">
+
+            <div class="home-entry-title">
+                甚麽是身體律動？
+
+            </div>
+            <div class="mt-4">
+                我們相信身體是最能夠直接呈現自身感受的載體，我們天生便懂得如何韻律。在律動過程中，沒有任何標準及規限，亦不需要向別人交代。在最舒適的情況下，與情感產生正向的回饋及內在轉變，表現最真實的自己。
+            </div>
+
+
+            <a href="javascript:void(0);" class="home-entry-link mt-4">發掘更多律動課程</a>
+
+        </div>
+
+        <div class="col-5">
+
+
+            <table>
+                <tr>
+
+                    <td class="subtitle-td align-bottom">
+                        信<br>念
+                    </td>
+                    <td> <img class="home-entry-img"
+                            src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/home-entry-2-photo.jpg" alt="">
+
+                    </td>
+                </tr>
+            </table>
+
+        </div>
+
+
+    </div>
+
+</div>
+
+
 <!-- <img src="<?php echo get_template_directory_uri(); ?>/assets/images/curve.gif" alt=""> -->
 <?php
 get_footer();
