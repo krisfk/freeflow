@@ -147,7 +147,7 @@ body {
     background: #fffee9;
     padding: 1.5rem;
     position: relative;
-    z-index: 10;
+    z-index: 100;
 }
 
 .home-entry-div img {
