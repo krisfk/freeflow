@@ -109,7 +109,7 @@ body {
     width: 100vw;
     height: 100vh;
     background: url(http://64.227.13.14/freeflow/wp-content/uploads/2022/12/home-banner-scaled.jpg) no-repeat;
-    background-size: contain;
+    background-size: cover;
 }
 
 .top-icon-img {
