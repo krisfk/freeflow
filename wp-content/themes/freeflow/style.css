@@ -180,7 +180,8 @@ body {
 
 .home-entry-link {
     color: 18px;
-    text-decoration: none;
+    text-decoration: none !important;
     display: inline-block;
-    border-bottom: 2px solid #ff6c2f;
+    color: #808080 !important;
+    border-bottom: 2px solid #ff6c2f !important;
 }
