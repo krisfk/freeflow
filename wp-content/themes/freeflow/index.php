@@ -55,6 +55,7 @@ get_header(); ?>
     </div>
 </div>
 
-<img src="<?php echo get_template_directory_uri(); ?>/assets/images/curve.gif" alt="">
+<div class="curve-bg"></div>
+<!-- <img src="<?php echo get_template_directory_uri(); ?>/assets/images/curve.gif" alt=""> -->
 <?php
 get_footer();
