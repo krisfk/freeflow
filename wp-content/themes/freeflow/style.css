@@ -189,3 +189,8 @@ body {
 .mt-120px {
     margin-top: 120px;
 }
+
+.fake-video {
+    width: 100%;
+    height: auto;
+}
