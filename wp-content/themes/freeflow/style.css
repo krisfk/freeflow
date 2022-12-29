@@ -207,4 +207,6 @@ body {
     color: #ff6c2f;
     display: inline-block;
     border-bottom: 2px solid #ff6c2f !important;
+    text-decoration: none;
+    line-height: 2rem;
 }
