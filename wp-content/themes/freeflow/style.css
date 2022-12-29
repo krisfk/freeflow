@@ -218,6 +218,12 @@ h2.orange {
     color: #ff6c2f;
 }
 
+h2 {
+    font-size: 60px;
+    font-weight: 200;
+    color: #fff;
+}
+
 .our-activity-btn {
     position: absolute;
     top: 0;
