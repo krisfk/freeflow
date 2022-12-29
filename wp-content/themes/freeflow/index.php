@@ -205,17 +205,24 @@ get_header(); ?>
             <a href="javascript:void(0);" class="our-activity-btn">
 
 
-                <h2>
+                <table>
+                    <tr>
+                        <td class="align-center">
+                            <h2>
 
 
-                    我們的活動</h2>
+                                我們的活動</h2>
 
-                <div class="big-white-arrow-div">
+                            <div class="big-white-arrow-div">
 
-                    發掘更多活動內容
+                                發掘更多活動內容
 
 
-                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+
             </a>
 
 
