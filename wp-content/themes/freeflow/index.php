@@ -162,6 +162,27 @@ get_header(); ?>
 
 
 
+
+            <div class="home-entry-title mt-4">
+                如何成為計劃的一份子？
+
+
+            </div>
+            <div class="mt-4">
+
+                你可通過各種方式參與這個計劃！如果你是教育工作者、創作者或藝術家，請查看本網站
+                <a href="javascript:void(0);" class="orange-link">與我們合作</a>
+
+
+                頁面了解更多。至於有興趣透過其他方式合作的你，請在本頁下方給我們留言或直接發送電子郵件。
+            </div>
+
+
+
+
+
+
+
         </div>
         <div class="col-4 text-center">
 
