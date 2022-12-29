@@ -163,7 +163,11 @@ get_header(); ?>
 
 
         </div>
-        <div class="col-3"></div>
+        <div class="col-3">
+
+            <h2 class="orange">想知更多？</h2>
+
+        </div>
     </div>
 
 
