@@ -213,7 +213,7 @@ get_header(); ?>
 
                                 我們的活動</h2>
 
-                            <div class="big-white-arrow-div">
+                            <div class="big-white-arrow-div mt-4">
 
                                 發掘更多活動內容
 
