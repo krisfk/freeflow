@@ -208,10 +208,10 @@ get_header(); ?>
 
             <div class="row">
 
-                <div class="col-6"> <a href=""><img
+                <div class="col-6"> <a href=""><img class="w-100"
                             src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/Asset-7@2x.png" alt=""></a>
                 </div>
-                <div class="col-6"> <a href=""><img
+                <div class="col-6"> <a href=""><img class="w-100"
                             src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/Asset-8@2x.png" alt=""></a>
                 </div>
             </div>
