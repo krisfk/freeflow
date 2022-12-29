@@ -148,7 +148,7 @@ get_header(); ?>
 
     <div class="row">
 
-        <div class="col-9">
+        <div class="col-8">
 
             <div class="home-entry-title">
                 為甚麼這個計劃很重要？
@@ -163,7 +163,7 @@ get_header(); ?>
 
 
         </div>
-        <div class="col-3">
+        <div class="col-4 text-center">
 
             <h2 class="orange">想知更多？</h2>
 
