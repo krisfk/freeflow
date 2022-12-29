@@ -57,7 +57,7 @@ get_header(); ?>
     </div>
 </div>
 
-<div class="container home-entry-div gx-0 mt-120px">
+<div class="container yellow-bg-div gx-0 mt-120px">
 
     <div class="row">
 
@@ -96,7 +96,7 @@ get_header(); ?>
 
 </div>
 
-<div class="container home-entry-div gx-0 mt-120px">
+<div class="container yellow-bg-div gx-0 mt-120px">
 
     <div class="row">
 
@@ -141,6 +141,34 @@ get_header(); ?>
 
 <img class="mt-120px fake-video" src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/fake-video-1-scaled.jpg"
     alt="">
+
+
+<div class="container yellow-bg-div gx-0 mt-120px">
+
+
+    <div class="row">
+
+        <div class="col-9">
+
+            <div class="home-entry-title">
+                為甚麼這個計劃很重要？
+
+            </div>
+            <div class="mt-4">
+
+                我們希望能夠通過這個計劃去重塑女性對話！這是一個由香港賽馬會慈善信託基金捐助的試點項目，旨在透過身體律動去探討女性身份以及年輕女性在現今社會的意義。除了身體律動課和社工介入，我們還引入各種藝術和文化元素，與參加者有更多元化的互動，希望能擴闊她們的視野。請查看本網站
+                <a href="javascript:void(0);" class="orange-link">關於我們</a>頁面了解更多有關計劃、機構、合作夥伴的資訊！
+            </div>
+
+
+
+        </div>
+        <div class="col-3"></div>
+    </div>
+
+
+</div>
+
 <!-- <img src="<?php echo get_template_directory_uri(); ?>/assets/images/curve.gif" alt=""> -->
 <?php
 get_footer();

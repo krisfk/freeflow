@@ -142,7 +142,7 @@ body {
     margin: 0rem;
 }
 
-.home-entry-div {
+.yellow-bg-div {
     display: block;
     background: #fffee9;
     padding: 1.5rem;
@@ -151,7 +151,7 @@ body {
     opacity: 0.8;
 }
 
-.home-entry-div img {
+.yellow-bg-div img {
     display: block;
     border-radius: 3rem;
 }
@@ -201,4 +201,10 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
+}
+
+.orange-link {
+    color: #ff6c2f;
+    display: inline-block;
+    border-bottom: 2px solid #ff6c2f !important;
 }
