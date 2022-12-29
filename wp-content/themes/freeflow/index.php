@@ -199,12 +199,12 @@ get_header(); ?>
 
     <div class="row">
 
-        <div class="col-6">
+        <div class="col-6 mb-4">
 
             <a href="javascript:void(0);">我們的活動</a>
 
         </div>
-        <div class="col-6">
+        <div class="col-6 mb-4">
 
             <div class="row">
 
@@ -216,7 +216,7 @@ get_header(); ?>
                 </div>
             </div>
         </div>
-        <div class="col-6">
+        <div class="col-6 mb-4">
 
 
             <div class="row">
@@ -231,7 +231,7 @@ get_header(); ?>
 
 
         </div>
-        <div class="col-6">
+        <div class="col-6 mb-4">
 
             <a href=""><img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/Asset-11@2x.png"
                     alt=""></a>
