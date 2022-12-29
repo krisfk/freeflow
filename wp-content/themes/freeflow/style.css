@@ -226,4 +226,6 @@ h2.orange {
     width: 100%;
     height: 100%;
     background: #ff6c2f;
+    border-radius: 11rem;
+    text-align: center;
 }
