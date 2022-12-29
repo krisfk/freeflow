@@ -194,6 +194,33 @@ get_header(); ?>
 
 </div>
 
+
+<div class="container yellow-bg-div gx-0 mt-120px">
+
+    <div class="row">
+
+        <div class="col-6">
+
+            <a href="javascript:void(0);">我們的活動</a>
+
+        </div>
+        <div class="col-6">
+
+            <div class="row">
+
+                <div class="col-6"> <a href=""><img
+                            src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/Asset-7@2x.png" alt=""></a>
+                </div>
+                <div class="col-6"> <a href=""><img
+                            src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/Asset-8@2x.png" alt=""></a>
+                </div>
+            </div>
+        </div>
+        <div class="col-6"></div>
+        <div class="col-6"></div>
+
+    </div>
+</div>
 <!-- <img src="<?php echo get_template_directory_uri(); ?>/assets/images/curve.gif" alt=""> -->
 <?php
 get_footer();
