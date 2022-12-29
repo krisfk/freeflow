@@ -205,7 +205,7 @@ get_header(); ?>
             <a href="javascript:void(0);" class="our-activity-btn">
 
 
-                <table>
+                <table class="w-100 h-100">
                     <tr>
                         <td class="align-center">
                             <h2>
