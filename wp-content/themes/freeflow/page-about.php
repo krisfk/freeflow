@@ -44,7 +44,7 @@ get_header(); ?>
                             src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/home-entry-1-photo.jpg" alt="">
 
                     </td>
-                    <td class="subtitle-td align-bottom">
+                    <td class="subtitle-td align-top">
                         計 <br>
                         劃<br>
                         背<br>
