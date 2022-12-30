@@ -307,8 +307,8 @@ h2 {
 }
 
 .footer-menu-ul li::after {
-    display: block;
-    height: 1px;
-    width: 1px;
-    background: #fff;
+    display: block !important;
+    height: 1px !important;
+    width: 1px !important;
+    background: #fff !important;
 }
