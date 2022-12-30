@@ -318,9 +318,9 @@ get_header(); ?>
 
 
                 <h3>與我們聯絡</h3>
-                <input class="form-control" type="text" placeholder="姓名">
-                <input class="form-control" type="text" placeholder="電郵">
-                <input class="form-control" type="text" placeholder="訊息">
+                <input class="form-control mb-3" type="text" placeholder="姓名">
+                <input class="form-control mb-3" type="text" placeholder="電郵">
+                <input class="form-control mb-3" type="text" placeholder="訊息">
 
             </div>
         </div>
