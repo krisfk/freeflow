@@ -323,3 +323,15 @@ h2 {
 .footer-menu-ul li:last-child::after {
     display: none;
 }
+
+.sns-menu-ul {
+    padding: 0;
+}
+
+.sns-menu-ul li {
+    display: inline-block;
+}
+
+.sns-menu-ul li img {
+    height: 25px;
+}
