@@ -350,4 +350,5 @@ h2 {
     position: fixed;
     top: 45px;
     left: 45px;
+    z-index: 200;
 }
