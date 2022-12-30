@@ -220,6 +220,9 @@ body {
 .home .curve-bg {
     display: block;
     background: url(./assets/images/curve.gif);
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
 
 .curve-bg {
