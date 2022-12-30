@@ -260,4 +260,6 @@ h2 {
 .footer-div {
     background: #31d3cb;
     color: #fff;
+    position: relative;
+    z-index: 100;
 }
