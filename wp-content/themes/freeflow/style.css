@@ -307,8 +307,11 @@ h2 {
 }
 
 .footer-menu-ul li::after {
-    display: block !important;
-    height: 1px !important;
-    width: 1px !important;
-    background: #fff !important;
+    content: 'a';
+    position: absolute;
+    top: 1px;
+    bottom: 1px;
+    right: 5px;
+    width: 5px;
+    background-color: red;
 }
