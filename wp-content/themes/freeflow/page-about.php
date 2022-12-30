@@ -117,7 +117,7 @@ get_header(); ?>
                         步
                     </td>
                     <td> <img class="home-entry-img"
-                            src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/home-entry-2-photo.jpg" alt="">
+                            src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/Asset-4@2x.png" alt="">
 
                     </td>
                 </tr>
