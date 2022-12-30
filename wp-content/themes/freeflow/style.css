@@ -265,3 +265,8 @@ h2 {
     position: relative;
     z-index: 100;
 }
+
+.footer-div .icons-div table a {
+    display: inline-block;
+    margin-right: 1.5rem;
+}
