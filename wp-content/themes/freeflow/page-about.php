@@ -111,7 +111,10 @@ get_header(); ?>
                 <tr>
 
                     <td class="subtitle-td align-bottom">
-                        信<br>念
+                        妳 <br>
+                        我<br>
+                        同<br>
+                        步
                     </td>
                     <td> <img class="home-entry-img"
                             src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/home-entry-2-photo.jpg" alt="">
