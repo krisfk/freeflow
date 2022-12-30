@@ -203,7 +203,12 @@ body {
     position: relative;
 }
 
+.home .curve-bg {
+    display: block;
+}
+
 .curve-bg {
+    display: none;
     background: url(./assets/images/curve.gif);
     background-size: 100% auto;
     position: absolute;
