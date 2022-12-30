@@ -342,6 +342,12 @@ h2 {
     height: 25px;
 }
 
-.menu-btn-div img {
+.menu-btn img {
     height: 20px;
+}
+
+.menu-btn {
+    position: fixed;
+    top: 45px;
+    left: 45px;
 }

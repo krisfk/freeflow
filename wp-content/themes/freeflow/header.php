@@ -37,7 +37,7 @@
 <body <?php body_class(); ?>>
     <?php wp_body_open(); ?>
 
-    <a class="menu-btn-div">
+    <a class="menu-btn" href="javascript:void(0);">
 
 
         <img src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/menu-btn.png" alt="">
