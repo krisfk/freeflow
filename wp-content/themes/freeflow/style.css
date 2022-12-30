@@ -301,3 +301,7 @@ h2 {
     color: #fff;
     padding: 0rem 0.3rem;
 }
+
+.footer-menu-ul li:first-child {
+    padding: 0rem 0.3rem 0 0;
+}
