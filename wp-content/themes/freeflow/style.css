@@ -344,6 +344,7 @@ h2 {
 
 .menu-btn img {
     height: 20px;
+    display: inline-block;
 }
 
 .menu-btn {
@@ -351,4 +352,10 @@ h2 {
     top: 45px;
     left: 45px;
     z-index: 200;
+}
+
+.menu-btn-txt {
+    display: inline-block;
+    margin-left: 0.5rem;
+    color: #605ed3;
 }
