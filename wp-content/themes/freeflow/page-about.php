@@ -27,35 +27,8 @@ get_header(); ?>
 
 <div class="home-banner-div">
 
-    <div class="icons-div">
-
-        <table>
-            <tr>
-                <td>主辦機構</td>
-            </tr>
-            <tr>
-                <td><a href="javascript:void(0);"><img class="top-icon-img"
-                            src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/top-icon-1.png" alt=""></a><a
-                        href="javascript:void(0);"><img class="top-icon-img"
-                            src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/top-icon-2.png" alt=""></a><a
-                        href="javascript:void(0);"><img class="top-icon-img"
-                            src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/top-icon-3.png" alt=""></a>
-                </td>
-            </tr>
-        </table>
-        <table>
-            <tr>
-                <td>捐助機構</td>
-            </tr>
-            <tr>
-                <td><a href="javascript:void(0);"><img class="top-icon-img"
-                            src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/top-icon-4.png" alt=""></a>
-                </td>
-            </tr>
-        </table>
 
 
-    </div>
 </div>
 
 <div class="container yellow-bg-div gx-0 mt-120px">
