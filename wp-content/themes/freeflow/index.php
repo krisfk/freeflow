@@ -272,7 +272,7 @@ get_header(); ?>
 
 
         <div class="row">
-            <div class="col-6">
+            <div class="col-7">
 
 
                 <div class="icons-div">
@@ -314,7 +314,15 @@ get_header(); ?>
                 </div>
 
             </div>
-            <div class="col-6"></div>
+            <div class="col-5">
+
+
+                <h3>與我們聯絡</h3>
+                <input type="text" placeholder="姓名">
+                <input type="text" placeholder="電郵">
+                <input type="text" placeholder="訊息">
+
+            </div>
         </div>
 
     </div>
