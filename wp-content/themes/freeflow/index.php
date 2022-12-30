@@ -338,14 +338,12 @@ get_header(); ?>
                     所有作品內容均由主辦單位/創作團隊獨立製作，並不代表本計劃及捐助機構之立場或意見。
                 </div>
 
-                <div>
-                    <ul class="footer-menu-ul">
-                        <li>&copy; 2022 JC FreeFlow</li>
-                        <li><a href="javascript:void(0);">使用條款</a></li>
-                        <li><a href="javascript:void(0);">私隱政策</a></li>
-                    </ul>
+                <ul class="footer-menu-ul">
+                    <li>&copy; 2022 JC FreeFlow</li>
+                    <li><a href="javascript:void(0);">使用條款</a></li>
+                    <li><a href="javascript:void(0);">私隱政策</a></li>
+                </ul>
 
-                </div>
             </div>
         </div>
 
