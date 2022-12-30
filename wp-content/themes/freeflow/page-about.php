@@ -25,7 +25,7 @@ get_header(); ?>
 
 
 
-<div class="home-banner-div">
+<div class="banner-div">
 
 
 
