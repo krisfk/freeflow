@@ -362,3 +362,11 @@ h2 {
     position: relative;
     top: 2px;
 }
+
+.freeflow-logo-a {
+    position: absolute;
+}
+
+.freeflow-logo-a img {
+    height: 122px;
+}
