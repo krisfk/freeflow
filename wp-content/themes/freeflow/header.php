@@ -36,9 +36,19 @@
 
 <body <?php body_class(); ?>>
     <?php wp_body_open(); ?>
+
+    <a class="menu-btn-div">
+
+
+        <img src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/menu-btn.png" alt="">
+        <div class="menu-btn-txt">Menu</div>
+    </a>
+
+
     <div id="page" class="site">
         <a class="d-none skip-link screen-reader-text"
             href="#content"><?php esc_html_e( 'Skip to content', 'freeflow' ); ?></a>
+
 
 
         <div class="curve-bg"></div>
