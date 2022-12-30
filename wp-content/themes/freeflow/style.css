@@ -171,6 +171,10 @@ body {
     opacity: 0.8;
 }
 
+.yellow-bg-div table {
+    height: 100%;
+}
+
 .yellow-bg-div img {
     display: block;
     border-radius: 3rem;
