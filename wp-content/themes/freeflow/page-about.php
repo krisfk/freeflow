@@ -41,7 +41,7 @@ get_header(); ?>
             <table class="float-start">
                 <tr>
                     <td> <img class="home-entry-img"
-                            src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/home-entry-1-photo.jpg" alt="">
+                            src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/Asset-3@2x.png" alt="">
 
                     </td>
                     <td class="subtitle-td align-top">
