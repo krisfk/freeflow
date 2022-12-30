@@ -282,7 +282,6 @@ get_header(); ?>
                             <td>主辦機構</td>
                         </tr>
                         <tr>
-                            <td>
                             <td><a href="javascript:void(0);"><img class="top-icon-img"
                                         src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/top-icon-1.png"
                                         alt=""></a><a href="javascript:void(0);"><img class="top-icon-img"
@@ -290,7 +289,6 @@ get_header(); ?>
                                         alt=""></a><a href="javascript:void(0);"><img class="top-icon-img"
                                         src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/top-icon-3.png"
                                         alt=""></a>
-                            </td>
                             </td>
                         </tr>
                     </table>
