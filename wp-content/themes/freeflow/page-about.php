@@ -45,7 +45,10 @@ get_header(); ?>
 
                     </td>
                     <td class="subtitle-td align-bottom">
-                        使 <br>命
+                        計 <br>
+                        劃<br>
+                        背<br>
+                        景
                     </td>
                 </tr>
             </table>
