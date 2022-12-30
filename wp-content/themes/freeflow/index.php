@@ -323,7 +323,7 @@ get_header(); ?>
                 <input class="form-control mb-2" type="text" placeholder="訊息">
 
 
-                <div>
+                <div class="text-end">
                     <a href="javascript:void(0);" class="form-submit-btn">提交</a>
 
                 </div>
