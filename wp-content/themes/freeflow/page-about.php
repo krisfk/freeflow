@@ -104,7 +104,7 @@ get_header(); ?>
 
         </div>
 
-        <div class="col-5">
+        <div class="col-6">
 
 
             <table class="float-end">
