@@ -130,6 +130,8 @@ body {
     position: relative;
     /* top: 33px; */
     /* right: 43px; */
+    top: auto;
+    right: auto;
 }
 
 .icons-div table {
