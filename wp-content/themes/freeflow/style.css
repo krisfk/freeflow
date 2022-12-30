@@ -289,3 +289,8 @@ h2 {
     line-height: 1.2rem;
     color: #fff;
 }
+
+.footer-menu-ul li {
+    display: inline-block;
+    border-right: 1px solid #fff;
+}

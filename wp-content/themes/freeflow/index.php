@@ -333,9 +333,19 @@ get_header(); ?>
         <div class="row footer-small-word">
             <div class="col-12">
 
-                於新冠肺炎疫情期間拍攝之影像，在場人士均有嚴格遵從當時實行之防疫措施。 <br>
-                所有作品內容均由主辦單位/創作團隊獨立製作，並不代表本計劃及捐助機構之立場或意見。
+                <div>
+                    於新冠肺炎疫情期間拍攝之影像，在場人士均有嚴格遵從當時實行之防疫措施。 <br>
+                    所有作品內容均由主辦單位/創作團隊獨立製作，並不代表本計劃及捐助機構之立場或意見。
+                </div>
 
+                <div>
+                    <ul class="footer-menu-ul">
+                        <li>&copy; 2022 JC FreeFlow</li>
+                        <li><a href="javascript:void(0);">使用條款</a></li>
+                        <li><a href="javascript:void(0);">私隱政策</a></li>
+                    </ul>
+
+                </div>
             </div>
         </div>
 
