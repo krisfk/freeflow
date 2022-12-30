@@ -124,6 +124,14 @@ body {
     right: 43px;
 }
 
+.footer-div .icons-div {
+    font-size: 12px;
+    color: #fff;
+    /* position: absolute; */
+    /* top: 33px; */
+    /* right: 43px; */
+}
+
 .icons-div table {
     display: inline-block;
     margin-right: 2rem;
