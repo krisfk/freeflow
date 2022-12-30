@@ -110,13 +110,13 @@ get_header(); ?>
             <table class="float-end">
                 <tr>
 
-                    <td class="subtitle-td align-bottom">
+                    <td class="subtitle-td align-top">
                         妳 <br>
                         我<br>
                         同<br>
                         步
                     </td>
-                    <td> <img class="entry-img"
+                    <td class=" align-bottom"> <img class="entry-img"
                             src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/Asset-4@2x.png" alt="">
 
                     </td>
