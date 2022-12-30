@@ -305,3 +305,10 @@ h2 {
 .footer-menu-ul li:first-child {
     padding: 0rem 0.3rem 0 0;
 }
+
+.footer-menu-ul li::after {
+    display: block;
+    height: 1px;
+    width: 1px;
+    background: #fff;
+}
