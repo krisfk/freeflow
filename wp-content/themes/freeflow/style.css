@@ -293,4 +293,11 @@ h2 {
 .footer-menu-ul li {
     display: inline-block;
     border-right: 1px solid #fff;
+    float: left;
+}
+
+.footer-menu-ul li a {
+    text-decoration: none;
+    color: #fff;
+    padding: 0rem 0.3rem;
 }
