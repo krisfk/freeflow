@@ -307,7 +307,7 @@ h2 {
 }
 
 .footer-menu-ul li::after {
-    content: 'a';
+    content: '';
     position: absolute;
     top: 1px;
     bottom: 1px;
