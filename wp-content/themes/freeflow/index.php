@@ -266,7 +266,7 @@ get_header(); ?>
 <div class="footer-div mt-120px">
 
 
-    <div class="container pt-4">
+    <div class="container pt-4 pb-4">
 
 
 
