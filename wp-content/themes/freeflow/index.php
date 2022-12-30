@@ -268,26 +268,33 @@ get_header(); ?>
 
     <div class="container">
 
+
+
+
         <div class="row">
             <div class="col-6">
 
-                <table>
-                    <tr>
-                        <td>主辦機構</td>
-                    </tr>
-                    <tr>
-                        <td>
-                        <td><a href="javascript:void(0);"><img class="top-icon-img"
-                                    src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/top-icon-1.png"
-                                    alt=""></a><a href="javascript:void(0);"><img class="top-icon-img"
-                                    src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/top-icon-2.png"
-                                    alt=""></a><a href="javascript:void(0);"><img class="top-icon-img"
-                                    src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/top-icon-3.png"
-                                    alt=""></a>
-                        </td>
-                        </td>
-                    </tr>
-                </table>
+
+                <div class="icons-div">
+
+                    <table>
+                        <tr>
+                            <td>主辦機構</td>
+                        </tr>
+                        <tr>
+                            <td>
+                            <td><a href="javascript:void(0);"><img class="top-icon-img"
+                                        src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/top-icon-1.png"
+                                        alt=""></a><a href="javascript:void(0);"><img class="top-icon-img"
+                                        src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/top-icon-2.png"
+                                        alt=""></a><a href="javascript:void(0);"><img class="top-icon-img"
+                                        src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/top-icon-3.png"
+                                        alt=""></a>
+                            </td>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
 
             </div>
             <div class="col-6"></div>
