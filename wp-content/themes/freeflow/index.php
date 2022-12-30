@@ -266,12 +266,12 @@ get_header(); ?>
 <div class="footer-div mt-120px">
 
 
-    <div class="container mt-5">
+    <div class="container">
 
 
 
 
-        <div class="row">
+        <div class="row  mt-5">
             <div class="col-7">
 
 
