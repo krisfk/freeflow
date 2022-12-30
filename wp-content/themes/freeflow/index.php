@@ -262,6 +262,40 @@ get_header(); ?>
 
     </div>
 </div>
+
+<div class="footer-div mt-120px">
+
+
+    <div class="container">
+
+        <div class="row">
+            <div class="col-6">
+
+                <table>
+                    <tr>
+                        <td>主辦機構</td>
+                    </tr>
+                    <tr>
+                        <td>
+                        <td><a href="javascript:void(0);"><img class="top-icon-img"
+                                    src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/top-icon-1.png"
+                                    alt=""></a><a href="javascript:void(0);"><img class="top-icon-img"
+                                    src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/top-icon-2.png"
+                                    alt=""></a><a href="javascript:void(0);"><img class="top-icon-img"
+                                    src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/top-icon-3.png"
+                                    alt=""></a>
+                        </td>
+                        </td>
+                    </tr>
+                </table>
+
+            </div>
+            <div class="col-6"></div>
+        </div>
+
+    </div>
+
+</div>
 <!-- <img src="<?php echo get_template_directory_uri(); ?>/assets/images/curve.gif" alt=""> -->
 <?php
 get_footer();

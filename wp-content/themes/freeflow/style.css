@@ -248,3 +248,8 @@ h2 {
     background-size: 100% 100% !important;
     margin: 0 auto;
 }
+
+.footer-div {
+    background: #31d3cb;
+    color: #fff;
+}
