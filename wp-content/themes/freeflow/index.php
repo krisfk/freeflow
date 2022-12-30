@@ -314,7 +314,7 @@ get_header(); ?>
                 </div>
 
             </div>
-            <div class="col-5">
+            <div class="col-5 form-div">
 
 
                 <h3>與我們聯絡</h3>
