@@ -116,7 +116,7 @@ body {
     height: 60px;
 }
 
-.top-icons-div {
+.icons-div {
     font-size: 12px;
     color: #605ed3;
     position: absolute;
@@ -124,21 +124,21 @@ body {
     right: 43px;
 }
 
-.top-icons-div table {
+.icons-div table {
     display: inline-block;
     margin-right: 2rem;
 }
 
-.top-icons-div table:last-child {
+.icons-div table:last-child {
     margin: 0rem;
 }
 
-.top-icons-div table a {
+.icons-div table a {
     display: inline-block;
     margin-right: 1.5rem;
 }
 
-.top-icons-div table a:last-child {
+.icons-div table a:last-child {
     margin: 0rem;
 }
 
