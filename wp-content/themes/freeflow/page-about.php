@@ -77,7 +77,7 @@ get_header(); ?>
 
     <div class="row">
 
-        <div class="col-6">
+        <div class="col-8">
 
 
             <div>
@@ -104,7 +104,7 @@ get_header(); ?>
 
         </div>
 
-        <div class="col-6">
+        <div class="col-4">
 
 
             <table class="float-end">
