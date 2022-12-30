@@ -40,7 +40,7 @@ get_header(); ?>
 
             <table class="float-start">
                 <tr>
-                    <td> <img class="home-entry-img"
+                    <td> <img class="home-entry-img w-100"
                             src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/Asset-3@2x.png" alt="">
 
                     </td>
