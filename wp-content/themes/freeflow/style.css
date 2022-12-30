@@ -352,6 +352,7 @@ h2 {
     top: 45px;
     left: 45px;
     z-index: 200;
+    text-decoration: none;
 }
 
 .menu-btn-txt {
