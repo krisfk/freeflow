@@ -196,7 +196,9 @@ get_header(); ?>
 
                 <table>
                     <tr>
-                        <td><span class="green big">心理 - </span><span class="orange">從心出發</span></td>
+                        <td class="green big">心理 - </td>
+                        <td class="orange">從心出發</td>
+                        </td>
                     </tr>
                 </table>
                 <br>
