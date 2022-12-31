@@ -185,6 +185,65 @@ get_header(); ?>
 
 </div>
 
+<div class="container yellow-bg-div gx-0 mt-120px">
+
+    <div class="row">
+
+        <div class="col-6">
+
+
+            <div>
+                女性一直被歷史和社會因素所規範。尤其是年輕女性，面對社教化的壓力和家庭的期望，個人發展難免受到影響。 <br><br>
+
+                青少女正在面對來自不同方面的創傷性經歷，例如家庭、伴侶、社會。
+                這些經歷往往使她們；<br>
+                <div class="orange">
+                    ･ 自信心下降 <br>
+                    ･ 忽略了自我觀察，在意他人看法<br>
+                    ･ 自我認同較低，缺乏安全感<br>
+                    ･ 不懂如何應對衝突<br>
+                    ･ 情緒狀態處於抑鬱、恐懼、焦慮之中<br>
+                    ･ 經常否定自我價值，會覺得自己不值得被愛<br>
+                    ･ 渴望被聆聽、被看見、被關心，與人連結<br>
+                    ･ 承受著不同程度的壓力
+                </div>
+                <br>
+                因此，認識身體是學習為自己負責的開始，讓少女們找回自己的樣子。透過身體的勞動感受自己的存在，重新建立安全感與自在，回歸自己面對身體時的感覺。
+
+            </div>
+
+
+
+        </div>
+
+        <div class="col-6">
+
+
+            <table class="float-end">
+                <tr>
+
+                    <td class="subtitle-td align-top">
+                        妳 <br>
+                        我<br>
+                        同<br>
+                        步
+                    </td>
+                    <td class=" align-bottom"> <img class="entry-img"
+                            src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/Asset-4@2x.png" alt="">
+
+                    </td>
+                </tr>
+            </table>
+
+        </div>
+
+
+    </div>
+
+</div>
+
+
+
 <img class="mt-120px fake-video" src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/fake-video-1-scaled.jpg"
     alt="">
 
