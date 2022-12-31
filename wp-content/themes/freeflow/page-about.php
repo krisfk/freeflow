@@ -194,10 +194,10 @@ get_header(); ?>
 
             <div>
 
-                心理 - <span class="orange">從心出發</span> <br>
+                <span class="green big">心理 - </span><span class="orange">從心出發</span> <br>
                 藉著「自主・流」，讓每一位少女都有一個機會去體驗律動，播種有關身心連結的種子，讓她們發現原來學習也可以沒有被打分數的壓力。在面對生活壓力與困難時，能夠有一個更積極，更成熟的態度。
                 <br><br>
-                生理 - <span class="orange">從身出發</span><br>
+                <span class="green big">生理 - </span><span class="orange">從身出發</span><br>
                 身體是個直接的表達方式，與生活息息相關。人們可以通過覺察身體反應，例如壓力、僵硬、疲累、傷害，得知每一刻的狀態。透過身體律動，放開曾經繃緊的身體，讓身體重新拾回快樂的因子，利用原本放在生活的精力回到自身，享受和自己身體對話的時間。
             </div>
 
