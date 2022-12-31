@@ -229,7 +229,7 @@ get_header(); ?>
                         步
                     </td>
                     <td class=" align-bottom"> <img class="entry-img"
-                            src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/Asset-4@2x.png" alt="">
+                            src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/Asset-2@2x.png" alt="">
 
                     </td>
                 </tr>
