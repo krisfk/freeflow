@@ -142,14 +142,28 @@ get_header(); ?>
             <table class="float-start">
                 <tr>
                     <td> <img class="entry-img w-100"
-                            src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/Asset-3@2x.png" alt="">
+                            src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/Asset-1@2x.png" alt="">
 
                     </td>
                     <td class="subtitle-td align-top">
-                        計 <br>
-                        劃<br>
-                        背<br>
-                        景
+
+
+                        <table>
+                            <tr>
+                                <td>
+                                    青 <br>
+                                    少<br>
+                                    女
+
+                                </td>
+                                <td> 如 <br>
+                                    何<br>
+                                    連<br>
+                                    接</td>
+                            </tr>
+                        </table>
+
+
                     </td>
                 </tr>
             </table>
