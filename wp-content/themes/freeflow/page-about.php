@@ -196,7 +196,7 @@ get_header(); ?>
 
                 <table class="mb-4">
                     <tr>
-                        <td class="green big">心理 - </td>
+                        <td class="green big pe-3">心理 - </td>
                         <td class="orange">從心出發</td>
                         </td>
                     </tr>
@@ -206,7 +206,7 @@ get_header(); ?>
                 <br><br>
                 <table class="mb-4">
                     <tr>
-                        <td class="green big">生理 - </td>
+                        <td class="green big pe-3">生理 - </td>
                         <td class="orange">從身出發</td>
 
                     </tr>
