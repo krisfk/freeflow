@@ -206,7 +206,9 @@ get_header(); ?>
                 <br><br>
                 <table>
                     <tr>
-                        <td><span class="green big">生理 - </span><span class="orange">從身出發</span></td>
+                        <td class="green big">生理 - </td>
+                        <td class="orange">從身出發</td>
+
                     </tr>
                 </table>
                 <br>
