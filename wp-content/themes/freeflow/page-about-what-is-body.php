@@ -76,6 +76,50 @@ get_header(); ?>
 
 </div>
 
+
+<div class="container yellow-bg-div gx-0 mt-120px">
+
+    <div class="row">
+
+        <div class="col-7">
+
+
+            <h2 class="purple">身體律動課程</h2>
+
+            <div class="mt-5">
+                雲門舞集舞蹈教室在1998年正式成立，是從全台灣第一個職業舞團雲門舞集誕生。創辦的理念是讓更多來自任何生活背景的人都能夠透過雲門教室，享受動身體的快樂。用身體去v感受，去學習，去成長，是舞蹈教室課程的目標和希望。與生俱來的身體韻律，是每個人最獨特而寶貴的資產。雲門開創出「生活律動」教學系統，協助每個人從肢體的舞動中認識自己。
+            </div>
+
+
+            <a href="javascript:void(0);" class="home-entry-link mt-4">更多關於雲門舞集舞蹈教室的查詢</a>
+
+        </div>
+        <div class="col-5">
+
+
+            <table class="float-start">
+                <tr>
+                    <td> <img class="entry-img w-100"
+                            src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-2@2x.png" alt="">
+
+                    </td>
+                    <td class="subtitle-td align-top">
+
+                    </td>
+                </tr>
+            </table>
+
+        </div>
+
+
+    </div>
+
+</div>
+
+
+
+
+
 <div class="container yellow-bg-div gx-0 mt-120px">
 
     <div class="row">
