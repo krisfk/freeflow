@@ -432,3 +432,7 @@ h2 {
 .h2-ul li {
     list-style-type: none;
 }
+
+.h2-ul li h2 {
+    display: inline-block;
+}
