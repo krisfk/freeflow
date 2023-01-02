@@ -436,3 +436,10 @@ h2 {
 .h2-ul li h2 {
     display: inline-block;
 }
+
+.purple-bg {
+    background: #605ed3;
+    color: #fff;
+}
+
+.round {}
