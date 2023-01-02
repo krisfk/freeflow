@@ -136,7 +136,7 @@ get_header(); ?>
 
     <div class="row">
 
-        <div class="col-6">
+        <div class="col-12">
 
 
             <div>
@@ -163,26 +163,6 @@ get_header(); ?>
 
         </div>
 
-        <div class="col-6">
-
-
-            <table class="float-end">
-                <tr>
-
-                    <td class="subtitle-td align-top">
-                        妳 <br>
-                        我<br>
-                        同<br>
-                        步
-                    </td>
-                    <td class=" align-bottom"> <img class="entry-img"
-                            src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/Asset-4@2x.png" alt="">
-
-                    </td>
-                </tr>
-            </table>
-
-        </div>
 
 
     </div>
