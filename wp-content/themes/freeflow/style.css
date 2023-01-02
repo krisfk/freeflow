@@ -428,3 +428,7 @@ h2 {
 .purple {
     color: #605ed3;
 }
+
+.h2-ul li {
+    list-style-type: none;
+}

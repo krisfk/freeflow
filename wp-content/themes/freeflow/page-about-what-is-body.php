@@ -83,15 +83,15 @@ get_header(); ?>
 
         <div class="col-7">
 
-            <ul class="p-0 m-0">
+            <ul class="p-0 m-0 h2-ul">
                 <li>
-                    <h2>自主</h2>
+                    <h2 class="purple-bg round">自主</h2>
                 </li>
                 <li>
-                    <h2>親密界線</h2>
+                    <h2 class="purple-bg round">親密界線</h2>
                 </li>
                 <li>
-                    <h2>具身化</h2>
+                    <h2 class="purple-bg round">具身化</h2>
                 </li>
             </ul>
 
