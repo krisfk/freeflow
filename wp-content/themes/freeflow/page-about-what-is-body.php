@@ -270,14 +270,11 @@ get_header(); ?>
                 <div class="col-6"><img class="w-100"
                         src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-6@2x.png" alt=""></div>
                 <div class="col-6"> <span class="green middle-size">
-
-                        沒有標準框架 <br>
-                        創造一套自己的動作
-
-
+                        重視當下體驗 <br>
+                        解除大惱疲勞
                     </span>
                     <br>
-                    在身體律動課裡，每個人都是不一樣的。沒有一定的標準，亦不需要別人的批判或認可，而是去學習發掘內在的經驗。
+                    課程不會教授拉筋、舞蹈技巧等，參加者可按當天狀態及能力參與課程，在沒有壓力情況下自在地動身體，釋放當日的煩惱。
                 </div>
             </div>
 
