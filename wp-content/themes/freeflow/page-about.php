@@ -294,7 +294,7 @@ get_header(); ?>
         </div>
         <div class="col-4 text-center">
 
-            <h2 class="orange">想知更多？</h2>
+            <h2 class="orange">常見問題</h2>
 
         </div>
     </div>
