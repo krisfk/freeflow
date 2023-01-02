@@ -329,58 +329,6 @@ get_header(); ?>
 
 
 
-<div class="container yellow-bg-div gx-0 mt-120px">
-
-    <div class="row">
-
-        <div class="col-5">
-
-
-            <table class="float-start">
-                <tr>
-                    <td> <img class="entry-img w-100"
-                            src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/Asset-1@2x.png" alt="">
-
-                    </td>
-                    <td class="subtitle-td align-top">
-
-
-                        <table>
-                            <tr>
-                                <td class="align-top">
-                                    青 <br>
-                                    少<br>
-                                    女
-
-                                </td>
-                                <td class="align-top"> 如 <br>
-                                    何<br>
-                                    連<br>
-                                    接</td>
-                            </tr>
-                        </table>
-
-
-                    </td>
-                </tr>
-            </table>
-
-        </div>
-        <div class="col-7">
-
-            <div>
-                我們知道身與心同時並存，身體活動、心理發展互相影響。透過刻意設計的活動主題，青少女在參與身體律動計劃的課程時，一方面建立身體的掌握能力，同時建立起心理的正面調整。
-
-            </div>
-
-
-            <!-- <a href="javascript:void(0);" class="home-entry-link mt-4">更多課程資訊</a> -->
-
-        </div>
-
-    </div>
-
-</div>
 
 <div class="container yellow-bg-div gx-0 mt-120px">
 
