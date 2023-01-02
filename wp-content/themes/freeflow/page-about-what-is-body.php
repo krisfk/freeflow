@@ -97,7 +97,7 @@ get_header(); ?>
         <div class="col-5">
 
 
-            <table class="float-start">
+            <table class="float-end">
                 <tr>
                     <td> <img class="entry-img w-100"
                             src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-2@2x.png" alt="">
