@@ -52,10 +52,7 @@ get_header(); ?>
 
                     </td>
                     <td class="subtitle-td align-top">
-                        計 <br>
-                        劃<br>
-                        背<br>
-                        景
+
                     </td>
                 </tr>
             </table>
