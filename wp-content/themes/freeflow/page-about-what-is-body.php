@@ -243,6 +243,25 @@ get_header(); ?>
         </div>
 
 
+        <div class="col-6 mt-4">
+
+
+            <div class="row align-items-center">
+                <div class="col-6"><img class="w-100"
+                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-6@2x.png" alt=""></div>
+                <div class="col-6"> <span class="green middle-size">
+                        先「靜」後「動」
+
+                    </span>
+                    <br>
+                    除了外在的「動」，每堂課導師會先進行暖身延展，啟動身體的能量，其後進入主題活動，探索與認識自己。
+                </div>
+            </div>
+
+        </div>
+
+
+
         <!-- <div class="col-6 mt-4">
             <table>
                 <tr>
