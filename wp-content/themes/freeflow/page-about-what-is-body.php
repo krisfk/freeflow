@@ -68,7 +68,7 @@ get_header(); ?>
             </div>
 
 
-            <a href="javascript:void(0);" class="home-entry-link mt-4">更多課程資訊</a>
+            <a href="javascript:void(0);" class="home-entry-link mt-4">更多關於雲門舞集舞蹈教室的查詢</a>
 
         </div>
 
