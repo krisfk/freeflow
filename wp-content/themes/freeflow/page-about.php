@@ -29,6 +29,9 @@ get_header(); ?>
 
 
 
+    <a href="javascript:void(0);" class="freeflow-logo-a"><img
+            src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/freeflow-logo.png" alt=""></a>
+
 </div>
 
 <div class="container yellow-bg-div gx-0 mt-120px">
