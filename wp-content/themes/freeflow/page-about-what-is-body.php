@@ -174,7 +174,7 @@ get_header(); ?>
                 <tr>
                     <td><img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-6@2x.png"
                             alt=""></td>
-                    <td class="ps-4">
+                    <td class="ps-5">
 
                         <span class="green middle-size"> 人人平等</span>
                         <br>
