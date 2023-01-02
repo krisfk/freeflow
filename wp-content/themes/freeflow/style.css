@@ -435,6 +435,8 @@ h2 {
 
 .h2-ul li h2 {
     display: inline-block;
+    border-radius: 3rem;
+    padding: 1rem 2rem;
 }
 
 .purple-bg {
