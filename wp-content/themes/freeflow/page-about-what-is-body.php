@@ -25,7 +25,8 @@ get_header(); ?>
 
 
 
-<div class="banner-div">
+<div class="banner-div"
+    style="background:url(http://64.227.13.14/freeflow/wp-content/uploads/2023/01/what-is-body-banner-scaled.jpg)">
 
 
 
