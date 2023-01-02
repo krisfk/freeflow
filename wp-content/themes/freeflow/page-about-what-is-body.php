@@ -169,7 +169,7 @@ get_header(); ?>
             <h2 class="purple">律動課程特色</h2>
         </div>
 
-        <div class="col-6">
+        <div class="col-6 mt-4">
             <table>
                 <tr>
                     <td><img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-6@2x.png"
