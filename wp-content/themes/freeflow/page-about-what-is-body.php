@@ -173,9 +173,9 @@ get_header(); ?>
 
 
             <div class="row">
-                <div class="col-4"><img class="w-100"
+                <div class="col-6"><img class="w-100"
                         src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-6@2x.png" alt=""></div>
-                <div class="col-8"> <span class="green middle-size"> 人人平等</span>
+                <div class="col-6"> <span class="green middle-size"> 人人平等</span>
                     <br>
                     參加者不會被視為病患，都不需要被治療。不把人標籤化，所有人一樣的平等。
                 </div>
