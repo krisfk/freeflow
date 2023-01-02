@@ -141,6 +141,7 @@ get_header(); ?>
 
             <h2 class="purple">律動課程框架</h2>
 
+            <img src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-3@2x.png" alt="">
         </div>
 
 
