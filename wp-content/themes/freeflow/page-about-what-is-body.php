@@ -81,7 +81,7 @@ get_header(); ?>
 
     <div class="row">
 
-        <div class="col-7">
+        <div class="col-7 position-relative">
 
             <h2 class="position-absolute top-0 end-0 orange">三大元素</h2>
 
