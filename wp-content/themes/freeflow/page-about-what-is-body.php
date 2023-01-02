@@ -172,7 +172,7 @@ get_header(); ?>
         <div class="col-6 mt-4">
 
 
-            <div class="row">
+            <div class="row align-items-center">
                 <div class="col-6"><img class="w-100"
                         src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-6@2x.png" alt=""></div>
                 <div class="col-6"> <span class="green middle-size"> 人人平等</span>
