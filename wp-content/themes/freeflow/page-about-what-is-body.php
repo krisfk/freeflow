@@ -204,6 +204,26 @@ get_header(); ?>
             </table>
         </div>
 
+        <div class="col-6 mt-4">
+            <table>
+                <tr>
+                    <td><img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-6@2x.png"
+                            alt=""></td>
+                    <td class="ps-3">
+
+                        <span class="green middle-size">
+                            課程具生活化 <br>
+                            引發興趣主動參與
+
+
+                        </span>
+                        <br>
+                        不需任何舞蹈經驗，我們相信我們天生便懂得律動。導師會引導參加者從生活經驗擷取身體動作元素，透過多樣的視野與方法，讓參加者純粹享受活動身體的樂趣。
+                    </td>
+                </tr>
+            </table>
+        </div>
+
 
     </div>
 
