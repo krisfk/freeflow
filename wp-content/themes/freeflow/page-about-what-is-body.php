@@ -161,6 +161,38 @@ get_header(); ?>
 </div>
 
 
+<div class="container yellow-bg-div gx-0 mt-120px">
+
+    <div class="row">
+
+        <div class="col-12 position-relative">
+            <h2 class="purple">律動課程特色</h2>
+        </div>
+
+        <div class="col-6">
+            <table>
+                <tr>
+                    <td><img src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-6@2x.png" alt=""></td>
+                    <td>
+
+                        <span class="green middle-size"> 人人平等</span>
+                        <br>
+                        參加者不會被視為病患，都不需要被治療。不把人標籤化，所有人一樣的平等。
+
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="col-6"></div>
+
+
+
+    </div>
+
+</div>
+
+
+
 
 <div class="container yellow-bg-div gx-0 mt-120px">
 
