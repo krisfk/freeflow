@@ -204,6 +204,48 @@ get_header(); ?>
         </div>
 
 
+        <div class="col-6 mt-4">
+
+
+            <div class="row align-items-center">
+                <div class="col-6"><img class="w-100"
+                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-6@2x.png" alt=""></div>
+                <div class="col-6"> <span class="green middle-size">
+
+                        沒有標準框架 <br>
+                        創造一套自己的動作
+
+
+                    </span>
+                    <br>
+                    在身體律動課裡，每個人都是不一樣的。沒有一定的標準，亦不需要別人的批判或認可，而是去學習發掘內在的經驗。
+                </div>
+            </div>
+
+        </div>
+
+
+        <div class="col-6 mt-4">
+
+
+            <div class="row align-items-center">
+                <div class="col-6"><img class="w-100"
+                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-6@2x.png" alt=""></div>
+                <div class="col-6"> <span class="green middle-size">
+
+                        沒有標準框架 <br>
+                        創造一套自己的動作
+
+
+                    </span>
+                    <br>
+                    在身體律動課裡，每個人都是不一樣的。沒有一定的標準，亦不需要別人的批判或認可，而是去學習發掘內在的經驗。
+                </div>
+            </div>
+
+        </div>
+
+
         <!-- <div class="col-6 mt-4">
             <table>
                 <tr>
