@@ -83,6 +83,8 @@ get_header(); ?>
 
         <div class="col-7">
 
+            <h2 class="position-absolute top right">三大元素</h2>
+
             <ul class="p-0 m-0 h2-ul">
                 <li>
                     <h2 class="purple-bg round">自主</h2>
