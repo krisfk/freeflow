@@ -261,6 +261,25 @@ get_header(); ?>
         </div>
 
 
+        <div class="col-6 mt-4">
+
+
+            <div class="row align-items-center">
+                <div class="col-6"><img class="w-100"
+                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-6@2x.png" alt=""></div>
+                <div class="col-6"> <span class="green middle-size">
+                        從個人到群體
+
+
+                    </span>
+                    <br>
+                    課程內容中不但有個人自我表達的部分，還有支撐、給予、合作、平衡、形狀等身體練習，需要參加者們互相合作，從中發展更多肢互動的可能性，檢視自己與他人的關係。
+                </div>
+            </div>
+
+        </div>
+
+
 
         <!-- <div class="col-6 mt-4">
             <table>
