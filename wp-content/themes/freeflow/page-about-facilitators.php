@@ -199,6 +199,34 @@ get_header(); ?>
     </div>
 
 
+    <div class="row align-items-center mt-5">
+
+
+        <div class="col-6">
+
+
+
+            <h2 class="orange">
+                嚴單鳳
+            </h2>
+            現為自由身舞蹈工作者，畢業於台灣中國文化大學舞蹈系，主修現代舞。畢業後任教中小學舞蹈班，致力於兒童及青少年專業舞蹈的培育，同時亦與多個舞團及不同編舞家合作演出。2011年7月加入東華三院「敢動！」計劃。她希望藉著舞蹈，繼續身體的旅程，並將動身體的快樂，和不同的年齡層、不同的族群分享！
+
+        </div>
+
+
+
+        <div class="col-6">
+            <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-13@2x.png" alt="">
+        </div>
+
+
+
+
+    </div>
+
+
+
+
 
 
 
