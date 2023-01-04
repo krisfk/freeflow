@@ -45,7 +45,7 @@ get_header(); ?>
             律動導師</h2>
     </div>
 
-    <div class="row">
+    <div class="row align-items-center">
         <div class="col-6">
 
 
