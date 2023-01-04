@@ -41,7 +41,7 @@ get_header(); ?>
 <div class="container yellow-bg-div gx-0 mt-120px">
 
     <div>
-        <h2>認識我們的 <br>
+        <h2 class="purple">認識我們的 <br>
             律動導師</h2>
     </div>
 
