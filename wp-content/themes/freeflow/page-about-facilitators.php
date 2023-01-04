@@ -45,6 +45,15 @@ get_header(); ?>
             律動導師</h2>
     </div>
 
+    <div class="row">
+        <div class="col-6">
+
+
+            <img src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-7@2x.png" alt="">
+        </div>
+        <div class="col-6"></div>
+    </div>
+
 </div>
 
 
