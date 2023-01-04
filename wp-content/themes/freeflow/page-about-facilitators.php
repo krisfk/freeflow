@@ -174,6 +174,32 @@ get_header(); ?>
     </div>
 
 
+    <div class="row align-items-center mt-5">
+
+
+
+        <div class="col-6">
+            <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-13@2x.png" alt="">
+        </div>
+        <div class="col-6">
+
+
+
+
+            <h2 class="orange">
+                徐茵祈
+            </h2>
+            徐茵祈於香港演藝學院取得（榮譽）學士學位，主修現代舞、舞蹈教育及編舞課程。畢業後曾與多間學校及團體合作。2010至2022年間為東華三院與台灣雲門舞蹈教室協辦之「敢動！」計劃擔任輔導老師，。
+
+        </div>
+
+
+
+
+    </div>
+
+
+
 
 
 
