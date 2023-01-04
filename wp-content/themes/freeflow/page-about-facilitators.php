@@ -51,7 +51,19 @@ get_header(); ?>
 
             <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-7@2x.png" alt="">
         </div>
-        <div class="col-6"></div>
+        <div class="col-6">
+
+            <h2 class="orange">何蕤渟 (河馬老師)</h2>
+
+
+            現為自由身教育藝術家。 <br>
+            畢業於香港大學教育碩士及香港演藝學院藝術學士學位(現代舞及舞蹈教學)。<br>
+            現任教於香港中文大學、香港演藝學院及香港都會大學，並為稻田故事工作室、稻田身體劇場藝術總監。<br>
+            其人生工作是相信藝術教育，能使人成為人。<br>
+            其人生使命是用心將舞蹈律動與人連結，打開每個人的一扇窗。<br>
+
+
+        </div>
     </div>
 
 </div>
