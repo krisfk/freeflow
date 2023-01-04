@@ -107,6 +107,38 @@ get_header(); ?>
     </div>
 
 
+
+    <div class="row align-items-center mt-5">
+
+        <div class="col-6">
+
+
+
+
+
+            <h2 class="orange">
+                黃寶娜
+            </h2>
+
+            黃寶娜是一位香港舞蹈創作者、表演者以及教育工作者。2019 年畢業於中國文化大學藝術學院舞蹈系(台北市)，主修現代舞。
+            寶娜期望用舞蹈的方式不斷發掘自己與身體的關係。
+
+
+
+        </div>
+
+
+        <div class="col-6">
+
+
+            <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-11@2x.png" alt="">
+        </div>
+
+
+    </div>
+
+
+
 </div>
 
 
