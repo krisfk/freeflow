@@ -90,17 +90,16 @@ get_header(); ?>
         <div class="col-6">
 
 
-            <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-8@2x.png" alt="">
+            <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-9@2x.png" alt="">
         </div>
         <div class="col-6">
 
-            <h2 class="orange">梁德望</h2>
 
+            <h2 class="orange">
 
-
-
-            梁德望成為全職舞蹈導師13年多，第一次讓她感受到甚麼是活在當下的就是跳舞。跳舞及音樂讓她的人生有很大的改變，啟發了她對於生命的意義，學會如何愛上自己的全部。<br>
-            梁德望相信生命感染生命， 感恩能用自身分享，希望大家能夠自在地活在當下 !
+                李籽諾
+            </h2>
+            李籽諾是一位兼職舞蹈工作者。她認為忙碌的生活裡總是讓大家忘記如何去愛或面對自己。透過簡單、輕鬆的律動堂，希望能和大家一起重新檢視、擁抱自己的不同情緒。透過觀察自己的身體，更享受生活的每一個步伐。
 
         </div>
 
