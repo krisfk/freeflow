@@ -25,7 +25,7 @@ get_header(); ?>
 
 
 
-<div class="banner-div" style="background:url(http://64.227.13.14/freeflow/wp-content/uploads/2023/01/what-is-body-banner-scaled.jpg);background-size: cover;
+<div class="banner-div" style="background:url(http://64.227.13.14/freeflow/wp-content/uploads/2023/01/facilitators-banner-scaled.jpg);background-size: cover;
     background-position: center center;
     display: block;
     width: 100%;
