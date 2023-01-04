@@ -141,39 +141,38 @@ get_header(); ?>
 
 
     <div class="row align-items-center mt-5">
-
-
         <div class="col-6">
-
-
             <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-12@2x.png" alt="">
         </div>
-
-
         <div class="col-6">
-
-
-
-
-
-
             <h2 class="orange">
 
                 丘思詠
             </h2>
-
             自由身舞蹈工作者。從紐約習舞回港後，投入於舞蹈教育及書寫工作。為多所學校及團體組織進行舞蹈教育活動，把舞蹈的知識及快樂帶給不同層面的朋友。合作的團體包括東華三院、香港青年協會、香港教育大學，及康樂及文化事務署等。
+        </div>
+    </div>
 
 
+
+    <div class="row align-items-center mt-5">
+        <div class="col-6">
+
+
+            <h2 class="orange">
+                江瑩
+            </h2>
+            江瑩自四歲開始習舞，於廣東舞蹈學校完成現代舞大專班，後赴香港演藝學院修讀現代舞。2016年至2021年期間為東華三院「敢動！」計劃的全職身體律動老師。近年為自由舞者，教授身體律動和中國舞。
 
         </div>
 
-
-
-
+        <div class="col-6">
+            <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-13@2x.png" alt="">
+        </div>
 
 
     </div>
+
 
 
 
