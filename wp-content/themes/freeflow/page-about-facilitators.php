@@ -45,7 +45,7 @@ get_header(); ?>
             律動導師</h2>
     </div>
 
-    <div class="row align-items-center mt-5">
+    <div class="row align-items-center mt-5 gx-5">
         <div class="col-6">
 
 
@@ -65,7 +65,7 @@ get_header(); ?>
 
         </div>
     </div>
-    <div class="row align-items-center mt-5">
+    <div class="row align-items-center mt-5 gx-5">
         <div class="col-6">
 
             <h2 class="orange">梁德望</h2>
@@ -86,7 +86,7 @@ get_header(); ?>
     </div>
 
 
-    <div class="row align-items-center mt-5">
+    <div class="row align-items-center mt-5 gx-5">
         <div class="col-6">
 
 
@@ -108,7 +108,7 @@ get_header(); ?>
 
 
 
-    <div class="row align-items-center mt-5">
+    <div class="row align-items-center mt-5 gx-5">
 
         <div class="col-6">
 
@@ -140,7 +140,7 @@ get_header(); ?>
     </div>
 
 
-    <div class="row align-items-center mt-5">
+    <div class="row align-items-center mt-5 gx-5">
         <div class="col-6">
             <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-12@2x.png" alt="">
         </div>
@@ -155,7 +155,7 @@ get_header(); ?>
 
 
 
-    <div class="row align-items-center mt-5">
+    <div class="row align-items-center mt-5 gx-5">
         <div class="col-6">
 
 
@@ -174,7 +174,7 @@ get_header(); ?>
     </div>
 
 
-    <div class="row align-items-center mt-5">
+    <div class="row align-items-center mt-5 gx-5">
 
 
 
@@ -199,7 +199,7 @@ get_header(); ?>
     </div>
 
 
-    <div class="row align-items-center mt-5">
+    <div class="row align-items-center mt-5 gx-5">
 
 
         <div class="col-6">
