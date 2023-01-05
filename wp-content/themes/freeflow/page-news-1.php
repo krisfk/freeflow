@@ -62,6 +62,26 @@ get_header(); ?>
 
 
 
+<div class="container yellow-bg-div gx-0 mt-60px">
+
+
+    <h2 class="purple">香水製作工作坊</h2>
+
+    <div class="mt-4">可調製屬於自己的香水, 找尋自己的味道
+    </div>
+
+    <table class="news-tpl-1-img-table">
+        <tr>
+            <td><img src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-10@2x.png" alt=""></td>
+            <td><img src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-9@2x-1.png" alt=""></td>
+        </tr>
+    </table>
+
+</div>
+
+
+
+
 
 
 
