@@ -45,6 +45,9 @@ get_header(); ?>
 
 
     <h2 class="purple">藝術日營《身體我自在》</h2>
+
+    <div class="mt-4">在今年Art Camp《身體我自在》，我們舉辦了一系列的藝術活動，讓來自不同機構的青少女聚一聚，一同體驗及交流。她們當日製作的成品亦於該年度的展覽中展出。
+    </div>
     <div class="row">
 
         <div class="col-5">
