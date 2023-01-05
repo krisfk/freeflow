@@ -101,6 +101,24 @@ get_header(); ?>
 
 
 
+<div class="container yellow-bg-div gx-0 mt-60px">
+
+
+    <h2 class="purple">身體藝術工作坊 x 3間NGOs</h2>
+
+    <div class="mt-4">盆景 / 身體造型蠟燭 / 酒精墨水畫 / 新式書法
+    </div>
+
+    <table class="news-tpl-1-img-table">
+        <tr>
+            <td><img src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-14@2x.png" alt=""></td>
+            <td><img src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-13@2x-1.png" alt=""></td>
+        </tr>
+    </table>
+
+</div>
+
+
 
 
 
