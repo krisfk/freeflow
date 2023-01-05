@@ -81,6 +81,26 @@ get_header(); ?>
 
 
 
+<div class="container yellow-bg-div gx-0 mt-120px">
+
+
+    <h2 class="purple">Love Tee Styling with Adele Leung</h2>
+
+    <div class="mt-4">由形象顧問&造型師Adele指導，學習如何從穿搭方面找到自己的獨特性
+    </div>
+
+    <table class="news-tpl-1-img-table">
+        <tr>
+            <td><img src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-11@2x-1.png" alt=""></td>
+            <td><img src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-12@2x-1.png" alt=""></td>
+        </tr>
+    </table>
+
+</div>
+
+
+
+
 
 
 
