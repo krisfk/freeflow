@@ -227,7 +227,7 @@ body {
     top: 0;
 }
 
-.news .curve-bg {
+.page-news .curve-bg {
     background: url(./assets/images/news-curve.png);
     background-size: 100% auto;
     position: absolute;
