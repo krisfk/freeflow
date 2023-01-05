@@ -72,8 +72,8 @@ get_header(); ?>
 
     <table class="news-tpl-1-img-table">
         <tr>
-            <td><img src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-10@2x.png" alt=""></td>
-            <td><img src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-9@2x-1.png" alt=""></td>
+            <td><img src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-9@2x.png" alt=""></td>
+            <td><img src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-10@2x-1.png" alt=""></td>
         </tr>
     </table>
 
