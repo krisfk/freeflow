@@ -44,6 +44,7 @@ get_header(); ?>
 <div class="container yellow-bg-div gx-0 mt-120px">
 
 
+    <h2 class="purple">藝術日營《身體我自在》</h2>
     <div class="row">
 
         <div class="col-5">
