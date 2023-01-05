@@ -471,3 +471,7 @@ h2 {
     background-size: contain;
     z-index: 100;
 }
+
+.news-tpl-1-img-table img {
+    max-height: 400px;
+}
