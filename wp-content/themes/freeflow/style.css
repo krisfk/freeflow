@@ -206,6 +206,10 @@ body {
     margin-top: 120px;
 }
 
+.mt-60px {
+    margin-top: 60px;
+}
+
 .fake-video {
     width: 100%;
     height: auto;
