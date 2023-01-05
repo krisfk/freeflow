@@ -25,12 +25,19 @@ get_header(); ?>
 
 
 
-<div class="banner-div">
+
+<div class="banner-div" style="background:url(http://64.227.13.14/freeflow/wp-content/uploads/2023/01/news-banner-1-scaled.jpg);background-size: cover;
+    background-position: center center;
+    display: block;
+    width: 100%;
+    height: 860px;">
+
+
 
 
 
     <a href="javascript:void(0);" class="freeflow-logo-a"><img
-            src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/news-banner-1-scaled.jpg" alt=""></a>
+            src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/freeflow-logo.png" alt=""></a>
 
 </div>
 
