@@ -48,26 +48,13 @@ get_header(); ?>
 
     <div class="mt-4">在今年Art Camp《身體我自在》，我們舉辦了一系列的藝術活動，讓來自不同機構的青少女聚一聚，一同體驗及交流。她們當日製作的成品亦於該年度的展覽中展出。
     </div>
-    <div class="row">
 
-        <div class="col-3">
-
-
-            <img class="w-100" style="max-height:400px; width:auto;"
-                src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-7@2x-1.png" alt="">
-
-
-
-        </div>
-        <div class="col-9">
-
-            <img class="w-100" style="max-height:400px; width:auto;"
-                src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-8@2x-1.png" alt="">
-
-
-        </div>
-
-    </div>
+    <table>
+        <tr>
+            <td><img src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-7@2x-1.png" alt=""></td>
+            <td><img src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-8@2x-1.png" alt=""></td>
+        </tr>
+    </table>
 
 </div>
 
