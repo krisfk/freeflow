@@ -40,10 +40,7 @@ get_header(); ?>
 
 <div class="container yellow-bg-div gx-0 mt-120px">
 
-    <div>
-        <h2 class="purple">認識我們的 <br>
-            律動導師</h2>
-    </div>
+
 
     <div class="row align-items-center mt-5 gx-5">
         <div class="col-6">
@@ -53,14 +50,17 @@ get_header(); ?>
         </div>
         <div class="col-6">
 
-            <h2 class="orange">何蕤渟 (河馬老師)</h2>
+            <h2 class="orange">身體我自在
+            </h2>
 
 
-            現為自由身教育藝術家。 <br>
-            畢業於香港大學教育碩士及香港演藝學院藝術學士學位(現代舞及舞蹈教學)。<br>
-            現任教於香港中文大學、香港演藝學院及香港都會大學，並為稻田故事工作室、稻田身體劇場藝術總監。<br>
-            其人生工作是相信藝術教育，能使人成為人。<br>
-            其人生使命是用心將舞蹈律動與人連結，打開每個人的一扇窗。<br>
+            活動日期: <br>
+            2022年7月10日<br>
+            時間:<br>
+            11:00-18:00<br>
+            地點:<br>
+            鰂魚涌WLAB
+
 
 
         </div>
