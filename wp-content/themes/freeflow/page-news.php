@@ -66,7 +66,10 @@ get_header(); ?>
         </div>
     </div>
 
+</div>
 
+
+<div class="container yellow-bg-div gx-0 mt-120px">
 
     <div class="row align-items-center mt-5 gx-5">
         <div class="col-6">
@@ -99,6 +102,7 @@ get_header(); ?>
     </div>
 
 
+</div>
 
 
 
