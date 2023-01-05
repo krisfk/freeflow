@@ -46,9 +46,9 @@ get_header(); ?>
         <div class="col-6">
 
 
-            <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-7@2x.png" alt="">
+            <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-4@2x.png" alt="">
         </div>
-        <div class="col-6">
+        <div class="col-6 text-end">
 
             <h2 class="orange">身體我自在
             </h2>
@@ -65,6 +65,39 @@ get_header(); ?>
 
         </div>
     </div>
+
+
+
+    <div class="row align-items-center mt-5 gx-5">
+        <div class="col-6">
+
+
+            <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-5@2x-1.png" alt="">
+        </div>
+        <div class="col-6 text-end">
+
+
+
+            <h2 class="orange">
+                我動故我在 <br>
+                I Move<br>
+                Therefore I Am
+
+            </h2>
+
+            展覽日期:
+            2022年9月3－4日
+            展覽時間:
+            12:00－19:30 (六), 12:00－18:00 (日)
+            地點:
+            JCCAC賽馬會創意藝術中心L1藝廊
+
+
+
+
+        </div>
+    </div>
+
 
 
 
