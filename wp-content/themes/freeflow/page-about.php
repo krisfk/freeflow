@@ -228,10 +228,15 @@ get_header(); ?>
                 <tr>
 
                     <td class="subtitle-td align-top">
-                        妳 <br>
-                        我<br>
-                        同<br>
-                        步
+
+                        <article class="vertical-article ">
+                            <h2 class="purple">
+
+                                和自己的身體 <br>
+                                成為最好的朋友
+                            </h2>
+                        </article>
+
                     </td>
                     <td class=" align-bottom"> <img class="entry-img"
                             src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/Asset-2@2x.png" alt="">
