@@ -117,10 +117,13 @@ get_header(); ?>
                 <tr>
 
                     <td class="subtitle-td align-top">
-                        妳 <br>
-                        我<br>
-                        同<br>
-                        步
+
+
+                        <article class="vertical-article ">
+                            <h2 class="purple">妳我同步
+                            </h2>
+                        </article>
+
                     </td>
                     <td class=" align-bottom"> <img class="entry-img"
                             src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/Asset-4@2x.png" alt="">
