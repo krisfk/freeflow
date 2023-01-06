@@ -49,7 +49,7 @@ get_header(); ?>
                     </td>
                     <td class="subtitle-td align-top">
 
-                        <article class="vertical-article position-absolute top-0 end-0 ">
+                        <article class="vertical-article ">
                             <h2 class="purple">計劃背景
                             </h2>
                         </article>
