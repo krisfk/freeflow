@@ -128,27 +128,69 @@ get_header(); ?>
 
 
 
-
-
-
-
-
 <div class="container yellow-bg-div gx-0 mt-60px">
 
 
-    <h2 class="purple">身體藝術工作坊 x 3間NGOs</h2>
+    <div class="row mt-4">
 
-    <div class="mt-4">盆景 / 身體造型蠟燭 / 酒精墨水畫 / 新式書法
+        <div class="col-9">
+
+            <div>
+                <a href="javascript:void(0);" class="photo-click-a me-3 mb-3">
+                    <img class="height-280px d-inline-block"
+                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-21@2x.png" alt="">
+                </a>
+                <a href="javascript:void(0);" class="photo-click-a  mb-3">
+
+                    <img class="height-280px d-inline-block"
+                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-22@2x.png" alt=""> </a>
+
+            </div>
+
+            <div>
+                <a href="javascript:void(0);" class="photo-click-a me-3">
+
+                    <img class="height-280px d-inline-block"
+                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-23@2x.png" alt="">
+                </a>
+
+                <a href="javascript:void(0);" class="photo-click-a">
+
+                    <img class="height-280px d-inline-block"
+                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-24@2x.png" alt="">
+                </a>
+
+            </div>
+
+        </div>
+        <div class="col-3 text-end">
+
+            <h2 class="purple">故我在</h2>
+
+            <div>透過環境劇場及藝術裝置， <br>
+                呈現三個年青人尋找自在的真實故事。</div>
+
+
+            <article class="vertical-article position-absolute bottom-0 end-0 me-4 mb-4">
+                <h2 class="orange">互動故事 <br>體驗展
+                </h2>
+            </article>
+
+
+
+        </div>
+
     </div>
 
-    <table class="news-tpl-1-img-table">
-        <tr>
-            <td><img src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-13@2x-1.png" alt=""></td>
-            <td><img src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-14@2x.png" alt=""></td>
-        </tr>
-    </table>
 
 </div>
+
+
+
+
+
+
+
 
 
 
