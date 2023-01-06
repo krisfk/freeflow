@@ -199,12 +199,12 @@ get_header(); ?>
             <div>
                 <a href="javascript:void(0);" class="photo-click-a me-3 mb-3">
                     <img class="height-280px d-inline-block"
-                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-21@2x.png" alt="">
+                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-25@2x.png" alt="">
                 </a>
                 <a href="javascript:void(0);" class="photo-click-a  mb-3">
 
                     <img class="height-280px d-inline-block"
-                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-22@2x.png" alt=""> </a>
+                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-26@2x.png" alt=""> </a>
 
             </div>
 
@@ -212,13 +212,13 @@ get_header(); ?>
                 <a href="javascript:void(0);" class="photo-click-a me-3">
 
                     <img class="height-280px d-inline-block"
-                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-23@2x.png" alt="">
+                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-27@2x.png" alt="">
                 </a>
 
                 <a href="javascript:void(0);" class="photo-click-a">
 
                     <img class="height-280px d-inline-block"
-                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-24@2x.png" alt="">
+                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-28@2x.png" alt="">
                 </a>
 
             </div>
