@@ -76,15 +76,13 @@ get_header(); ?>
 
         <div class="col-7">
 
-            <div class="row">
+            <div>
+                <img class="height-280px" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-17@2x.png"
+                    alt="">
 
-                <div class="col-9">
-                    <img class="height-280px"
-                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-17@2x.png" alt="">
-                </div>
-                <div class="col-3"><img class="height-280px"
-                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-18@2x.png" alt=""></div>
 
+                <img class="height-280px" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-18@2x.png"
+                    alt="">
             </div>
 
         </div>
