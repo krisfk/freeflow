@@ -488,4 +488,5 @@ h2 {
 
 .photo-click-a {
     text-decoration: none;
+    display: inline-block;
 }
