@@ -57,7 +57,7 @@ get_header(); ?>
             是次活動結合律動體驗課和藝術展覽，展出了本計劃的一年總結。展覽主要分為三部分: 故我在、我自在、漫動作。
 
         </div>
-        <div class="col-5">
+        <div class="col-5 text-end">
 
             <img style="max-height:460px;" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-16@2x.png"
                 alt="">
