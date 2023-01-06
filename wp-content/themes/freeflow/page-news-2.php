@@ -165,14 +165,17 @@ get_header(); ?>
         </div>
         <div class="col-3 text-end">
 
-            <h2 class="purple">故我在</h2>
+            <h2 class="purple">我自在</h2>
 
-            <div>透過環境劇場及藝術裝置， <br>
-                呈現三個年青人尋找自在的真實故事。</div>
+            <div>作品是身體的延伸。 <br>
+                由雕塑到攝影、畫布與文字、<br>
+                手工作品的呈現，<br>
+                和青少女們一起尋索自在的可能性。</div>
 
 
             <article class="vertical-article position-absolute bottom-0 end-0 me-4 mb-4">
-                <h2 class="orange">互動故事 <br>體驗展
+                <h2 class="orange">青少女 <br>
+                    藝術展
                 </h2>
             </article>
 
