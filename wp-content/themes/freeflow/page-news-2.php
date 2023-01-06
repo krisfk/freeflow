@@ -50,8 +50,17 @@ get_header(); ?>
 
     <div class="row">
 
-        <div class="col-7"></div>
-        <div class="col-5"></div>
+        <div class="col-7">
+
+            在《我動故我在》，我們將分享青少年在這一年身體律動課的體驗及向公眾推廣身體律動及對自我身體的關注。在這空間與大眾討論女性標準，探討這些期望為本地青少女帶來的影響，協助公眾認識身體律動，關顧自己的身心靈需要，加深對性別議題的認識。
+            <br> <br>
+            是次活動結合律動體驗課和藝術展覽，展出了本計劃的一年總結。展覽主要分為三部分: 故我在、我自在、漫動作。
+
+        </div>
+        <div class="col-5">
+
+            <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-16@2x.png" alt="">
+        </div>
 
     </div>
 
