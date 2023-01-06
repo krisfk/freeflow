@@ -67,26 +67,58 @@ get_header(); ?>
 
 
 </div>
-<div class="container yellow-bg-div gx-0 mt-120px">
 
 
-    <h2 class="purple">賽馬會「自主・流」身體律動計劃 <br>
-        年度展覽《我動故我在》</h2>
+<div class="container yellow-bg-div gx-0 mt-60px">
 
 
     <div class="row mt-4">
 
-        <div class="col-7">
+        <div class="col-9">
 
-            在《我動故我在》，我們將分享青少年在這一年身體律動課的體驗及向公眾推廣身體律動及對自我身體的關注。在這空間與大眾討論女性標準，探討這些期望為本地青少女帶來的影響，協助公眾認識身體律動，關顧自己的身心靈需要，加深對性別議題的認識。
-            <br> <br>
-            是次活動結合律動體驗課和藝術展覽，展出了本計劃的一年總結。展覽主要分為三部分: 故我在、我自在、漫動作。
+            <div>
+                <a href="javascript:void(0);" class="photo-click-a me-3 mb-3">
+                    <img class="height-280px d-inline-block"
+                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-17@2x.png" alt="">
+                </a>
+                <a href="javascript:void(0);" class="photo-click-a  mb-3">
+
+                    <img class="height-280px d-inline-block"
+                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-18@2x.png" alt=""> </a>
+
+            </div>
+
+            <div>
+                <a href="javascript:void(0);" class="photo-click-a me-3">
+
+                    <img class="height-280px d-inline-block"
+                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-19@2x.png" alt="">
+                </a>
+
+                <a href="javascript:void(0);" class="photo-click-a">
+
+                    <img class="height-280px d-inline-block"
+                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-20@2x.png" alt="">
+                </a>
+
+            </div>
 
         </div>
-        <div class="col-5 text-end">
+        <div class="col-3 text-end">
 
-            <img class="d-inline-block" style="max-height:460px;"
-                src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-16@2x.png" alt="">
+            <h2 class="purple">故我在</h2>
+
+            <div>透過環境劇場及藝術裝置， <br>
+                呈現三個年青人尋找自在的真實故事。</div>
+
+
+            <article class="vertical-article position-absolute bottom-0 end-0 me-4 mb-4">
+                <h2 class="orange">互動故事 <br>體驗展
+                </h2>
+            </article>
+
+
+
         </div>
 
     </div>
@@ -98,6 +130,25 @@ get_header(); ?>
 
 
 
+
+
+
+<div class="container yellow-bg-div gx-0 mt-60px">
+
+
+    <h2 class="purple">身體藝術工作坊 x 3間NGOs</h2>
+
+    <div class="mt-4">盆景 / 身體造型蠟燭 / 酒精墨水畫 / 新式書法
+    </div>
+
+    <table class="news-tpl-1-img-table">
+        <tr>
+            <td><img src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-13@2x-1.png" alt=""></td>
+            <td><img src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-14@2x.png" alt=""></td>
+        </tr>
+    </table>
+
+</div>
 
 
 
