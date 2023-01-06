@@ -490,3 +490,9 @@ h2 {
     text-decoration: none;
     display: inline-block;
 }
+
+.vertical-article {
+    writing-mode: vertical-rl;
+    letter-spacing: 0.3em;
+    float: right;
+}

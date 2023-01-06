@@ -106,6 +106,18 @@ get_header(); ?>
         </div>
         <div class="col-3 text-end">
 
+            <h2 class="purple">故我在</h2>
+
+            <div>透過環境劇場及藝術裝置， <br>
+                呈現三個年青人尋找自在的真實故事。</div>
+
+
+            <article class="vertical-article">
+                <h2 class="orange">互動故事
+                </h2>
+            </article>
+
+
 
         </div>
 
