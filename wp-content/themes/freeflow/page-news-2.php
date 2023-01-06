@@ -77,22 +77,29 @@ get_header(); ?>
         <div class="col-9">
 
             <div>
-                <img class="height-280px d-inline-block"
-                    src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-17@2x.png" alt="">
+                <a href="javascript:void(0);">
+                    <img class="height-280px d-inline-block"
+                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-17@2x.png" alt="">
+                </a>
+                <a href="javascript:void(0);">
 
+                    <img class="height-280px d-inline-block"
+                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-18@2x.png" alt=""> </a>
 
-                <img class="height-280px d-inline-block"
-                    src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-18@2x.png" alt="">
             </div>
 
             <div>
+                <a href="javascript:void(0);">
 
-                <img class="height-280px d-inline-block"
-                    src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-19@2x.png" alt="">
+                    <img class="height-280px d-inline-block"
+                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-19@2x.png" alt="">
+                </a>
 
+                <a href="javascript:void(0);">
 
-                <img class="height-280px d-inline-block"
-                    src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-20@2x.png" alt="">
+                    <img class="height-280px d-inline-block"
+                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-20@2x.png" alt="">
+                </a>
 
             </div>
 
