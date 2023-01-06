@@ -113,7 +113,7 @@ get_header(); ?>
 
 
             <article class="vertical-article">
-                <h2 class="orange">互動故事
+                <h2 class="orange">互動故事 <br>體驗展
                 </h2>
             </article>
 
