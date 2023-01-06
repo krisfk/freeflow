@@ -226,17 +226,17 @@ get_header(); ?>
         </div>
         <div class="col-3 text-end">
 
-            <h2 class="purple">我自在</h2>
+            <h2 class="purple">漫動作</h2>
 
-            <div>作品是身體的延伸。 <br>
-                由雕塑到攝影、畫布與文字、<br>
-                手工作品的呈現，<br>
-                和青少女們一起尋索自在的可能性。</div>
+            <div>透過體驗雲門教室的律動課， <br>
+                放下身體的框框，在輕鬆自由的狀態下，<br>
+                開拓新的肢體語彙。<br>
+                與身體對話，找回屬於你的自在。</div>
 
 
             <article class="vertical-article position-absolute bottom-0 end-0 me-4 mb-4">
-                <h2 class="orange">青少女 <br>
-                    藝術展
+                <h2 class="orange">身體律動 <br>
+                    工作坊
                 </h2>
             </article>
 
