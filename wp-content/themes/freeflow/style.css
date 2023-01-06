@@ -494,7 +494,7 @@ h2 {
 
 .vertical-article {
     writing-mode: vertical-rl;
-    letter-spacing: 0.3em;
+    /* letter-spacing: 0.3em; */
     float: right;
 }
 
