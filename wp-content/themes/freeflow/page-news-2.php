@@ -79,10 +79,11 @@ get_header(); ?>
             <div class="row">
 
                 <div class="col-9">
-                    <img src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-17@2x.png" alt="">
+                    <img class="height-280px"
+                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-17@2x.png" alt="">
                 </div>
-                <div class="col-3"><img src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-18@2x.png"
-                        alt=""></div>
+                <div class="col-3"><img class="height-280px"
+                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-18@2x.png" alt=""></div>
 
             </div>
 
