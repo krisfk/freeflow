@@ -44,59 +44,22 @@ get_header(); ?>
 <div class="container yellow-bg-div gx-0 mt-120px">
 
 
-    <h2 class="purple">藝術日營《身體我自在》</h2>
+    <h2 class="purple">賽馬會「自主・流」身體律動計劃 <br>
+        年度展覽《我動故我在》</h2>
 
-    <div class="mt-4">在今年Art Camp《身體我自在》，我們舉辦了一系列的藝術活動，讓來自不同機構的青少女聚一聚， <br>
-        一同體驗及交流。她們當日製作的成品亦於該年度的展覽中展出。
+
+    <div class="row">
+
+        <div class="col-7"></div>
+        <div class="col-5"></div>
+
     </div>
 
-    <table class="news-tpl-1-img-table">
-        <tr>
-            <td><img src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-7@2x-1.png" alt=""></td>
-            <td><img src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-8@2x-1.png" alt=""></td>
-        </tr>
-    </table>
 
 </div>
 
 
 
-
-<div class="container yellow-bg-div gx-0 mt-60px">
-
-
-    <h2 class="purple">香水製作工作坊</h2>
-
-    <div class="mt-4">可調製屬於自己的香水, 找尋自己的味道
-    </div>
-
-    <table class="news-tpl-1-img-table">
-        <tr>
-            <td><img src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-9@2x-1.png" alt=""></td>
-            <td><img src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-10@2x.png" alt=""></td>
-        </tr>
-    </table>
-
-</div>
-
-
-
-<div class="container yellow-bg-div gx-0 mt-60px">
-
-
-    <h2 class="purple">Love Tee Styling with Adele Leung</h2>
-
-    <div class="mt-4">由形象顧問&造型師Adele指導，學習如何從穿搭方面找到自己的獨特性
-    </div>
-
-    <table class="news-tpl-1-img-table">
-        <tr>
-            <td><img src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-11@2x-1.png" alt=""></td>
-            <td><img src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-12@2x-1.png" alt=""></td>
-        </tr>
-    </table>
-
-</div>
 
 
 
