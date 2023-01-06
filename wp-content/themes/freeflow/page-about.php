@@ -157,20 +157,13 @@ get_header(); ?>
                     <td class="subtitle-td align-top">
 
 
-                        <table>
-                            <tr>
-                                <td class="align-top">
-                                    青 <br>
-                                    少<br>
-                                    女
 
-                                </td>
-                                <td class="align-top"> 如 <br>
-                                    何<br>
-                                    連<br>
-                                    接</td>
-                            </tr>
-                        </table>
+                        <article class="vertical-article ">
+                            <h2 class="purple">如何連接 <br>青少女
+                            </h2>
+                        </article>
+
+
 
 
                     </td>
