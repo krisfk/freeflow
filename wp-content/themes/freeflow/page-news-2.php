@@ -48,7 +48,7 @@ get_header(); ?>
         年度展覽《我動故我在》</h2>
 
 
-    <div class="row">
+    <div class="row mt-4">
 
         <div class="col-7">
 
