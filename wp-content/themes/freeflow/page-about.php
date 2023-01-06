@@ -48,10 +48,13 @@ get_header(); ?>
 
                     </td>
                     <td class="subtitle-td align-top">
-                        計 <br>
-                        劃<br>
-                        背<br>
-                        景
+
+                        <article class="vertical-article position-absolute top-0 end-0 ">
+                            <h2 class="purple">計劃背景
+                            </h2>
+                        </article>
+
+
                     </td>
                 </tr>
             </table>
