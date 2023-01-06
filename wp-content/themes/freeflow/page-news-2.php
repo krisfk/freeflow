@@ -112,7 +112,7 @@ get_header(); ?>
                 呈現三個年青人尋找自在的真實故事。</div>
 
 
-            <article class="vertical-article">
+            <article class="vertical-article position-absolute bottom-3 right-3">
                 <h2 class="orange">互動故事 <br>體驗展
                 </h2>
             </article>
