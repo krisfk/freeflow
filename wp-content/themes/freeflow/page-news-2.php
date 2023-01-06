@@ -189,6 +189,67 @@ get_header(); ?>
 </div>
 
 
+<div class="container yellow-bg-div gx-0 mt-60px">
+
+
+    <div class="row mt-4">
+
+        <div class="col-9">
+
+            <div>
+                <a href="javascript:void(0);" class="photo-click-a me-3 mb-3">
+                    <img class="height-280px d-inline-block"
+                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-21@2x.png" alt="">
+                </a>
+                <a href="javascript:void(0);" class="photo-click-a  mb-3">
+
+                    <img class="height-280px d-inline-block"
+                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-22@2x.png" alt=""> </a>
+
+            </div>
+
+            <div>
+                <a href="javascript:void(0);" class="photo-click-a me-3">
+
+                    <img class="height-280px d-inline-block"
+                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-23@2x.png" alt="">
+                </a>
+
+                <a href="javascript:void(0);" class="photo-click-a">
+
+                    <img class="height-280px d-inline-block"
+                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-24@2x.png" alt="">
+                </a>
+
+            </div>
+
+        </div>
+        <div class="col-3 text-end">
+
+            <h2 class="purple">我自在</h2>
+
+            <div>作品是身體的延伸。 <br>
+                由雕塑到攝影、畫布與文字、<br>
+                手工作品的呈現，<br>
+                和青少女們一起尋索自在的可能性。</div>
+
+
+            <article class="vertical-article position-absolute bottom-0 end-0 me-4 mb-4">
+                <h2 class="orange">青少女 <br>
+                    藝術展
+                </h2>
+            </article>
+
+
+
+        </div>
+
+    </div>
+
+
+</div>
+
+
 
 
 
