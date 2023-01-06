@@ -89,8 +89,7 @@ get_header(); ?>
         </div>
         <div class="col-5 text-end">
 
-            <img class="d-inline-block" style="max-height:460px;"
-                src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-16@2x.png" alt="">
+
         </div>
 
     </div>
