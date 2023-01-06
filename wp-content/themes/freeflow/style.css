@@ -485,3 +485,7 @@ h2 {
 .height-280px {
     height: 280px;
 }
+
+.photo-click-a {
+    text-decoration: none;
+}
