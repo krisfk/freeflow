@@ -496,3 +496,8 @@ h2 {
     letter-spacing: 0.3em;
     float: right;
 }
+
+.vertical-article h2 {
+    padding: 0;
+    margin: 0;
+}
