@@ -86,56 +86,15 @@ get_header(); ?>
 <div class="container yellow-bg-div gx-0 mt-60px">
 
 
-    <div class="row mt-4">
 
-        <div class="col-9">
-
-            <div>
-                <a href="javascript:void(0);" class="photo-click-a me-3 mb-3">
-                    <img class="height-280px d-inline-block"
-                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-17@2x.png" alt="">
-                </a>
-                <a href="javascript:void(0);" class="photo-click-a  mb-3">
-
-                    <img class="height-280px d-inline-block"
-                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-18@2x.png" alt=""> </a>
-
-            </div>
-
-            <div>
-                <a href="javascript:void(0);" class="photo-click-a me-3">
-
-                    <img class="height-280px d-inline-block"
-                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-19@2x.png" alt="">
-                </a>
-
-                <a href="javascript:void(0);" class="photo-click-a">
-
-                    <img class="height-280px d-inline-block"
-                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-20@2x.png" alt="">
-                </a>
-
-            </div>
-
-        </div>
-        <div class="col-3 text-end">
-
-            <h2 class="purple">故我在</h2>
-
-            <div>透過環境劇場及藝術裝置， <br>
-                呈現三個年青人尋找自在的真實故事。</div>
-
-
-            <article class="vertical-article position-absolute bottom-0 end-0 me-4 mb-4">
-                <h2 class="orange">互動故事 <br>體驗展
-                </h2>
-            </article>
+    <a href="javascript:void(0);" class="blog-tag">All Articles</a>
+    <a href="javascript:void(0);" class="blog-tag">#性</a>
+    <a href="javascript:void(0);" class="blog-tag">#身體</a>
+    <a href="javascript:void(0);" class="blog-tag">#自我</a>
+    <a href="javascript:void(0);" class="blog-tag">#感想</a>
 
 
 
-        </div>
-
-    </div>
 
 
 </div>
