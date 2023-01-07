@@ -113,7 +113,7 @@ get_header(); ?>
 
 
 
-            <h2 class="purple big mt-3">標題文章和故事</h2>
+            <h2 class="purple big mt-4">標題文章和故事</h2>
 
             <div class="orange">4 Nov 2022</div>
 
