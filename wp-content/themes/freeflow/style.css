@@ -533,6 +533,7 @@ h2 {
 .three-dots-a {
     display: inline-block;
     width: 12px;
+    text-align: center;
 }
 
 .three-dots {
