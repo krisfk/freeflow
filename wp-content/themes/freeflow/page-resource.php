@@ -139,8 +139,8 @@ get_header(); ?>
                 <div class="col-9">
 
                     <span>10</span>
-                    <img class="d-inline-block" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/heart.png"
-                        alt="">
+                    <img class="d-inline-block heart-icon"
+                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/heart.png" alt="">
                 </div>
 
             </div>
