@@ -103,6 +103,39 @@ get_header(); ?>
 
 
 
+<div class="container yellow-bg-div gx-0 mt-60px">
+
+
+    <div class="row">
+        <div class="col-6">
+
+            <img src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/blog-temp-img-1.png" alt="">
+
+
+
+            <h2 class="purple">標題文章和故事</h2>
+
+            <div class="orange">4 Nov 2022</div>
+
+            <div>有關賽馬會「自主‧流」身體律動計劃的文章及資料會於這裡與大家分享。內容包括由青少女及計劃社工撰寫的文章和故事。以及，與香港浸會大學合作的研究正在進行，結果詳情將容後公佈
+                <a href="javascript:void(0);" class="orange">... more</a>
+            </div>
+
+
+
+
+        </div>
+        <div class="col-6"></div>
+
+    </div>
+
+
+</div>
+
+
+
+
+
 
 <img class="mt-120px fake-video" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/fake-video-2-scaled.jpg"
     alt="">
