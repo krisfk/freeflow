@@ -44,23 +44,20 @@ get_header(); ?>
 <div class="container yellow-bg-div gx-0 mt-120px">
 
 
-    <h2 class="purple">賽馬會「自主・流」身體律動計劃 <br>
-        年度展覽《我動故我在》</h2>
-
 
     <div class="row mt-4">
 
-        <div class="col-7">
+        <div class="col-6">
 
-            在《我動故我在》，我們將分享青少年在這一年身體律動課的體驗及向公眾推廣身體律動及對自我身體的關注。在這空間與大眾討論女性標準，探討這些期望為本地青少女帶來的影響，協助公眾認識身體律動，關顧自己的身心靈需要，加深對性別議題的認識。
-            <br> <br>
-            是次活動結合律動體驗課和藝術展覽，展出了本計劃的一年總結。展覽主要分為三部分: 故我在、我自在、漫動作。
+
+
+            有關賽馬會「自主．流」身體律動計劃的文章及資料會於這裡與大家分享。內容包括由青少女及計劃社工撰寫的文章和故事。 <br><br>
+
+            以及，與香港浸會大學合作的研究正在進行，結果詳情將容後公佈。
 
         </div>
-        <div class="col-5 text-end">
-
-            <img class="d-inline-block" style="max-height:460px;"
-                src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-16@2x.png" alt="">
+        <div class="col-6">
+            <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-2@2x-1.png" alt="">
         </div>
 
     </div>
