@@ -521,12 +521,13 @@ h2 {
     text-decoration: none;
 }
 
-.heart-icon-a {}
+.heart-icon-a {
+    position: relative;
+    top: -2px;
+}
 
 .heart-icon {
     height: 12px;
-    position: relative;
-    top: -2px;
 }
 
 .three-dots-a {}
