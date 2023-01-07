@@ -132,7 +132,7 @@ get_header(); ?>
 
 
 
-            <div class="row">
+            <div class="row mt-4">
 
 
                 <div class="col-3">214 views</div>
