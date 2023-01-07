@@ -530,7 +530,10 @@ h2 {
     height: 12px;
 }
 
-.three-dots-a {}
+.three-dots-a {
+    display: inline-block;
+    width: 12px;
+}
 
 .three-dots {
     height: 12px;
