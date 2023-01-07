@@ -144,7 +144,7 @@ get_header(); ?>
                         <img class="heart-icon" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/heart.png"
                             alt=""></a>
 
-                    <a href="javascript:void(0);"> <img
+                    <a href="javascript:void(0);" class="d-inline-block"> <img
                             src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/3dots.png" alt=""></a>
                 </div>
 
