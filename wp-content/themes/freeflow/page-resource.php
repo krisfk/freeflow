@@ -53,8 +53,8 @@ get_header(); ?>
 
 
 
-            <article class="vertical-article position-absolute bottom-0 end-0 me-4 mb-4">
-                <h2 class="orange">互動故事 <br>體驗展
+            <article class="vertical-article position-absolute left-0 start-0">
+                <h2 class="orange">律動資料庫
                 </h2>
             </article>
 
