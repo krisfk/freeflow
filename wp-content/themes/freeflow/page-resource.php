@@ -136,7 +136,7 @@ get_header(); ?>
 
 
                 <div class="col-3">214 views</div>
-                <div class="col-9">
+                <div class="col-9 text-end">
 
                     <span>10</span>
 
@@ -144,7 +144,7 @@ get_header(); ?>
                         <img class="heart-icon" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/heart.png"
                             alt=""></a>
 
-                    <a href="javascript:void(0);" class="d-inline-block three-dots-a"> <img class="three-dots"
+                    <a href="javascript:void(0);" class="d-inline-block three-dots-a ms-4"> <img class="three-dots"
                             src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/3dots.png" alt=""></a>
                 </div>
 
