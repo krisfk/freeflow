@@ -396,8 +396,6 @@ get_header(); ?>
 
 
 
-<img class="mt-120px fake-video" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/fake-video-2-scaled.jpg"
-    alt="">
 
 
 
