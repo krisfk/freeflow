@@ -121,7 +121,7 @@ get_header(); ?>
                 <a href="javascript:void(0);" class="orange">... more</a>
             </div>
 
-            <div class="mt-4"> <a href="javascript:void(0);" class="blog-tag me-3">#性</a>
+            <div class="mt-3"> <a href="javascript:void(0);" class="blog-tag me-3">#性</a>
                 <a href="javascript:void(0);" class="blog-tag me-3">#身體</a>
                 <a href="javascript:void(0);" class="blog-tag me-3">#自我</a>
                 <a href="javascript:void(0);" class="blog-tag">#感想</a>
