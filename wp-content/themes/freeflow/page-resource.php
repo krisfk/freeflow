@@ -53,7 +53,7 @@ get_header(); ?>
 
 
 
-            <article class="vertical-article float-left me-4">
+            <article class="vertical-article float-start me-4">
                 <h2 class="orange">律動資料庫
                 </h2>
             </article>
