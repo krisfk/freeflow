@@ -526,3 +526,7 @@ h2 {
     position: relative;
     top: -2px;
 }
+
+.three-dots {
+    height: 12px;
+}
