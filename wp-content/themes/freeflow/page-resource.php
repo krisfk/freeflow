@@ -132,6 +132,17 @@ get_header(); ?>
 
 
 
+            <div class="row">
+
+
+                <div class="col-3">214 views</div>
+                <div class="col-9">
+
+                    <span>10</span>
+                    <img src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/heart.png" alt="">
+                </div>
+
+            </div>
 
 
         </div>
