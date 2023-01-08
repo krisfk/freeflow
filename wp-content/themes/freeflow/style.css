@@ -600,3 +600,12 @@ h2 {
     position: relative;
     top: 2px;
 }
+
+.menu-div ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.menu-div ul.first-level {
+    margin: 100px 0 0 0;
+}
