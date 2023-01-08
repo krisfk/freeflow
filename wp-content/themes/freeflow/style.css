@@ -388,6 +388,12 @@ h2 {
     text-align: right;
 }
 
+.menu-div .sns-menu-ul {
+    position: absolute;
+    bottom: 0;
+    left: 43px;
+}
+
 .sns-menu-ul li {
     display: inline-block;
     margin-right: 1rem;
