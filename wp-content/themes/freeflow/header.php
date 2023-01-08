@@ -70,6 +70,15 @@
 
             $('.menu-btn').click(function() {
                 $(this).toggleClass('active');
+
+                if ($(this).hasClass('active')) {
+
+                    $('.menu-layer').fadeIn(200);
+                } else {
+
+                    $('.menu-layer').fadeOut(0);
+
+                }
             })
         })
         </script>
