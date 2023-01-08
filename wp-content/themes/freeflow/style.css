@@ -626,4 +626,6 @@ h2 {
     width: 30px;
     height: 30px;
     background: url(./assets/images/menu-arrow.png) no-repeat center center;
+    background-size: contain;
+    margin: 0 0 0 0.5rem;
 }
