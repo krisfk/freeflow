@@ -412,6 +412,7 @@ h2 {
     left: 45px;
     z-index: 200;
     text-decoration: none;
+    z-index: 2000;
 }
 
 .menu-btn-txt {
@@ -568,5 +569,13 @@ h2 {
     width: 540px;
     height: 100%;
     background: url(./assets/images/menu-gradient-bg.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+
+.menu-btn-icon {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    background: url(./assets/images/menu-btn-close.png) no-repeat;
     background-size: 100% 100%;
 }
