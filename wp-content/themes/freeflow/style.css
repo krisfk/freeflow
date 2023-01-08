@@ -582,3 +582,7 @@ h2 {
     position: relative;
     top: 4px;
 }
+
+.menu-btn.active .menu-btn-icon {
+    background: url(./assets/images/menu-btn-close.png) no-repeat;
+}
