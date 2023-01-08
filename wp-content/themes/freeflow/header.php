@@ -63,3 +63,13 @@
 
 
         <?php //get_template_part( 'template-parts/header/site-header' ); ?>
+
+        <script type="text/javascript">
+        $(function() {
+
+
+            $('.menu-btn').click(function() {
+                $(this).toggleClass('active');
+            })
+        })
+        </script>
