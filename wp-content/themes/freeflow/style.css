@@ -629,3 +629,12 @@ h2 {
     background-size: contain;
     margin: 0 0 0 0.5rem;
 }
+
+.menu-arrow.active {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    background: url(./assets/images/menu-arrow.png) no-repeat center center;
+    background-size: contain;
+    margin: 0 0 0 0.5rem;
+}

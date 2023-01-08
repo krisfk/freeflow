@@ -96,5 +96,18 @@
 
                 }
             })
+
+            $('.menu-arrow').click(function() {
+                $(this).toggleClass('active');
+                if ($(this).hasClass('active')) {
+
+                    // $('.menu-layer')
+                } else {
+
+                    // $('.menu-layer').fadeOut(0);
+
+                }
+
+            })
         })
         </script>
