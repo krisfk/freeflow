@@ -43,7 +43,11 @@
         <div class="menu-div">
 
             <ul class="first-level">
-                <li><a href="javascript:void(0);">關於我們</a></li>
+                <li><a href="javascript:void(0);">關於我們</a>
+
+                    <a href="javascript:void(0);" class="menu-arrow"></a>
+
+                </li>
                 <li><a href="javascript:void(0);">最新消息</a></li>
                 <li><a href="javascript:void(0);">發掘更多</a></li>
                 <li><a href="javascript:void(0);">與我們合作</a></li>

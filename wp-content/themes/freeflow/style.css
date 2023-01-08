@@ -620,3 +620,10 @@ h2 {
     font-size: 48px;
     font-weight: 200;
 }
+
+.menu-arrow {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    background: url(./assets/images/menu-arrow.png) no-repeat center center;
+}
