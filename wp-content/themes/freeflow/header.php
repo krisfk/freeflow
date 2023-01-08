@@ -40,7 +40,17 @@
 
     <div class="menu-layer">
 
-        <div class="menu-div"></div>
+        <div class="menu-div">
+
+            <ul>
+                <li><a href="javascript:void(0);">關於我們</a></li>
+                <li><a href="javascript:void(0);">最新消息</a></li>
+                <li><a href="javascript:void(0);">發掘更多</a></li>
+                <li><a href="javascript:void(0);">與我們合作</a></li>
+
+            </ul>
+
+        </div>
 
     </div>
 
