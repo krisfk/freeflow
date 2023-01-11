@@ -756,6 +756,21 @@ h2 {
     background-size: contain;
 }
 
+.menu-layer .sns-icon.sns-icon-1-a:hover {
+    background: url(./assets/images/sns-icon-1-blue.png) no-repeat;
+    background-size: contain;
+}
+
+.menu-layer .sns-icon.sns-icon-2-a:hover {
+    background: url(./assets/images/sns-icon-2-blue.png) no-repeat;
+    background-size: contain;
+}
+
+.menu-layer .sns-icon.sns-icon-3-a:hover {
+    background: url(./assets/images/sns-icon-3-blue.png) no-repeat;
+    background-size: contain;
+}
+
 footer .sns-icon.sns-icon-1-a:hover {
     background: url(./assets/images/sns-icon-1-purple.png) no-repeat;
     background-size: contain;
