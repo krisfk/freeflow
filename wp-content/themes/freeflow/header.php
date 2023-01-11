@@ -52,9 +52,9 @@
 
                     <a href="javascript:void(0);" class="menu-arrow"></a>
 
-                    <ul>
-                        <li>律動課程</li>
-                        <li>律動導師</li>
+                    <ul class="second-level">
+                        <li><a href="javascript:void(0);">律動課程</a></li>
+                        <li><a href="javascript:void(0);">律動導師</a></li>
 
                     </ul>
 
