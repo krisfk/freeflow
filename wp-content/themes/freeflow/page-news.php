@@ -38,7 +38,7 @@ get_header(); ?>
 
 </div>
 
-<div class="container yellow-bg-div gx-0 mt-120px">
+<a class="container yellow-bg-div gx-0 mt-120px" href="<?php echo get_site_url();?>/news-1">
 
 
 
@@ -66,10 +66,10 @@ get_header(); ?>
         </div>
     </div>
 
-</div>
+</a>
 
 
-<div class="container yellow-bg-div gx-0 mt-60px">
+<div class="container yellow-bg-div gx-0 mt-60px" href="<?php echo get_site_url();?>/news-2">
 
     <div class="row align-items-center mt-0 gx-5">
         <div class="col-6">
