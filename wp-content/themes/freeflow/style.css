@@ -627,6 +627,11 @@ h2 {
     font-weight: 200;
 }
 
+.menu-div ul.second-level li a {
+    font-size: 32px;
+    font-weight: 200;
+}
+
 .menu-arrow {
     display: inline-block;
     width: 30px;
