@@ -649,8 +649,8 @@ h2 {
 
 .lang-switcher {
     position: absolute;
-    top: 0;
-    right: 0;
+    top: 3rem;
+    right: 3rem;
 }
 
 .lang-switcher li {
