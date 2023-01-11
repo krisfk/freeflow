@@ -134,7 +134,7 @@
                 $(this).toggleClass('active');
                 if ($(this).hasClass('active')) {
 
-                    $(this).next('.second-level').slideDown(1000);
+                    $(this).next('.second-level').fadeIn(200);
                     // $('.menu-layer')
                 } else {
 
