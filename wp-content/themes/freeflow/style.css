@@ -806,4 +806,9 @@ footer .sns-icon.sns-icon-3-a:hover {
 a.container {
     text-decoration: none !important;
     color: inherit;
+    transition: 0.2s all;
+}
+
+a.container:hover {
+    opacity: 0.85;
 }
