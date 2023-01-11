@@ -74,25 +74,27 @@
                 <li><a href="javascript:void(0);">與我們合作</a></li>
             </ul>
 
+
+
+
             <ul class="sns-menu-ul">
                 <li>
-                    <a href="javascript:void(0);">
+                    <a href="javascript:void(0);" class="sns-icon sns-icon-1-a">
                         <img src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/sns-icon-1.png" alt="">
                     </a>
                 </li>
                 <li>
-                    <a href="javascript:void(0);">
+                    <a href="javascript:void(0);" class="sns-icon sns-icon-2-a">
                         <img src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/sns-icon-2.png" alt="">
                     </a>
                 </li>
                 <li>
-                    <a href="javascript:void(0);">
+                    <a href="javascript:void(0);" class="sns-icon sns-icon-3-a">
                         <img src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/sns-icon-3.png" alt="">
                     </a>
                 </li>
 
             </ul>
-
         </div>
 
         <div class="menu-layer-click-area"></div>
