@@ -12,9 +12,6 @@
  */
 
 ?>
-</main><!-- #main -->
-</div><!-- #primary -->
-</div><!-- #content -->
 
 <?php //get_template_part( 'template-parts/footer/footer-widgets' ); ?>
 
@@ -128,15 +125,11 @@
 
 </div>
 
-
-<footer id="colophon" class="site-footer">
-
-    <?php //if ( has_nav_menu( 'footer' ) ) : ?>
-
-    <?php //endif; ?>
+</main><!-- #main -->
+</div><!-- #primary -->
+</div><!-- #content -->
 
 
-</footer><!-- #colophon -->
 
 </div><!-- #page -->
 
