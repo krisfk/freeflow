@@ -657,6 +657,10 @@ h2 {
     transition: 0.2s all;
 }
 
+.menu-arrow:hover {
+    background: url(./assets/images/menu-arrow-blue.png) no-repeat center center;
+}
+
 .menu-arrow.active {
     display: inline-block;
     width: 30px;
