@@ -43,7 +43,7 @@
         <div class="menu-div">
 
             <ul class="lang-switcher">
-                <li><a class="active" href="javascript:void(0);">中</a></li>
+                <li class="me-3"><a class="active" href="javascript:void(0);">中</a></li>
                 <li><a href="javascript:void(0);">EN</a></li>
             </ul>
 
