@@ -439,6 +439,11 @@ h2 {
     z-index: 200;
     text-decoration: none;
     z-index: 2000;
+    transition: 0.2s all;
+}
+
+.menu-btn:hover {
+    opacity: 0.85;
 }
 
 .menu-btn-txt {
