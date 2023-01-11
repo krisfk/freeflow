@@ -658,7 +658,13 @@ h2 {
 }
 
 .menu-arrow:hover {
-    background: url(./assets/images/menu-arrow-blue.png) no-repeat center center;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    background: url(./assets/images/menu-arrow.png) no-repeat center center;
+    background-size: contain;
+    margin: 0 0 0 0.5rem;
+    transition: 0.2s all;
 }
 
 .menu-arrow.active {
