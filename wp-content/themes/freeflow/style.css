@@ -713,3 +713,7 @@ h2 {
 .lang-switcher li a.active {
     color: #31d3cb;
 }
+
+.album-a:hover img {
+    filter: grayscale(100);
+}
