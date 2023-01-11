@@ -52,7 +52,10 @@ get_header(); ?>
 
     <table class="news-tpl-1-img-table">
         <tr>
-            <td><img src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-7@2x-1.png" alt=""></td>
+            <td>
+                <a href="javascript:void(0);" class="album-a">
+                    <img src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-7@2x-1.png" alt=""></a>
+            </td>
             <td><img src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-8@2x-1.png" alt=""></td>
         </tr>
     </table>
