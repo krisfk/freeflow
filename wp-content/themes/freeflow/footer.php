@@ -56,14 +56,16 @@
                         </tr>
                         <tr>
                             <td>
-                                <a href="javascript:void(0);" class="top-icon-img-a"><img class="top-icon-img"
+                                <a href="https://charities.hkjc.com/" target="_blank" class="top-icon-img-a"><img
+                                        class="top-icon-img"
                                         src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/bottom-icon-1.png"
                                         alt=""></a>
                             </td>
-                            <td> <a href="javascript:void(0);" class="top-icon-img-a"><img class="top-icon-img"
+                            <td> <a href="https://www.hkbu.edu.hk/zh_hk.html" target="_blank"
+                                    class="top-icon-img-a"><img class="top-icon-img"
                                         src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/bottom-icon-2.png"
-                                        alt=""></a> <a href="javascript:void(0);" class="top-icon-img-a"><img
-                                        class="top-icon-img"
+                                        alt=""></a> <a href="https://www.cgds.com.tw/" target="_blank"
+                                    class="top-icon-img-a"><img class="top-icon-img"
                                         src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/bottom-icon-3.png"
                                         alt=""></a></td>
                         </tr>
