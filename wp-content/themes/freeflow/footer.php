@@ -15,7 +15,7 @@
 
 <?php //get_template_part( 'template-parts/footer/footer-widgets' ); ?>
 
-<div class="footer-div mt-120px">
+<footer class="footer-div mt-120px">
 
 
     <div class="container pt-4 pb-4">
@@ -123,7 +123,7 @@
 
     </div>
 
-</div>
+</footer>
 
 </main><!-- #main -->
 </div><!-- #primary -->
