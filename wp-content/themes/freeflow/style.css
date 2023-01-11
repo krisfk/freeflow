@@ -655,4 +655,5 @@ h2 {
 
 .lang-switcher li {
     list-style-type: none;
+    display: inline-block;
 }
