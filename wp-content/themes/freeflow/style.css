@@ -657,3 +657,7 @@ h2 {
     list-style-type: none;
     display: inline-block;
 }
+
+.lang-switcher li a.active {
+    color: #31d3cb;
+}
