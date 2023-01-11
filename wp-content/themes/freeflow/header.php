@@ -49,7 +49,7 @@
 
 
 
-            <ul class="first-level">
+            <ul class="level-1">
                 <?php
                                     $main_menu = wp_get_menu_array('main menu');
 foreach ($main_menu as $menu_item) {
@@ -76,7 +76,7 @@ if(count($menu_item['children']))
     echo'</a>';
 
  
-    echo '<ul class="mobile-menu-submenu">';
+    echo '<ul class="mobile-menu-submenu level-2">';
 ?>
 
                 <?php
