@@ -744,3 +744,18 @@ footer .sns-icon.sns-icon-3-a {
     background: url(./assets/images/sns-icon-3.png) no-repeat;
     background-size: contain;
 }
+
+footer .sns-icon.sns-icon-1-a:hover {
+    background: url(./assets/images/sns-icon-1-purple.png) no-repeat;
+    background-size: contain;
+}
+
+footer .sns-icon.sns-icon-2-a:hover {
+    background: url(./assets/images/sns-icon-2-purple.png) no-repeat;
+    background-size: contain;
+}
+
+footer .sns-icon.sns-icon-3-a:hover {
+    background: url(./assets/images/sns-icon-3-purple.png) no-repeat;
+    background-size: contain;
+}
