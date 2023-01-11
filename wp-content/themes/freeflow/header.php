@@ -134,10 +134,11 @@
                 $(this).toggleClass('active');
                 if ($(this).hasClass('active')) {
 
-                    $(this).next('.second-level').fadeIn(0);
+                    $(this).next('.second-level').slideDown(200);
                     // $('.menu-layer')
                 } else {
 
+                    $(this).next('.second-level').fadeOut(0);
                     // $('.menu-layer').fadeOut(0);
 
                 }
