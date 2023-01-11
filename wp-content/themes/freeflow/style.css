@@ -729,3 +729,18 @@ h2 {
 footer .sns-icon img {
     opacity: 0;
 }
+
+footer .sns-icon.sns-icon-1-a {
+    background: url(./assets/images/sns-icon-1.png) no-repeat;
+    background-size: contain;
+}
+
+footer .sns-icon.sns-icon-2-a {
+    background: url(./assets/images/sns-icon-2.png) no-repeat;
+    background-size: contain;
+}
+
+footer .sns-icon.sns-icon-2-a {
+    background: url(./assets/images/sns-icon-3.png) no-repeat;
+    background-size: contain;
+}
