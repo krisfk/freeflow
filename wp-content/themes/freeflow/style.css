@@ -802,3 +802,7 @@ footer .sns-icon.sns-icon-3-a:hover {
 .top-icon-img-a:hover {
     opacity: 0.85;
 }
+
+a.container {
+    text-decoration: none;
+}
