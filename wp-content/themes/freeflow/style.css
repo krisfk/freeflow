@@ -316,6 +316,7 @@ h2 {
     border-radius: 11rem;
     text-align: center;
     text-decoration: none;
+    transition: 0.2s all;
 }
 
 .our-activity-btn:hover {
