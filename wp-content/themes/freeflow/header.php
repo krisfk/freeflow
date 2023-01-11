@@ -108,7 +108,7 @@ echo'</li>';
 ?>
 
             </ul>
-            <!-- <ul class="level-1">
+            <!-- <ul class="first-level">
                 <li><a href="javascript:void(0);">關於我們</a>
 
                     <a href="javascript:void(0);" class="menu-arrow"></a>
