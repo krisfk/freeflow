@@ -622,6 +622,11 @@ h2 {
     margin: 0 0 1.5rem 0;
 }
 
+.menu-div ul.second-level li {
+    list-style-type: none;
+    margin: 0 0 1rem 0;
+}
+
 .menu-div ul.first-level li a {
     font-size: 48px;
     font-weight: 200;
