@@ -353,6 +353,7 @@ h2 {
 }
 
 .form-submit-btn {
+    transition: 0.2s all;
     display: inline-block;
     border-bottom: 2px solid #605ed3 !important;
     text-decoration: none;
