@@ -42,6 +42,11 @@
 
         <div class="menu-div">
 
+            <ul class="lang-switcher">
+                <li><a class="active" href="javascript:void(0);">中</a></li>
+                <li><a href="javascript:void(0);">EN</a></li>
+            </ul>
+
             <ul class="first-level">
                 <li><a href="javascript:void(0);">關於我們</a>
 
