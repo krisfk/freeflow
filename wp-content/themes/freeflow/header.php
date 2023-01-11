@@ -76,7 +76,7 @@ if(count($menu_item['children']))
     echo'</a>';
 
  
-    echo '<ul class="mobile-menu-submenu level-2">';
+    echo '<a href="javascript:void(0);" class="menu-arrow"></a><ul class="mobile-menu-submenu level-2">';
 ?>
 
                 <?php
