@@ -207,6 +207,10 @@ body {
     font-weight: bold;
 }
 
+.home-entry-link:hover {
+    color: #ff6c2f;
+}
+
 .mt-120px {
     margin-top: 120px;
 }
