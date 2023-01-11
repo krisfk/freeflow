@@ -49,7 +49,7 @@
 
 
 
-            <ul>
+            <ul class="first-level">
                 <?php
                                     $main_menu = wp_get_menu_array('main menu');
 foreach ($main_menu as $menu_item) {
@@ -67,7 +67,7 @@ $slug=str_replace('/','',$slug);
 if(count($menu_item['children']))
 {
   
-    echo '<li><a class="level-1 parent '.$class.'" href="'.$url.'">'.$title;
+    echo '<li><a class="parent '.$class.'" href="'.$url.'">'.$title;
     ?>
                 <img class="arrow" src="<?php echo get_template_directory_uri();?>/assets/images/white-arrow-enter.png"
                     alt="">
