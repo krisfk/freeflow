@@ -643,6 +643,10 @@ h2 {
     font-weight: 200;
 }
 
+.menu-div ul li a:hover {
+    color: #31d3cb;
+}
+
 .menu-arrow {
     display: inline-block;
     width: 30px;
