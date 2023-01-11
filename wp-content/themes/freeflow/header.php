@@ -212,11 +212,11 @@ echo'</li>';
                 $(this).toggleClass('active');
                 if ($(this).hasClass('active')) {
 
-                    $(this).next('.second-level').fadeIn(200);
+                    $(this).next('.level-2').fadeIn(200);
                     // $('.menu-layer')
                 } else {
 
-                    $(this).next('.second-level').fadeOut(0);
+                    $(this).next('.level-2').fadeOut(0);
                     // $('.menu-layer').fadeOut(0);
 
                 }
