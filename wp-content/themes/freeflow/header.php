@@ -141,6 +141,7 @@
 
             $('.menu-layer-click-area').click(function() {
                 $('.menu-layer').fadeOut(0);
+                $('.menu-btn').removeClass('active');
 
             })
 
