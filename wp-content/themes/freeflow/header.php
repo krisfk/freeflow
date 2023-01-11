@@ -95,6 +95,8 @@
 
         </div>
 
+        <div class="menu-layer-click-area"></div>
+
 
 
 

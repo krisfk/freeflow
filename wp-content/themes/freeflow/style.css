@@ -764,3 +764,12 @@ footer .sns-icon.sns-icon-3-a:hover {
     background: url(./assets/images/sns-icon-3-purple.png) no-repeat;
     background-size: contain;
 }
+
+.menu-layer-click-area {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: calc(100% - 540px);
+    height: 100%;
+    z-index: 2000;
+}
