@@ -69,7 +69,7 @@ get_header(); ?>
 </a>
 
 
-<div class="container yellow-bg-div gx-0 mt-60px" href="<?php echo get_site_url();?>/news-2">
+<a class="container yellow-bg-div gx-0 mt-60px" href="<?php echo get_site_url();?>/news-2">
 
     <div class="row align-items-center mt-0 gx-5">
         <div class="col-6">
@@ -102,7 +102,7 @@ get_header(); ?>
     </div>
 
 
-</div>
+</a>
 
 
 
