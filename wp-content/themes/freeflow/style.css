@@ -729,6 +729,10 @@ h2 {
     color: #31d3cb;
 }
 
+.album-a {
+    transition: 0.2s all;
+}
+
 .album-a:hover img {
     filter: grayscale(100);
 }
