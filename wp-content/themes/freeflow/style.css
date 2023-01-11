@@ -285,6 +285,10 @@ body {
     /* margin: 0 0.05rem 0 0; */
 }
 
+.orange-link:hover {
+    color: #ff6c2f;
+}
+
 h2.orange {
     font-size: 60px;
     font-weight: 200;
