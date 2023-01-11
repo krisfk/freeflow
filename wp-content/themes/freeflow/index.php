@@ -256,7 +256,7 @@ get_header(); ?>
         </div>
         <div class="col-6 mb-4">
 
-            <a href=""><img class="w-100" class="album-a"
+            <a href=""><img class="w-100 album-a"
                     src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/Asset-11@2x.png" alt=""></a>
         </div>
 
