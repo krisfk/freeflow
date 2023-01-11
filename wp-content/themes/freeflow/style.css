@@ -208,7 +208,7 @@ body {
 }
 
 .home-entry-link:hover {
-    color: #ff6c2f;
+    color: #ff6c2f !important;
 }
 
 .mt-120px {
