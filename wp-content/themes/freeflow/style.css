@@ -415,6 +415,10 @@ h2 {
     margin-right: 1rem;
 }
 
+.sns-menu-ul li a {
+    display: inline-block;
+}
+
 .sns-menu-ul li:last-child {
     margin: 0;
 }
@@ -720,4 +724,8 @@ h2 {
 
 .album-a:hover img {
     filter: grayscale(100);
+}
+
+footer .sns-icon img {
+    opacity: 0;
 }
