@@ -139,6 +139,11 @@
                 }
             })
 
+            $('.menu-layer-click-area').click(function() {
+                $('.menu-layer').fadeOut(0);
+
+            })
+
             $('.menu-arrow').click(function() {
                 $(this).toggleClass('active');
                 if ($(this).hasClass('active')) {
