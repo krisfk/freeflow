@@ -773,3 +773,11 @@ footer .sns-icon.sns-icon-3-a:hover {
     height: 100%;
     z-index: 2000;
 }
+
+.top-icon-img-a {
+    transition: 0.2s all;
+}
+
+.top-icon-img-a:hover {
+    opacity: 0.85;
+}
