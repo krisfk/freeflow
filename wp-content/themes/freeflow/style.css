@@ -669,13 +669,13 @@ h2 {
     font-weight: 200;
 }
 
-.menu-div ul.second-level {
+.menu-div ul.level-2 {
     margin: 1.5rem 0 0 0;
     padding: 0 !important;
     display: none;
 }
 
-.menu-div ul.second-level li a {
+.menu-div ul.level-2 li a {
     font-size: 32px;
     font-weight: 200;
 }
