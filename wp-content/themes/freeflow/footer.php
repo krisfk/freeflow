@@ -58,7 +58,7 @@
                             <td>
                                 <a href="https://charities.hkjc.com/" target="_blank" class="top-icon-img-a"><img
                                         class="top-icon-img"
-                                        src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/bottom-icon-1.png"
+                                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/top-icon-4.png"
                                         alt=""></a>
                             </td>
                             <td> <a href="https://www.hkbu.edu.hk/zh_hk.html" target="_blank"
