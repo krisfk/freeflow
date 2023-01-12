@@ -898,3 +898,7 @@ img.lazyloaded {
     transition: opacity 0.5s linear 0.2s;
     opacity: 1 !important;
 }
+
+.sns-icon img.lazyloaded {
+    opacity: 0 !important;
+}
