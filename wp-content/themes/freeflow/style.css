@@ -1015,8 +1015,9 @@ img.lazyloaded {
 
 .circle {
     position: absolute;
-    border: solid 1px #ccc;
+    border: solid 2px #605ed3;
     width: 60px;
     height: 60px;
     border-radius: 50%;
+    z-index: 1000;
 }
