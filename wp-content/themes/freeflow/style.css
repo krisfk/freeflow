@@ -907,3 +907,9 @@ img.lazyloaded {
 .sns-icon img.lazyloaded {
     opacity: 0 !important;
 }
+
+.banner-img {
+    display: block;
+    width: 100%;
+    height: 860px;
+}
