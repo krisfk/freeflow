@@ -429,6 +429,35 @@ get_header(); ?>
                                 src="<?php echo get_template_directory_uri(); ?>/assets/images/close-quote.png" alt="">
                         </div>
                     </div>
+
+                    <div class="feeling-div mb-4">
+
+
+                        <div class="text-start">
+                            <img class="quote open"
+                                src="<?php echo get_template_directory_uri(); ?>/assets/images/open-quote.png" alt="">
+                        </div>
+                        好可惜無上到完整實體課，不過都好開心
+                        ，最深刻嘉賓分享自愛同自我接納係一個恆常練習，同埋認識同連結多啲自己身體...
+                        <div class="text-end">
+                            <img class="quote close"
+                                src="<?php echo get_template_directory_uri(); ?>/assets/images/close-quote.png" alt="">
+                        </div>
+                    </div>
+
+                    <div class="feeling-div mb-4">
+
+
+                        <div class="text-start">
+                            <img class="quote open"
+                                src="<?php echo get_template_directory_uri(); ?>/assets/images/open-quote.png" alt="">
+                        </div>
+                        在最後成果表演中，我很享受，也為我們這一班感到自豪...
+                        <div class="text-end">
+                            <img class="quote close"
+                                src="<?php echo get_template_directory_uri(); ?>/assets/images/close-quote.png" alt="">
+                        </div>
+                    </div>
                 </div>
                 <div class="col-3">
 
