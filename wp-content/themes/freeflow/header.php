@@ -41,6 +41,8 @@
 
     <?php wp_body_open(); ?>
 
+
+
     <div class="d-none">
         <img src="http://64.227.13.14/freeflow/wp-content/themes/freeflow/assets/images/menu-arrow-blue.png" alt="">
         <img src="http://64.227.13.14/freeflow/wp-content/themes/freeflow/assets/images/menu-gradient-bg.jpg" alt="">
@@ -342,6 +344,11 @@ echo'</li>';
 
 
     <div id="page" class="site">
+
+
+        <span id="circle" class="circle"></span>
+
+
         <a class="d-none skip-link screen-reader-text"
             href="#content"><?php esc_html_e( 'Skip to content', 'freeflow' ); ?></a>
 
@@ -396,6 +403,28 @@ echo'</li>';
         }
 
         $(function() {
+
+
+            var mouseX = 0,
+                mouseY = 0;
+            var xp = 0,
+                yp = 0;
+
+            $(document).mousemove(function(e) {
+                mouseX = e.pageX - 30;
+                mouseY = e.pageY - 30;
+            });
+
+            setInterval(function() {
+                xp += ((mouseX - xp) / 6);
+                yp += ((mouseY - yp) / 6);
+                $("#circle").css({
+                    left: xp + 'px',
+                    top: yp + 'px'
+                });
+            }, 20);
+
+
 
             setInterval(() => {
                 settleBanner();
