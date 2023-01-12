@@ -71,7 +71,7 @@ get_header(); ?>
             </div>
 
 
-            <a href="javascript:void(0);" class="home-entry-link mt-4">更多課程資訊</a>
+            <a href="<?php echo get_site_url();?>/about-curriculum" class="home-entry-link mt-4">更多課程資訊</a>
 
         </div>
 
