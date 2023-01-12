@@ -232,10 +232,10 @@ echo'</li>';
 
 
 
-                $('.banner-img').css({
-                    // 'left': ($(window).width() - $('.banner-img').width()) / 2 + 'px',
-                    // 'bottom': ($(window).height() - $('.banner-img').height()) / 2 + 'px'
-                })
+                // $('.banner-img').css({
+                // 'left': ($(window).width() - $('.banner-img').width()) / 2 + 'px',
+                // 'bottom': ($(window).height() - $('.banner-img').height()) / 2 + 'px'
+                // })
                 // settleBanner();
 
 
@@ -250,13 +250,13 @@ echo'</li>';
 
         $(function() {
 
-            // setInterval(() => {
-            //     settleBanner();
-            // }, 100);
+            setInterval(() => {
+                settleBanner();
+            }, 100);
 
-            setTimeout(() => {
-                settleBanner()
-            }, 1000);
+            // setTimeout(() => {
+            //     settleBanner()
+            // }, 1000);
 
 
             // settleBanner();
