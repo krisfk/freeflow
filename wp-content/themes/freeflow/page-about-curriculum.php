@@ -415,7 +415,7 @@ get_header(); ?>
             <div class="row">
 
                 <div class="col-3">
-                    <div class="feeling-div">
+                    <div class="feeling-div mb-4">
 
 
                         <div class="text-start">
