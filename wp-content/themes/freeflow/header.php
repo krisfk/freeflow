@@ -54,6 +54,30 @@
     </div>
     <!-- <div id="wptime-plugin-preloader"></div> -->
 
+
+    <div class="lightbox-layer photo-layer">
+
+        <div class="container yellow-bg-div gx-0 terms-yellow-bg-div">
+
+
+            <div class=" row">
+
+
+                <div class="col-12">
+
+                    <a href="javascript:void(0);" class="lightbox-close-btn"></a>
+
+                </div>
+                <div class="col-12">
+                </div>
+            </div>
+        </div>
+
+
+
+    </div>
+
+
     <div class="lightbox-layer term-1">
 
 
