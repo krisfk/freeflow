@@ -446,14 +446,14 @@ echo'</li>';
                     ")";
             };
 
-            document.addEventListener("mousedown", function(e) {
-                scaleCursor(e, 0.8);
-                circle.classList.add("animate");
-            });
-            document.addEventListener("mouseup", function(e) {
-                scaleCursor(e, 1);
-                circle.classList.remove("animate");
-            });
+            // document.addEventListener("mousedown", function(e) {
+            //     scaleCursor(e, 0.8);
+            //     circle.classList.add("animate");
+            // });
+            // document.addEventListener("mouseup", function(e) {
+            //     scaleCursor(e, 1);
+            //     circle.classList.remove("animate");
+            // });
 
 
             setInterval(() => {
