@@ -862,3 +862,7 @@ a.container:hover {
     position: relative;
     top: -0.5rem;
 }
+
+.preloader-plus {
+    background-color: rgb(255 254 233 / 80%) !important;
+}
