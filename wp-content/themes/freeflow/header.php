@@ -209,7 +209,12 @@ echo'</li>';
         $(function() {
 
 
-            settleBanner();
+            // settleBanner();
+
+            $(window).load(function() {
+                alert(7);
+                // Handler for .load() called.
+            });
 
 
             $('.menu-btn').click(function() {
