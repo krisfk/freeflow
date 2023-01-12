@@ -228,9 +228,11 @@ echo'</li>';
 
         $(function() {
 
-            setTimeout(() => {
+            setInterval(() => {
                 settleBanner();
-            }, 200);
+            }, 100);
+
+            // setTimeout(() => {}, 200);
 
 
             // settleBanner();
