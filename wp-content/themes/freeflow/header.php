@@ -201,7 +201,7 @@ echo'</li>';
 
                 if ($(this).hasClass('active')) {
 
-                    $('.menu-layer').fadeIn(200);
+                    $('.menu-layer').fadeIn(500);
                 } else {
 
                     $('.menu-layer').fadeOut(0);
