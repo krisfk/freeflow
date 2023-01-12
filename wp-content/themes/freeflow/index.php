@@ -107,7 +107,9 @@ get_header(); ?>
             </div>
 
 
-            <a href="javascript:void(0);" class="home-entry-link mt-4">發掘更多律動課程</a>
+
+            <a href="<?php echo get_site_url();?>/about-curriculum" class="home-entry-link mt-4">發掘更多律動課程</a>
+
 
         </div>
 
