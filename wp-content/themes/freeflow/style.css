@@ -834,6 +834,7 @@ a.container:hover {
 
 .feeling-div {
     display: block;
+    text-align: left;
     background: #31d3cb;
     color: #fff;
     padding: 2rem;
