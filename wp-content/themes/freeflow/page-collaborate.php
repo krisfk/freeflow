@@ -25,14 +25,23 @@ get_header(); ?>
 
 
 
-<div class="banner-div">
+
+<div class="banner-div" style="background:url(http://64.227.13.14/freeflow/wp-content/uploads/2023/01/collaborate-banner-scaled.jpg);background-size: cover;
+    background-position: center center;
+    display: block;
+    width: 100%;
+    height: 860px;">
+
+
 
 
 
     <a href="<?php echo get_site_url();?>" class="freeflow-logo-a"><img
-            src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/collaborate-banner-scaled.jpg" alt=""></a>
+            src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/freeflow-logo.png" alt=""></a>
 
 </div>
+
+
 
 <div class="container yellow-bg-div gx-0 mt-120px">
 
