@@ -65,7 +65,7 @@
 
                 <div class="col-12">
 
-                    <div class="lightbox-close-btn"></div>
+                    <a href="javascript:void(0);" class="lightbox-close-btn"></a>
 
                 </div>
                 <div class="col-3">
@@ -287,67 +287,71 @@ echo'</li>';
 
         $(function() {
 
-            setInterval(() => {
-                settleBanner();
-            }, 100);
+        setInterval(() => {
+            settleBanner();
+        }, 100);
 
-            // setTimeout(() => {
-            //     settleBanner()
-            // }, 1000);
-
-
-            // settleBanner();
-            // alert(888);
-            // settleBanner();
-
-            // $(window).on("load", function() {
-            //     // alert(3);
-            //     settleBanner();
-            //     // 
-            //     // Handler for .load() called.
-            // });
+        // setTimeout(() => {
+        //     settleBanner()
+        // }, 1000);
 
 
+        // settleBanner();
+        // alert(888);
+        // settleBanner();
 
-            $('.menu-btn').click(function() {
-                $(this).toggleClass('active');
+        // $(window).on("load", function() {
+        //     // alert(3);
+        //     settleBanner();
+        //     // 
+        //     // Handler for .load() called.
+        // });
 
-                if ($(this).hasClass('active')) {
 
 
-                    $('.menu-layer').fadeIn(200);
-                    // $('.menu-layer').css({
-                    //     'opacity': '0'
-                    // });
-                    // $('.menu-layer').animate({
-                    //     'opacity': '1'
-                    // }, 200);
-                } else {
+        $('.menu-btn').click(function() {
+            $(this).toggleClass('active');
 
-                    $('.menu-layer').fadeOut(0);
+            if ($(this).hasClass('active')) {
 
-                }
-            })
 
-            $('.menu-layer-click-area').click(function() {
+                $('.menu-layer').fadeIn(200);
+                // $('.menu-layer').css({
+                //     'opacity': '0'
+                // });
+                // $('.menu-layer').animate({
+                //     'opacity': '1'
+                // }, 200);
+            } else {
+
                 $('.menu-layer').fadeOut(0);
-                $('.menu-btn').removeClass('active');
 
-            })
+            }
+        })
 
-            $('.menu-arrow').click(function() {
-                $(this).toggleClass('active');
-                if ($(this).hasClass('active')) {
+        $('.menu-layer-click-area').click(function() {
+            $('.menu-layer').fadeOut(0);
+            $('.menu-btn').removeClass('active');
 
-                    $(this).next('.level-2').fadeIn(200);
-                    // $('.menu-layer')
-                } else {
+        })
 
-                    $(this).next('.level-2').fadeOut(0);
-                    // $('.menu-layer').fadeOut(0);
+        $('.menu-arrow').click(function() {
+            $(this).toggleClass('active');
+            if ($(this).hasClass('active')) {
 
-                }
+                $(this).next('.level-2').fadeIn(200);
+                // $('.menu-layer')
+            } else {
 
-            })
+                $(this).next('.level-2').fadeOut(0);
+                // $('.menu-layer').fadeOut(0);
+
+            }
+
+        })
+
+        $('.lightbox-close-btn').click(function)({
+                $('.lightbox-layer')).fadeOut(0);
+        }))
         })
         </script>
