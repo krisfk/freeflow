@@ -39,7 +39,7 @@
 
     <?php wp_body_open(); ?>
 
-    <div id="wptime-plugin-preloader"></div>
+    <!-- <div id="wptime-plugin-preloader"></div> -->
 
 
     <div class="menu-layer">
