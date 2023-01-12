@@ -78,7 +78,8 @@ get_header(); ?>
                 賽馬會「自主．流」身體律動計劃是一個為期三年的項目，期望能建立一個關心性別議題的互助社群，過程中持續開拓新的視野和納入新的構想，讓群體中每一把獨一無二的聲音都能被聽見。
                 <br><br>
 
-                <h3 class="orange"> 我們需要熱心朋友就以下事項提供協助:</h3>
+                <span class="orange middle-size"> 我們需要熱心朋友就以下事項提供協助:</span>
+                <br>
 
                 <div class="purple">
                     舉辦工作坊 <br>
@@ -87,9 +88,9 @@ get_header(); ?>
                     圖像和平面設計
                 </div>
 
-                <h3 class="orange">
-                    如有意和我們同行或一展所長，歡迎與我們聯絡！</h3>
-
+                <span class="orange middle-size">
+                    如有意和我們同行或一展所長，歡迎與我們聯絡！</span>
+                <br>
                 <div>
                     如何參與我們的律動計劃？ <br>
                     請聯絡以下主辦機構瞭解:
