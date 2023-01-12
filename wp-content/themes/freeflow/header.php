@@ -227,8 +227,7 @@ echo'</li>';
 
             setTimeout(() => {
                 settleBanner();
-
-            }, 200);
+            }, 1);
 
 
             // settleBanner();
