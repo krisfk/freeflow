@@ -52,7 +52,7 @@ get_header(); ?>
 
             <table class="float-start">
                 <tr>
-                    <td> <img class="entry-img w-100"
+                    <td class="align-top"> <img class="entry-img w-100"
                             src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-3@2x-2.png" alt="">
 
                     </td>
@@ -114,8 +114,6 @@ get_header(); ?>
 
             </div>
 
-
-            <a href="javascript:void(0);" class="home-entry-link mt-4">更多課程資訊</a>
 
         </div>
 
