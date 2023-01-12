@@ -70,8 +70,8 @@
                 </div>
                 <div class="col-12">
 
-                    <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC01156resize.jpg"
-                        alt="">
+                    <img class="w-100 lightbox-enlarge-photo"
+                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC01156resize.jpg" alt="">
                 </div>
             </div>
         </div>
@@ -481,7 +481,10 @@ echo'</li>';
             $('.album-a').click(function() {
 
                 if ($(this).attr('rel')) {
-                    alert(6);
+                    // alert(6);
+                    $('.lightbox-layer.photo-layer').fadeIn(200);
+                    var photo_url = $('.lightbox-layer.photo-layer img').attr('rel');
+                    $('.lightbox-enlarge-photo').attr('src', photo_url);
                 }
 
 
