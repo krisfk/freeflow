@@ -84,7 +84,14 @@ get_header(); ?>
                         </a>
                     </td>
                     <td class="subtitle-td align-bottom">
-                        使 <br>命
+                        <!-- 使 <br>命 -->
+
+                        <article class="vertical-article ">
+                            <h2 class="purple">使命
+                            </h2>
+                        </article>
+
+
                     </td>
                 </tr>
             </table>
