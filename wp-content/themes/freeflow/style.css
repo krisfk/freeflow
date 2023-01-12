@@ -244,7 +244,7 @@ body {
     height: 100%;
     background-size: 100%;
     top: 555px;
-    height: calc(100% - 680px);
+    height: calc(100% - 555px);
 }
 
 .page-news .curve-bg,
