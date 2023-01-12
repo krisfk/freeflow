@@ -210,7 +210,7 @@ echo'</li>';
 
 
             // settleBanner();
-            alert(888);
+            // alert(888);
             settleBanner();
 
             $(window).on("load", function() {
