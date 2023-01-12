@@ -922,7 +922,7 @@ img.lazyloaded {
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgb(255 254 233 / 80%);
+    background: rgb(255 255 255 / 80%);
     z-index: 4000;
     display: block;
 }
