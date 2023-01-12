@@ -307,7 +307,12 @@ body {
     border-bottom: 2px solid #ff6c2f !important;
     text-decoration: none;
     line-height: 2rem;
+    transition: 0.2s all;
     /* margin: 0 0.05rem 0 0; */
+}
+
+.orange-link:hover {
+    opacity: 0.85;
 }
 
 .purple-underline {
