@@ -166,7 +166,8 @@
                     <br><br>
                     <span class="orange"> 聯絡我們</span> <br>
                     如果閣下對本私隱政策有任何疑問，閣下可以通過電子郵件聯繫我們：
-                    <a href="mailto:freeflowjc.info@gmail.com" target="_blank">freeflowjc.info@gmail.com</a>
+                    <a href="mailto:freeflowjc.info@gmail.com" target="_blank"
+                        class="orange">freeflowjc.info@gmail.com</a>
 
                 </div>
             </div>
