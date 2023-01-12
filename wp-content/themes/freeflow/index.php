@@ -84,7 +84,6 @@ get_header(); ?>
                         </a>
                     </td>
                     <td class="subtitle-td align-bottom">
-                        <!-- 使 <br>命 -->
 
                         <article class="vertical-article ">
                             <h2 class="purple">使命
@@ -142,7 +141,13 @@ get_header(); ?>
                 <tr>
 
                     <td class="subtitle-td align-bottom">
-                        信<br>念
+
+
+                        <article class="vertical-article ">
+                            <h2 class="purple">信念
+                            </h2>
+                        </article>
+
                     </td>
                     <td> <img class="entry-img"
                             src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/home-entry-2-photo.jpg" alt="">
