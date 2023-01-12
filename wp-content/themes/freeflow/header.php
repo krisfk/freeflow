@@ -213,8 +213,8 @@ echo'</li>';
 
 
                 $('.banner-img').css({
-                    'margin-left': ($(window).width() - $('.banner-img').width()) / 2 + 'px',
-                    'margin-top': ($(window).height() - $('.banner-img').height()) / 2 + 'px',
+                    'left': ($(window).width() - $('.banner-img').width()) / 2 + 'px',
+                    'top': ($(window).height() - $('.banner-img').height()) / 2 + 'px',
 
                 })
 
