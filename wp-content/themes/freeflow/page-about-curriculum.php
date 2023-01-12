@@ -535,28 +535,28 @@ get_header(); ?>
                             <img class="quote close"
                                 src="<?php echo get_template_directory_uri(); ?>/assets/images/close-quote.png" alt="">
                         </div>
-
-                        <div class="feeling-div mb-5 ">
-
-
-                            <div class="text-start">
-                                <img class="quote open"
-                                    src="<?php echo get_template_directory_uri(); ?>/assets/images/open-quote.png"
-                                    alt="">
-                            </div>
-                            在律動課上，我想起了很多關於家庭對於我作為一個女孩子的要求，以致我很介意自己做甚麼動作，而未能放開身體...
-                            <img class="quote close"
-                                src="<?php echo get_template_directory_uri(); ?>/assets/images/close-quote.png" alt="">
-                        </div>
                     </div>
 
+                    <div class="feeling-div mb-5 ">
+
+
+                        <div class="text-start">
+                            <img class="quote open"
+                                src="<?php echo get_template_directory_uri(); ?>/assets/images/open-quote.png" alt="">
+                        </div>
+                        在律動課上，我想起了很多關於家庭對於我作為一個女孩子的要求，以致我很介意自己做甚麼動作，而未能放開身體...
+                        <img class="quote close"
+                            src="<?php echo get_template_directory_uri(); ?>/assets/images/close-quote.png" alt="">
+                    </div>
                 </div>
 
             </div>
 
-
         </div>
+
+
     </div>
+</div>
 
 
 </div>
