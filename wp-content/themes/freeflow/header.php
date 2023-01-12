@@ -54,7 +54,7 @@
     </div>
     <!-- <div id="wptime-plugin-preloader"></div> -->
 
-    <div class="lightbox-layer">
+    <div class="lightbox-layer term-1">
 
 
         <div class="container yellow-bg-div gx-0 terms-yellow-bg-div">

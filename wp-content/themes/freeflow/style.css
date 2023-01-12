@@ -952,3 +952,7 @@ img.lazyloaded {
     position: relative;
     left: 5px;
 }
+
+.lightbox-layer {
+    display: none;
+}
