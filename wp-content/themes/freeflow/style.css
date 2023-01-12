@@ -859,4 +859,6 @@ a.container:hover {
 
 .quote.close {
     margin: 1rem 0 0 0;
+    position: relative;
+    top: -0.5rem;
 }
