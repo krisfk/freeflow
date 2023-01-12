@@ -35,7 +35,11 @@
 </head>
 
 <body <?php body_class(); ?>>
+
+
     <?php wp_body_open(); ?>
+
+    <div id="wptime-plugin-preloader"></div>
 
 
     <div class="menu-layer">
