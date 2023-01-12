@@ -92,6 +92,88 @@
 
     </div>
 
+    <div class="lightbox-layer term-2">
+
+
+        <div class="container yellow-bg-div gx-0 terms-yellow-bg-div">
+
+
+            <div class=" row">
+
+
+                <div class="col-12">
+
+                    <a href="javascript:void(0);" class="lightbox-close-btn"></a>
+
+                </div>
+                <div class="col-3">
+                    <h2 class="orange">私隱政策</h2>
+                </div>
+                <div class="col-9 terms-content-div">
+
+                    本私隱政策描述了我們在閣下使用服務時收集、使用和披露信息的政策和程序，並列明閣下的私隱權以及法律保障。 <br><br>
+
+                    我們會使用閣下的個人數據來提供和改進服務。通過使用服務，閣下同意按照本私隱政策收集和使用信息。 <br><br>
+
+                    <span class="middle-size purple"> 定義</span> <br>
+                    就本私隱政策而言： <br>
+                    <ul>
+                        <li><span class="orange">帳戶</span> 是指為閣下創建的用於使用我們的服務或我們的部分服務的唯一帳戶。</li>
+                        <li><span class="orange">公司</span> (在本協議中稱為“公司”、“我們”、“我們”或“我們的”)是指賽馬會「自主・流」身體律 動計劃。</li>
+                        <li><span class="orange">Cookie</span> 是網站放置在閣下的計算機、移動設備或任何其他設備上的小文件，其中包含閣下在該網站 的多種用途中的瀏覽歷史詳細信息。
+                        </li>
+                        <li> <span class="orange">國家</span> 是指：中國香港特別行政區。</li>
+                        <li> <span class="orange">設備</span> 是指可以訪問服務的任何設備，例如計算機、手機或數字平板電腦。</li>
+                        <li><span class="orange">個人數據</span> 是與已識別或可識別個人相關的任何信息。</li>
+                        <li> <span class="orange">服務</span> 是指網站。</li>
+                        <li><span class="orange">服務提供商</span> 是指代表公司處理數據的任何自然人或法人。指本公司僱用的第三方公司或個人，以促
+                            進本服務、代表本公司提供本服務、執行與本服務相關的服務或協助本公司分析本服務的使用情況。</li>
+                        <li> <span class="orange">第三方社交媒體服務</span> 是指用戶可以登錄或創建帳戶以使用服務的任何網站或任何社交網絡網站。</li>
+                        <li><span class="orange">使用數據</span> 是指自動收集的數據，無論是通過使用服務還是從服務基礎設施本身生成的(例如，頁面訪 問的持續時間)。</li>
+                        <li> <span class="orange">網站</span> 是指JCFreeFlow，可從 http://www.jcfreeflow.hk</li>
+                        <li> <span class="orange">閣下</span> 是指使用服務的個人，或代表該個人訪問或使用服務的公司或其他法律實體(如適用)。</li>
+                    </ul>
+
+                    <span class="middle-size purple">
+                        數據收集、使用和保留</span> <br>
+
+                    <span class="orange">個人數據</span> <br>
+
+                    在使用我們的服務時，我們可能會要求閣下向我們提供某些可用於聯繫或識別閣下的個人身份信息。使用服務時會自動收集使用數據。<br><br>
+
+                    使用數據可能包括閣下設備的互聯網協議地址 (例如 IP
+                    地址)、瀏覽器類型、瀏覽器版本、閣下使用的我們服務的頁面、使用的時間和日期、在這些頁面上花費的時間、唯一設備等信息標識符和其他診斷數據。<br><br>
+
+                    當閣下使用服務時，我們可能會自動收集某些信息，包括但不限於閣下使用的手持設備類型、閣下的手持設備 ID、 IP 地址、操作系統、互聯網瀏覽器類型和相關數據。<br><br>
+
+                    當閣下使用我們的服務或通過手提設備使用服務時，我們還可能收集閣下的瀏覽器發送的信息<br><br>。
+
+                    <span class="orange">來自第三方社交媒體服務的信息</span> <br>
+                    如果閣下決定通過第三方社交媒體服務註冊或以其他方式授予我們使用第三方社交媒體服務的權限，我們可能會收集閣下與第三方社交媒體服務帳戶相關聯的個人數據，例如閣下的姓名、電子郵件地址、活動或與該帳戶關聯的聯繫人列表。<br><br>
+
+                    閣下還可以選擇通過第三方社交媒體服務的帳戶與公司分享其他信息。如果閣下選擇在註冊期間或以其他方式提供此類信息和個人數據，即表示閣下允許公司以符合本私隱政策的方式使用、共享和存儲這些信息和個人數據。<br><br>
+
+                    <span class="orange"> Cookies</span><br>
+                    我們使用 Cookies 和類似的跟踪技術來跟踪活動在我們的服務上並存儲某些信息。使用的跟踪技術是用於收集和跟踪信息以及改進和分析我們的服務的信標、標籤和腳本。
+                    <br><br>
+                    <span class="orange">個人資料收集和使用</span><br>
+                    公司將僅在本私隱政策中規定的目的所需的時間內保留閣下的個人資料。我們將在必要的範圍內保留和使用閣下的個人數據，以履行我們的法律義務（例如，如果我們需要保留數據以遵守適用的法律）、解決爭議並執行我們的法律協議和政策。
+                    <br><br>
+                    公司還將保留使用數據用於內部分析。使用數據通常會保留較短的時間，除非該數據用於加強安全性或改進我們服務的功能，或者我們在法律上有義務將這些數據保留更長的時間。
+                    <br><br>
+                    <span class="orange">本私隱政策的更改</span> <br>
+                    我們會更新私隱政策，建議閣下定期查看本私隱政策以了解任何更改。本私隱政策的更改一經發佈在此頁面上即生效。
+                    <br><br>
+                    <span class="orange"> 聯絡我們</span> <br>
+                    如果閣下對本私隱政策有任何疑問，閣下可以通過電子郵件聯繫我們：
+                    <a href="mailto:freeflowjc.info@gmail.com" target="_blank">freeflowjc.info@gmail.com</a>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+
     <div class="menu-layer">
 
         <div class="menu-div">
@@ -353,6 +435,19 @@ echo'</li>';
             $('.lightbox-close-btn').click(function() {
 
                 $('.lightbox-layer').fadeOut(0);
+            })
+
+            $('.term-1-btn').click(function() {
+
+                $('.lightbox-layer.term-1').fadeIn(200);
+
+            })
+
+            $('.term-2-btn').click(function() {
+
+                $('.lightbox-layer.term-2').fadeIn(200);
+
+
             })
         })
         </script>

@@ -99,8 +99,8 @@
 
                 <ul class="footer-menu-ul p-0 float-start mt-4">
                     <li>&copy; 2022 JC FreeFlow</li>
-                    <li><a href="javascript:void(0);">使用條款</a></li>
-                    <li><a href="javascript:void(0);">私隱政策</a></li>
+                    <li><a href="javascript:void(0);" class="term-1-btn">使用條款</a></li>
+                    <li><a href="javascript:void(0);" class="term-2-btn">私隱政策</a></li>
                 </ul>
 
             </div>
