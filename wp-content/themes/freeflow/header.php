@@ -257,6 +257,7 @@ echo'</li>';
 
         function settleBanner() {
 
+            alert(4);
             if ($('.banner-img').width() > $(window).width()) {
 
                 $('.banner-img').css({
