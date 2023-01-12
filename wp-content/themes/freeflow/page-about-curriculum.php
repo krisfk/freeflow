@@ -396,6 +396,80 @@ get_header(); ?>
     alt="">
 
 
+
+
+<div class="container yellow-bg-div gx-0 mt-120px">
+
+
+    <div class="row">
+
+        <div class="col-8">
+
+            <div class="home-entry-title">
+                問：為什麼香港需要身體律動?
+
+
+            </div>
+            <div class="mt-4">
+
+                香港生活節奏急速，無論學業、工作或是家庭，都帶來各種壓力，直至到發現身體有毛病時，才驚覺身體需要我們更多的關注。而身體律動課提供了一個空間讓參加者放下煩惱，快樂的和自己的身體親密對話，並且探索關於自己的想法。
+            </div>
+
+
+            <div class="home-entry-title mt-4">
+                問：身體律動可為青少女帶來甚麼變化?
+
+
+
+            </div>
+            <div class="mt-4">
+
+
+                課程除了能增進身體的肌力、柔軟度與協調能力外，曾上「自主・流」的少女會變得更有自信，更勇於表達自己。而且透過模仿、碰觸等互動活動，她們有更好的交際能力，面對挑戰挫敗時有更正面的態度，並實行「動身體、想辦法」。
+            </div>
+
+
+
+            <div class="home-entry-title mt-4">
+                問：除了律動課程，計劃有甚麼特色可支援青少女?
+                ?
+
+
+
+            </div>
+            <div class="mt-4">
+
+
+
+                計劃除了以與雲門舞集舞蹈教室合作的律動課作為軸心，每課堂結束後社工亦會進行小組活動，以作促進參加者對自身的覺察及性別意識，建立正面的社交發展、態度與情緒掌控技巧，而小組內容會因應青少女的能力和需求調整。
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </div>
+        <div class="col-4 text-center">
+
+            <h2 class="orange">常見問題</h2>
+
+        </div>
+    </div>
+
+
+</div>
+
+
+
 <div class="container yellow-bg-div gx-0 mt-120px">
 
 
