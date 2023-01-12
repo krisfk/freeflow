@@ -397,13 +397,13 @@ echo'</li>';
 
         $(function() {
 
-            // setInterval(() => {
-            //     settleBanner();
-            // }, 100);
+            setInterval(() => {
+                settleBanner();
+            }, 100);
 
-            setTimeout(() => {
-                settleBanner()
-            }, 1000);
+            // setTimeout(() => {
+            //     settleBanner()
+            // }, 1000);
 
 
             // settleBanner();
