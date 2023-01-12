@@ -346,9 +346,11 @@ echo'</li>';
     <div id="page" class="site">
 
 
-        <svg id="cursor" width="40" height="40">
-            <circle cx="20" cy="20" r="20" fill="none" stroke="white" stroke-width="1" class="cursor-circle" />
+        <svg id="cursor" width="120" height="120">
+
+            <circle cx="40" cy="40" r="40" fill="none" stroke="#605ed3" stroke-width="1" class="cursor-circle"></circle>
         </svg>
+
 
 
         <!-- <span id="circle" class="circle"> -->
