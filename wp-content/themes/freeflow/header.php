@@ -424,9 +424,9 @@ echo'</li>';
 
             let setCursorPosition = function(e) {
 
-                $('.cursor').css({
-                    'opacity': '1'
-                });
+                // $('.cursor').css({
+                //     'opacity': '1'
+                // });
                 let xPosition = e.clientX - cursor.clientWidth / 2 + "px";
                 let yPosition = e.clientY - cursor.clientHeight / 2 + "px";
                 cursor.style.transform =
