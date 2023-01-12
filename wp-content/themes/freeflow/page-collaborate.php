@@ -87,6 +87,7 @@ get_header(); ?>
                     影音創作<br>
                     圖像和平面設計
                 </div>
+                <br>
 
                 <span class="orange middle-size">
                     如有意和我們同行或一展所長，歡迎與我們聯絡！</span>
