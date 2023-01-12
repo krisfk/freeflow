@@ -936,5 +936,6 @@ img.lazyloaded {
 }
 
 .terms-content-div {
+    overflow: auto;
     /* max-height: 10vh; */
 }
