@@ -1012,3 +1012,11 @@ img.lazyloaded {
 ::-webkit-scrollbar-thumb:hover {
     background: #555;
 }
+
+.circle {
+    position: absolute;
+    border: solid 1px #ccc;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
