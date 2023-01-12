@@ -206,6 +206,19 @@ echo'</li>';
         <?php //get_template_part( 'template-parts/header/site-header' ); ?>
 
         <script type="text/javascript">
+        function settleBanner() {
+
+            // alert(4);
+            if ($('.banner-img').width() > $(window).width()) {
+
+                // alert(65);
+                alert(($(window).width() - $('.banner-img').width()) / 2)
+                $('.banner-img').css({
+                    'margin-left': ($(window).width() - $('.banner-img').width()) / 2 + 'px'
+                })
+            }
+        }
+
         $(function() {
 
 
@@ -263,18 +276,4 @@ echo'</li>';
 
             })
         })
-
-
-        function settleBanner() {
-
-            // alert(4);
-            if ($('.banner-img').width() > $(window).width()) {
-
-                // alert(65);
-                alert(($(window).width() - $('.banner-img').width()) / 2)
-                $('.banner-img').css({
-                    'margin-left': ($(window).width() - $('.banner-img').width()) / 2 + 'px'
-                })
-            }
-        }
         </script>
