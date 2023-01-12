@@ -841,6 +841,10 @@ a.container:hover {
     border-radius: 3rem;
 }
 
+.feeling-div.big-text {
+    font-size: 34px;
+}
+
 .quote {
     height: 27px;
     border-radius: 0px;
