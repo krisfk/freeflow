@@ -211,10 +211,11 @@ echo'</li>';
 
             // settleBanner();
 
-            $(window).load(function() {
-                alert(7);
+            $(window).on("load", function() {
+                alert(3);
                 // Handler for .load() called.
             });
+
 
 
             $('.menu-btn').click(function() {
