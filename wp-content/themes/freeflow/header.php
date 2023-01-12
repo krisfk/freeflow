@@ -421,7 +421,7 @@ echo'</li>';
             setTimeout(() => {
 
 
-                $('#cursor').fadeIn(500);
+                $('#cursor').fadeIn(200);
 
             }, 2000);
 
