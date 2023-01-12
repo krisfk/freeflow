@@ -412,7 +412,24 @@ get_header(); ?>
         <div class="col-12 text-center">
 
 
-            fdsf
+            <div class="row">
+
+                <div class="col-3">
+                    <div class="feeling-div">
+
+                        這是第一次我親身感覺到身體與我的連結，原來身體真的會告訴我們很多事，無論是回憶，或是自我形象。這是一次很好的personal growth...
+                    </div>
+                </div>
+                <div class="col-3">
+
+                </div>
+                <div class="col-3">
+
+                </div>
+
+            </div>
+
+
         </div>
     </div>
 

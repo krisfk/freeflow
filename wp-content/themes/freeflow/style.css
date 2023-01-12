@@ -832,10 +832,8 @@ a.container:hover {
     opacity: 0.85;
 }
 
-.masonry-column {
-    padding: 0 1px;
-}
-
-.masonry-grid>div .thumbnail {
-    margin: 5px 1px;
+.feeling-div {
+    display: block;
+    background: #31d3cb;
+    color: #fff;
 }
