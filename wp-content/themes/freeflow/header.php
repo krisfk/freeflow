@@ -57,7 +57,7 @@
 
     <div class="lightbox-layer photo-layer d-block">
 
-        <div class="container yellow-bg-div gx-0 terms-yellow-bg-div">
+        <div class="container yellow-bg-div gx-0 photo-yellow-bg-div">
 
 
             <div class="row">
