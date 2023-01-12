@@ -31,8 +31,8 @@ get_header(); ?>
     height: 860px; -->
 <div class="home-banner-div" style="">
 
-    <img src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/home-banner-2-scaled.jpg" alt=""
-        style="display: block;height: 100vh">
+    <img class="banner-img" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/home-banner-2-scaled.jpg"
+        alt="">
 
     <div class="icons-div">
 
