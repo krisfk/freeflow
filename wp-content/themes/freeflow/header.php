@@ -477,5 +477,14 @@ echo'</li>';
 
 
             })
+
+            $('.album-a').click(function() {
+
+                if ($(this).attr('rel')) {
+                    alert(6);
+                }
+
+
+            })
         })
         </script>
