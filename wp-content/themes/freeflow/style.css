@@ -1013,6 +1013,11 @@ img.lazyloaded {
     background: #555;
 }
 
+a {
+    position: relative;
+    z-index: 2000;
+}
+
 .circle {
     position: absolute;
     border: solid 2px #605ed3;
