@@ -423,6 +423,10 @@ echo'</li>';
             let circle = document.querySelector(".cursor-circle");
 
             let setCursorPosition = function(e) {
+
+                $('.cursor').css({
+                    'opacity': '1'
+                });
                 let xPosition = e.clientX - cursor.clientWidth / 2 + "px";
                 let yPosition = e.clientY - cursor.clientHeight / 2 + "px";
                 cursor.style.transform =
@@ -434,6 +438,8 @@ echo'</li>';
             };
 
             document.addEventListener("mousemove", e => setCursorPosition(e));
+
+
             let scaleCursor = function(e, scale) {
                 setCursorPosition(e);
                 cursor.style.transform =
