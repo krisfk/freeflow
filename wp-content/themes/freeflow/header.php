@@ -214,7 +214,7 @@ echo'</li>';
             settleBanner();
 
             $(window).on("load", function() {
-                alert(3);
+                // alert(3);
                 settleBanner();
                 // 
                 // Handler for .load() called.
@@ -271,6 +271,7 @@ echo'</li>';
             if ($('.banner-img').width() > $(window).width()) {
 
                 // alert(65);
+                alert(($(window).width() - $('.banner-img').width()) / 2)
                 $('.banner-img').css({
                     'margin-left': ($(window).width() - $('.banner-img').width()) / 2 + 'px'
                 })
