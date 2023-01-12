@@ -445,7 +445,7 @@ get_header(); ?>
                         </div>
                     </div>
 
-                    <div class="feeling-div mb-4">
+                    <div class="feeling-div mb-4 big-text">
 
 
                         <div class="text-start">
