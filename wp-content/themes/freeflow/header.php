@@ -57,7 +57,7 @@
 
     <div class="menu-layer">
 
-        <div class="menu-div d-none">
+        <div class="menu-div">
 
             <ul class="lang-switcher">
                 <li class="me-3"><a class="active" href="javascript:void(0);">中</a></li>
