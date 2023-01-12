@@ -209,6 +209,9 @@ echo'</li>';
         $(function() {
 
 
+            settleBanner();
+
+
             $('.menu-btn').click(function() {
                 $(this).toggleClass('active');
 
@@ -250,4 +253,12 @@ echo'</li>';
 
             })
         })
+
+
+        function settleBanner() {
+
+            if ($('.banner-img').width() > $(window).width()) {
+
+            }
+        }
         </script>
