@@ -924,5 +924,5 @@ img.lazyloaded {
     height: 100%;
     background: rgb(255 254 233 / 80%);
     z-index: 1000;
-    display: none;
+    display: block;
 }
