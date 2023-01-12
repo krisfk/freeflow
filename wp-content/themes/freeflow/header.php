@@ -441,6 +441,8 @@ echo'</li>';
 
 
             let scaleCursor = function(e, scale) {
+
+                $('#cursor').fadeIn(500);
                 setCursorPosition(e);
                 cursor.style.transform =
                     "translate(" +
