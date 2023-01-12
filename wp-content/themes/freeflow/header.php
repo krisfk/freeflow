@@ -57,7 +57,7 @@
     <div class="lightbox-layer">
 
 
-        <div class="yellow-bg-div gx-0 mt-120px"">
+        <div class="container yellow-bg-div gx-0 mt-120px"">
 
 
             <div class=" row">
