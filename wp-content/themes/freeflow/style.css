@@ -926,3 +926,7 @@ img.lazyloaded {
     z-index: 4000;
     display: block;
 }
+
+.terms-yellow-bg-div {
+    max-height: 80%;
+}
