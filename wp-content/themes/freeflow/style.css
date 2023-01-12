@@ -945,10 +945,15 @@ img.lazyloaded {
     position: relative;
     top: 50%;
     transform: translate(0, -50%);
+    max-width: 70%;
 }
 
 .photo-yellow-bg-div img {
     border-radius: 0 !important;
+    max-height: 70vh;
+    display: block;
+    /* text-align: center; */
+    margin: 0 auto;
 }
 
 .terms-yellow-bg-div div {
