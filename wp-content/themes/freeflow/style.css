@@ -843,6 +843,7 @@ a.container:hover {
 
 .feeling-div.big-text {
     font-size: 34px;
+    line-height: 3.5rem;
 }
 
 .quote {
