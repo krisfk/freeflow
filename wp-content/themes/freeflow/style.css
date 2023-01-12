@@ -491,6 +491,10 @@ h2 {
     right: 35px;
 }
 
+.home .banner-img {
+    z-index: -1000;
+}
+
 .freeflow-logo-a {
     position: absolute;
     top: 45px;
