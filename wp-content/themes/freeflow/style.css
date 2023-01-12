@@ -1024,13 +1024,18 @@ a {
     transform: none;
     transform-origin: center center;
     transition: all 300ms ease-out;
-    padding: 2px;
+    padding: 0;
+    z-index: 1000;
 }
 
 .cursor-circle {
     stroke-dasharray: 500;
     stroke-dashoffset: 1000;
     transition: stroke-dashoffset 5s ease-out;
+    /* left: 50%; */
+    /* position: relative; */
+    /* margin: 0 0 0 17px; */
+    /* display: block; */
 }
 
 .cursor-circle.animate {
