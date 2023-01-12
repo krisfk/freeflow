@@ -211,11 +211,14 @@ echo'</li>';
             // alert(4);
             if ($('.banner-img').width() > $(window).width()) {
 
-                // alert(65);
-                // alert(($(window).width() - $('.banner-img').width()) / 2)
+
                 $('.banner-img').css({
-                    'margin-left': ($(window).width() - $('.banner-img').width()) / 2 + 'px'
+                    'margin-left': ($(window).width() - $('.banner-img').width()) / 2 + 'px',
+                    'margin-top': ($(window).height() - $('.banner-img').height()) / 2 + 'px',
+
                 })
+
+
             }
         }
 
