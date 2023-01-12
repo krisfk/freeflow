@@ -261,7 +261,7 @@ echo'</li>';
             if ($('.banner-img').width() > $(window).width()) {
 
                 $('.banner-img').css({
-                    'left': ($(window).width() - $('.banner-img').width()) / 2 + 'px'
+                    'margin-left': ($(window).width() - $('.banner-img').width()) / 2 + 'px'
                 })
             }
         }
