@@ -423,7 +423,7 @@ echo'</li>';
 
                 $('#cursor').fadeIn(1000);
 
-            }, 200);
+            }, 1000);
 
 
             let cursor = document.getElementById("cursor");
