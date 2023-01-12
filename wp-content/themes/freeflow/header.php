@@ -219,19 +219,23 @@ echo'</li>';
             }
         }
 
+        window.onload = function() {
+            settleBanner()
+        }
+
         $(function() {
 
 
             // settleBanner();
             // alert(888);
-            settleBanner();
+            // settleBanner();
 
-            $(window).on("load", function() {
-                // alert(3);
-                settleBanner();
-                // 
-                // Handler for .load() called.
-            });
+            // $(window).on("load", function() {
+            //     // alert(3);
+            //     settleBanner();
+            //     // 
+            //     // Handler for .load() called.
+            // });
 
 
 
