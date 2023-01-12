@@ -41,7 +41,7 @@
 
     <?php wp_body_open(); ?>
 
-    <div class="d-none;">
+    <div class="d-none">
         <img src="http://64.227.13.14/freeflow/wp-content/themes/freeflow/assets/images/menu-arrow-blue.png" alt="">
         <img src="http://64.227.13.14/freeflow/wp-content/themes/freeflow/assets/images/menu-gradient-bg.jpg" alt="">
         <img src="http://64.227.13.14/freeflow/wp-content/themes/freeflow/assets/images/menu-btn-close-blue.png" alt="">
