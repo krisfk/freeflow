@@ -250,11 +250,13 @@ echo'</li>';
 
         $(function() {
 
-            setInterval(() => {
-                settleBanner();
-            }, 100);
+            // setInterval(() => {
+            //     settleBanner();
+            // }, 100);
 
-            // setTimeout(() => {}, 200);
+            setTimeout(() => {
+                settleBanner()
+            }, 1000);
 
 
             // settleBanner();
