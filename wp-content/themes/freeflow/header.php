@@ -220,8 +220,9 @@ echo'</li>';
         }
 
         window.onload = function() {
-            settleBanner()
+            settleBanner();
         }
+        settleBanner();
 
         $(function() {
 
