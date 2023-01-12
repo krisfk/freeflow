@@ -269,6 +269,17 @@ body {
     top: 680px;
 }
 
+.page-collaborate .curve-bg {
+    background: url(./assets/images/curve-grey.png);
+    background-size: 100% auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: calc(100% - 680px);
+    top: 680px;
+}
+
 .curve-bg {
     /* display: none; */
     background: url(./assets/images/curve-2.png);
