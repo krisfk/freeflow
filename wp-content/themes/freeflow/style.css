@@ -611,6 +611,7 @@ h2 {
     background: rgb(255 254 233 / 80%);
     z-index: 1000;
     display: none;
+    opacity: 0;
 }
 
 .menu-div {
