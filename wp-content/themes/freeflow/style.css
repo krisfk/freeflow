@@ -930,3 +930,7 @@ img.lazyloaded {
 .terms-yellow-bg-div {
     max-height: 80%;
 }
+
+.terms-yellow-bg-div div {
+    max-height: 100%;
+}
