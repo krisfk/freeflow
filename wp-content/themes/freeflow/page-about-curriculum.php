@@ -405,7 +405,7 @@ get_header(); ?>
 
         <div class="col-12 text-end">
 
-            <h2 class="orange">常見問題</h2>
+            <h2 class="orange">參加計劃後的感想</h2>
 
 
         </div>
