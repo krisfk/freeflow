@@ -63,6 +63,11 @@
             <div class=" row">
 
 
+                <div class="col-12">
+
+                    <div class="lightbox-close-btn"></div>
+
+                </div>
                 <div class="col-3">
                     <h2 class="orange">使用條款</h2>
                 </div>

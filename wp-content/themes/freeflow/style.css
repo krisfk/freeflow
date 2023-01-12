@@ -942,3 +942,10 @@ img.lazyloaded {
     overflow: auto;
     /* max-height: 10vh; */
 }
+
+.lightbox-close-btn {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: url(./assets/images/menu-btn-close.png) no-repeat;
+}
