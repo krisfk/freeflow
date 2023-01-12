@@ -223,9 +223,14 @@ echo'</li>';
 
 
                 $('.banner-img').css({
-                    'width': '100%',
+                    'width': '100%'
+                });
+
+                $('.banner-img').css({
                     'height': 'auto'
                 });
+
+
 
                 $('.banner-img').css({
                     'left': ($(window).width() - $('.banner-img').width()) / 2 + 'px',
