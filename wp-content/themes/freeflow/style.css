@@ -209,6 +209,7 @@ body {
     color: #808080 !important;
     border-bottom: 2px solid #ff6c2f !important;
     font-weight: bold;
+    transition: 0.2s all;
 }
 
 .home-entry-link:hover {
