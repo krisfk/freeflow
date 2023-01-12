@@ -951,6 +951,7 @@ img.lazyloaded {
     background-size: contain;
     position: relative;
     left: 5px;
+    margin: 1rem 0 1rem 0;
 }
 
 .lightbox-layer {
