@@ -418,6 +418,13 @@ echo'</li>';
 
         $(function() {
 
+            setTimeout(() => {
+
+
+                $('#cursor').fadeIn(500);
+
+            }, 2000);
+
 
             let cursor = document.getElementById("cursor");
             let circle = document.querySelector(".cursor-circle");
@@ -442,7 +449,6 @@ echo'</li>';
 
             let scaleCursor = function(e, scale) {
 
-                $('#cursor').fadeIn(500);
                 setCursorPosition(e);
                 cursor.style.transform =
                     "translate(" +
