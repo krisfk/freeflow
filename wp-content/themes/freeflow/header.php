@@ -214,7 +214,14 @@ echo'</li>';
 
                 if ($(this).hasClass('active')) {
 
-                    // $('.menu-layer').fadeIn(500);
+
+                    $('.menu-layer').fadeIn(0);
+                    $('.menu-layer').css({
+                        'opacity': '0'
+                    });
+                    $('.menu-layer').animate({
+                        'opacity': '1'
+                    }, 200);
                 } else {
 
                     $('.menu-layer').fadeOut(0);
