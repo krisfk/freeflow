@@ -215,13 +215,13 @@ echo'</li>';
                 if ($(this).hasClass('active')) {
 
 
-                    // $('.menu-layer').fadeIn(0);
-                    $('.menu-layer').css({
-                        'opacity': '0'
-                    });
-                    $('.menu-layer').animate({
-                        'opacity': '1'
-                    }, 200);
+                    $('.menu-layer').hide().fadeIn(5000);
+                    // $('.menu-layer').css({
+                    //     'opacity': '0'
+                    // });
+                    // $('.menu-layer').animate({
+                    //     'opacity': '1'
+                    // }, 200);
                 } else {
 
                     $('.menu-layer').fadeOut(0);
