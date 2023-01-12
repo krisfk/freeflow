@@ -929,6 +929,9 @@ img.lazyloaded {
 
 .terms-yellow-bg-div {
     max-height: 80%;
+    position: relative;
+    top: 50%;
+    transform: translate(0, -50%);
 }
 
 .terms-yellow-bg-div div {
