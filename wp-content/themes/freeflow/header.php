@@ -212,18 +212,16 @@ echo'</li>';
             if ($('.banner-img').width() > $(window).width()) {
 
                 // alert(65);
-                alert(($(window).width() - $('.banner-img').width()) / 2)
+                // alert(($(window).width() - $('.banner-img').width()) / 2)
                 $('.banner-img').css({
                     'margin-left': ($(window).width() - $('.banner-img').width()) / 2 + 'px'
                 })
             }
         }
 
-        window.unload = function() {}
         window.onload = function() {
             settleBanner();
         }
-        settleBanner();
 
         $(function() {
 
