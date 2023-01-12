@@ -55,7 +55,7 @@
     <!-- <div id="wptime-plugin-preloader"></div> -->
 
 
-    <div class="lightbox-layer photo-layer d-block">
+    <div class="lightbox-layer photo-layer">
 
         <div class="container yellow-bg-div gx-0 photo-yellow-bg-div">
 
