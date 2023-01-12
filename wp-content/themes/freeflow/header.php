@@ -235,8 +235,10 @@ echo'</li>';
                 $('.banner-img').css({
                     'left': ($(window).width() - $('.banner-img').width()) / 2 + 'px',
                     'bottom': ($(window).height() - $('.banner-img').height()) / 2 + 'px',
-
                 })
+                // settleBanner();
+
+
 
 
             }
