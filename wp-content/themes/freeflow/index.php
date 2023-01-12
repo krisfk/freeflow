@@ -34,11 +34,11 @@ get_header(); ?>
                 <td>主辦機構</td>
             </tr>
             <tr>
-                <td><a href="javascript:void(0);"><img class="top-icon-img"
+                <td><a href="https://www.caritas.org.hk/zh/service/youth" target="_blank"><img class="top-icon-img"
                             src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/top-icon-1.png" alt=""></a><a
-                        href="javascript:void(0);"><img class="top-icon-img"
+                        href="https://www.cys.org.hk/" target="_blank"><img class="top-icon-img"
                             src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/top-icon-2.png" alt=""></a><a
-                        href="javascript:void(0);"><img class="top-icon-img"
+                        href="https://teenskey.org/en/" target="_blank"><img class="top-icon-img"
                             src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/top-icon-3.png" alt=""></a>
                 </td>
             </tr>
@@ -48,7 +48,7 @@ get_header(); ?>
                 <td>捐助機構</td>
             </tr>
             <tr>
-                <td><a href="javascript:void(0);"><img class="top-icon-img"
+                <td><a href="https://charities.hkjc.com/" target="_blank"><img class="top-icon-img"
                             src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/top-icon-4.png" alt=""></a>
                 </td>
             </tr>
