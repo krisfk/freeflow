@@ -232,6 +232,8 @@ body {
 
 #page {
     position: relative;
+    width: 100vw;
+    overflow: hidden;
 }
 
 .home .curve-bg {
