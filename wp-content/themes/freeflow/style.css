@@ -880,3 +880,9 @@ a.container:hover {
     border-top-color: transparent !important;
     border-radius: 50% !important;
 }
+
+.preloader-plus .prog-bar-bg {
+    height: 5px;
+    background-color: transparent !important;
+    /* background-color: #919191; */
+}
