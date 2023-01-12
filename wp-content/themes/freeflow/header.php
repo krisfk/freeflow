@@ -54,6 +54,11 @@
     </div>
     <!-- <div id="wptime-plugin-preloader"></div> -->
 
+    <div class="lightbox-layer">
+
+
+
+    </div>
 
     <div class="menu-layer">
 

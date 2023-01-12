@@ -915,3 +915,14 @@ img.lazyloaded {
     /* width: 100%; */
     height: 860px;
 }
+
+.lightbox-layer {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgb(255 254 233 / 80%);
+    z-index: 1000;
+    display: none;
+}
