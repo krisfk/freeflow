@@ -37,9 +37,10 @@ $(function() {
         yp = 0;
 
     $(document).mousemove(function(e) {
-        console.log(5);
+        // console.log(5);
         mouseX = e.pageX - 30;
         mouseY = e.pageY - 30;
+        console.log(mouseX + ' ' + mouseY);
     });
 
     setInterval(function() {
