@@ -222,7 +222,10 @@ echo'</li>';
             } else {
 
 
-                $('.banner-img').width($(window).width());
+                $('.banner-img').css({
+                    'width': '100%',
+                    'height': 'auto'
+                });
 
                 $('.banner-img').css({
                     'left': ($(window).width() - $('.banner-img').width()) / 2 + 'px',
