@@ -947,5 +947,6 @@ img.lazyloaded {
     display: inline-block;
     width: 20px;
     height: 20px;
-    background: url(./assets/images/menu-btn-close.png) no-repeat;
+    background: url(./assets/images/menu-btn-close-blue.png) no-repeat;
+    background-size: contain;
 }
