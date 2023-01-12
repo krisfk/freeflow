@@ -424,12 +424,12 @@ echo'</li>';
 
             let setCursorPosition = function(e) {
                 let xPosition = e.clientX - cursor.clientWidth / 2 + "px";
-                let yPosition = e.clientY - cursor.clientHeight / 2 - 10 + "px";
+                let yPosition = e.clientY - cursor.clientHeight / 2 + "px";
                 cursor.style.transform =
                     "translate(" + xPosition + "," + yPosition + ") scale(1)";
                 return {
                     x: xPosition,
-                    y: yPosition
+                    y: yPosition - 10
                 };
             };
 
