@@ -461,6 +461,52 @@ get_header(); ?>
                 </div>
                 <div class="col-4">
 
+                    <div class="feeling-div mb-5 big-text">
+
+
+                        <div class="text-start">
+                            <img class="quote open"
+                                src="<?php echo get_template_directory_uri(); ?>/assets/images/open-quote.png" alt="">
+                        </div>
+                        很有意義的活動，促進與不同人的交流...
+                        <div class="text-end">
+                            <img class="quote close"
+                                src="<?php echo get_template_directory_uri(); ?>/assets/images/close-quote.png" alt="">
+                        </div>
+                    </div>
+
+                    <div class="feeling-div mb-5">
+
+
+                        <div class="text-start">
+                            <img class="quote open"
+                                src="<?php echo get_template_directory_uri(); ?>/assets/images/open-quote.png" alt="">
+                        </div>
+                        經過身體律動課後，以及其他課程，我感受到身體對舞動的熱情，因而我自己也跟老師學跳舞並與朋友合辦表演。 <br>
+                        以往我一直都認為自己的身體過於僵硬，未能做跳舞演出，但原來我也有我可以做到的事，只要我享受這個過程，一定會是一個精彩的演出...
+                        <div class="text-end">
+                            <img class="quote close"
+                                src="<?php echo get_template_directory_uri(); ?>/assets/images/close-quote.png" alt="">
+                        </div>
+                    </div>
+
+                    <div class="feeling-div mb-5">
+
+
+                        <div class="text-start">
+                            <img class="quote open"
+                                src="<?php echo get_template_directory_uri(); ?>/assets/images/open-quote.png" alt="">
+                        </div>
+                        很喜歡這個計劃，很有意籤，讓我更了解自己，更重要的是更愛自己。 <br>
+                        我從來沒有想像我一直想倡導的理念能在香港推廣... <div class="text-end">
+                            <img class="quote close"
+                                src="<?php echo get_template_directory_uri(); ?>/assets/images/close-quote.png" alt="">
+                        </div>
+                    </div>
+
+
+
+
                 </div>
                 <div class="col-4">
 
