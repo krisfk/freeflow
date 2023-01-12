@@ -181,7 +181,7 @@ body {
 
 .yellow-bg-div img {
     display: block;
-    border-radius: 3rem;
+    border-radius: 0rem;
 }
 
 .home-entry-title {
@@ -836,4 +836,19 @@ a.container:hover {
     display: block;
     background: #31d3cb;
     color: #fff;
+    padding: 2rem;
+}
+
+.quote {
+    height: 27px;
+    border-radius: 0px;
+    display: block;
+}
+
+.quote.open {
+    margin: 0 0 1rem 0;
+}
+
+.quote.close {
+    margin: 1rem 0 0 0;
 }
