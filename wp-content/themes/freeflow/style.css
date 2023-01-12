@@ -871,6 +871,7 @@ a.container:hover {
     border-radius: 0px;
     display: inline-block !important;
     /* display: block; */
+    border-radius: 0px !important;
 }
 
 .quote.open {
