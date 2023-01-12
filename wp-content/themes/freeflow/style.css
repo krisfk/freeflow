@@ -842,6 +842,7 @@ a.container:hover {
 .quote {
     height: 27px;
     border-radius: 0px;
+    display: inline-block !important;
     /* display: block; */
 }
 
