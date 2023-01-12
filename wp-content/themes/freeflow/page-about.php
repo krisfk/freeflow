@@ -32,6 +32,16 @@ get_header(); ?>
     <a href="<?php echo get_site_url();?>" class="freeflow-logo-a"><img
             src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/freeflow-logo.png" alt=""></a>
 
+    <img style=" display: block;
+    width: 100%;
+    height: 860px;" src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/about-banner-scaled.jpg" alt="">
+
+    <!-- background: url(http://64.227.13.14/freeflow/wp-content/uploads/2022/12/about-banner-scaled.jpg) no-repeat;
+    background-size: cover;
+    background-position: center center;
+    display: block;
+    width: 100%;
+    height: 860px; -->
 </div>
 
 <div class="container yellow-bg-div gx-0 mt-120px">
