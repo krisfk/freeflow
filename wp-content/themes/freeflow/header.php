@@ -223,11 +223,11 @@ echo'</li>';
 
 
                 $('.banner-img').css({
-                    'width': '100%'
+                    'width': '100% !important'
                 });
 
                 $('.banner-img').css({
-                    'height': 'auto'
+                    'height': 'auto !important'
                 });
 
 
