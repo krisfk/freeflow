@@ -346,12 +346,17 @@ echo'</li>';
     <div id="page" class="site">
 
 
+        <svg id="cursor" width="40" height="40">
+            <circle cx="20" cy="20" r="20" fill="none" stroke="white" stroke-width="1" class="cursor-circle" />
+        </svg>
+
+
         <!-- <span id="circle" class="circle"> -->
 
-
+        <!-- 
         <svg id="circle" class="circle" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
             <circle cx="50" cy="50" r="50" />
-        </svg>
+        </svg> -->
 
         <!-- </span> -->
 
@@ -412,25 +417,41 @@ echo'</li>';
         $(function() {
 
 
-            var mouseX = 0,
-                mouseY = 0;
-            var xp = 0,
-                yp = 0;
+            let cursor = document.getElementById("cursor");
+            let circle = document.querySelector(".cursor-circle");
 
-            $(document).mousemove(function(e) {
-                mouseX = e.pageX - 30;
-                mouseY = e.pageY - 30;
+            let setCursorPosition = function(e) {
+                let xPosition = e.clientX - cursor.clientWidth / 2 + "px";
+                let yPosition = e.clientY - cursor.clientHeight / 2 + "px";
+                cursor.style.transform =
+                    "translate(" + xPosition + "," + yPosition + ") scale(1)";
+                return {
+                    x: xPosition,
+                    y: yPosition
+                };
+            };
+
+            document.addEventListener("mousemove", e => setCursorPosition(e));
+            let scaleCursor = function(e, scale) {
+                setCursorPosition(e);
+                cursor.style.transform =
+                    "translate(" +
+                    setCursorPosition(e).x +
+                    "," +
+                    setCursorPosition(e).y +
+                    ") scale(" +
+                    scale +
+                    ")";
+            };
+
+            document.addEventListener("mousedown", function(e) {
+                scaleCursor(e, 0.8);
+                circle.classList.add("animate");
             });
-
-            setInterval(function() {
-                xp += ((mouseX - xp) / 6);
-                yp += ((mouseY - yp) / 6);
-                $("#circle").css({
-                    left: xp + 'px',
-                    top: yp + 'px'
-                });
-            }, 20);
-
+            document.addEventListener("mouseup", function(e) {
+                scaleCursor(e, 1);
+                circle.classList.remove("animate");
+            });
 
 
             setInterval(() => {
