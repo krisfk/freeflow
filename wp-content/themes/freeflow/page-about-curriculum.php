@@ -409,7 +409,7 @@ get_header(); ?>
 
 
         </div>
-        <div class="col-12 text-center mt-5">
+        <div class="col-12 text-center mt-4">
 
 
             <div class="row">
