@@ -215,7 +215,7 @@ echo'</li>';
                 if ($(this).hasClass('active')) {
 
 
-                    $('.menu-layer').fadeIn(0);
+                    // $('.menu-layer').fadeIn(0);
                     $('.menu-layer').css({
                         'opacity': '0'
                     });
