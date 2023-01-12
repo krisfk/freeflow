@@ -60,7 +60,7 @@
         <div class="container yellow-bg-div gx-0 terms-yellow-bg-div">
 
 
-            <div class=" row">
+            <div class="row">
 
 
                 <div class="col-12">
@@ -69,6 +69,9 @@
 
                 </div>
                 <div class="col-12">
+
+                    <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC01156resize.jpg"
+                        alt="">
                 </div>
             </div>
         </div>
