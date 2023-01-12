@@ -401,6 +401,11 @@ h2 {
     text-decoration: none;
     color: #fff;
     padding: 0rem 0.3rem;
+    transition: 0.2s all;
+}
+
+.footer-menu-ul li a:hover {
+    color: #605ed3;
 }
 
 .footer-menu-ul li:first-child {
