@@ -57,7 +57,7 @@
 
     <div class="menu-layer">
 
-        <div class="menu-div">
+        <div class="menu-div d-none">
 
             <ul class="lang-switcher">
                 <li class="me-3"><a class="active" href="javascript:void(0);">中</a></li>
@@ -215,7 +215,7 @@ echo'</li>';
                 if ($(this).hasClass('active')) {
 
 
-                    $('.menu-layer').hide().fadeIn(5000);
+                    $('.menu-layer').fadeIn(200);
                     // $('.menu-layer').css({
                     //     'opacity': '0'
                     // });
