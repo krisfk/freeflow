@@ -225,6 +225,11 @@ echo'</li>';
 
         $(function() {
 
+            setTimeout(() => {
+                settleBanner();
+
+            }, 1000);
+
 
             // settleBanner();
             // alert(888);
