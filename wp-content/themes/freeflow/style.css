@@ -837,6 +837,7 @@ a.container:hover {
     background: #31d3cb;
     color: #fff;
     padding: 2rem;
+    border-radius: 3rem;
 }
 
 .quote {
