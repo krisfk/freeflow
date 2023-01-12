@@ -480,7 +480,7 @@ get_header(); ?>
 
 
         </div>
-        <div class="col-4 text-center">
+        <div class="col-4 text-end">
 
             <h2 class="orange">常見問題</h2>
 
