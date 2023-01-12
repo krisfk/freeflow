@@ -219,6 +219,7 @@ echo'</li>';
             }
         }
 
+        window.unload = function() {}
         window.onload = function() {
             settleBanner();
         }
