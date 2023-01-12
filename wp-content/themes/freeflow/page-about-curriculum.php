@@ -417,7 +417,13 @@ get_header(); ?>
                 <div class="col-3">
                     <div class="feeling-div">
 
+
+                        <img class="quote"
+                            src="<?php echo get_template_directory_uri(); ?>/assets/images/open-quote.png" alt="">
                         這是第一次我親身感覺到身體與我的連結，原來身體真的會告訴我們很多事，無論是回憶，或是自我形象。這是一次很好的personal growth...
+                        <img class="quote"
+                            src="<?php echo get_template_directory_uri(); ?>/assets/images/close-quote.png" alt="">
+
                     </div>
                 </div>
                 <div class="col-3">
