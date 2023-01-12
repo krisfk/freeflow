@@ -37,6 +37,7 @@ $(function() {
         yp = 0;
 
     $(document).mousemove(function(e) {
+        console.log(5);
         mouseX = e.pageX - 30;
         mouseY = e.pageY - 30;
     });
