@@ -77,9 +77,11 @@ get_header(); ?>
 
             <table class="float-start">
                 <tr>
-                    <td> <img class="entry-img"
-                            src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/home-entry-1-photo.jpg" alt="">
-
+                    <td>
+                        <a href="javascript:void(0);" class="album-a">
+                            <img class="entry-img"
+                                src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-1@2x.png" alt="">
+                        </a>
                     </td>
                     <td class="subtitle-td align-bottom">
                         使 <br>命
