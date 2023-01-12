@@ -211,6 +211,8 @@ echo'</li>';
 
             // settleBanner();
             alert(888);
+            settleBanner();
+
             $(window).on("load", function() {
                 alert(3);
                 settleBanner();
