@@ -75,10 +75,12 @@ get_header(); ?>
 
     <table class="news-tpl-1-img-table w-100">
         <tr>
-            <td><a href="javascript:void(0);" class="album-a"><img
-                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-9@2x-1.png" alt=""></a></td>
-            <td><a href="javascript:void(0);" class="album-a"><img
-                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-10@2x.png" alt=""></a></td>
+            <td><a href="javascript:void(0);" class="album-a me-4"><img
+                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-9@2x-1.png" alt=""></a>
+                <a href="javascript:void(0);" class="album-a"><img
+                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-10@2x.png" alt=""></a>
+            </td>
+
         </tr>
     </table>
 
@@ -96,10 +98,13 @@ get_header(); ?>
 
     <table class="news-tpl-1-img-table w-100">
         <tr>
-            <td><a href="javascript:void(0);" class="album-a"><img
-                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-11@2x-1.png" alt=""></a></td>
-            <td><a href="javascript:void(0);" class="album-a"><img
-                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-12@2x-1.png" alt=""></a></td>
+            <td><a href="javascript:void(0);" class="album-a me-4"><img
+                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-11@2x-1.png" alt=""></a>
+
+                <a href="javascript:void(0);" class="album-a"><img
+                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-12@2x-1.png" alt=""></a>
+            </td>
+
         </tr>
     </table>
 
@@ -118,10 +123,12 @@ get_header(); ?>
 
     <table class="news-tpl-1-img-table w-100">
         <tr>
-            <td><a href="javascript:void(0);" class="album-a"><img
-                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-13@2x-1.png" alt=""></a></td>
-            <td><a href="javascript:void(0);" class="album-a"><img
-                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-14@2x.png" alt=""></a></td>
+            <td><a href="javascript:void(0);" class="album-a me-4"><img
+                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-13@2x-1.png" alt=""></a>
+                <a href="javascript:void(0);" class="album-a"><img
+                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-14@2x.png" alt=""></a>
+
+            </td>
         </tr>
     </table>
 
