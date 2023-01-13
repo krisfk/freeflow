@@ -124,7 +124,7 @@ get_header(); ?>
         <div class="col-6">
 
 
-            <table class="float-end w-100">
+            <table class="float-end">
                 <tr>
 
                     <td class="subtitle-td align-top">
