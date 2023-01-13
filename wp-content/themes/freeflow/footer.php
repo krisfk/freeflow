@@ -77,9 +77,9 @@
 
 
                 <h3 class="mb-3">與我們聯絡</h3>
-                <input class="form-control mb-2" type="text" placeholder="姓名">
-                <input class="form-control mb-2" type="text" placeholder="電郵">
-                <input class="form-control mb-2" type="text" placeholder="訊息">
+                <input class="form-control mb-3" type="text" placeholder="姓名">
+                <input class="form-control mb-3" type="text" placeholder="電郵">
+                <input class="form-control mb-3" type="text" placeholder="訊息">
 
 
                 <div class="text-end">
