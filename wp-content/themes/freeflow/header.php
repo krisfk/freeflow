@@ -348,7 +348,7 @@ echo'</li>';
 
         <svg id="cursor" width="120" height="120">
 
-            <circle cx="60" cy="60" r="40" fill="none" stroke="#605ed3" stroke-width="2" class="cursor-circle"></circle>
+            <circle cx="60" cy="60" r="20" fill="none" stroke="#605ed3" stroke-width="2" class="cursor-circle"></circle>
         </svg>
 
 
