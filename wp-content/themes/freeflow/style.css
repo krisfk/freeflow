@@ -124,6 +124,7 @@ body {
     max-height: 860px;
     overflow: hidden;
     display: block;
+    z-index: -100;
 }
 
 .top-icon-img {
