@@ -218,7 +218,7 @@ get_header(); ?>
 
 
         </div>
-        <div class="col-4 text-center">
+        <div class="col-4 text-end">
 
             <h2 class="orange">想知更多？</h2>
 
