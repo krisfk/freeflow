@@ -483,7 +483,7 @@ h2 {
     left: 45px;
     z-index: 200;
     text-decoration: none;
-    z-index: 2000;
+    z-index: 6000 !important;
     transition: 0.2s all;
 }
 
