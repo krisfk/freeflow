@@ -776,7 +776,7 @@ h2 {
 .album-a {
     transition: 0.2s all;
     text-decoration: none;
-    width: auto;
+    width: -webkit-fit-content;
     display: inline-block;
 }
 
