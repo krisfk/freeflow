@@ -164,9 +164,11 @@ get_header(); ?>
 
             <table class="float-start w-100">
                 <tr>
-                    <td> <img class="entry-img w-100"
-                            src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/Asset-1@2x.png" alt="">
-
+                    <td>
+                        <a href="javascript:void(0);" class="album-a">
+                            <img class="entry-img w-100"
+                                src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/Asset-1@2x.png" alt="">
+                        </a>
                     </td>
                     <td class="subtitle-td align-top">
 
@@ -252,9 +254,12 @@ get_header(); ?>
                         </article>
 
                     </td>
-                    <td class=" align-bottom"> <img class="entry-img"
-                            src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/Asset-2@2x.png" alt="">
+                    <td class=" align-bottom">
 
+                        <a href="javascript:void(0);" class="album-a">
+                            <img class="entry-img"
+                                src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/Asset-2@2x.png" alt="">
+                        </a>
                     </td>
                 </tr>
             </table>
