@@ -24,14 +24,14 @@ get_header(); ?>
 
 
 
-
+<a href="<?php echo get_site_url();?>" class="freeflow-logo-a"><img
+        src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/freeflow-logo.png" alt=""></a>
 <div class="banner-div" style="">
 
 
     <img class="banner-img" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/news-banner-scaled.jpg" alt="">
 
-    <a href="<?php echo get_site_url();?>" class="freeflow-logo-a"><img
-            src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/freeflow-logo.png" alt=""></a>
+
 
 </div>
 
