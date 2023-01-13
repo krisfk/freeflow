@@ -302,7 +302,7 @@ body {
 }
 
 .orange-link {
-    color: #ff6c2f;
+    color: #808080;
     display: inline-block;
     border-bottom: 2px solid #ff6c2f !important;
     text-decoration: none;
@@ -312,7 +312,8 @@ body {
 }
 
 .orange-link:hover {
-    opacity: 0.85;
+    /* opacity: 0.85; */
+    color: #ff6c2f;
 }
 
 .purple-underline {
