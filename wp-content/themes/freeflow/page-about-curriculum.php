@@ -50,9 +50,9 @@ get_header(); ?>
                             src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-2@2x.png" alt="">
 
                     </td>
-                    <td class="subtitle-td align-top">
+                    <!-- <td class="subtitle-td align-top">
 
-                    </td>
+                    </td> -->
                 </tr>
             </table>
 
@@ -114,9 +114,9 @@ get_header(); ?>
                             src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-2@2x.png" alt="">
 
                     </td>
-                    <td class="subtitle-td align-top">
+                    <!-- <td class="subtitle-td align-top">
 
-                    </td>
+                    </td> -->
                 </tr>
             </table>
 
