@@ -168,11 +168,11 @@ body {
 
 .yellow-bg-div {
     display: block;
-    background: #fffee9;
+    background: rgba(255, 254, 233, 0.8);
     padding: 1.5rem;
     position: relative;
     z-index: 100;
-    opacity: 0.8;
+    /* opacity: 0.8; */
 }
 
 .yellow-bg-div table {
