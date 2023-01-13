@@ -567,6 +567,7 @@ h2 {
 
 .news-tpl-1-img-table img {
     max-height: 400px;
+    width: initial;
 }
 
 .height-280px {
