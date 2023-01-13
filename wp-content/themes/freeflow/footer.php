@@ -62,7 +62,7 @@
                                         alt=""></a>
                             </td>
                             <td> <a href="https://www.hkbu.edu.hk/zh_hk.html" target="_blank"
-                                    class="top-icon-img-a"><img class="top-icon-img"
+                                    class="top-icon-img-a"><img style="height:55px;" class="top-icon-img"
                                         src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/bu-logo-1.png"
                                         alt=""></a> <a href="https://www.cgds.com.tw/" target="_blank"
                                     class="top-icon-img-a"><img class="top-icon-img"
