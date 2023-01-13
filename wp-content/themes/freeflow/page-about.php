@@ -124,7 +124,7 @@ get_header(); ?>
         <div class="col-6">
 
 
-            <table class="float-end">
+            <table class="float-end w-100">
                 <tr>
 
                     <td class="subtitle-td align-top">
@@ -136,9 +136,12 @@ get_header(); ?>
                         </article>
 
                     </td>
-                    <td class=" align-bottom"> <img class="entry-img"
-                            src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/Asset-4@2x.png" alt="">
+                    <td class=" align-bottom">
+                        <a href="javascript:void(0);" class="album-a">
 
+                            <img class="entry-img"
+                                src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/Asset-4@2x.png" alt="">
+                        </a>
                     </td>
                 </tr>
             </table>
