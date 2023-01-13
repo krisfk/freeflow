@@ -75,7 +75,7 @@ get_header(); ?>
         <div class="col-5">
 
 
-            <table class="float-start">
+            <table class="float-start w-100">
                 <tr>
                     <td>
                         <a href="javascript:void(0);" class="album-a"
