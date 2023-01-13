@@ -110,7 +110,7 @@ get_header(); ?>
 
             <table class="float-end  w-100">
                 <tr>
-                    <td> <img class="entry-img w-100"
+                    <td> <img class=" w-100"
                             src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-2@2x.png" alt="">
 
                     </td>
@@ -375,7 +375,7 @@ get_header(); ?>
                         同<br>
                         步
                     </td>
-                    <td class=" align-bottom"> <img class="entry-img"
+                    <td class=" align-bottom"> <img class=""
                             src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/Asset-2@2x.png" alt="">
 
                     </td>
