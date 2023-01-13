@@ -172,7 +172,7 @@ get_header(); ?>
 
 
 
-                        <article class="vertical-article ">
+                        <article class="vertical-article" style="width:120px">
                             <h2 class="purple">如何連接 <br>青少女
                             </h2>
                         </article>
