@@ -292,8 +292,9 @@ body {
 
 .curve-bg {
     /* display: none; */
-    background: url(./assets/images/curve-2.png);
-    background-size: 100% auto;
+    background: url(./assets/images/curve-2.png) no-repeat;
+    background-size: 97% auto;
+    background-position: center 0;
     position: absolute;
     top: 0;
     left: 0;
