@@ -260,7 +260,7 @@ body {
 .page-news-1 .curve-bg,
 .page-news-2 .curve-bg {
     background: url(./assets/images/news-curve.png) repeat-y;
-    background-size: 90% auto;
+    background-size: 95% auto;
     background-position: center 0;
     position: absolute;
     top: 0;
