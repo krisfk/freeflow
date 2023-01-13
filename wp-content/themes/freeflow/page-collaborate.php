@@ -49,7 +49,7 @@ get_header(); ?>
         <div class="col-5">
 
 
-            <table class="float-start">
+            <table class="float-start w-100">
                 <tr>
                     <td class="align-top"> <img class="entry-img w-100"
                             src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-3@2x-2.png" alt="">
