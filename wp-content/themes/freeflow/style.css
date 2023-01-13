@@ -636,7 +636,7 @@ h2 {
     width: 100%;
     height: 100%;
     background: rgb(255 254 233 / 80%);
-    z-index: 1000;
+    z-index: 5000;
     display: none;
     /* opacity: 0; */
 }
