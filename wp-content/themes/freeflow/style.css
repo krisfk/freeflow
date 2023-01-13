@@ -587,6 +587,7 @@ h2 {
 .vertical-article h2 {
     padding: 0;
     margin: 0;
+    height: -webkit-max-content;
 }
 
 .blog-tag {
