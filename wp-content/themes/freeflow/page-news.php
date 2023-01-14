@@ -35,7 +35,7 @@ get_header(); ?>
 
 </div>
 
-<a class="container yellow-bg-div gx-0 mt-120px" href="<?php echo get_site_url();?>/news-1">
+<div class="container yellow-bg-div gx-0 mt-120px">
 
 
 
@@ -47,23 +47,26 @@ get_header(); ?>
         </div>
         <div class="col-6 text-end">
 
-            <h2 class="orange">身體我自在
-            </h2>
+
+            <a href="<?php echo get_site_url();?>/news-1">
+                <h2 class="orange">身體我自在
+                </h2>
 
 
-            活動日期: <br>
-            2022年7月10日<br>
-            時間:<br>
-            11:00-18:00<br>
-            地點:<br>
-            鰂魚涌WLAB
+                <div class="mt-4">
+                    活動日期: <br>
+                    2022年7月10日<br>
+                    時間:<br>
+                    11:00-18:00<br>
+                    地點:<br>
+                    鰂魚涌WLAB</div>
 
-
+            </a>
 
         </div>
     </div>
 
-</a>
+</div>
 
 
 <div class="container yellow-bg-div gx-0 mt-60px">
