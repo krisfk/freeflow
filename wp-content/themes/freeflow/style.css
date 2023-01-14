@@ -1078,3 +1078,8 @@ a {
     padding: 0;
     /* display: block; */
 }
+
+h2 a {
+    text-decoration: none;
+    color: inherit;
+}
