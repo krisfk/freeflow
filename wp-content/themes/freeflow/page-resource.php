@@ -369,8 +369,10 @@ get_header(); ?>
                     alt="">
             </a>
 
-
-            <h2 class="purple big mt-4">標題文章和故事</h2>
+            <h2 class="purple big mt-4">
+                <a href="<?php echo get_site_url();?>/resource-2">
+                    標題文章和故事</a>
+            </h2>
 
             <div class="orange">4 Nov 2022</div>
 
