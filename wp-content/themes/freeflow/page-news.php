@@ -66,7 +66,7 @@ get_header(); ?>
 </a>
 
 
-<a class="container yellow-bg-div gx-0 mt-60px" href="<?php echo get_site_url();?>/news-2">
+<div class="container yellow-bg-div gx-0 mt-60px">
 
     <div class="row align-items-center mt-0 gx-5">
         <div class="col-6">
@@ -78,28 +78,30 @@ get_header(); ?>
 
 
 
-            <h2 class="orange">
-                我動故我在 <br>
-                I Move<br>
-                Therefore I Am
+            <a href="<?php echo get_site_url();?>/news-2">
 
-            </h2>
+                <h2 class="orange">
+                    我動故我在 <br>
+                    I Move<br>
+                    Therefore I Am
 
-            展覽日期:
-            2022年9月3－4日
-            展覽時間:
-            12:00－19:30 (六), 12:00－18:00 (日)
-            地點:
-            JCCAC賽馬會創意藝術中心L1藝廊
+                </h2>
+
+                展覽日期:
+                2022年9月3－4日
+                展覽時間:
+                12:00－19:30 (六), 12:00－18:00 (日)
+                地點:
+                JCCAC賽馬會創意藝術中心L1藝廊
 
 
-
+            </a>
 
         </div>
     </div>
 
 
-</a>
+</div>
 
 
 
