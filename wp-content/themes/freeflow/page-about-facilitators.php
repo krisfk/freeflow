@@ -246,14 +246,14 @@ get_header(); ?>
     alt=""> -->
 
 
-<div class="mt-120px">
+<!-- <div class="mt-120px">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/BkI7_dDG35w" title="YouTube video player"
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         allowfullscreen></iframe>
-</div>
+</div> -->
 
-<div class="container yellow-bg-div gx-0 mt-120px">
+<!-- <div class="container yellow-bg-div gx-0 mt-120px">
 
 
     <div class="row">
@@ -321,7 +321,7 @@ get_header(); ?>
     </div>
 
 
-</div>
+</div> -->
 
 
 
