@@ -48,7 +48,7 @@ get_header(); ?>
         <div class="col-6 text-end">
 
 
-            <a href="<?php echo get_site_url();?>/news-1">
+            <a href="<?php echo get_site_url();?>/news-1" class="news-a">
                 <h2 class="orange">身體我自在
                 </h2>
 
