@@ -1060,9 +1060,12 @@ a {
 }
 
 .news-a {
+    color: inherit;
     text-decoration: none;
 }
 
 .news-a h2 {
     text-decoration: underline;
+    padding: 0;
+    /* display: block; */
 }
