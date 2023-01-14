@@ -1059,8 +1059,15 @@ a {
     /* stroke: white; */
 }
 
-.news-a,
+.news-a {
+    color: inherit;
+    text-decoration: none;
+    text-underline-offset: 0.8rem;
+    transition: 0.2s all;
+}
+
 .news-a:hover {
+    opacity: 0.85;
     color: inherit;
     text-decoration: none;
     text-underline-offset: 0.8rem;
