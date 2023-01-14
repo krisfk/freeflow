@@ -78,7 +78,7 @@ get_header(); ?>
 
 
 
-            <a href="<?php echo get_site_url();?>/news-2">
+            <a href="<?php echo get_site_url();?>/news-2" class="news-a">
 
                 <h2 class="orange">
                     我動故我在 <br>

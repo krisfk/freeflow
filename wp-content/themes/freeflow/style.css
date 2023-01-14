@@ -1058,3 +1058,11 @@ a {
     stroke-dashoffset: 0;
     /* stroke: white; */
 }
+
+.news-a {
+    text-decoration: none;
+}
+
+.news-a h2 {
+    text-decoration: underline;
+}
