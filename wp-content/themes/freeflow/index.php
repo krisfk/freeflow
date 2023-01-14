@@ -236,7 +236,7 @@ get_header(); ?>
         <div class="col-6 mb-4 position-relative">
 
 
-            <a href="javascript:void(0);" class="our-activity-btn">
+            <a href="<?php echo get_site_url();?>/news" class="our-activity-btn">
 
 
                 <table class="w-100 h-100">
