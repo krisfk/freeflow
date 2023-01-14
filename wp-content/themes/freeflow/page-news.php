@@ -43,7 +43,10 @@ get_header(); ?>
         <div class="col-6">
 
 
-            <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-4@2x.png" alt="">
+            <a href="javascript:void(0);" class="album-a">
+                <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-4@2x.png" alt="">
+            </a>
+
         </div>
         <div class="col-6 text-end">
 
@@ -74,8 +77,11 @@ get_header(); ?>
     <div class="row align-items-center mt-0 gx-5">
         <div class="col-6">
 
+            <a href="javascript:void(0);" class="album-a">
 
-            <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-5@2x-1.png" alt="">
+                <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-5@2x-1.png"
+                    alt="">
+            </a>
         </div>
         <div class="col-6 text-end">
 
