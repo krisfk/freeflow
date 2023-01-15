@@ -53,7 +53,8 @@ get_header(); ?>
             <table class="float-start w-100">
                 <tr>
                     <td>
-                        <a href="javascript:void(0);" class="album-a">
+                        <a href="javascript:void(0);" class="album-a"
+                            rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC00458.jpg">
                             <img class="entry-img w-100"
                                 src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/Asset-3@2x.png" alt="">
                         </a>
