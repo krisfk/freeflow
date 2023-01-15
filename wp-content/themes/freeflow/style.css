@@ -975,6 +975,7 @@ img.lazyloaded {
     border-radius: 0 !important;
     max-height: 70vh;
     display: block;
+    width: auto !important;
     /* text-align: center; */
     margin: 0 auto;
 }
