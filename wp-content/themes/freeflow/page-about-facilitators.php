@@ -102,8 +102,11 @@ get_header(); ?>
     <div class="row align-items-center mt-5 gx-5">
         <div class="col-6">
 
+            <a href="javascript:void(0);" class="album-a"
+                rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Janice-Li-headshot-scaled.jpg">
 
-            <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-9@2x.png" alt="">
+                <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-9@2x.png" alt="">
+            </a>
         </div>
         <div class="col-6">
 
@@ -143,8 +146,11 @@ get_header(); ?>
 
         <div class="col-6">
 
+            <a href="javascript:void(0);" class="album-a"
+                rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Paula-Wong-headshot.jpg">
 
-            <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-11@2x.png" alt="">
+                <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-11@2x.png" alt="">
+            </a>
         </div>
 
 
