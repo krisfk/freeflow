@@ -268,7 +268,8 @@ get_header(); ?>
         </div>
         <div class="col-6">
 
-            <a href="javascript:void(0);" class="album-a">
+            <a href="javascript:void(0);" class="album-a"
+                rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/IMG_2505.jpg">
 
                 <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/blog-temp-img-2.png"
                     alt="">
@@ -375,7 +376,8 @@ get_header(); ?>
         </div>
         <div class="col-6">
 
-            <a href="javascript:void(0);" class="album-a">
+            <a href="javascript:void(0);" class="album-a"
+                rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/IMG_2505.jpg">
 
                 <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/blog-temp-img-2.png"
                     alt="">
