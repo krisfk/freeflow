@@ -72,8 +72,7 @@
                 </div>
                 <div class="col-12">
 
-                    <img class="w-100 lightbox-enlarge-photo"
-                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC01156resize.jpg" alt="">
+                    <img class="w-100 lightbox-enlarge-photo" src="" alt="">
                 </div>
             </div>
         </div>
