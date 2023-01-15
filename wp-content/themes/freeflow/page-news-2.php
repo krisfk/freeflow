@@ -92,10 +92,11 @@ get_header(); ?>
             </div>
 
             <div>
-                <a href="javascript:void(0);" class="album-a me-3" rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02122_edited.jpg>
+                <a href="javascript:void(0);" class="album-a me-3"
+                    rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02122_edited.jpg">
 
                     <img class=" height-280px d-inline-block"
-                    src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-19@2x.png" alt="">
+                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-19@2x.png" alt="">
                 </a>
 
                 <a href="javascript:void(0);" class="album-a"
