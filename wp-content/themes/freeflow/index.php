@@ -153,7 +153,9 @@ get_header(); ?>
 
                     </td>
                     <td>
-                        <a href="javascript:void(0);" class="album-a"> <img class="entry-img"
+                        <a href="javascript:void(0);" class="album-a"
+                            rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC01159.jpg"> <img
+                                class="entry-img"
                                 src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/home-entry-2-photo.jpg"
                                 alt="">
                         </a>
