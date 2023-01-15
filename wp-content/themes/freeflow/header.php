@@ -539,7 +539,7 @@ echo'</li>';
             })
 
             $('.lightbox-close-btn').click(function() {
-
+                $('.lightbox-enlarge-photo').attr('src', '');
                 $('.lightbox-layer').fadeOut(0);
             })
 
