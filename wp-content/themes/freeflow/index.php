@@ -271,8 +271,10 @@ get_header(); ?>
                         rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC01183.jpg"><img class="w-100"
                             src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/Asset-7@2x.png" alt=""></a>
                 </div>
-                <div class="col-6"> <a href="javascript:void(0);" class="album-a"><img class="w-100"
-                            src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/Asset-8@2x.png" alt=""></a>
+                <div class="col-6"> <a href="javascript:void(0);" class="album-a"
+                        rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02409_edited.jpg"><img
+                            class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/Asset-8@2x.png"
+                            alt=""></a>
                 </div>
             </div>
         </div>
