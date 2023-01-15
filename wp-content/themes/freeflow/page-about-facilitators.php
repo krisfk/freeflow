@@ -52,7 +52,7 @@ get_header(); ?>
 
 
             <a href="javascript:void(0);" class="album-a"
-                rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC00530.jpg">
+                rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Julianna-Ho-headshot.jpg">
 
                 <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-7@2x.png" alt="">
 
@@ -87,7 +87,13 @@ get_header(); ?>
         <div class="col-6">
 
 
-            <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-8@2x.png" alt="">
+            <a href="javascript:void(0);" class="album-a"
+                rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC01538.jpg">
+
+
+                <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-8@2x.png" alt="">
+
+            </a>
         </div>
 
     </div>
