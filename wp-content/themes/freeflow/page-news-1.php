@@ -52,9 +52,11 @@ get_header(); ?>
     <table class="news-tpl-1-img-table w-100">
         <tr>
             <td>
-                <a href="javascript:void(0);" class="album-a me-4">
+                <a href="javascript:void(0);" class="album-a me-4"
+                    rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/vlcsnap-2022-07-21-19h29m05s552.jpg">
                     <img src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-7@2x-1.png" alt=""></a>
-                <a href="javascript:void(0);" class="album-a"><img
+                <a href="javascript:void(0);" class="album-a"
+                    rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/vlcsnap-2022-07-21-19h29m05s552.jpg"><img
                         src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-8@2x-1.png" alt=""></a>
             </td>
         </tr>
