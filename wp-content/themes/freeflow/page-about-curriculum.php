@@ -46,8 +46,11 @@ get_header(); ?>
 
             <table class="float-start">
                 <tr>
-                    <td> <img class="entry-img w-100"
-                            src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-2@2x.png" alt="">
+                    <td>
+                        <a href="javascript:void(0);" class="album-a"
+                            rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC00530.jpg">
+                            <img class="entry-img w-100"
+                                src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-2@2x.png" alt=""></a>
 
                     </td>
                     <!-- <td class="subtitle-td align-top">
