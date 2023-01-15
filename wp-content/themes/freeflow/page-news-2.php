@@ -163,7 +163,8 @@ get_header(); ?>
                         src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-23@2x.png" alt="">
                 </a>
 
-                <a href="javascript:void(0);" class="album-a">
+                <a href="javascript:void(0);" class="album-a"
+                    rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02107_edited.jpg">
 
                     <img class="height-280px d-inline-block"
                         src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-24@2x.png" alt="">
@@ -207,11 +208,12 @@ get_header(); ?>
 
             <div>
                 <a href="javascript:void(0);" class="album-a me-3 mb-3"
-                    rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02107_edited.jpg">
+                    rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02576_edited.jpg">
                     <img class="height-280px d-inline-block"
                         src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-25@2x.png" alt="">
                 </a>
-                <a href="javascript:void(0);" class="album-a  mb-3">
+                <a href="javascript:void(0);" class="album-a  mb-3"
+                    rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02363_edited.jpg">
 
                     <img class="height-280px d-inline-block"
                         src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-26@2x.png" alt=""> </a>
@@ -219,13 +221,15 @@ get_header(); ?>
             </div>
 
             <div>
-                <a href="javascript:void(0);" class="album-a me-3">
+                <a href="javascript:void(0);" class="album-a me-3"
+                    rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02618_edited.jpg">
 
                     <img class="height-280px d-inline-block"
                         src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-27@2x.png" alt="">
                 </a>
 
-                <a href="javascript:void(0);" class="album-a">
+                <a href="javascript:void(0);" class="album-a"
+                    rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02370_edited.jpg">
 
                     <img class="height-280px d-inline-block"
                         src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-28@2x.png" alt="">
