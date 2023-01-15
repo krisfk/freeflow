@@ -299,7 +299,8 @@ get_header(); ?>
         </div>
         <div class="col-6 mb-4">
 
-            <a href="javascript:void(0);" class="album-a d-block"><img class="w-100"
+            <a href="javascript:void(0);" class="album-a d-block"
+                rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC03956_edited.jpg"><img class="w-100"
                     src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/Asset-11@2x.png" alt=""></a>
         </div>
 
