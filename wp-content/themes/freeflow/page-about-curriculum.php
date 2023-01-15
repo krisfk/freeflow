@@ -116,9 +116,10 @@ get_header(); ?>
                     <td class="align-top">
 
                         <a href="javascript:void(0);" class="album-a"
-                            rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC00530.jpg"></a>
-                        <img class=" w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-2@2x.png"
-                            alt="">
+                            rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC00530.jpg">
+                            <img class=" w-100"
+                                src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-2@2x.png" alt="">
+                        </a>
 
                     </td>
                     <!-- <td class="subtitle-td align-top">
@@ -179,8 +180,14 @@ get_header(); ?>
 
 
             <div class="row align-items-center">
-                <div class="col-6"><img class="w-100"
-                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-6@2x.png" alt=""></div>
+                <div class="col-6">
+
+                    <a href="javascript:void(0);" class="album-a"
+                        rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC00530.jpg">
+                        <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-6@2x.png"
+                            alt="">
+                    </a>
+                </div>
                 <div class="col-6"> <span class="green middle-size"> 人人平等</span>
                     <br>
                     參加者不會被視為病患，都不需要被治療。不把人標籤化，所有人一樣的平等。
