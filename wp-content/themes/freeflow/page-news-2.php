@@ -59,9 +59,9 @@ get_header(); ?>
         <div class="col-5 text-end">
 
             <a href="javascript:void(0);" class="album-a"
-                rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02329_edited.jpg"></a>
-            <img class="d-inline-block" style="max-height:460px;"
-                src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-16@2x.png" alt="">
+                rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02329_edited.jpg">
+                <img class="d-inline-block" style="max-height:460px;"
+                    src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-16@2x.png" alt=""></a>
         </div>
 
     </div>
