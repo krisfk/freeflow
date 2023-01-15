@@ -168,8 +168,7 @@ get_header(); ?>
                 <tr>
                     <td>
                         <a href="javascript:void(0);" class="album-a"
-                            rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC00511.jpg"
-                            rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC00530.jpg">
+                            rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC00511.jpg">
                             <img class="entry-img w-100"
                                 src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/Asset-1@2x.png" alt="">
                         </a>
@@ -260,7 +259,8 @@ get_header(); ?>
                     </td>
                     <td class=" align-bottom">
 
-                        <a href="javascript:void(0);" class="album-a">
+                        <a href="javascript:void(0);" class="album-a"
+                            rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC00530.jpg">
                             <img class="entry-img"
                                 src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/Asset-2@2x.png" alt="">
                         </a>
