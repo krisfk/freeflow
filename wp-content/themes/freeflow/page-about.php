@@ -138,7 +138,8 @@ get_header(); ?>
 
                     </td>
                     <td class=" align-bottom">
-                        <a href="javascript:void(0);" class="album-a">
+                        <a href="javascript:void(0);" class="album-a"
+                            rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC01117.jpg">
 
                             <img class="entry-img"
                                 src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/Asset-4@2x.png" alt="">
