@@ -540,6 +540,8 @@ echo'</li>';
             $('.lightbox-close-btn').click(function() {
                 $('.lightbox-enlarge-photo').attr('src', '');
                 $('.lightbox-layer').fadeOut(0);
+                $('.lightbox-enlarge-photo').removeClass('lazyloaded')
+
             })
 
             $('.term-1-btn').click(function() {
@@ -563,9 +565,7 @@ echo'</li>';
                     var photo_url = $(this).attr('rel');
                     $('.lightbox-enlarge-photo').attr('src', '');
                     $('.lightbox-enlarge-photo').attr('src', photo_url);
-                    $('.lightbox-enlarge-photo').css({
-                        'opacity': '1'
-                    })
+                    $('.lightbox-enlarge-photo').addClass('lazyloaded');
                 }
 
 
