@@ -113,8 +113,12 @@ get_header(); ?>
 
             <table class="float-end ">
                 <tr>
-                    <td class="align-top"> <img class=" w-100"
-                            src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-2@2x.png" alt="">
+                    <td class="align-top">
+
+                        <a href="javascript:void(0);" class="album-a"
+                            rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC00530.jpg"></a>
+                        <img class=" w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-2@2x.png"
+                            alt="">
 
                     </td>
                     <!-- <td class="subtitle-td align-top">
