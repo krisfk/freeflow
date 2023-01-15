@@ -563,6 +563,7 @@ echo'</li>';
                     var photo_url = $(this).attr('rel');
                     $('.lightbox-enlarge-photo').attr('src', '');
                     $('.lightbox-enlarge-photo').attr('src', photo_url);
+                    $('.lightbox-enlarge-photo').fadeIn(200);
                 }
 
 
