@@ -562,6 +562,7 @@ echo'</li>';
                     // alert(6);
                     $('.lightbox-layer.photo-layer').fadeIn(200);
                     var photo_url = $(this).attr('rel');
+                    $('.lightbox-enlarge-photo').attr('src', '');
                     $('.lightbox-enlarge-photo').attr('src', photo_url);
                 }
 
