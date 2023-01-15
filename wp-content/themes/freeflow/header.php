@@ -561,7 +561,7 @@ echo'</li>';
                 if ($(this).attr('rel')) {
                     // alert(6);
                     $('.lightbox-layer.photo-layer').fadeIn(200);
-                    var photo_url = $('.lightbox-layer.photo-layer img').attr('rel');
+                    var photo_url = $(this).attr('rel');
                     $('.lightbox-enlarge-photo').attr('src', photo_url);
                 }
 
