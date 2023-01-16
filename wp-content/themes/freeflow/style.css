@@ -983,7 +983,7 @@ img.lazyloaded {
     width: auto !important;
     /* text-align: center; */
     margin: 0 auto;
-    max-width: 100%;
+    max-width: 90%;
 }
 
 .terms-yellow-bg-div div {
