@@ -161,7 +161,7 @@ get_header(); ?>
 
     <div class="row">
 
-        <div class="col-5">
+        <div class="col-6">
 
 
             <table class="float-start w-100">
@@ -190,7 +190,7 @@ get_header(); ?>
             </table>
 
         </div>
-        <div class="col-7">
+        <div class="col-6">
 
             <div>
                 我們知道身與心同時並存，身體活動、心理發展互相影響。透過刻意設計的活動主題，青少女在參與身體律動計劃的課程時，一方面建立身體的掌握能力，同時建立起心理的正面調整。
