@@ -573,10 +573,6 @@ echo'</li>';
             }
 
             $('.album-a').click(function() {
-
-
-
-
                 var select_url = $(this).attr('rel');
                 console.log(photo_arr);
                 console.log(select_url);
@@ -595,5 +591,36 @@ echo'</li>';
 
 
             })
+            $('.photo-album-arrow.photo-album-arrow-l').click(function() {
+
+                current_index++;
+
+                if (current_index >= photo_arr.length) {
+                    current_index = 0;
+                }
+
+                $('.lightbox-enlarge-photo').attr('src', '');
+                $('.lightbox-enlarge-photo').attr('src', photo_arr[current_index]);
+                $('.lightbox-enlarge-photo').addClass('lazyloaded');
+
+
+            };)
+
+            $('.photo-album-arrow.photo-album-arrow-r').click(function() {
+
+
+                current_index--;
+
+                if (current_index < 0) {
+                    current_index = photo_arr.length - 1;
+                }
+
+                $('.lightbox-enlarge-photo').attr('src', '');
+                $('.lightbox-enlarge-photo').attr('src', photo_arr[current_index]);
+                $('.lightbox-enlarge-photo').addClass('lazyloaded');
+
+
+
+            };)
         })
         </script>
