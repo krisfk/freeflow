@@ -400,6 +400,10 @@ h2 {
     color: #fff;
 }
 
+.form-submit-btn:hover {
+    color: #605ed3;
+}
+
 .footer-small-word {
     font-size: 12px;
     line-height: 1.2rem;
