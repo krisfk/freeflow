@@ -1085,3 +1085,7 @@ h2 a {
     text-decoration: none;
     color: inherit;
 }
+
+.row-img-min-400 {
+    min-width: 400px;
+}
