@@ -1093,6 +1093,10 @@ h2 a {
 }
 
 .purple-a {
+    text-underline-offset: 0.8rem;
+}
+
+.purple-a:hover {
     color: #605ed3;
     text-underline-offset: 0.8rem;
 }
