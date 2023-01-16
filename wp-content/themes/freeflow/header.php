@@ -575,7 +575,7 @@ echo'</li>';
 
             $('.album-a').click(function() {
 
-                console.log($(this).eq());
+                console.log($(this).index());
                 // console.log($(this))
 
                 if ($(this).attr('rel')) {
