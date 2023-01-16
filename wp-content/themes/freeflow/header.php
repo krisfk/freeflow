@@ -601,6 +601,8 @@ echo'</li>';
 
                 $('.lightbox-enlarge-photo').attr('src', '');
                 $('.lightbox-enlarge-photo').attr('src', photo_arr[current_index]);
+                $('.lightbox-enlarge-photo').removeClass('lazyloaded');
+
                 $('.lightbox-enlarge-photo').addClass('lazyloaded');
 
 
@@ -617,6 +619,8 @@ echo'</li>';
 
                 $('.lightbox-enlarge-photo').attr('src', '');
                 $('.lightbox-enlarge-photo').attr('src', photo_arr[current_index]);
+                $('.lightbox-enlarge-photo').removeClass('lazyloaded');
+
                 $('.lightbox-enlarge-photo').addClass('lazyloaded');
 
 
