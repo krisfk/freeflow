@@ -1090,3 +1090,8 @@ h2 a {
     width: 400px;
     height: auto;
 }
+
+.purple-a {
+    color: #605ed3;
+    text-underline-offset: 0.8rem;
+}
