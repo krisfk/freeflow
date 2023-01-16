@@ -310,7 +310,8 @@ body {
 .orange-link {
     color: #808080;
     display: inline-block;
-    border-bottom: 2px solid #ff6c2f !important;
+    text-underline-offset: 0.8rem;
+    /* border-bottom: 2px solid #ff6c2f !important; */
     text-decoration: none;
     line-height: 2rem;
     transition: 0.2s all;
