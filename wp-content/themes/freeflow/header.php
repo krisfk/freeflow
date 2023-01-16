@@ -575,7 +575,10 @@ echo'</li>';
 
             $('.album-a').click(function() {
 
-                console.log($(this).index());
+                var select_url = $(this).attr('rel');
+
+                console.log(photo_arr.find(select_url));
+                // console.log($(this).index());
                 // console.log($(this))
 
                 if ($(this).attr('rel')) {
