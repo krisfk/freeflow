@@ -1115,6 +1115,9 @@ h2 a {
     height: 28px;
     background: url(./assets/images/arrow_L.png) no-repeat;
     background-size: 100% 100%;
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
 }
 
 .photo-album-arrow-r {
@@ -1123,4 +1126,8 @@ h2 a {
     height: 28px;
     background: url(./assets/images/arrow_R.png) no-repeat;
     background-size: 100% 100%;
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translate(0, -50%);
 }
