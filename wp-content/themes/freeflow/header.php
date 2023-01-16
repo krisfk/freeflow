@@ -581,9 +581,9 @@ echo'</li>';
                 console.log(photo_arr);
                 console.log(select_url);
 
-                var index = photo_arr.find(
+                var index = photo_arr.indexOf(
                     'http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC01156resize.jpg');
-
+                console.log(index);
                 // console.log(photo_arr.findIndex(
                 //     'http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC01156resize.jpg'
                 // ));
