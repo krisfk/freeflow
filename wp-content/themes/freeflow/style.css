@@ -1094,6 +1094,7 @@ h2 a {
 
 .purple-a {
     text-underline-offset: 0.8rem;
+    color: inherit;
 }
 
 .purple-a:hover {
