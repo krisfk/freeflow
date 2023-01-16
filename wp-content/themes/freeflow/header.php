@@ -61,8 +61,6 @@
 
         <div class="container yellow-bg-div gx-0 photo-yellow-bg-div position-relative">
 
-            <a href="javascript:void(0);" class="photo-album-arrow photo-album-arrow-l"></a>
-            <a href="javascript:void(0);" class="photo-album-arrow photo-album-arrow-r"></a>
 
             <div class="row">
 
@@ -74,7 +72,12 @@
                 </div>
                 <div class="col-12">
 
-                    <img class="w-100 lightbox-enlarge-photo" src="" alt="">
+                    <div class="lightbox-enlarge-photo-div position-relative">
+                        <a href="javascript:void(0);" class="photo-album-arrow photo-album-arrow-l"></a>
+                        <a href="javascript:void(0);" class="photo-album-arrow photo-album-arrow-r"></a>
+
+                        <img class="w-100 lightbox-enlarge-photo" src="" alt="">
+                    </div>
                 </div>
             </div>
         </div>
