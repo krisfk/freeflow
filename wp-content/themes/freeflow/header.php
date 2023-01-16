@@ -59,8 +59,10 @@
 
     <div class="lightbox-layer photo-layer">
 
-        <div class="container yellow-bg-div gx-0 photo-yellow-bg-div">
+        <div class="container yellow-bg-div gx-0 photo-yellow-bg-div position-relative">
 
+            <a href="javascript:void(0);" class="photo-album-arrow photo-album-arrow-l"></a>
+            <a href="javascript:void(0);" class="photo-album-arrow photo-album-arrow-r"></a>
 
             <div class="row">
 
