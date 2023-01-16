@@ -60,7 +60,7 @@ get_header(); ?>
 
             <a href="javascript:void(0);" class="album-a"
                 rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02329_edited.jpg">
-                <img class="d-inline-block" style="max-height:460px;"
+                <img class="d-inline-block row-img-min-400" style=""
                     src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-16@2x.png" alt=""></a>
         </div>
 
