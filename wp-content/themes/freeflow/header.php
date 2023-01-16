@@ -578,7 +578,9 @@ echo'</li>';
 
 
                 var select_url = $(this).attr('rel');
+                console.log(photo_arr);
                 console.log(select_url);
+
                 // console.log(photo_arr.findIndex(
                 //     'http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC01156resize.jpg'
                 // ));
