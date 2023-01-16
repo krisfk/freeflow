@@ -604,7 +604,7 @@ echo'</li>';
                 $('.lightbox-enlarge-photo').addClass('lazyloaded');
 
 
-            };)
+            });
 
             $('.photo-album-arrow.photo-album-arrow-r').click(function() {
 
@@ -621,6 +621,6 @@ echo'</li>';
 
 
 
-            };)
+            });
         })
         </script>
