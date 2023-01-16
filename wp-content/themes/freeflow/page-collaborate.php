@@ -104,17 +104,17 @@ get_header(); ?>
                 <a href="https://www.caritas.org.hk/zh/service/youth" class="purple-a" target="_blank">明愛青少年及社區服務</a>
                 <br>
                 電話：2552 0797<br>
-                電郵：ycscm@caritassws.org.hk<br><br>
+                電郵： <a href="mailto:ycscm@caritassws.org.hk" target="_blank">ycscm@caritassws.org.hk</a><br><br>
 
 
                 <a href="https://www.cys.org.hk/" class="purple-a" target="_blank">香港青少年服務處</a> <br>
                 電話：2356 2133<br>
-                電郵：crea_dance@hkcys.org.hk<br><br>
+                電郵：<a href="mailto:crea_dance@hkcys.org.hk" target="_blank">crea_dance@hkcys.org.hk</a><br><br>
 
 
                 <a href="https://teenskey.org/en/" class="purple-a" target="_blank">青躍 － 青少女發展網絡</a> <br>
                 電話：2302 0068<br>
-                電郵：info@teenskey.org
+                電郵：<a href="mailto:info@teenskey.org" target="_blank">info@teenskey.org</a>
 
             </div>
 
