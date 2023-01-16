@@ -562,7 +562,20 @@ echo'</li>';
 
             })
 
+
+
+            var photo_arr = [];
+
+            for (i = 0; i < $('.album-a').length; i++) {
+                photo_arr.push($('.album-a').eq(i).attr('rel'));
+
+            }
+            console.log(photo_arr);
+
+
             $('.album-a').click(function() {
+
+                console.log($(this))
 
                 if ($(this).attr('rel')) {
                     // alert(6);
