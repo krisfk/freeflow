@@ -1109,6 +1109,18 @@ h2 a {
 
 .photo-album-arrow {}
 
-.photo-album-arrow-l {}
+.photo-album-arrow-l {
+    display: block;
+    width: 38px;
+    height: 28px;
+    background: url(./assets/images/arrow_L.png) no-repeat;
+    background-size: 100% 100%;
+}
 
-.photo-album-arrow-r {}
+.photo-album-arrow-r {
+    display: block;
+    width: 38px;
+    height: 28px;
+    background: url(./assets/images/arrow_R.png) no-repeat;
+    background-size: 100% 100%;
+}
