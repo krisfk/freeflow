@@ -565,16 +565,16 @@ echo'</li>';
 
 
 
+            var photo_arr = [];
+            var current_index;
+
+            for (i = 0; i < $('.album-a').length; i++) {
+                photo_arr.push($('.album-a').eq(i).attr('rel'));
+            }
 
             $('.album-a').click(function() {
 
 
-                var photo_arr = [];
-
-                for (i = 0; i < $('.album-a').length; i++) {
-                    photo_arr.push($('.album-a').eq(i).attr('rel'));
-
-                }
 
 
                 var select_url = $(this).attr('rel');
@@ -582,19 +582,14 @@ echo'</li>';
                 console.log(select_url);
 
                 var index = photo_arr.indexOf(select_url);
-                console.log(index);
-                // console.log(photo_arr.findIndex(
-                //     'http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC01156resize.jpg'
-                // ));
-                // console.log($(this).index());
-                // console.log($(this))
+                current_index = index;
 
                 if ($(this).attr('rel')) {
                     // alert(6);
                     $('.lightbox-layer.photo-layer').fadeIn(200);
                     var photo_url = $(this).attr('rel');
                     $('.lightbox-enlarge-photo').attr('src', '');
-                    $('.lightbox-enlarge-photo').attr('src', photo_url);
+                    $('.lightbox-enlarge-photo').attr('src', photo_arr[current_index]);
                     $('.lightbox-enlarge-photo').addClass('lazyloaded');
                 }
 
