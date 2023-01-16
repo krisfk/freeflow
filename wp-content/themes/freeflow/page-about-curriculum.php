@@ -49,7 +49,7 @@ get_header(); ?>
                     <td>
                         <a href="javascript:void(0);" class="album-a"
                             rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC00530.jpg">
-                            <img class="entry-img w-100"
+                            <img class="entry-img w-100  row-img-min-400"
                                 src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-2@2x.png" alt=""></a>
 
                     </td>
