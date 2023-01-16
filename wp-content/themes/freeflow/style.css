@@ -1088,4 +1088,5 @@ h2 a {
 
 .row-img-min-400 {
     min-width: 400px;
+    height: auto;
 }
