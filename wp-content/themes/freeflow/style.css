@@ -1148,6 +1148,10 @@ h2 a {
 }
 
 @media only screen and (max-width: 991px) {
+    .top-icon-img {
+        height: 36px;
+        width: auto;
+    }
     .footer-small-word {
         margin: 3rem 0 0 0;
     }
