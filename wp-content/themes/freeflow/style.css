@@ -1165,6 +1165,11 @@ h2 a {
 }
 
 @media only screen and (max-width: 991px) {
+    .icons-div table {
+        display: inline-block;
+        margin-right: 2rem;
+        margin-bottom: 1rem;
+    }
     .yellow-bg-div table td {
         padding: 0 0 0.5rem 0;
     }
