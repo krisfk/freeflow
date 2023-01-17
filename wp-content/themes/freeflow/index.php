@@ -281,7 +281,7 @@ get_header(); ?>
 
     <div class="row">
 
-        <div class="col-6 mb-4 position-relative">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12  mb-4 position-relative">
 
 
             <a href="<?php echo get_site_url();?>/news" class="our-activity-btn">
@@ -309,7 +309,7 @@ get_header(); ?>
 
 
         </div>
-        <div class="col-6 mb-4">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-4">
 
             <div class="row">
 
@@ -324,7 +324,7 @@ get_header(); ?>
                 </div>
             </div>
         </div>
-        <div class="col-6 mb-4">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-4">
 
 
             <div class="row">
@@ -343,7 +343,7 @@ get_header(); ?>
 
 
         </div>
-        <div class="col-6 mb-4">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-4">
 
             <a href="javascript:void(0);" class="album-a d-block  mobile-keep"
                 rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC03956_edited.jpg"><img class="w-100"
