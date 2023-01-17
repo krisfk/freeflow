@@ -1150,11 +1150,21 @@ h2 a {
 
 /* 991 */
 
+.banner-img.mobile {
+    display: none;
+}
+
 @media only screen and (max-width: 1200px) {
     .row-img-min-400 {
         /* max-width: 300px; */
         height: auto;
         width: 100%;
+    }
+    .banner-img {
+        display: none;
+    }
+    .banner-img.mobile {
+        display: block;
     }
 }
 

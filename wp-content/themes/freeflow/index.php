@@ -34,6 +34,9 @@ get_header(); ?>
     <img class="banner-img" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/home-banner-2-scaled.jpg"
         alt="">
 
+    <img class="banner-img mobile" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/m-home-banner.jpg"
+        alt="">
+
     <div class="icons-div">
 
         <table>
