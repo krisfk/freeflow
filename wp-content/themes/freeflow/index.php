@@ -147,8 +147,20 @@ get_header(); ?>
 
 
 
+
+
             <div class="home-entry-title">
-                甚麽是身體律動？
+
+                <div class="col-8"> 甚麽是身體律動？</div>
+                <div class="col-4">
+
+                    <article class="vertical-article mobile-home-entry-title ">
+                        <h2 class="purple">信念
+                        </h2>
+                    </article>
+                </div>
+
+
 
             </div>
             <div class="mt-4">
