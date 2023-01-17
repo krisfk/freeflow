@@ -792,6 +792,13 @@ h2 {
     display: inline-block;
 }
 
+.m-album-a {
+    transition: 0.2s all;
+    text-decoration: none;
+    width: -webkit-fit-content;
+    display: inline-block;
+}
+
 .album-a:hover img {
     filter: grayscale(100);
 }

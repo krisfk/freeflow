@@ -83,6 +83,14 @@ get_header(); ?>
                             <img class="entry-img row-img-min-400"
                                 src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-1@2x.png" alt="">
                         </a>
+
+                        <a href="javascript:void(0);" class="album-a m-album-a"
+                            rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC01156resize.jpg">
+                            <img class="entry-img row-img-min-400"
+                                src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-1@2x-1.png" alt="">
+                        </a>
+
+
                     </td>
                     <td class="subtitle-td align-bottom">
 
@@ -172,6 +180,7 @@ get_header(); ?>
                                 src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/home-entry-2-photo.jpg"
                                 alt="">
                         </a>
+
 
                     </td>
                 </tr>
