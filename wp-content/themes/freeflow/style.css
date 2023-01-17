@@ -1232,8 +1232,14 @@ h2 a {
         display: block;
         padding: 4rem 0 4rem 0;
     }
-    .home .freeflow-logo-a {}
-    .home .freeflow-logo-a img {}
+    .home .freeflow-logo-a {
+        top: 74px;
+        right: 23px;
+    }
+    .home .freeflow-logo-a img {
+        width: 150px;
+        height: auto;
+    }
 }
 
 @media only screen and (max-width: 768px) {
@@ -1258,8 +1264,12 @@ h2 a {
 }
 
 @media only screen and (max-width: 576px) {
-    .home .freeflow-logo-a {}
-    .home .freeflow-logo-a img {}
+    .home .freeflow-logo-a {
+        top: 66px;
+    }
+    .home .freeflow-logo-a img {
+        width: 135px;
+    }
     .icons-div table {
         margin-right: 1rem;
     }
@@ -1345,8 +1355,12 @@ h2 a {
 }
 
 @media only screen and (max-width: 375px) {
-    .home .freeflow-logo-a {}
-    .home .freeflow-logo-a img {}
+    .home .freeflow-logo-a {
+        top: 56px;
+    }
+    .home .freeflow-logo-a img {
+        width: 85px;
+    }
     .icons-div table {}
     .icons-div {
         line-height: 1;
