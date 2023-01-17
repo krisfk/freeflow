@@ -1150,7 +1150,12 @@ h2 a {
 
 /* 991 */
 
-@media only screen and (max-width: 1200px) {}
+@media only screen and (max-width: 1200px) {
+    .row-img-min-400 {
+        max-width: 300px;
+        height: auto;
+    }
+}
 
 @media only screen and (max-width: 991px) {
     .menu-btn {
