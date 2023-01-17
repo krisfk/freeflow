@@ -1245,7 +1245,7 @@ h2 a {
         width: 100%;
         height: 100%;
         background: #ff6c2f;
-        border-radius: 4rem;
+        border-radius: 5rem;
         text-align: center;
         text-decoration: none;
         transition: 0.2s all;
@@ -1253,8 +1253,16 @@ h2 a {
         padding: 1rem 0 1rem 0;
     }
     .our-activity-btn table {}
-    .our-activity-btn table h2 {}
-    .big-white-arrow-div {}
+    .our-activity-btn table h2 {
+        font-size: 30px;
+        padding: 0 0 0.4rem 0;
+    }
+    .big-white-arrow-div {
+        width: 180px;
+        height: 42px;
+        line-height: 0.7rem;
+        font-size: 15px;
+    }
 }
 
 @media only screen and (max-width: 375px) {
@@ -1266,14 +1274,20 @@ h2 a {
         width: 100%;
         height: 100%;
         background: #ff6c2f;
-        border-radius: 11rem;
+        border-radius: 12rem;
         text-align: center;
         text-decoration: none;
         transition: 0.2s all;
         display: block;
-        padding: 4rem 0 4rem 0;
+        padding: 1rem 0 1rem 0;
     }
     .our-activity-btn table {}
-    .our-activity-btn table h2 {}
-    .big-white-arrow-div {}
+    .our-activity-btn table h2 {
+        font-size: 22px;
+    }
+    .big-white-arrow-div {
+        height: 35px;
+        font-size: 15px;
+        width: 150px;
+    }
 }
