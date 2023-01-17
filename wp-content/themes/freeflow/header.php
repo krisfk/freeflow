@@ -592,7 +592,7 @@ echo'</li>';
 
             })
 
-            $('.album-a').click(function() {
+            $('.m-album-a').click(function() {
 
                 $(this).prev('.album-a').click();
 
