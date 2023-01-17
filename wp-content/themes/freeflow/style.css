@@ -1168,5 +1168,7 @@ h2 a {
         display: block;
         border-radius: 1rem;
     }
-    .mobile-reverse-row {}
+    .mobile-reverse-row {
+        flex-direction: row-reverse;
+    }
 }
