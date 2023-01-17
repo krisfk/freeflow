@@ -137,7 +137,6 @@ body {
     position: absolute;
     top: 33px;
     right: 43px;
-    line-height: 1;
 }
 
 .footer-div .icons-div {
@@ -1149,6 +1148,9 @@ h2 a {
 }
 
 @media only screen and (max-width: 991px) {
+    .icons-div {
+        line-height: 1;
+    }
     #cursor {
         display: none !important;
     }
