@@ -1161,6 +1161,9 @@ h2 a {
     .album-a {
         display: none;
     }
+    .album-a.mobile-keep {
+        display: block;
+    }
     .m-album-a {
         display: inline-block;
     }
