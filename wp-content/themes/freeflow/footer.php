@@ -52,7 +52,7 @@
                     <table>
                         <tr>
                             <td>捐助機構</td>
-                            <td>合作夥伴</td>
+                            <!-- <td>合作夥伴</td> -->
                         </tr>
                         <tr>
                             <td>
@@ -61,13 +61,13 @@
                                         src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/top-icon-4.png"
                                         alt=""></a>
                             </td>
-                            <td> <a href="https://www.hkbu.edu.hk/zh_hk.html" target="_blank"
+                            <!-- <td> <a href="https://www.hkbu.edu.hk/zh_hk.html" target="_blank"
                                     class="top-icon-img-a"><img style="height:55px;" class="top-icon-img"
                                         src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/bu-logo-1.png"
                                         alt=""></a> <a href="https://www.cgds.com.tw/" target="_blank"
                                     class="top-icon-img-a"><img class="top-icon-img"
                                         src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/bottom-icon-3.png"
-                                        alt=""></a></td>
+                                        alt=""></a></td> -->
                         </tr>
                     </table>
                 </div>
