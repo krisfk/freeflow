@@ -1159,6 +1159,8 @@ h2 a {
     }
     .icons-div {
         line-height: 1;
+        top: 14px;
+        right: 26px;
     }
     #cursor {
         display: none !important;
