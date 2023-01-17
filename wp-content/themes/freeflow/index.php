@@ -145,6 +145,8 @@ get_header(); ?>
 
         <div class="col-7">
 
+
+
             <div class="home-entry-title">
                 甚麽是身體律動？
 
@@ -180,6 +182,15 @@ get_header(); ?>
                                 src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/home-entry-2-photo.jpg"
                                 alt="">
                         </a>
+
+
+                        <a href="javascript:void(0);" class="m-album-a"
+                            rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC01159.jpg"> <img
+                                class="entry-img row-img-min-400"
+                                src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-2@2x-2.png" alt="">
+                        </a>
+
+
 
 
                     </td>
