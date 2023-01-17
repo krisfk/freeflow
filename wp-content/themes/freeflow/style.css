@@ -1149,7 +1149,7 @@ h2 a {
 
 @media only screen and (max-width: 991px) {
     #cursor {
-        display: none;
+        display: none !important;
     }
     .menu-btn-txt {
         display: none;
