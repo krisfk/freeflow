@@ -1144,4 +1144,8 @@ h2 a {
     .mobile-home-entry-title {
         display: block;
     }
+    .entry-img {
+        width: 100%;
+        max-width: fit-content;
+    }
 }
