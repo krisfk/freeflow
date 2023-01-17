@@ -295,7 +295,7 @@ get_header(); ?>
 
                                 我們的活動</h2>
 
-                            <div class="big-white-arrow-div mt-4">
+                            <div class="big-white-arrow-div mt-lg-4 mt-md-0 sm-lg-0 mt-0 ">
 
                                 發掘更多活動內容
 
