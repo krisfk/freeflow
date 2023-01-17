@@ -1229,7 +1229,10 @@ h2 a {
         text-decoration: none;
         transition: 0.2s all;
         display: block;
-        padding: 4rem 0 4rem 0;
+        padding: 1rem 0 1rem 0;
+    }
+    .our-activity-btn h2 {
+        font-size: 35px;
     }
 }
 
