@@ -1164,4 +1164,8 @@ h2 a {
     .m-album-a {
         display: inline-block;
     }
+    .yellow-bg-div img {
+        display: block;
+        border-radius: 1rem;
+    }
 }
