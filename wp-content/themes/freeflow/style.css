@@ -1148,4 +1148,7 @@ h2 a {
         width: 100%;
         max-width: fit-content;
     }
+    .yellow-bg-div {
+        max-width: 80%;
+    }
 }
