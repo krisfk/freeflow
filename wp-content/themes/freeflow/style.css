@@ -1254,6 +1254,8 @@ h2 a {
 }
 
 @media only screen and (max-width: 576px) {
+    .home .freeflow-logo-a {}
+    .home .freeflow-logo-a img {}
     .icons-div table {
         margin-right: 1rem;
     }
@@ -1294,6 +1296,8 @@ h2 a {
 }
 
 @media only screen and (max-width: 480px) {
+    .home .freeflow-logo-a {}
+    .home .freeflow-logo-a img {}
     .icons-div table {}
     .icons-div {
         line-height: 1;
@@ -1337,6 +1341,8 @@ h2 a {
 }
 
 @media only screen and (max-width: 375px) {
+    .home .freeflow-logo-a {}
+    .home .freeflow-logo-a img {}
     .icons-div table {}
     .icons-div {
         line-height: 1;
