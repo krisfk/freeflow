@@ -24,7 +24,7 @@
 
 
         <div class="row  mt-5">
-            <div class="col-7">
+            <div class="col-lg-7 col-md-12 col-sm-12 col-12 ">
 
 
                 <div class="icons-div">
@@ -88,7 +88,7 @@
                 </div>
 
             </div>
-            <div class="col-5 form-div">
+            <div class="col-lg-5 col-md-12 col-sm-12 col-12  form-div">
 
 
                 <h3 class="mb-3">與我們聯絡</h3>
