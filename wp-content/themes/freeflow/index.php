@@ -100,8 +100,21 @@ get_header(); ?>
         <div class="col-lg-7 col-md-12 col-sm-12 col-12 ">
 
             <div class="home-entry-title">
-                賽馬會「自主・流」身體律動計劃 <br>
-                Jockey Club ‘FreeFlow’ Body Movement Project
+
+                <div class="row">
+
+                    <div class="col-8"> 賽馬會「自主・流」身體律動計劃 <br>
+                        Jockey Club ‘FreeFlow’ Body Movement Project</div>
+                    <div class="col-4">
+
+                        <article class="vertical-article ">
+                            <h2 class="purple">使命
+                            </h2>
+                        </article>
+                    </div>
+
+                </div>
+
             </div>
             <div class="mt-4">
                 計劃為全港首個試點項目，與台灣雲門舞集舞蹈教室合作，設計出一套為香港青少女需求而定的身體律動課程，透過身體律動培育青少女對身體的好奇心，發掘身體多樣性；再輔以社會服務介入，致力為青少女充權，鼓勵創新和開放對話，促進個人成長和加深自我認識。
