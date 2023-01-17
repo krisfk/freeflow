@@ -101,10 +101,10 @@
                     <a href="javascript:void(0);" class="lightbox-close-btn"></a>
 
                 </div>
-                <div class="col-3">
+                <div class="col-lg-3 col-md-12 col-sm-12 col-12 ">
                     <h2 class="orange">使用條款</h2>
                 </div>
-                <div class="col-9 terms-content-div">
+                <div class="col-lg-9 col-md-12 col-sm-12 col-12  terms-content-div">
                     本網站所含信息僅供一般參考之用。該信息由賽馬會「自主・流」身體律動計劃提供。本網站所載的全部內容及資料，包括但不限於網站的美術設計、瀏覽連繫及軟件程式，均屬賽馬會「自主・流」身體律動計劃所有，且受版權保護。任何人士如未獲計劃之合作機構事先給予書面許可，一律禁止轉載、發放或擅用本網站的任何內容或資料。
                     <br> <br>
 
@@ -139,10 +139,10 @@
                     <a href="javascript:void(0);" class="lightbox-close-btn"></a>
 
                 </div>
-                <div class="col-3">
+                <div class="col-lg-3 col-md-12 col-sm-12 col-12 ">
                     <h2 class="orange">私隱政策</h2>
                 </div>
-                <div class="col-9 terms-content-div">
+                <div class="col-lg-9 col-md-12 col-sm-12 col-12  terms-content-div">
 
                     本私隱政策描述了我們在閣下使用服務時收集、使用和披露信息的政策和程序，並列明閣下的私隱權以及法律保障。 <br><br>
 
