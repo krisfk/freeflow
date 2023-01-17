@@ -107,7 +107,7 @@ get_header(); ?>
                         Jockey Club ‘FreeFlow’ Body Movement Project</div>
                     <div class="col-4">
 
-                        <article class="vertical-article ">
+                        <article class="vertical-article mobile-home-entry-title ">
                             <h2 class="purple">使命
                             </h2>
                         </article>

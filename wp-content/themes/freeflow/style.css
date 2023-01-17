@@ -1132,12 +1132,15 @@ h2 a {
     transform: translate(0, -50%);
 }
 
+.mobile-home-entry-title {
+    display: none;
+}
+
 @media only screen and (max-width: 991px) {
-    .home-entry-title {
-        width: 50%;
-        min-width: 230px;
-    }
     .subtitle-td {
         position: absolute;
+    }
+    .mobile-home-entry-title {
+        display: block;
     }
 }
