@@ -803,6 +803,10 @@ h2 {
     filter: grayscale(100);
 }
 
+.mobile-album-a:hover img {
+    filter: grayscale(100);
+}
+
 .sns-icon img {
     opacity: 0;
 }
