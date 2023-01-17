@@ -1287,7 +1287,7 @@ h2 a {
 @media only screen and (max-width: 576px) {
     .lang-switcher {
         position: absolute;
-        top: 27px;
+        top: 26px;
         right: 26px;
     }
     .menu-div {
