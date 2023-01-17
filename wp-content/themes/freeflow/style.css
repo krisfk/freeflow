@@ -796,7 +796,7 @@ h2 {
     transition: 0.2s all;
     text-decoration: none;
     width: -webkit-fit-content;
-    display: inline-block;
+    display: none;
 }
 
 .album-a:hover img {
@@ -1157,5 +1157,11 @@ h2 a {
     }
     .yellow-bg-div {
         max-width: 80%;
+    }
+    .album-a {
+        display: none;
+    }
+    .m-album-a {
+        display: inline-block;
     }
 }
