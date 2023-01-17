@@ -143,7 +143,7 @@ get_header(); ?>
 
     <div class="row mobile-reverse-row">
 
-        <div class="col-7">
+        <div class="col-lg-7 col-md-12 col-sm-12 col-12 ">
 
 
 
@@ -160,7 +160,7 @@ get_header(); ?>
 
         </div>
 
-        <div class="col-5">
+        <div class="col-lg-5 col-md-12 col-sm-12 col-12 ">
 
 
             <table class="float-end">
