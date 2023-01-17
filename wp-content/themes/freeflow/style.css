@@ -1170,6 +1170,11 @@ h2 a {
         margin-right: 2rem;
         /* margin-bottom: 1rem; */
     }
+    .home-banner-div .icons-div table:last-child {
+        display: inline-block;
+        margin-right: 0rem;
+        /* margin-bottom: 1rem; */
+    }
     .yellow-bg-div table td {
         padding: 0 0 0.5rem 0;
     }
