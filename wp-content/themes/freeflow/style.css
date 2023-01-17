@@ -1148,6 +1148,9 @@ h2 a {
 }
 
 @media only screen and (max-width: 991px) {
+    .menu-btn-txt {
+        display: none;
+    }
     .icons-div table td {
         line-height: 1;
     }
