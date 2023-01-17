@@ -1152,8 +1152,9 @@ h2 a {
 
 @media only screen and (max-width: 1200px) {
     .row-img-min-400 {
-        max-width: 300px;
+        /* max-width: 300px; */
         height: auto;
+        width: 100%;
     }
 }
 
