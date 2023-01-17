@@ -1148,6 +1148,15 @@ h2 a {
 }
 
 @media only screen and (max-width: 991px) {
+    .menu-btn {
+        position: fixed;
+        top: 26px;
+        left: 26px;
+        z-index: 200;
+        text-decoration: none;
+        z-index: 6000 !important;
+        transition: 0.2s all;
+    }
     .icons-div {
         line-height: 1;
     }
