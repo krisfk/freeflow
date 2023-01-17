@@ -1250,9 +1250,29 @@ h2 a {
         display: block;
         padding: 1rem 0 1rem 0;
     }
+    .icons-div table a {}
 }
 
 @media only screen and (max-width: 576px) {
+    .icons-div table {
+        margin-right: 1rem;
+    }
+    .icons-div table a {
+        margin-right: 1rem;
+    }
+    .icons-div {
+        line-height: 1;
+        top: 20px;
+        right: 26px;
+        font-size: 0.5rem;
+    }
+    .icons-div table td {
+        line-height: 1;
+    }
+    .top-icon-img {
+        height: 31px;
+        width: auto;
+    }
     .our-activity-btn {
         position: relative;
         top: 0;
@@ -1274,6 +1294,20 @@ h2 a {
 }
 
 @media only screen and (max-width: 480px) {
+    .icons-div table {}
+    .icons-div {
+        line-height: 1;
+        top: 24px;
+        right: 26px;
+    }
+    .icons-div table a {}
+    .icons-div table td {
+        line-height: 1;
+    }
+    .top-icon-img {
+        height: 26px;
+        width: auto;
+    }
     .our-activity-btn {
         position: relative;
         top: 0;
@@ -1303,6 +1337,20 @@ h2 a {
 }
 
 @media only screen and (max-width: 375px) {
+    .icons-div table {}
+    .icons-div {
+        line-height: 1;
+        top: 28px;
+        right: 26px;
+    }
+    .icons-div table a {}
+    .icons-div table td {
+        line-height: 1;
+    }
+    .top-icon-img {
+        height: 18px;
+        width: auto;
+    }
     .our-activity-btn {
         position: relative;
         top: 0;
