@@ -18,12 +18,12 @@
 <footer class="footer-div mt-120px">
 
 
-    <div class="container pt-4 pb-4">
+    <div class="container pt-4 pb-4 max-width-80p ">
 
 
 
 
-        <div class="row  mt-5 gx-0">
+        <div class="row  mt-5 gx-0 ">
             <div class="col-lg-7 col-md-12 col-sm-12 col-12 ">
 
 

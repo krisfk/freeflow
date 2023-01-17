@@ -1150,6 +1150,10 @@ h2 a {
     display: none;
 }
 
+.max-width-80p {
+    max-width: 80%;
+}
+
 @media only screen and (max-width: 1200px) {
     .row-img-min-400 {
         /* max-width: 300px; */
