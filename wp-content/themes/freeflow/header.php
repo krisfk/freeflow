@@ -591,6 +591,12 @@ echo'</li>';
 
 
             })
+
+            $('.album-a').click(function() {
+
+                $(this).prev('.album-a').click();
+
+            })
             $('.photo-album-arrow.photo-album-arrow-l').click(function() {
 
                 current_index++;
