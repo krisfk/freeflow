@@ -1131,3 +1131,7 @@ h2 a {
     right: 0;
     transform: translate(0, -50%);
 }
+
+@media only screen and (max-width: 991px) {
+    .home-entry-title {}
+}
