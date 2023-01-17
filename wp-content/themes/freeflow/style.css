@@ -1329,10 +1329,10 @@ h2 a {
         right: 26px;
         font-size: 0.5rem;
     }
-    .icons-div table td {
+    .home-banner-div .icons-div table td {
         line-height: 1;
     }
-    .top-icon-img {
+    .home-banner-div .top-icon-img {
         height: 31px;
         width: auto;
     }
