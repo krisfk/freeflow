@@ -1195,6 +1195,6 @@ h2 a {
         display: block;
     }
     .our-activity-btn h2 {
-        font-size: 2rem;
+        /* font-size: 2rem; */
     }
 }
