@@ -1148,6 +1148,9 @@ h2 a {
 }
 
 @media only screen and (max-width: 991px) {
+    .form-submit-btn {
+        float: right;
+    }
     .subtitle-td {
         /* position: absolute; */
         display: none;
