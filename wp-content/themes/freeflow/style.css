@@ -1169,6 +1169,11 @@ h2 a {
 }
 
 @media only screen and (max-width: 991px) {
+    .footer-div .icons-div table a {
+        display: inline-block;
+        margin-right: 1.5rem;
+        margin-bottom: 0.5rem;
+    }
     .home-banner-div .icons-div table {
         display: inline-block;
         margin-right: 2rem;
