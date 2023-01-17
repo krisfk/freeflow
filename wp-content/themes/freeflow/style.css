@@ -1137,4 +1137,7 @@ h2 a {
         width: 50%;
         min-width: 230px;
     }
+    .subtitle-td {
+        position: absolute;
+    }
 }
