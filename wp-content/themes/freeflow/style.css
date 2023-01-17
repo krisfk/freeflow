@@ -1148,6 +1148,9 @@ h2 a {
 }
 
 @media only screen and (max-width: 991px) {
+    .icons-div table td {
+        line-height: 1;
+    }
     .top-icon-img {
         height: 36px;
         width: auto;
