@@ -1147,7 +1147,10 @@ h2 a {
     display: none;
 }
 
-@media only screen and (max-width: 991px) {
+
+/* 991 */
+
+@media only screen and (max-width: 1200px) {
     .menu-btn {
         position: fixed;
         top: 26px;
