@@ -1165,7 +1165,7 @@ h2 a {
 }
 
 @media only screen and (max-width: 991px) {
-    .icons-div table {
+    .home-banner-div .icons-div table {
         display: inline-block;
         margin-right: 2rem;
         /* margin-bottom: 1rem; */
@@ -1185,7 +1185,7 @@ h2 a {
         z-index: 6000 !important;
         transition: 0.2s all;
     }
-    .icons-div {
+    .home-banner-div .icons-div {
         line-height: 1;
         top: 14px;
         right: 26px;
