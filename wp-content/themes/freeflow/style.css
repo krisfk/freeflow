@@ -1232,6 +1232,8 @@ h2 a {
         display: block;
         padding: 4rem 0 4rem 0;
     }
+    .home .freeflow-logo-a {}
+    .home .freeflow-logo-a img {}
 }
 
 @media only screen and (max-width: 768px) {
@@ -1251,6 +1253,8 @@ h2 a {
         padding: 1rem 0 1rem 0;
     }
     .icons-div table a {}
+    .home .freeflow-logo-a {}
+    .home .freeflow-logo-a img {}
 }
 
 @media only screen and (max-width: 576px) {
