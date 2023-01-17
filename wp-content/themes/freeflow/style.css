@@ -1194,4 +1194,7 @@ h2 a {
         transition: 0.2s all;
         display: block;
     }
+    .our-activity-btn h2 {
+        font-size: 2rem;
+    }
 }
