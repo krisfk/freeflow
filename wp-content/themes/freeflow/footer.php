@@ -29,7 +29,7 @@
 
                 <div class="icons-div">
 
-                    <table>
+                    <table class="w-100">
                         <tr>
                             <td>主辦機構</td>
                         </tr>
@@ -49,7 +49,7 @@
                         </tr>
                     </table>
 
-                    <table>
+                    <table class="w-100">
                         <tr>
                             <td>捐助機構</td>
                             <!-- <td>合作夥伴</td> -->
@@ -71,7 +71,7 @@
                         </tr>
                     </table>
 
-                    <table>
+                    <table class="w-100">
                         <tr>
                             <td>合作夥伴</td>
                         </tr>
