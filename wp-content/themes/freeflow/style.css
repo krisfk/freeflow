@@ -1254,6 +1254,7 @@ h2 a {
     }
     .our-activity-btn table {}
     .our-activity-btn table h2 {}
+    .big-white-arrow-div {}
 }
 
 @media only screen and (max-width: 375px) {
@@ -1274,4 +1275,5 @@ h2 a {
     }
     .our-activity-btn table {}
     .our-activity-btn table h2 {}
+    .big-white-arrow-div {}
 }
