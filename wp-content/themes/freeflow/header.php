@@ -513,20 +513,24 @@ echo'</li>';
             // $('.curve-bg').addClass('fin');
 
 
-            $('.curve-bg').addClass('fin');
+            setTimeout(() => {
+                $('.curve-bg').addClass('fin');
+
+                setInterval(() => {
+
+                    if ($('.curve-bg').hasClass('fin')) {
+                        console.log('fout');
+                        $('.curve-bg').removeClass('fin');
+                    } else {
+                        console.log('fin');
+
+                        $('.curve-bg').addClass('fin');
+                    }
+                }, 4000);
+
+            }, 1000);
 
 
-            setInterval(() => {
-
-                if ($('.curve-bg').hasClass('fin')) {
-                    console.log('fout');
-                    $('.curve-bg').removeClass('fin');
-                } else {
-                    console.log('fin');
-
-                    $('.curve-bg').addClass('fin');
-                }
-            }, 4000);
 
 
 
