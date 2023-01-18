@@ -1480,6 +1480,9 @@ h2 a {
 }
 
 @media only screen and (max-width: 480px) {
+    .sns-menu-ul li img {
+        height: 15px;
+    }
     .mt-120px {
         margin-top: 40px;
     }
