@@ -113,10 +113,10 @@
                 </div>
 
 
-                <div class="row align-items-center">
+                <div class="row align-items-center mt-4">
 
                     <div class="col-6">
-                        <ul class="footer-menu-ul p-0  mt-4">
+                        <ul class="footer-menu-ul p-0  ">
                             <li>&copy; 2022 JC FreeFlow</li>
                             <li><a href="javascript:void(0);" class="term-1-btn">使用條款</a></li>
                             <li><a href="javascript:void(0);" class="term-2-btn">私隱政策</a></li>
