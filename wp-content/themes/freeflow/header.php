@@ -377,7 +377,7 @@ echo'</li>';
 
 
 
-        <div class="curve-bg fin"></div>
+        <div class="curve-bg fout"></div>
 
 
         <?php //get_template_part( 'template-parts/header/site-header' ); ?>
@@ -518,13 +518,13 @@ echo'</li>';
 
             setInterval(() => {
 
-                if ($('.curve-bg').hasClass('fin')) {
-                    console.log('fout');
-                    $('.curve-bg').removeClass('fin');
-                } else {
+                if ($('.curve-bg').hasClass('fout')) {
                     console.log('fin');
+                    $('.curve-bg').removeClass('fout');
+                } else {
+                    console.log('fout');
 
-                    $('.curve-bg').addClass('fin');
+                    $('.curve-bg').addClass('fout');
                 }
             }, 4000);
 
