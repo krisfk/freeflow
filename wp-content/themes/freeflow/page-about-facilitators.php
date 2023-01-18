@@ -47,7 +47,7 @@ get_header(); ?>
     </div>
 
     <div class="row align-items-center mt-5 gx-5">
-        <div class="col-6">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12 ">
 
 
 
@@ -72,7 +72,7 @@ get_header(); ?>
 
         </div>
     </div>
-    <div class="row align-items-center mt-5 gx-5">
+    <div class="row align-items-center mt-5 gx-5 mobile-reverse-row">
         <div class="col-lg-6 col-md-12 col-sm-12 col-12 ">
 
             <h2 class="orange">梁德望</h2>
@@ -124,7 +124,7 @@ get_header(); ?>
 
 
 
-    <div class="row align-items-center mt-5 gx-5">
+    <div class="row align-items-center mt-5 gx-5 mobile-reverse-row">
 
         <div class="col-lg-6 col-md-12 col-sm-12 col-12 ">
 
@@ -180,7 +180,7 @@ get_header(); ?>
 
 
 
-    <div class="row align-items-center mt-5 gx-5">
+    <div class="row align-items-center mt-5 gx-5 mobile-reverse-row">
         <div class="col-lg-6 col-md-12 col-sm-12 col-12 ">
 
 
@@ -239,7 +239,7 @@ get_header(); ?>
     </div>
 
 
-    <div class="row align-items-center mt-5 gx-5">
+    <div class="row align-items-center mt-5 gx-5 mobile-reverse-row">
 
 
         <div class="col-lg-6 col-md-12 col-sm-12 col-12 ">
