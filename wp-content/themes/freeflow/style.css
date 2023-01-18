@@ -1405,6 +1405,7 @@ h2 a {
     }
     .home .home-banner-div .freeflow-logo-a {
         top: 66px;
+        right: 21px;
     }
     .home .home-banner-div .freeflow-logo-a img {
         width: 135px;
@@ -1417,15 +1418,15 @@ h2 a {
     }
     .home-banner-div .icons-div {
         line-height: 1;
-        top: 20px;
-        right: 26px;
+        top: 23px;
+        right: 10px;
         font-size: 0.5rem;
     }
     .home-banner-div .icons-div table td {
         line-height: 1;
     }
     .home-banner-div .top-icon-img {
-        height: 31px;
+        height: 26px;
         width: auto;
     }
     .our-activity-btn {
