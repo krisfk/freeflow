@@ -119,6 +119,12 @@ get_header(); ?>
 
         <div class="col-lg-6 col-md-12 col-sm-12 col-12 ">
 
+            <article class=" mobile-entry-title ">
+                <h2 class="purple">妳我同步
+                </h2>
+            </article>
+
+
 
             <div>
                 女性一直被歷史和社會因素所規範。尤其是年輕女性，面對社教化的壓力和家庭的期望，個人發展難免受到影響。 <br><br>
