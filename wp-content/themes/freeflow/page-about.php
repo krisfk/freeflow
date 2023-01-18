@@ -35,6 +35,10 @@ get_header(); ?>
     <img class="banner-img" style=" "
         src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/about-banner-scaled.jpg" alt="">
 
+    <img class="banner-img mobile" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-1@2x-50-1.jpg"
+        alt="">
+
+
     <!-- background: url(http://64.227.13.14/freeflow/wp-content/uploads/2022/12/about-banner-scaled.jpg) no-repeat;
     background-size: cover;
     background-position: center center;
