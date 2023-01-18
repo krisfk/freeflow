@@ -631,10 +631,6 @@ get_header(); ?>
 </div>
 
 
-</div>
-
-
-
 <div class="container yellow-bg-div gx-0 mt-120px">
 
 
@@ -704,6 +700,11 @@ get_header(); ?>
 
 
 </div>
+
+
+</div>
+
+
 
 
 <!-- <img src="<?php echo get_template_directory_uri(); ?>/assets/images/curve.gif" alt=""> -->
