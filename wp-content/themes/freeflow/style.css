@@ -404,6 +404,7 @@ h2 {
     font-size: 12px;
     line-height: 1.2rem;
     color: #fff;
+    margin-top: 62px;
 }
 
 .footer-menu-ul li {
@@ -1218,7 +1219,7 @@ h2 a {
         width: auto;
     }
     .footer-small-word {
-        margin: 62px 0 0 0;
+        margin: 3rem 0 0 0;
     }
     .form-submit-btn {
         float: right;
