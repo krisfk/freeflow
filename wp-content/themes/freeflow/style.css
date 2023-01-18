@@ -472,7 +472,11 @@ h2 {
 .sns-menu-ul {
     padding: 0;
     /* text-align: right; */
-    display: inline;
+    /* display: inline; */
+    float: none;
+    height: 88px;
+    margin: 0;
+    display: inline-table;
 }
 
 .menu-div .sns-menu-ul {
@@ -482,8 +486,9 @@ h2 {
 }
 
 .sns-menu-ul li {
-    display: inline-block;
-    margin-right: 1rem;
+    display: table-cell;
+    padding-right: 1rem;
+    vertical-align: middle;
 }
 
 .sns-menu-ul li a {
@@ -1283,6 +1288,9 @@ h2 a {
     }
     .text-end {
         text-align: left !important;
+    }
+    .footer-div .text-end {
+        text-align: right !important;
     }
     .our-activity-btn {
         position: relative;
