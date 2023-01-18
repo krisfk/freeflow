@@ -1200,6 +1200,19 @@ h2 a {
 }
 
 @media only screen and (max-width: 991px) {
+    .home .curve-bg {
+        display: block;
+        background: url(./assets/images/Curve1_m.gif) repeat-y;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        opacity: 0.7;
+        background-size: 97% auto;
+        background-position: center 0;
+        top: 555px;
+        height: calc(100% - 555px);
+        transition: opacity 4s linear;
+    }
     .footer-div .icons-div table a {
         display: inline-block;
         margin-right: 1.5rem;
