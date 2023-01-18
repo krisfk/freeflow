@@ -265,6 +265,14 @@ get_header(); ?>
         <div class="col-lg-6 col-md-12 col-sm-12 col-12 ">
 
 
+            <article class=" mobile-entry-title ">
+                <h2 class="purple">和自己的身體 <br>
+                    成為最好的朋友
+                </h2>
+            </article>
+
+
+
             <div>
 
                 <table class="mb-4">
