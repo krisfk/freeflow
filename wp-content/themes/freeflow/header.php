@@ -518,8 +518,11 @@ echo'</li>';
             setTimeout(() => {
 
                 if ($('.curve-bg').hasClass('fin')) {
+                    console.log('fout');
                     $('.curve-bg').removeClass('fin');
                 } else {
+                    console.log('fin');
+
                     $('.curve-bg').addClass('fin');
                 }
             }, 4000);
