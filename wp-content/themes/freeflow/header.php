@@ -437,7 +437,7 @@ echo'</li>';
 
         function home_curve_fadeout() {
             $('.curve-bg').animate({
-                'opacity': '0.7'
+                'opacity': '0.1'
             }, 4000, 'linear', function() {
                 home_curve_fadein();
             });
