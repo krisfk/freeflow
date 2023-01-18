@@ -1202,7 +1202,7 @@ h2 a {
         left: 0;
         width: 100%;
         height: calc(100% - 680px);
-        top: 680px;
+        /* top: 680px; */
     }
     .row-img-min-400 {
         /* max-width: 300px; */
