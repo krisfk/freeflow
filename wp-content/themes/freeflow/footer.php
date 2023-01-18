@@ -104,7 +104,7 @@
             </div>
         </div>
 
-        <div class="row footer-small-word">
+        <div class="row footer-small-word gx-0">
             <div class="col-12">
 
                 <div>
