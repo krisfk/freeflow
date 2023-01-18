@@ -92,7 +92,7 @@ get_header(); ?>
 
     <div class="row">
 
-        <div class="col-7 position-relative">
+        <div class="col-lg-7 col-md-12 col-sm-12 col-12   position-relative">
 
             <h2 class="position-absolute top-0 end-0 orange">三大元素</h2>
 
@@ -117,7 +117,7 @@ get_header(); ?>
 
 
         </div>
-        <div class="col-5">
+        <div class="col-lg-5 col-md-12 col-sm-12 col-12 ">
 
 
             <table class="float-end ">
