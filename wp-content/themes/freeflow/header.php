@@ -515,7 +515,7 @@ echo'</li>';
 
 
 
-            setTimeout(() => {
+            setInterval(() => {
 
                 if ($('.curve-bg').hasClass('fin')) {
                     console.log('fout');
