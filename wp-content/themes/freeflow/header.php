@@ -495,14 +495,7 @@ echo'</li>';
                     ")";
             };
 
-            // document.addEventListener("mousedown", function(e) {
-            //     scaleCursor(e, 0.8);
-            //     circle.classList.add("animate");
-            // });
-            // document.addEventListener("mouseup", function(e) {
-            //     scaleCursor(e, 1);
-            //     circle.classList.remove("animate");
-            // });
+
 
 
             setInterval(() => {
@@ -510,25 +503,20 @@ echo'</li>';
             }, 100);
 
 
-            // $('.curve-bg').addClass('fin');
 
 
-            // setTimeout(() => {
-            //     $('.curve-bg').addClass('fin');
+            // setInterval(() => {
 
-            setInterval(() => {
+            //     if ($('.curve-bg').hasClass('fout')) {
+            //         console.log('fin');
+            //         $('.curve-bg').removeClass('fout');
+            //     } else {
+            //         console.log('fout');
 
-                if ($('.curve-bg').hasClass('fout')) {
-                    console.log('fin');
-                    $('.curve-bg').removeClass('fout');
-                } else {
-                    console.log('fout');
+            //         $('.curve-bg').addClass('fout');
+            //     }
+            // }, 4000);
 
-                    $('.curve-bg').addClass('fout');
-                }
-            }, 4000);
-
-            // }, 1000);
 
 
 
