@@ -425,13 +425,29 @@ echo'</li>';
             settleBanner();
         }
 
+        function home_curve_fadein() {
+
+            $('.curve-bg').animate({
+                'opacity': '0.7'
+            }, 4000, 'linear', function() {
+                home_curve_fadeout();
+            });
+        }
+
+
+        function home_curve_fadeout() {
+            $('.curve-bg').animate({
+                'opacity': '0.7'
+            }, 4000, 'linear', function() {
+                home_curve_fadein();
+            });
+        }
+
         $(function() {
 
 
+            home_curve_fadein();
 
-            $('.curve-bg').animate({
-                'opacity': '0'
-            }, 4000, 'linear');
             //  $('#a').animate({left: '250px'}, 1000, 'linear');
 
 

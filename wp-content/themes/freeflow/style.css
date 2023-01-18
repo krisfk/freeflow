@@ -246,6 +246,7 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
+    opacity: 0.1;
     background-size: 97% auto;
     background-position: center 0;
     top: 555px;
