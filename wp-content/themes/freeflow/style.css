@@ -1233,7 +1233,8 @@ h2 a {
         font-size: 32px;
     }
     .middle-size {
-        font-size: 1.2rem;
+        font-size: 20px;
+        line-height: 1;
     }
     h2 {
         font-size: 36px;
@@ -1327,7 +1328,7 @@ h2 a {
         max-width: fit-content;
     }
     .yellow-bg-div {
-        max-width: 82%;
+        max-width: 80%;
     }
     .album-a {
         display: none;
