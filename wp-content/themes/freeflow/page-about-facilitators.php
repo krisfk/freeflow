@@ -35,6 +35,9 @@ get_header(); ?>
     <img class="banner-img" style=" "
         src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/facilitators-banner-scaled.jpg" alt="">
 
+    <img class="banner-img mobile" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-9@2x-50.jpg"
+        alt="">
+
 
 
 </div>
