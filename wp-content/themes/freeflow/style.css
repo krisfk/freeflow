@@ -278,7 +278,8 @@ body {
 .page-news-1 .curve-bg.fout,
 .page-news-2 .curve-bg.fout,
 .page-resource .curve-bg.fout,
-.page-collaborate .curve-bg.fout {
+.page-collaborate .curve-bg.fout,
+.curve-bg.fout {
     opacity: 0.1;
 }
 
