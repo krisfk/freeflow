@@ -1209,7 +1209,7 @@ h2 a {
         opacity: 0.7;
         background-size: 97% auto;
         background-position: center 0;
-        top: 555px;
+        top: 100px;
         height: calc(100% - 555px);
         transition: opacity 4s linear;
     }
