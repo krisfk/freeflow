@@ -251,7 +251,7 @@ body {
     background-position: center 0;
     top: 555px;
     height: calc(100% - 555px);
-    transition: 4s all linear;
+    transition: opacity 4s all linear;
 }
 
 .home .curve-bg.fout {
@@ -262,7 +262,7 @@ body {
 .page-news-1 .curve-bg,
 .page-news-2 .curve-bg {
     opacity: 0.7;
-    transition: 4s all linear;
+    transition: opacity 4s all linear;
     background: url(./assets/images/news-curve.png) repeat-y;
     background-size: 94% auto;
     background-position: center 0;
@@ -285,7 +285,7 @@ body {
 
 .page-resource .curve-bg {
     opacity: 0.7;
-    transition: 4s all linear;
+    transition: opacity 4s all linear;
     background: url(./assets/images/curve-resource.png) repeat-y;
     background-size: 94% auto;
     background-position: center 0;
@@ -299,7 +299,7 @@ body {
 
 .page-collaborate .curve-bg {
     opacity: 0.7;
-    transition: 4s all linear;
+    transition: opacity 4s all linear;
     background: url(./assets/images/curve-grey.png) repeat-y;
     background-size: 94% auto;
     background-position: center 0;
@@ -318,7 +318,7 @@ body {
     background-size: 94% auto;
     background-position: center 0;
     position: absolute;
-    transition: 4s all linear;
+    transition: opacity 4s all linear;
     top: 0;
     left: 0;
     width: 100%;
