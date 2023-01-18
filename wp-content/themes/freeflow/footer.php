@@ -115,14 +115,14 @@
 
                 <div class="row align-items-center mt-4">
 
-                    <div class="col-lg-8 col-md-8 col-sm-8 col-8 ">
+                    <div class="col-lg-8 col-md-8 col-sm-9 col-9 ">
                         <ul class="footer-menu-ul p-0  ">
                             <li>&copy; 2022 JC FreeFlow</li>
                             <li><a href="javascript:void(0);" class="term-1-btn">使用條款</a></li>
                             <li><a href="javascript:void(0);" class="term-2-btn">私隱政策</a></li>
                         </ul>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-4 col-4 text-end">
+                    <div class="col-lg-4 col-md-4 col-sm-3 col-3 text-end">
                         <ul class="sns-menu-ul">
                             <li>
                                 <a href="https://www.instagram.com/jcfreeflow/" target="_blank"
