@@ -53,7 +53,7 @@ get_header(); ?>
 
     <div class="row">
 
-        <div class="col-5">
+        <div class="col-lg-5 col-md-12 col-sm-12 col-12">
 
 
             <table class="float-start w-100">
@@ -86,7 +86,7 @@ get_header(); ?>
             </table>
 
         </div>
-        <div class="col-7">
+        <div class="col-lg-7 col-md-12 col-sm-12 col-12 ">
 
             <div>
                 由香港賽馬會慈善信託基金捐助，賽馬會「自主・流」身體律動計劃是一個為期三年的試點項目(2021－2024)，旨在改善15至24歲青少女的身心健康，過程中啟發她們的好奇心，擁抱身體多樣性，培養性別意識。
