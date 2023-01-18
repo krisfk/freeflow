@@ -419,7 +419,7 @@ get_header(); ?>
         </div>
         <div class="col-lg-4 col-md-12 col-sm-12 col-12  text-end">
 
-            <h2 class="orange">常見問題</h2>
+            <h2 class="orange mb-4">常見問題</h2>
 
         </div>
     </div>
