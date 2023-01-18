@@ -90,7 +90,7 @@ get_header(); ?>
 
 <div class="container yellow-bg-div gx-0 mt-120px">
 
-    <div class="row mobile-reverse-row">
+    <div class="row mobile-reverse-row gx-0">
 
         <div class="col-lg-7 col-md-12 col-sm-12 col-12   position-relative">
 
