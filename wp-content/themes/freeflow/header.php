@@ -377,7 +377,7 @@ echo'</li>';
 
 
 
-        <div class="curve-bg"></div>
+        <div class="curve-bg fin"></div>
 
 
         <?php //get_template_part( 'template-parts/header/site-header' ); ?>
@@ -513,22 +513,22 @@ echo'</li>';
             // $('.curve-bg').addClass('fin');
 
 
-            setTimeout(() => {
-                $('.curve-bg').addClass('fin');
+            // setTimeout(() => {
+            //     $('.curve-bg').addClass('fin');
 
-                setInterval(() => {
+            setInterval(() => {
 
-                    if ($('.curve-bg').hasClass('fin')) {
-                        console.log('fout');
-                        $('.curve-bg').removeClass('fin');
-                    } else {
-                        console.log('fin');
+                if ($('.curve-bg').hasClass('fin')) {
+                    console.log('fout');
+                    $('.curve-bg').removeClass('fin');
+                } else {
+                    console.log('fin');
 
-                        $('.curve-bg').addClass('fin');
-                    }
-                }, 4000);
+                    $('.curve-bg').addClass('fin');
+                }
+            }, 4000);
 
-            }, 1000);
+            // }, 1000);
 
 
 
