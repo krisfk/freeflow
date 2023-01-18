@@ -424,8 +424,12 @@ echo'</li>';
             }
 
 
-            if ($('body').hasClass('home')) {
-                alert(3);
+            if (!$('body').hasClass('home')) {
+
+                $('.curve-bg').css({
+                    'top': $('.banner-div').height() + 'px'
+                });
+
             }
         }
 
