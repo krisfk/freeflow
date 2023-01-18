@@ -235,8 +235,8 @@ body {
 #page {
     position: relative;
     width: 100%;
-    overflow-x: hidden;
-    /* overflow: hidden; */
+    /* overflow-x: hidden; */
+    overflow: hidden;
     max-width: 1920px;
     margin: 0 auto;
 }

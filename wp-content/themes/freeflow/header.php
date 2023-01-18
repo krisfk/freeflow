@@ -436,6 +436,8 @@ echo'</li>';
                 'display': 'block'
             });
 
+            $('#page').height($('body').height());
+
             // }
         }
 
