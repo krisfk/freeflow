@@ -497,6 +497,7 @@ h2 {
 
 .sns-menu-ul li:last-child {
     margin: 0;
+    padding: 0;
 }
 
 .sns-menu-ul li img {
