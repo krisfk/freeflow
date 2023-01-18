@@ -510,6 +510,8 @@ echo'</li>';
             }, 100);
 
 
+            $('.curve-bg').addClass('fin');
+
             // setInterval(() => {
 
             //     if ($('.curve-bg'))
@@ -518,9 +520,16 @@ echo'</li>';
             // }, interval);
 
 
-            // setTimeout(() => {
-            //     settleBanner()
-            // }, 1000);
+            setTimeout(() => {
+
+                if ($('.curve-bg').hasClass('fin')) {
+                    $('.curve-bg').removeClass('fin');
+                    // $('.curve-bg').addClass('fout');
+                } else {
+                    $('.curve-bg').addClass('fin');
+                }
+                // settleBanner()
+            }, 4000);
 
 
             // settleBanner();
