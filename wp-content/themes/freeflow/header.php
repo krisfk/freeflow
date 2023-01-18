@@ -512,36 +512,18 @@ echo'</li>';
 
             $('.curve-bg').addClass('fin');
 
-            // setInterval(() => {
 
-            //     if ($('.curve-bg'))
-            //         $('.curve-bg')
-
-            // }, interval);
 
 
             setTimeout(() => {
 
                 if ($('.curve-bg').hasClass('fin')) {
                     $('.curve-bg').removeClass('fin');
-                    // $('.curve-bg').addClass('fout');
                 } else {
                     $('.curve-bg').addClass('fin');
                 }
-                // settleBanner()
             }, 4000);
 
-
-            // settleBanner();
-            // alert(888);
-            // settleBanner();
-
-            // $(window).on("load", function() {
-            //     // alert(3);
-            //     settleBanner();
-            //     // 
-            //     // Handler for .load() called.
-            // });
 
 
 
