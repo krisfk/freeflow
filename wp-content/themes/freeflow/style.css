@@ -1204,8 +1204,7 @@ h2 a {
 }
 
 @media only screen and (max-width: 991px) {
-    .curve-bg {
-        /* display: none; */
+    /* .curve-bg {
         opacity: 0.85;
         background: url(./assets/images/mobile-curve-2.png) repeat-y;
         background-size: 94% auto;
@@ -1215,9 +1214,7 @@ h2 a {
         top: 0;
         left: 0;
         width: 100%;
-        /* height: calc(100% - 680px); */
-        /* top: 680px; */
-    }
+    } */
     .big {
         font-size: 32px;
     }
