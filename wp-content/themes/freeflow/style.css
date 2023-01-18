@@ -1190,6 +1190,20 @@ h2 a {
 }
 
 @media only screen and (max-width: 1200px) {
+    .curve-bg {
+        /* display: none; */
+        opacity: 0.85;
+        background: url(./assets/images/curve-2.png) repeat-y;
+        background-size: 94% auto;
+        background-position: center 0;
+        position: absolute;
+        transition: opacity 4s linear;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: calc(100% - 680px);
+        top: 680px;
+    }
     .row-img-min-400 {
         /* max-width: 300px; */
         height: auto;
