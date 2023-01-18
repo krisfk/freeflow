@@ -261,6 +261,8 @@ body {
 .page-news .curve-bg,
 .page-news-1 .curve-bg,
 .page-news-2 .curve-bg {
+    opacity: 0.7;
+    transition: 4s all linear;
     background: url(./assets/images/news-curve.png) repeat-y;
     background-size: 94% auto;
     background-position: center 0;
@@ -272,7 +274,17 @@ body {
     top: 680px;
 }
 
+.page-news .curve-bg.fout,
+.page-news-1 .curve-bg.fout,
+.page-news-2 .curve-bg.fout,
+.page-resource .curve-bg.fout,
+.page-collaborate .curve-bg.fout {
+    opacity: 0.1;
+}
+
 .page-resource .curve-bg {
+    opacity: 0.7;
+    transition: 4s all linear;
     background: url(./assets/images/curve-resource.png) repeat-y;
     background-size: 94% auto;
     background-position: center 0;
@@ -285,6 +297,8 @@ body {
 }
 
 .page-collaborate .curve-bg {
+    opacity: 0.7;
+    transition: 4s all linear;
     background: url(./assets/images/curve-grey.png) repeat-y;
     background-size: 94% auto;
     background-position: center 0;
@@ -298,10 +312,12 @@ body {
 
 .curve-bg {
     /* display: none; */
+    opacity: 0.7;
     background: url(./assets/images/curve-2.png) repeat-y;
     background-size: 94% auto;
     background-position: center 0;
     position: absolute;
+    transition: 4s all linear;
     top: 0;
     left: 0;
     width: 100%;
