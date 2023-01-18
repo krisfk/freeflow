@@ -262,7 +262,7 @@ get_header(); ?>
 
     <div class="row">
 
-        <div class="col-6">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12 ">
 
 
             <div>
@@ -292,7 +292,7 @@ get_header(); ?>
 
         </div>
 
-        <div class="col-6">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12 ">
 
 
             <table class="float-end">
@@ -316,6 +316,13 @@ get_header(); ?>
                             <img class="entry-img  row-img-min-400"
                                 src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/Asset-2@2x.png" alt="">
                         </a>
+
+                        <a href="javascript:void(0);" class="m-album-a">
+                            <img class="entry-img row-img-min-400"
+                                src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-6@2x-1.png" alt="">
+                        </a>
+
+
                     </td>
                 </tr>
             </table>
