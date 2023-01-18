@@ -519,17 +519,17 @@ echo'</li>';
 
 
 
-            // setInterval(() => {
+            setInterval(() => {
 
-            //     if ($('.curve-bg').hasClass('fout')) {
-            //         console.log('fin');
-            //         $('.curve-bg').removeClass('fout');
-            //     } else {
-            //         console.log('fout');
+                if ($('.curve-bg').hasClass('fout')) {
+                    console.log('fin');
+                    $('.curve-bg').removeClass('fout');
+                } else {
+                    console.log('fout');
 
-            //         $('.curve-bg').addClass('fout');
-            //     }
-            // }, 4000);
+                    $('.curve-bg').addClass('fout');
+                }
+            }, 4000);
 
 
 
