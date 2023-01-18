@@ -251,6 +251,11 @@ body {
     background-position: center 0;
     top: 555px;
     height: calc(100% - 555px);
+    transition: 4s all linear;
+}
+
+.home .curve-bg.fin {
+    opacity: 0.7;
 }
 
 .page-news .curve-bg,

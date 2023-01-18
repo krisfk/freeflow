@@ -425,23 +425,23 @@ echo'</li>';
             settleBanner();
         }
 
-        function home_curve_fadein() {
+        // function home_curve_fadein() {
 
-            $('.curve-bg').animate({
-                'opacity': '0.7'
-            }, 4000, 'linear', function() {
-                home_curve_fadeout();
-            });
-        }
+        //     $('.curve-bg').animate({
+        //         'opacity': '0.7'
+        //     }, 4000, 'linear', function() {
+        //         home_curve_fadeout();
+        //     });
+        // }
 
 
-        function home_curve_fadeout() {
-            $('.curve-bg').animate({
-                'opacity': '0.1'
-            }, 4000, 'linear', function() {
-                home_curve_fadein();
-            });
-        }
+        // function home_curve_fadeout() {
+        //     $('.curve-bg').animate({
+        //         'opacity': '0.1'
+        //     }, 4000, 'linear', function() {
+        //         home_curve_fadein();
+        //     });
+        // }
 
         $(function() {
 
@@ -449,6 +449,7 @@ echo'</li>';
             // home_curve_fadein();
 
             //  $('#a').animate({left: '250px'}, 1000, 'linear');
+
 
 
 
@@ -507,6 +508,15 @@ echo'</li>';
             setInterval(() => {
                 settleBanner();
             }, 100);
+
+
+            // setInterval(() => {
+
+            //     if ($('.curve-bg'))
+            //         $('.curve-bg')
+
+            // }, interval);
+
 
             // setTimeout(() => {
             //     settleBanner()
