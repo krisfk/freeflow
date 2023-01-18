@@ -430,7 +430,7 @@ echo'</li>';
                 'top': ($('.banner-div').height() / 1.5) + 'px'
             });
 
-            $('.curve-bg').height($('body').height());
+            $('.curve-bg').height($('body').height() - $('.banner-div').height());
 
             $('.curve-bg').css({
                 'display': 'block'
