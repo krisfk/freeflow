@@ -1218,8 +1218,8 @@ h2 a {
 }
 
 @media only screen and (max-width: 991px) {
-    .align-items-center {
-        align-items: initial;
+    .feature-container .align-items-center {
+        align-items: initial !important;
     }
     /* .curve-bg {
         opacity: 0.85;
