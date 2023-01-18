@@ -543,7 +543,7 @@ h2 {
 
 .freeflow-logo-a {
     position: absolute;
-    top: 45px;
+    top: 20px;
     right: 45px;
     z-index: 1000;
 }
@@ -1321,16 +1321,12 @@ h2 a {
         display: block;
         padding: 4rem 0 4rem 0;
     }
-    .freeflow-logo-a {
-        top: 74px;
-        right: 23px;
-    }
     .freeflow-logo-a img {
         width: 150px;
         height: auto;
     }
     .freeflow-logo-a {
-        top: 74px;
+        top: 20px;
         right: 23px;
     }
     .freeflow-logo-a img {
