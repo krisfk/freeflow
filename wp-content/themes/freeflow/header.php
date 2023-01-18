@@ -480,6 +480,7 @@ echo'</li>';
 
                 $('#cursor').fadeIn(1000);
 
+                $('#page').height($('body').height());
             }, 1000);
 
 
