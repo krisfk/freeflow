@@ -446,7 +446,7 @@ echo'</li>';
         $(function() {
 
 
-            home_curve_fadein();
+            // home_curve_fadein();
 
             //  $('#a').animate({left: '250px'}, 1000, 'linear');
 
