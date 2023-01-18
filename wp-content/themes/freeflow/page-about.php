@@ -39,6 +39,8 @@ get_header(); ?>
         alt="">
 
 
+
+
     <!-- background: url(http://64.227.13.14/freeflow/wp-content/uploads/2022/12/about-banner-scaled.jpg) no-repeat;
     background-size: cover;
     background-position: center center;
@@ -62,6 +64,14 @@ get_header(); ?>
                             <img class="entry-img w-100  row-img-min-400"
                                 src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/Asset-3@2x.png" alt="">
                         </a>
+
+                        <a href="javascript:void(0);" class="m-album-a">
+                            <img class="entry-img row-img-min-400"
+                                src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-3@2x-3.png" alt="">
+                        </a>
+
+
+
                     </td>
                     <td class="subtitle-td align-top">
 
