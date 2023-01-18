@@ -113,7 +113,7 @@
                 </div>
 
 
-                <div class="row align-items-center mt-4">
+                <div class="row align-items-center mt-4 gx-0">
 
                     <div class="col-lg-8 col-md-8 col-sm-9 col-9 ">
                         <ul class="footer-menu-ul p-0  ">
