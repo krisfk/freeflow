@@ -35,18 +35,13 @@ get_header(); ?>
     <img class="banner-img mobile" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-8@2x-50.jpg"
         alt="">
 
-
-
-
-
-
 </div>
 
 <div class="container yellow-bg-div gx-0 mt-120px">
 
     <div class="row">
 
-        <div class="col-5">
+        <div class="col-lg-5 col-md-12 col-sm-12 col-12 ">
 
 
             <table class="float-start">
@@ -65,7 +60,7 @@ get_header(); ?>
             </table>
 
         </div>
-        <div class="col-7">
+        <div class="col-lg-7 col-md-12 col-sm-12 col-12 ">
 
 
             <h2 class="purple">身體律動課程</h2>
