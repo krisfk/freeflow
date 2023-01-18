@@ -1218,6 +1218,9 @@ h2 a {
 }
 
 @media only screen and (max-width: 991px) {
+    .align-items-center {
+        align-items: initial;
+    }
     /* .curve-bg {
         opacity: 0.85;
         background: url(./assets/images/mobile-curve-2.png) repeat-y;
