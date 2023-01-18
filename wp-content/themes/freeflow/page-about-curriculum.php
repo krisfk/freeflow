@@ -481,7 +481,7 @@ get_header(); ?>
 
             <div class="row">
 
-                <div class="col-4">
+                <div class="col-lg-4 col-md-12 col-sm-12 col-12 ">
                     <div class="feeling-div mb-5">
 
 
@@ -526,7 +526,7 @@ get_header(); ?>
                         </div>
                     </div>
                 </div>
-                <div class="col-4">
+                <div class="col-lg-4 col-md-12 col-sm-12 col-12 ">
 
                     <div class="feeling-div mb-5 big-text">
 
@@ -575,7 +575,7 @@ get_header(); ?>
 
 
                 </div>
-                <div class="col-4">
+                <div class="col-lg-4 col-md-12 col-sm-12 col-12 ">
                     <div class="feeling-div mb-5">
 
 
