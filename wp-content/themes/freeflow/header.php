@@ -385,6 +385,9 @@ echo'</li>';
         <script type="text/javascript">
         function settleBanner() {
 
+
+
+
             // alert(4);
             if ($('.banner-img').width() > $(window).width()) {
 
@@ -419,6 +422,11 @@ echo'</li>';
 
 
             }
+
+
+            if ($('body').hasClass('home')) {
+                alert(3);
+            }
         }
 
         window.onload = function() {
@@ -444,6 +452,8 @@ echo'</li>';
         // }
 
         $(function() {
+
+
 
 
             // home_curve_fadein();
