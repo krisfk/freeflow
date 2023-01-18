@@ -513,7 +513,7 @@ echo'</li>';
             // $('.curve-bg').addClass('fin');
 
 
-            $('.curve-bg').addClass('fin');
+            // $('.curve-bg').addClass('fin');
 
 
             setInterval(() => {
