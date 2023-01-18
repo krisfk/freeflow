@@ -427,6 +427,15 @@ echo'</li>';
 
         $(function() {
 
+
+
+            $('.curve-bg').animate({
+                'opacity': '0'
+            }, 4000, 'linear');
+            //  $('#a').animate({left: '250px'}, 1000, 'linear');
+
+
+
             setTimeout(() => {
 
 
