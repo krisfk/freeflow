@@ -1204,6 +1204,11 @@ h2 a {
 }
 
 @media only screen and (max-width: 991px) {
+    h2 {
+        font-size: 36px;
+        font-weight: 200;
+        color: #fff;
+    }
     .mobile-entry-title {
         display: block;
     }
