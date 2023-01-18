@@ -510,7 +510,7 @@ echo'</li>';
             }, 100);
 
 
-            $('.curve-bg').addClass('fin');
+            // $('.curve-bg').addClass('fin');
 
 
 
