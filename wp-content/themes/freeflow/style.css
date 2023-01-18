@@ -1215,8 +1215,8 @@ h2 a {
         top: 0;
         left: 0;
         width: 100%;
-        height: calc(100% - 680px);
-        top: 680px;
+        /* height: calc(100% - 680px); */
+        /* top: 680px; */
     }
     .big {
         font-size: 32px;
