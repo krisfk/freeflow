@@ -237,7 +237,7 @@ get_header(); ?>
         </div>
 
 
-        <div class="col-6 mt-4">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12  mt-4">
 
 
             <div class="row align-items-center">
@@ -264,7 +264,7 @@ get_header(); ?>
         </div>
 
 
-        <div class="col-6 mt-4">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12  mt-4">
 
 
             <div class="row align-items-center">
@@ -288,7 +288,7 @@ get_header(); ?>
         </div>
 
 
-        <div class="col-6 mt-4">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12  mt-4">
 
 
             <div class="row align-items-center">
@@ -312,7 +312,7 @@ get_header(); ?>
         </div>
 
 
-        <div class="col-6 mt-4">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12  mt-4">
 
 
             <div class="row align-items-center">
