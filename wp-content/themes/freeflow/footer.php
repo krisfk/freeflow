@@ -122,7 +122,7 @@
                             <li><a href="javascript:void(0);" class="term-2-btn">私隱政策</a></li>
                         </ul>
                     </div>
-                    <div class="col-6">
+                    <div class="col-6 text-end">
                         <ul class="sns-menu-ul">
                             <li>
                                 <a href="https://www.instagram.com/jcfreeflow/" target="_blank"

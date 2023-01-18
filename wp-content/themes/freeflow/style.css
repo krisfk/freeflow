@@ -471,7 +471,8 @@ h2 {
 
 .sns-menu-ul {
     padding: 0;
-    text-align: right;
+    /* text-align: right; */
+    display: contents;
 }
 
 .menu-div .sns-menu-ul {
