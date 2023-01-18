@@ -1475,6 +1475,9 @@ h2 a {
 }
 
 @media only screen and (max-width: 480px) {
+    .mt-120px {
+        margin-top: 40px;
+    }
     .curve-bg {
         /* display: none; */
         opacity: 0.85;
