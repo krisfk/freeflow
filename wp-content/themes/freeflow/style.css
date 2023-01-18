@@ -1240,6 +1240,11 @@ h2 a {
         font-weight: 200;
         color: #fff;
     }
+    h2.orange {
+        font-size: 36px;
+        font-weight: 200;
+        color: #ff6c2f;
+    }
     .mobile-entry-title {
         display: block;
     }
