@@ -427,7 +427,7 @@ echo'</li>';
             if (!$('body').hasClass('home')) {
 
                 $('.curve-bg').css({
-                    'top': ($('.banner-div').height() / 3) + 'px'
+                    'top': ($('.banner-div').height() / 1.5) + 'px'
                 });
 
             }
