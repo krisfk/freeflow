@@ -1219,7 +1219,7 @@ h2 a {
 
 @media only screen and (max-width: 991px) {
     .feeling-div .text-end {
-        text-align: right;
+        text-align: right !important;
     }
     .feature-container .align-items-center {
         align-items: initial !important;
