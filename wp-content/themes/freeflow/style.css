@@ -472,7 +472,7 @@ h2 {
 .sns-menu-ul {
     padding: 0;
     /* text-align: right; */
-    display: contents;
+    display: inline;
 }
 
 .menu-div .sns-menu-ul {
