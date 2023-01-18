@@ -480,8 +480,8 @@ echo'</li>';
 
                 $('#cursor').fadeIn(1000);
 
-                $('#page').height($('body').height() + $('footer').height() - $('.banner-img')
-                    .height() + 1000);
+                // $('#page').height($('body').height() + $('footer').height() - $('.banner-img')
+                //     .height() + 1000);
             }, 1000);
 
 
