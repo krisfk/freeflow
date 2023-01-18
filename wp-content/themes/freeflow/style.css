@@ -312,7 +312,7 @@ body {
 }
 
 .curve-bg {
-    /* display: none; */
+    display: none;
     opacity: 0.85;
     background: url(./assets/images/curve-2.png) repeat-y;
     background-size: 94% auto;
