@@ -424,13 +424,13 @@ echo'</li>';
             }
 
 
-            if (!$('body').hasClass('home')) {
+            // if (!$('body').hasClass('home')) {
 
-                $('.curve-bg').css({
-                    'top': ($('.banner-div').height() / 1.5) + 'px'
-                });
+            $('.curve-bg').css({
+                'top': ($('.banner-div').height() / 1.5) + 'px'
+            });
 
-            }
+            // }
         }
 
         window.onload = function() {
