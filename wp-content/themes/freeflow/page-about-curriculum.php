@@ -640,7 +640,7 @@ get_header(); ?>
 
     <div class="row">
 
-        <div class="col-8">
+        <div class="col-lg-8 col-md-12 col-sm-12 col-12 ">
 
             <div class="home-entry-title">
                 問：為什麼香港需要身體律動?
@@ -695,7 +695,7 @@ get_header(); ?>
 
 
         </div>
-        <div class="col-4 text-end">
+        <div class="col-lg-4 col-md-12 col-sm-12 col-12  text-end">
 
             <h2 class="orange">常見問題</h2>
 
