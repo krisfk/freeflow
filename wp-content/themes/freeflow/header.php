@@ -429,6 +429,9 @@ echo'</li>';
             $('.curve-bg').css({
                 'top': ($('.banner-div').height() / 1.5) + 'px'
             });
+
+            $('.curve-bg').height($('body').height());
+
             $('.curve-bg').css({
                 'display': 'block'
             });
