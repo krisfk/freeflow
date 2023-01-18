@@ -90,7 +90,7 @@ get_header(); ?>
 
 
 
-            <article class=" mobile-home-entry-title ">
+            <article class=" mobile-entry-title ">
                 <h2 class="purple">計劃背景
                 </h2>
             </article>

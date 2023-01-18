@@ -1185,6 +1185,10 @@ h2 a {
     max-width: 80%;
 }
 
+.mobile-entry-title {
+    display: none;
+}
+
 @media only screen and (max-width: 1200px) {
     .row-img-min-400 {
         /* max-width: 300px; */
@@ -1200,6 +1204,9 @@ h2 a {
 }
 
 @media only screen and (max-width: 991px) {
+    .mobile-entry-title {
+        display: block;
+    }
     .home .curve-bg {
         display: block;
         background: url(./assets/images/Curve1_m.gif) repeat-y;
