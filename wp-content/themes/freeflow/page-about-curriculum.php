@@ -195,6 +195,15 @@ get_header(); ?>
                             <div class="green-bubble">藝術探索</div>
                         </td>
                     </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>d</td>
+                    </tr>
                 </table>
 
                 <!-- <img class="w-100 rounded-0"
