@@ -1489,6 +1489,9 @@ h2 a {
 }
 
 @media only screen and (max-width: 576px) {
+    .mobile .step-arrow {
+        height: 30px;
+    }
     .mobile .orange-bubble-know-more {
         color: #fff;
         font-size: 36px;
