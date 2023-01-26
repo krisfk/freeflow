@@ -278,7 +278,11 @@ get_header(); ?>
 
                         </div>
                         <div class="col-5">
-
+                            <div class="d-inline-block "
+                                style="transform:rotate(270deg);    position: relative;top: 8px;"> <img
+                                    class="step-arrow"
+                                    src="<?php echo get_template_directory_uri(); ?>/assets/images/orange-arrow.png"
+                                    alt=""></div>
                         </div>
                     </div>
 
