@@ -1644,9 +1644,9 @@ h2 a {
     }
 }
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 380px) {
     .mobile .green-bubble {
-        font-size: 18px;
+        font-size: 17px;
     }
 }
 
