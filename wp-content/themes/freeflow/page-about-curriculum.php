@@ -175,7 +175,7 @@ get_header(); ?>
                                     src="<?php echo get_template_directory_uri(); ?>/assets/images/orange-arrow.png"
                                     alt=""></div>
                         </td>
-                        <td>
+                        <td class="w-20">
                             <div class="green-bubble">單元一</div>
                         </td>
                         <td>
@@ -186,12 +186,12 @@ get_header(); ?>
                         <td>
                             <div class="green-bubble">單元二</div>
                         </td>
-                        <td>
+                        <td class="w-20">
                             <div> <img class="quote open"
                                     src="<?php echo get_template_directory_uri(); ?>/assets/images/orange-arrow.png"
                                     alt=""></div>
                         </td>
-                        <td>
+                        <td class="w-20">
                             <div class="green-bubble">藝術探索</div>
                         </td>
                     </tr>
