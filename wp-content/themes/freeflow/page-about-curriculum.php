@@ -169,7 +169,7 @@ get_header(); ?>
                         <td class="">
                             <div class="green-bubble">體驗課</div>
                         </td>
-                        <td>
+                        <td class="pt-3 pe-2 ps-2">
 
                             <div> <img class="quote open"
                                     src="<?php echo get_template_directory_uri(); ?>/assets/images/orange-arrow.png"
@@ -178,7 +178,7 @@ get_header(); ?>
                         <td class="">
                             <div class="green-bubble">單元一</div>
                         </td>
-                        <td>
+                        <td class="pt-3 pe-2 ps-2">
                             <div> <img class="quote open"
                                     src="<?php echo get_template_directory_uri(); ?>/assets/images/orange-arrow.png"
                                     alt=""></div>
@@ -186,7 +186,7 @@ get_header(); ?>
                         <td>
                             <div class="green-bubble">單元二</div>
                         </td>
-                        <td class="">
+                        <td class="pt-3 pe-2 ps-2">
                             <div> <img class="quote open"
                                     src="<?php echo get_template_directory_uri(); ?>/assets/images/orange-arrow.png"
                                     alt=""></div>
