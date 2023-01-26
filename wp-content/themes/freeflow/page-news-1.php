@@ -106,15 +106,35 @@ get_header(); ?>
     <table class="news-tpl-1-img-table mt-4 w-100">
         <tr>
             <td><a href="javascript:void(0);" class="album-a me-4"
-                    rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/WhatsApp-Image-2022-08-04-at-4.54.52-PM.jpg"><img
+                    rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-9@2x-1.png"><img
                         src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-9@2x-1.png" alt=""></a>
                 <a href="javascript:void(0);" class="album-a"
-                    rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/WhatsApp-Image-2022-08-04-at-4.54.52-PM.jpg"><img
+                    rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-10@2x.png"><img
                         src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-10@2x.png" alt=""></a>
             </td>
 
         </tr>
     </table>
+
+    <div class="row news-tpl-1-img-table mobile mt-4 gx-lg-0 gx-md-3 gx-sm-3 gx-3 ">
+
+        <div class="col-6">
+
+            <a href="javascript:void(0);" class="album-a mobile-keep"
+                rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-10@2x.png">
+                <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-10@2x.png"
+                    alt=""></a>
+
+        </div>
+        <div class="col-6">
+
+            <a href="javascript:void(0);" class="album-a  mobile-keep "
+                rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-10@2x.png">
+                <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-10@2x.png"
+                    alt=""></a>
+        </div>
+    </div>
+
 
 </div>
 
@@ -131,11 +151,11 @@ get_header(); ?>
     <table class="news-tpl-1-img-table mt-4 w-100">
         <tr>
             <td><a href="javascript:void(0);" class="album-a me-4"
-                    rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/WhatsApp-Image-2022-08-04-at-4.55.03-PM.jpg"><img
+                    rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-11@2x-1.png"><img
                         src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-11@2x-1.png" alt=""></a>
 
                 <a href="javascript:void(0);" class="album-a"
-                    rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/WhatsApp-Image-2022-08-04-at-4.55.03-PM.jpg"><img
+                    rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-12@2x-1.png"><img
                         src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-12@2x-1.png" alt=""></a>
             </td>
 
