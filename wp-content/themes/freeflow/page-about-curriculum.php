@@ -164,10 +164,10 @@ get_header(); ?>
 
             <div class="position-relative w-100">
 
-                <table>
+                <table class="w-100 step-by-step-div">
                     <tr>
-                        <td>
-                            <div class="green-bubble">體驗課</div>
+                        <td class="w-20">
+                            <div class="green-bubble w-100">體驗課</div>
                         </td>
                         <td>
 
