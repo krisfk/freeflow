@@ -367,7 +367,12 @@ get_header(); ?>
                             <div class="green-bubble">藝術探索</div>
                         </div>
 
-                        <div class="col-2">
+                        <div class="col-2 text-center">
+                            <div class="d-inline-block "
+                                style="transform:rotate(270deg);    position: relative;top: 8px;"> <img
+                                    class="step-arrow"
+                                    src="<?php echo get_template_directory_uri(); ?>/assets/images/orange-arrow.png"
+                                    alt=""></div>
 
                         </div>
                         <div class="col-5">
