@@ -244,6 +244,27 @@ get_header(); ?>
                     </tr>
                 </table>
 
+
+
+                <div class="step-by-step-div mobile">
+
+                    <div class="row">
+
+                        <div class="col-5">
+                            <div class="green-bubble">體驗課</div>
+                        </div>
+
+                        <div class="col-2">
+
+                        </div>
+                        <div class="col-5">
+                            <div class="green-bubble">體驗課</div>
+
+                        </div>
+
+                    </div>
+
+                </div>
                 <!-- <img class="w-100 rounded-0"
                     src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-3@2x.png" alt=""> -->
 

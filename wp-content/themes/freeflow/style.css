@@ -1237,6 +1237,15 @@ h2 a {
     height: 30px;
 }
 
+@media only screen and (max-width: 1400px) {
+    .step-by-step-div {
+        display: none;
+    }
+    .mobile.step-by-step-div {
+        display: block;
+    }
+}
+
 @media only screen and (max-width: 1200px) {
     .curve-bg {
         /* display: none; */
