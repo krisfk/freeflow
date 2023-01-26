@@ -656,6 +656,7 @@ echo'</li>';
             for (i = 0; i < $('.album-a').length; i++) {
                 photo_arr.push($('.album-a').eq(i).attr('rel'));
             }
+            console.log(photo_arr);
 
             $('.album-a').click(function() {
                 var select_url = $(this).attr('rel');
