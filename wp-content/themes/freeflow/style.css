@@ -1201,6 +1201,10 @@ h2 a {
     width: 280px;
 }
 
+.step-arrow {
+    height: 27px;
+}
+
 @media only screen and (max-width: 1200px) {
     .curve-bg {
         /* display: none; */
