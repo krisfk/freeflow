@@ -267,13 +267,7 @@ get_header(); ?>
                     <div class="row">
 
                         <div class="col-5">
-                            <div class="d-inline-block "
-                                style="transform:rotate(90deg);    position: relative;top: 8px;"> <img
-                                    class="step-arrow lazyloaded"
-                                    src="http://64.227.13.14/freeflow/wp-content/themes/freeflow/assets/images/orange-arrow.png"
-                                    alt="" data-ll-status="loaded"><noscript><img class="step-arrow"
-                                        src="http://64.227.13.14/freeflow/wp-content/themes/freeflow/assets/images/orange-arrow.png"
-                                        alt=""></noscript></div>
+                            fds
                         </div>
 
                         <div class="col-2">
