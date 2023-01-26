@@ -1190,6 +1190,13 @@ h2 a {
     display: none;
 }
 
+.green-bubble {
+    background: #31d3cb;
+    color: #fff;
+    font-size: 36px;
+    font-weight: 200;
+}
+
 @media only screen and (max-width: 1200px) {
     .curve-bg {
         /* display: none; */
