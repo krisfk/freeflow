@@ -203,7 +203,9 @@ get_header(); ?>
                         <td></td>
                         <td></td>
                         <td class="pe-2 ps-2 text-center">
-                            <div class="d-inline-block " style="transform:rotate(90deg);"> <img class="step-arrow"
+                            <div class="d-inline-block "
+                                style="transform:rotate(90deg);    position: relative;top: 8px;"> <img
+                                    class="step-arrow"
                                     src="<?php echo get_template_directory_uri(); ?>/assets/images/orange-arrow.png"
                                     alt=""></div>
                         </td>
