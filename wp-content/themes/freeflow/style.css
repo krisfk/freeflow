@@ -1202,7 +1202,6 @@ h2 a {
 }
 
 .orange-bubble-know-more {
-    /* background: #ff6c2f; */
     color: #fff;
     font-size: 36px;
     font-weight: 200;
@@ -1211,8 +1210,8 @@ h2 a {
     border-radius: 3rem;
     text-align: center;
     width: 280px;
-    /* background-position: center center; */
     background: url(./assets/images/orange-know-more-txt.png) no-repeat #ff6c2f center center;
+    background-size: 60%;
 }
 
 .step-arrow {
