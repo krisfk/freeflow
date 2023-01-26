@@ -171,21 +171,24 @@ get_header(); ?>
                         </td>
                         <td class="pt-3 pe-2 ps-2">
 
-                            <div> <img src="<?php echo get_template_directory_uri(); ?>/assets/images/orange-arrow.png"
+                            <div> <img class="quote open"
+                                    src="<?php echo get_template_directory_uri(); ?>/assets/images/orange-arrow.png"
                                     alt=""></div>
                         </td>
                         <td class="">
                             <div class="green-bubble">單元一</div>
                         </td>
                         <td class="pt-3 pe-2 ps-2">
-                            <div> <img src="<?php echo get_template_directory_uri(); ?>/assets/images/orange-arrow.png"
+                            <div> <img class="quote open"
+                                    src="<?php echo get_template_directory_uri(); ?>/assets/images/orange-arrow.png"
                                     alt=""></div>
                         </td>
                         <td>
                             <div class="green-bubble">單元二</div>
                         </td>
                         <td class="pt-3 pe-2 ps-2">
-                            <div> <img src="<?php echo get_template_directory_uri(); ?>/assets/images/orange-arrow.png"
+                            <div> <img class="quote open"
+                                    src="<?php echo get_template_directory_uri(); ?>/assets/images/orange-arrow.png"
                                     alt=""></div>
                         </td>
                         <td class="">
@@ -199,10 +202,7 @@ get_header(); ?>
                         <td></td>
                         <td></td>
                         <td></td>
-                        <td class="text-center">
-                            <div> <img src="<?php echo get_template_directory_uri(); ?>/assets/images/orange-arrow.png"
-                                    alt=""></div>
-                        </td>
+                        <td class="text-center"></td>
                     </tr>
                 </table>
 
