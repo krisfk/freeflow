@@ -1348,6 +1348,7 @@ h2 a {
         font-size: 36px;
         font-weight: 200;
         color: #ff6c2f;
+        line-height: 1.8;
     }
     .mobile-entry-title {
         display: block;
