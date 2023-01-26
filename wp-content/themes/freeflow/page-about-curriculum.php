@@ -199,7 +199,10 @@ get_header(); ?>
                         <td></td>
                         <td></td>
                         <td></td>
-                        <td class="text-center"></td>
+                        <td class="text-center">
+                            <div> <img src="<?php echo get_template_directory_uri(); ?>/assets/images/orange-arrow.png"
+                                    alt=""></div>
+                        </td>
                     </tr>
                 </table>
 
