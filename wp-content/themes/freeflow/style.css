@@ -1645,6 +1645,12 @@ h2 a {
 }
 
 @media only screen and (max-width: 375px) {
+    .mobile .green-bubble {
+        font-size: 18px;
+    }
+}
+
+@media only screen and (max-width: 375px) {
     .home .home-banner-div .freeflow-logo-a {
         top: 56px;
     }
