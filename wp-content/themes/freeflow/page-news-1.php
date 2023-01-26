@@ -187,6 +187,24 @@ get_header(); ?>
             </td>
         </tr>
     </table>
+    <div class="row news-tpl-1-img-table mobile mt-4 gx-lg-0 gx-md-3 gx-sm-3 gx-3 ">
+
+        <div class="col-6">
+
+            <a href="javascript:void(0);" class="album-a mobile-keep"
+                rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/WhatsApp-Image-2022-08-04-at-4.54.52-PM.jpg">
+                <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-11@2x-1.png"
+                    alt=""></a>
+
+        </div>
+        <div class="col-6">
+
+            <a href="javascript:void(0);" class="album-a  mobile-keep "
+                rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/WhatsApp-Image-2022-08-04-at-4.54.52-PM.jpg">
+                <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-11@2x-1.png"
+                    alt=""></a>
+        </div>
+    </div>
 
 </div>
 
