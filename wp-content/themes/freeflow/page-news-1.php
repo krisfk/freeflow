@@ -49,7 +49,7 @@ get_header(); ?>
         一同體驗及交流。她們當日製作的成品亦於該年度的展覽中展出。
     </div>
 
-    <table class="news-tpl-1-img-table w-100">
+    <table class="news-tpl-1-img-table mt-4 w-100">
         <tr>
             <td>
                 <a href="javascript:void(0);" class="album-a me-4"
@@ -75,7 +75,7 @@ get_header(); ?>
     <div class="mt-4">可調製屬於自己的香水, 找尋自己的味道
     </div>
 
-    <table class="news-tpl-1-img-table w-100">
+    <table class="news-tpl-1-img-table mt-4 w-100">
         <tr>
             <td><a href="javascript:void(0);" class="album-a me-4"
                     rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/WhatsApp-Image-2022-08-04-at-4.54.52-PM.jpg"><img
@@ -100,7 +100,7 @@ get_header(); ?>
     <div class="mt-4">由形象顧問&造型師Adele指導，學習如何從穿搭方面找到自己的獨特性
     </div>
 
-    <table class="news-tpl-1-img-table w-100">
+    <table class="news-tpl-1-img-table mt-4 w-100">
         <tr>
             <td><a href="javascript:void(0);" class="album-a me-4"
                     rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/WhatsApp-Image-2022-08-04-at-4.55.03-PM.jpg"><img
@@ -127,7 +127,7 @@ get_header(); ?>
     <div class="mt-4">盆景 / 身體造型蠟燭 / 酒精墨水畫 / 新式書法
     </div>
 
-    <table class="news-tpl-1-img-table w-100">
+    <table class="news-tpl-1-img-table mt-4 w-100">
         <tr>
             <td><a href="javascript:void(0);" class="album-a me-4"
                     rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/WhatsApp-Image-2022-08-04-at-4.55.39-PM.jpg"><img
