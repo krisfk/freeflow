@@ -216,7 +216,7 @@ get_header(); ?>
                         </td>
                         <td class="pt-0 pe-2 ps-2">
 
-                            <div> <img class="step-arrow"
+                            <div style="transform:rotate(180deg);"> <img class="step-arrow"
                                     src="<?php echo get_template_directory_uri(); ?>/assets/images/orange-arrow.png"
                                     alt=""></div>
                         </td>
