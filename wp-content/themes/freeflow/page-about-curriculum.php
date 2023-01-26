@@ -212,7 +212,7 @@ get_header(); ?>
                     </tr>
                     <tr>
                         <td class="">
-                            <div class="orange-bubble-know-more">.</div>
+                            <a href="javascript:void(0);" class="orange-bubble-know-more">.</a>
                         </td>
                         <td class="pt-0 pe-2 ps-2">
 

@@ -1212,6 +1212,7 @@ h2 a {
     width: 280px;
     background: url(./assets/images/orange-know-more-txt.png) no-repeat #ff6c2f center center;
     background-size: 60%;
+    text-decoration: none;
 }
 
 .step-arrow {
