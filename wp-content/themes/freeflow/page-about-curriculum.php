@@ -166,7 +166,7 @@ get_header(); ?>
 
                 <table class="w-100 step-by-step-div">
                     <tr>
-                        <td class="w-20">
+                        <td class="">
                             <div class="green-bubble w-100">體驗課</div>
                         </td>
                         <td>
@@ -175,7 +175,7 @@ get_header(); ?>
                                     src="<?php echo get_template_directory_uri(); ?>/assets/images/orange-arrow.png"
                                     alt=""></div>
                         </td>
-                        <td class="w-20">
+                        <td class="">
                             <div class="green-bubble">單元一</div>
                         </td>
                         <td>
@@ -186,12 +186,12 @@ get_header(); ?>
                         <td>
                             <div class="green-bubble">單元二</div>
                         </td>
-                        <td class="w-20">
+                        <td class="">
                             <div> <img class="quote open"
                                     src="<?php echo get_template_directory_uri(); ?>/assets/images/orange-arrow.png"
                                     alt=""></div>
                         </td>
-                        <td class="w-20">
+                        <td class="">
                             <div class="green-bubble">藝術探索</div>
                         </td>
                     </tr>
