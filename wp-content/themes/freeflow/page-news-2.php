@@ -65,6 +65,16 @@ get_header(); ?>
                 rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02329_edited.jpg">
                 <img class="d-inline-block row-img-min-400" style=""
                     src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-16@2x.png" alt=""></a>
+
+
+            <a href="javascript:void(0);" class="m-album-a">
+                <img class="row-img-min-400"
+                    src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-4@2x-50.jpg" alt="">
+
+            </a>
+
+
+
         </div>
 
     </div>
