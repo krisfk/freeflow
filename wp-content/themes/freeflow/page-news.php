@@ -44,7 +44,7 @@ get_header(); ?>
 
 
     <div class="row align-items-center mt-0 gx-5">
-        <div class="col-6">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12 ">
 
 
             <a href="javascript:void(0);" class="album-a"
@@ -53,7 +53,7 @@ get_header(); ?>
             </a>
 
         </div>
-        <div class="col-6 text-end">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12 text-end">
 
 
             <a href="<?php echo get_site_url();?>/news-1" class="news-a">
@@ -80,7 +80,7 @@ get_header(); ?>
 <div class="container yellow-bg-div gx-0 mt-60px">
 
     <div class="row align-items-center mt-0 gx-5">
-        <div class="col-6">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12 ">
 
             <a href="javascript:void(0);" class="album-a"
                 rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Annual-Poster.jpg">
@@ -90,7 +90,7 @@ get_header(); ?>
                     alt="">
             </a>
         </div>
-        <div class="col-6 text-end">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12 text-end">
 
 
 
