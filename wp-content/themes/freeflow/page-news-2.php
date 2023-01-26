@@ -198,11 +198,7 @@ get_header(); ?>
                 和青少女們一起尋索自在的可能性。</div>
 
 
-            <article class="vertical-article position-absolute bottom-0 end-0 me-4 mb-4">
-                <h2 class="orange">青少女 <br>
-                    藝術展
-                </h2>
-            </article>
+
 
 
 
@@ -210,6 +206,11 @@ get_header(); ?>
 
     </div>
 
+    <article class="vertical-article position-absolute bottom-0 end-0 me-4 mb-4">
+        <h2 class="orange">青少女 <br>
+            藝術展
+        </h2>
+    </article>
 
 </div>
 
@@ -263,17 +264,18 @@ get_header(); ?>
                 與身體對話，找回屬於你的自在。</div>
 
 
-            <article class="vertical-article position-absolute bottom-0 end-0 me-4 mb-4">
-                <h2 class="orange">身體律動 <br>
-                    工作坊
-                </h2>
-            </article>
 
 
 
         </div>
 
     </div>
+
+    <article class="vertical-article position-absolute bottom-0 end-0 me-4 mb-4">
+        <h2 class="orange">身體律動 <br>
+            工作坊
+        </h2>
+    </article>
 
 
 </div>
