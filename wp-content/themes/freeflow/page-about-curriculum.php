@@ -368,7 +368,8 @@ get_header(); ?>
                         </div>
 
                         <div class="col-2 text-center">
-                            <div class="d-inline-block "> <img class="step-arrow"
+                            <div class="d-inline-block " style="    position: relative;
+    top: 13px;"> <img class="step-arrow"
                                     src="<?php echo get_template_directory_uri(); ?>/assets/images/orange-arrow.png"
                                     alt=""></div>
 
