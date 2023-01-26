@@ -364,14 +364,14 @@ get_header(); ?>
                     <div class="row">
 
                         <div class="col-5">
-                            <div class="green-bubble">單完二</div>
+                            <div class="green-bubble">藝術探索</div>
                         </div>
 
                         <div class="col-2">
 
                         </div>
                         <div class="col-5">
-                            <div class="green-bubble">藝術日營</div>
+                            <div class="green-bubble">交流會</div>
 
                         </div>
                     </div>
