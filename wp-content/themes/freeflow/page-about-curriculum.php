@@ -162,7 +162,7 @@ get_header(); ?>
 
             <h2 class="purple">律動課程框架</h2>
 
-            <div class="position-relative w-100">
+            <div class="position-relative w-100 mt-4">
 
                 <table class="w-100 step-by-step-div">
                     <tr>
