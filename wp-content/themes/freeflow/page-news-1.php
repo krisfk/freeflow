@@ -73,16 +73,14 @@ get_header(); ?>
 
         <div class="col-6">
 
-            <a href="javascript:void(0);" class="album-a mobile-keep"
-                rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/vlcsnap-2022-07-21-19h29m05s552.jpg">
+            <a href="javascript:void(0);" class="album-a mobile-keep">
                 <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-7@2x-1.png"
                     alt=""></a>
 
         </div>
         <div class="col-6">
 
-            <a href="javascript:void(0);" class="album-a  mobile-keep "
-                rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/vlcsnap-2022-07-21-19h29m05s552.jpg">
+            <a href="javascript:void(0);" class="album-a  mobile-keep ">
                 <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-7@2x-1.png"
                     alt=""></a>
         </div>
@@ -120,16 +118,14 @@ get_header(); ?>
 
         <div class="col-6">
 
-            <a href="javascript:void(0);" class="album-a mobile-keep"
-                rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/WhatsApp-Image-2022-08-04-at-4.54.52-PM.jpg">
+            <a href="javascript:void(0);" class="album-a mobile-keep">
                 <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-10@2x.png"
                     alt=""></a>
 
         </div>
         <div class="col-6">
 
-            <a href="javascript:void(0);" class="album-a  mobile-keep "
-                rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/WhatsApp-Image-2022-08-04-at-4.54.52-PM.jpg">
+            <a href="javascript:void(0);" class="album-a  mobile-keep ">
                 <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-10@2x.png"
                     alt=""></a>
         </div>
@@ -167,16 +163,14 @@ get_header(); ?>
 
         <div class="col-6">
 
-            <a href="javascript:void(0);" class="album-a mobile-keep"
-                rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/WhatsApp-Image-2022-08-04-at-4.55.03-PM.jpg">
+            <a href="javascript:void(0);" class="album-a mobile-keep">
                 <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-11@2x-1.png"
                     alt=""></a>
 
         </div>
         <div class="col-6">
 
-            <a href="javascript:void(0);" class="album-a  mobile-keep "
-                rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/WhatsApp-Image-2022-08-04-at-4.55.03-PM.jpg">
+            <a href="javascript:void(0);" class="album-a  mobile-keep ">
                 <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-11@2x-1.png"
                     alt=""></a>
         </div>
@@ -212,16 +206,14 @@ get_header(); ?>
 
         <div class="col-6">
 
-            <a href="javascript:void(0);" class="album-a mobile-keep"
-                rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/WhatsApp-Image-2022-08-04-at-4.55.39-PM.jpg">
+            <a href="javascript:void(0);" class="album-a mobile-keep">
                 <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-14@2x.png"
                     alt=""></a>
 
         </div>
         <div class="col-6">
 
-            <a href="javascript:void(0);" class="album-a  mobile-keep "
-                rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/WhatsApp-Image-2022-08-04-at-4.55.39-PM.jpg">
+            <a href="javascript:void(0);" class="album-a  mobile-keep ">
                 <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-14@2x.png"
                     alt=""></a>
         </div>
