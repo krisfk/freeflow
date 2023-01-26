@@ -258,7 +258,9 @@ get_header(); ?>
 
                         </div>
                         <div class="col-5">
-                            <div class="green-bubble">體驗課</div>
+
+                            <a href="javascript:void(0);" class="orange-bubble-know-more">.</a>
+
 
                         </div>
                     </div>
