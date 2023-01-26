@@ -682,7 +682,7 @@ echo'</li>';
                 $(this).prev('.album-a').click();
 
             })
-            $('.photo-album-arrow.photo-album-arrow-l').click(function() {
+            $('.photo-album-arrow.photo-album-arrow-r').click(function() {
 
                 current_index++;
 
@@ -699,7 +699,7 @@ echo'</li>';
 
             });
 
-            $('.photo-album-arrow.photo-album-arrow-r').click(function() {
+            $('.photo-album-arrow.photo-album-arrow-l').click(function() {
 
 
                 current_index--;
