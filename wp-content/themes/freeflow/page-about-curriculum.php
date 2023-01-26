@@ -208,6 +208,36 @@ get_header(); ?>
                                     alt=""></div>
                         </td>
                     </tr>
+                    <tr>
+                        <td class="">
+                            <div class="green-bubble">體驗課</div>
+                        </td>
+                        <td class="pt-0 pe-2 ps-2">
+
+                            <div> <img class="step-arrow"
+                                    src="<?php echo get_template_directory_uri(); ?>/assets/images/orange-arrow.png"
+                                    alt=""></div>
+                        </td>
+                        <td class="">
+                            <div class="green-bubble">單元一</div>
+                        </td>
+                        <td class="pt-0 pe-2 ps-2">
+                            <div> <img class="step-arrow"
+                                    src="<?php echo get_template_directory_uri(); ?>/assets/images/orange-arrow.png"
+                                    alt=""></div>
+                        </td>
+                        <td>
+                            <div class="green-bubble">單元二</div>
+                        </td>
+                        <td class="pt-0 pe-2 ps-2">
+                            <div> <img class="step-arrow"
+                                    src="<?php echo get_template_directory_uri(); ?>/assets/images/orange-arrow.png"
+                                    alt=""></div>
+                        </td>
+                        <td class="">
+                            <div class="green-bubble">藝術探索</div>
+                        </td>
+                    </tr>
                 </table>
 
                 <!-- <img class="w-100 rounded-0"
