@@ -1292,7 +1292,7 @@ h2 a {
         display: none;
     }
     .mobile.news-tpl-1-img-table {
-        display: block;
+        display: flex;
     }
 }
 
