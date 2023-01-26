@@ -1237,6 +1237,22 @@ h2 a {
     display: block;
 }
 
+.mobile .orange-bubble-know-more:hover {
+    color: #fff;
+    font-size: 36px;
+    font-weight: 200;
+    text-indent: -1000px;
+    padding: 0.5rem;
+    border-radius: 3rem;
+    text-align: center;
+    width: 280px;
+    background: url(./assets/images/mobile-orange-know-more-txt.png) no-repeat #ff6c2f center center;
+    background-size: 60%;
+    text-decoration: none;
+    width: 100% !important;
+    display: block;
+}
+
 .orange-bubble-know-more:hover {
     color: #fff;
     font-size: 36px;
@@ -1497,6 +1513,21 @@ h2 a {
         height: 20px;
     }
     .mobile .orange-bubble-know-more {
+        color: #fff;
+        font-size: 36px;
+        font-weight: 200;
+        text-indent: -1000px;
+        padding: 0.5rem;
+        border-radius: 3rem;
+        text-align: center;
+        width: 280px;
+        background: url(./assets/images/mobile-orange-know-more-txt.png) no-repeat #ff6c2f center center;
+        background-size: 75%;
+        text-decoration: none;
+        width: 100% !important;
+        display: block;
+    }
+    .mobile .orange-bubble-know-more:hover {
         color: #fff;
         font-size: 36px;
         font-weight: 200;
