@@ -266,7 +266,7 @@ get_header(); ?>
 
                     <div class="row">
 
-                        <div class="col-5">
+                        <div class="col-5 text-center">
                             <div class="d-inline-block "
                                 style="transform:rotate(90deg);    position: relative;top: 8px;"> <img
                                     class="step-arrow"
