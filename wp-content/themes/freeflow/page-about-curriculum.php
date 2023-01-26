@@ -221,7 +221,7 @@ get_header(); ?>
                                     alt=""></div>
                         </td>
                         <td class="">
-                            <div class="green-bubble">單元一</div>
+                            <div class="green-bubble">藝術展演</div>
                         </td>
                         <td class="pt-0 pe-2 ps-2">
                             <div style="transform:rotate(180deg);"> <img class="step-arrow"
@@ -229,7 +229,9 @@ get_header(); ?>
                                     alt=""></div>
                         </td>
                         <td>
-                            <div class="green-bubble">單元二</div>
+                            <div class="green-bubble">藝術日營
+
+                            </div>
                         </td>
                         <td class="pt-0 pe-2 ps-2">
                             <div style="transform:rotate(180deg);"> <img class="step-arrow"
@@ -237,7 +239,7 @@ get_header(); ?>
                                     alt=""></div>
                         </td>
                         <td class="">
-                            <div class="green-bubble">藝術探索</div>
+                            <div class="green-bubble">交流會</div>
                         </td>
                     </tr>
                 </table>
