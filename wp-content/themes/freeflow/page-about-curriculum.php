@@ -212,7 +212,7 @@ get_header(); ?>
                     </tr>
                     <tr>
                         <td class="">
-                            <div class="green-bubble">體驗課</div>
+                            <div class="orange-bubble-know-more">.</div>
                         </td>
                         <td class="pt-0 pe-2 ps-2">
 

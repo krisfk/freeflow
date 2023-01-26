@@ -1201,6 +1201,17 @@ h2 a {
     width: 280px;
 }
 
+.orange-bubble-know-more {
+    background: #ff6c2f;
+    color: #fff;
+    font-size: 36px;
+    font-weight: 200;
+    padding: 0.5rem;
+    border-radius: 3rem;
+    text-align: center;
+    width: 280px;
+}
+
 .step-arrow {
     height: 30px;
 }
