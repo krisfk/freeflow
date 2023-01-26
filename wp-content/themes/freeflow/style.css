@@ -1489,6 +1489,21 @@ h2 a {
 }
 
 @media only screen and (max-width: 576px) {
+    .mobile .orange-bubble-know-more {
+        color: #fff;
+        font-size: 36px;
+        font-weight: 200;
+        text-indent: -1000px;
+        padding: 0.5rem;
+        border-radius: 3rem;
+        text-align: center;
+        width: 280px;
+        background: url(./assets/images/mobile-orange-know-more-txt.png) no-repeat #ff6c2f center center;
+        background-size: 75%;
+        text-decoration: none;
+        width: 100% !important;
+        display: block;
+    }
     .mobile .green-bubble {
         font-size: 20px;
     }
