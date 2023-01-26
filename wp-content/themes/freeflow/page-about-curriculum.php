@@ -167,7 +167,7 @@ get_header(); ?>
                 <table class="w-100 step-by-step-div">
                     <tr>
                         <td class="">
-                            <div class="green-bubble w-100">體驗課</div>
+                            <div class="green-bubble">體驗課</div>
                         </td>
                         <td>
 
