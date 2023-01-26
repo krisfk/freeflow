@@ -286,6 +286,98 @@ get_header(); ?>
                         </div>
                     </div>
 
+
+                    <div class="row">
+
+                        <div class="col-5">
+                            <div class="green-bubble">單完一</div>
+                        </div>
+
+                        <div class="col-2">
+
+                        </div>
+                        <div class="col-5">
+                            <div class="green-bubble">藝術展演</div>
+
+                        </div>
+                    </div>
+
+                    <div class="row">
+
+                        <div class="col-5 text-center">
+                            <div class="d-inline-block "
+                                style="transform:rotate(90deg);    position: relative;top: 8px;"> <img
+                                    class="step-arrow"
+                                    src="<?php echo get_template_directory_uri(); ?>/assets/images/orange-arrow.png"
+                                    alt=""></div>
+                        </div>
+
+                        <div class="col-2">
+
+                        </div>
+                        <div class="col-5 text-center">
+                            <div class="d-inline-block "
+                                style="transform:rotate(270deg);    position: relative;top: 8px;"> <img
+                                    class="step-arrow"
+                                    src="<?php echo get_template_directory_uri(); ?>/assets/images/orange-arrow.png"
+                                    alt=""></div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+
+                        <div class="col-5">
+                            <div class="green-bubble">單完二</div>
+                        </div>
+
+                        <div class="col-2">
+
+                        </div>
+                        <div class="col-5">
+                            <div class="green-bubble">藝術日營</div>
+
+                        </div>
+                    </div>
+
+                    <div class="row">
+
+                        <div class="col-5 text-center">
+                            <div class="d-inline-block "
+                                style="transform:rotate(90deg);    position: relative;top: 8px;"> <img
+                                    class="step-arrow"
+                                    src="<?php echo get_template_directory_uri(); ?>/assets/images/orange-arrow.png"
+                                    alt=""></div>
+                        </div>
+
+                        <div class="col-2">
+
+                        </div>
+                        <div class="col-5 text-center">
+                            <div class="d-inline-block "
+                                style="transform:rotate(270deg);    position: relative;top: 8px;"> <img
+                                    class="step-arrow"
+                                    src="<?php echo get_template_directory_uri(); ?>/assets/images/orange-arrow.png"
+                                    alt=""></div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+
+                        <div class="col-5">
+                            <div class="green-bubble">單完二</div>
+                        </div>
+
+                        <div class="col-2">
+
+                        </div>
+                        <div class="col-5">
+                            <div class="green-bubble">藝術日營</div>
+
+                        </div>
+                    </div>
+
+
+
                 </div>
                 <!-- <img class="w-100 rounded-0"
                     src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-3@2x.png" alt=""> -->
