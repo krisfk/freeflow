@@ -1201,6 +1201,10 @@ h2 a {
     width: 280px;
 }
 
+.mobile .green-bubble {
+    width: 100%;
+}
+
 .orange-bubble-know-more {
     color: #fff;
     font-size: 36px;
