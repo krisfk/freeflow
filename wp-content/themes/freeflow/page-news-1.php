@@ -69,7 +69,7 @@ get_header(); ?>
         </tr>
     </table>
 
-    <div class="row news-tpl-1-img-table mobile mt-4 gx-0">
+    <div class="row news-tpl-1-img-table mobile mt-4 gx-lg-0 gx-md-2 gx-sm-2 gx-2 ">
 
         <div class="col-6">
 
