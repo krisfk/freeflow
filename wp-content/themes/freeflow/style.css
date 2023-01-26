@@ -1211,15 +1211,13 @@ h2 a {
     border-radius: 3rem;
     text-align: center;
     width: 280px;
-    background-position: center center;
-    background: url(./assets/images/orange-know-more-txt.png) no-repeat #ff6c2f;
+    /* background-position: center center; */
+    background: url(./assets/images/orange-know-more-txt.png) no-repeat #ff6c2f center center;
 }
 
 .step-arrow {
     height: 30px;
 }
-
-.orange-bubble-know-more {}
 
 @media only screen and (max-width: 1200px) {
     .curve-bg {
