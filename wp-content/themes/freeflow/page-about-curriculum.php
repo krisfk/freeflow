@@ -164,10 +164,43 @@ get_header(); ?>
 
             <div class="position-relative w-100">
 
-                <img class="w-100 rounded-0"
-                    src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-3@2x.png" alt="">
+                <table>
+                    <tr>
+                        <td>
+                            <div class="green-bubble">體驗課</div>
+                        </td>
+                        <td>
 
-                <div class="step-btn-div"></div>
+                            <div> <img class="quote open"
+                                    src="<?php echo get_template_directory_uri(); ?>/assets/images/orange-arrow.png"
+                                    alt=""></div>
+                        </td>
+                        <td>
+                            <div class="green-bubble">單元一</div>
+                        </td>
+                        <td>
+                            <div> <img class="quote open"
+                                    src="<?php echo get_template_directory_uri(); ?>/assets/images/orange-arrow.png"
+                                    alt=""></div>
+                        </td>
+                        <td>
+                            <div class="green-bubble">單元二</div>
+                        </td>
+                        <td>
+                            <div> <img class="quote open"
+                                    src="<?php echo get_template_directory_uri(); ?>/assets/images/orange-arrow.png"
+                                    alt=""></div>
+                        </td>
+                        <td>
+                            <div class="green-bubble">藝術探索</div>
+                        </td>
+                    </tr>
+                </table>
+
+                <!-- <img class="w-100 rounded-0"
+                    src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-3@2x.png" alt=""> -->
+
+                <!-- <div class="step-btn-div"></div> -->
 
 
             </div>
