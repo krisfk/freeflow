@@ -73,8 +73,8 @@
                 <div class="col-12">
 
                     <div class="lightbox-enlarge-photo-div position-relative">
-                        <a href="javascript:void(0);" class="photo-album-arrow photo-album-arrow-l"></a>
-                        <a href="javascript:void(0);" class="photo-album-arrow photo-album-arrow-r"></a>
+                        <!-- <a href="javascript:void(0);" class="photo-album-arrow photo-album-arrow-l"></a> -->
+                        <!-- <a href="javascript:void(0);" class="photo-album-arrow photo-album-arrow-r"></a> -->
 
                         <!-- <img class="w-100 lightbox-enlarge-photo" src="" alt=""> -->
                     </div>
