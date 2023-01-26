@@ -202,8 +202,8 @@ get_header(); ?>
                         <td></td>
                         <td></td>
                         <td></td>
-                        <td class="pt-0 pe-2 ps-2 text-center">
-                            <div> <img class="step-arrow"
+                        <td class="pt-3 pe-2 ps-2 text-center">
+                            <div class="d-inline-block"> <img class="step-arrow"
                                     src="<?php echo get_template_directory_uri(); ?>/assets/images/orange-arrow.png"
                                     alt=""></div>
                         </td>
