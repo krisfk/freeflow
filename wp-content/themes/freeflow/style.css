@@ -1206,6 +1206,7 @@ h2 a {
     color: #fff;
     font-size: 36px;
     font-weight: 200;
+    text-indent: -1000px;
     padding: 0.5rem;
     border-radius: 3rem;
     text-align: center;
