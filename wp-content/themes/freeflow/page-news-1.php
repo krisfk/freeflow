@@ -69,6 +69,14 @@ get_header(); ?>
         </tr>
     </table>
 
+    <div class="row news-tpl-1-img-table mobile">
+
+        <div class="col-6"></div>
+        <div class="col-6"></div>
+    </div>
+
+
+
 </div>
 
 

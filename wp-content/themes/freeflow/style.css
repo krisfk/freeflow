@@ -1277,11 +1277,21 @@ h2 a {
     display: none;
 }
 
+.mobile.news-tpl-1-img-table {
+    display: none;
+}
+
 @media only screen and (max-width: 1400px) {
     .step-by-step-div {
         display: none;
     }
     .mobile.step-by-step-div {
+        display: block;
+    }
+    .news-tpl-1-img-table {
+        display: none;
+    }
+    .mobile.news-tpl-1-img-table {
         display: block;
     }
 }
