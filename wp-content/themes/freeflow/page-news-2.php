@@ -33,6 +33,9 @@ get_header(); ?>
         alt="">
 
 
+    <img class="banner-img mobile" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-3@2x-50.jpg"
+        alt="">
+
 
 
 
