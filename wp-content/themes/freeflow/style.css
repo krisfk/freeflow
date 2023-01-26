@@ -1217,6 +1217,11 @@ h2 a {
     height: 30px;
 }
 
+.orange-bubble-know-more {
+    background: url(./assets/images/orange-know-more-txt.png) no-repeat;
+    background-position: center center;
+}
+
 @media only screen and (max-width: 1200px) {
     .curve-bg {
         /* display: none; */
