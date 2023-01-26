@@ -29,7 +29,15 @@ get_header(); ?>
 
 <div class="banner-div" style="">
 
-    <img class="banner-img" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-2@2x-50.jpg" alt="">
+    <img class="banner-img" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/news-banner-1-scaled.jpg"
+        alt="">
+
+
+
+    <img class="banner-img mobile" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-2@2x-50.jpg"
+        alt="">
+
+
 
 
 
