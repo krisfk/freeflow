@@ -57,6 +57,36 @@
     <!-- <div id="wptime-plugin-preloader"></div> -->
 
 
+    <div class="lightbox-layer video-layer">
+
+        <div class="container yellow-bg-div gx-0 photo-yellow-bg-div position-relative">
+
+
+            <div class="row">
+
+
+                <div class="col-12">
+
+                    <a href="javascript:void(0);" class="lightbox-close-btn"></a>
+
+                </div>
+                <div class="col-12">
+
+                    <div class="lightbox-enlarge-photo-div position-relative">
+                        <a href="javascript:void(0);" class="photo-album-arrow photo-album-arrow-l"></a>
+                        <a href="javascript:void(0);" class="photo-album-arrow photo-album-arrow-r"></a>
+
+                        <!-- <img class="w-100 lightbox-enlarge-photo" src="" alt=""> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+    </div>
+
+
     <div class="lightbox-layer photo-layer">
 
         <div class="container yellow-bg-div gx-0 photo-yellow-bg-div position-relative">
@@ -607,6 +637,15 @@ echo'</li>';
 
 
             })
+
+            $('.orange-bubble-know-more').click(function() {
+
+                $('.lightbox-layer.video-layer').fadeIn(200);
+
+
+            })
+
+
 
 
 
