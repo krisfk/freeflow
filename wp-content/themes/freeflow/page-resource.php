@@ -44,13 +44,13 @@ get_header(); ?>
 
 </div>
 
-<div class="container  gx-0 mt-120px ">
+<div class="container  gx-0 mt-120px  yellow-bg-div ">
 
 
 
     <div class="row mt-4 mobile-reverse-row">
 
-        <div class="col-lg-6 col-md-12 col-sm-12 col-12  position-relative yellow-bg-div mt-0">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12  position-relative  mt-0">
 
 
 
@@ -76,7 +76,7 @@ get_header(); ?>
 
 
         </div>
-        <div class="col-lg-6 col-md-12 col-sm-12 col-12  position-relative yellow-bg-div mt-0">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12  position-relative  mt-0">
             <a href="javascript:void(0);" class="album-a mobile-keep"
                 rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-1@2x-50.jpg">
                 <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-2@2x-1.png"
