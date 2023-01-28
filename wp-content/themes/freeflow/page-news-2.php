@@ -88,7 +88,7 @@ get_header(); ?>
 
     <div class="row mt-4">
 
-        <div class="col-9">
+        <div class="col-lg-9 col-md-12 col-sm-12 col-12 ">
 
             <div>
                 <a href="javascript:void(0);" class="album-a me-3 mb-3"
@@ -122,7 +122,7 @@ get_header(); ?>
             </div>
 
         </div>
-        <div class="col-3 text-end">
+        <div class="col-lg-3 col-md-12 col-sm-12 col-12   text-end">
 
             <h2 class="purple">故我在</h2>
 
