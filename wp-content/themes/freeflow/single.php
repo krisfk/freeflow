@@ -75,7 +75,7 @@ get_header(); ?>
                 src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/blog-temp-img-1.png" alt=""> -->
 
 
-            <a href="javascript:void(0);" class="album-a mobile-keep"
+            <a href="javascript:void(0);" class="album-a mobile-keep d-block mx-auto"
                 rel="<?php echo wp_get_attachment_image_src(get_field('post_enlarged_img'),'full')[0];?>">
 
 
