@@ -224,6 +224,8 @@ for($i=0;$i<count($tags_arr);$i++)
         <?php
 	wp_reset_postdata();
 } else {
+	
+	echo 'No posts found';
 	// no posts found
 }
         
