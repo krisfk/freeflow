@@ -1344,7 +1344,12 @@ h2 a {
 }
 
 @media only screen and (max-width: 991px) {
-    .page-resource .vertical-article {}
+    .page-resource .vertical-article {
+        writing-mode: initial;
+        display: block;
+        width: 100%;
+        margin: 1rem 0 0 0;
+    }
     .page-resource .yellow-bg-div {
         width: 80%;
         margin: 60px auto 0 auto;
