@@ -73,14 +73,16 @@ get_header(); ?>
 
         <div class="col-6">
 
-            <a href="javascript:void(0);" class="m-album-a">
+            <a href="javascript:void(0);" class="m-album-a"
+                rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/vlcsnap-2022-07-21-19h29m05s552.jpg">
                 <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-7@2x-1.png"
                     alt=""></a>
 
         </div>
         <div class="col-6">
 
-            <a href="javascript:void(0);" class="m-album-a ">
+            <a href="javascript:void(0);" class="m-album-a"
+                rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/vlcsnap-2022-07-21-19h29m05s552.jpg">
                 <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-7@2x-1.png"
                     alt=""></a>
         </div>

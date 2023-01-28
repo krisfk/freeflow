@@ -684,6 +684,8 @@ echo'</li>';
 
                 if (!$(this).prev('.album-a').length) {
 
+                    var enlarge_foto = $(this).attr('rel');
+                    $('.m-album-a[rel="' + enlarge_foto + '"]').click();
                 }
 
             })
