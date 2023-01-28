@@ -124,7 +124,10 @@ get_header(); ?>
             <div class="row mt-4">
 
 
-                <div class="col-3">214 views</div>
+                <div class="col-3"><?php
+                echo do_shortcode( '[post-views]' );
+
+                ?> views</div>
                 <div class="col-9 text-end">
 
                     <span>10</span>
