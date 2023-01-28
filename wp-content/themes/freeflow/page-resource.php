@@ -219,7 +219,10 @@ if ( $the_query->have_posts() ) {
             <div class="row mt-4">
 
 
-                <div class="col-9">214 views</div>
+                <div class="col-9"><?php
+                echo do_shortcode( '[post-views]');
+
+                ?> views</div>
                 <div class="col-3 text-end">
 
                     <span>10</span>
