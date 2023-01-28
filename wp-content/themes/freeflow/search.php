@@ -55,6 +55,10 @@ get_header(); ?>
         <div class="col-12 position-relative">
 
 
+            <div> Searched text: <?php echo $_GET['s'];?>
+            </div>
+
+
             <div class="d-inline-block w-90">
                 <a href="<?php echo get_site_url();?>/resource" class="blog-tag me-1">All Articles</a>
                 <?php
