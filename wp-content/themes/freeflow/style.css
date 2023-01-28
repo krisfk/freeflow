@@ -1346,7 +1346,7 @@ h2 a {
 @media only screen and (max-width: 991px) {
     .page-resource .yellow-bg-div {
         width: 80%;
-        margin: 0 auto;
+        margin: 60px auto 0 auto;
     }
     .feeling-div .text-end {
         text-align: right !important;
