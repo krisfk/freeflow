@@ -1344,6 +1344,13 @@ div.is-ajax-search-result {
     margin: 1rem 0rem 0 -2%;
 }
 
+div.asl_r .results .item .asl_content .asl_desc {
+    display: none;
+    margin-top: 4px;
+    font-size: 12px;
+    line-height: 18px;
+}
+
 @media only screen and (max-width: 1400px) {
     .album-a-div {
         display: none;
