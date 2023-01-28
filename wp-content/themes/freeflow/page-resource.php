@@ -132,13 +132,9 @@ $the_query = new WP_Query( $query_args );
 if ( $the_query->have_posts() ) {
 	while ( $the_query->have_posts() ) {
 		$the_query->the_post();
-	}
-    ?>
-
+?>
         <div class="col-lg-6 col-md-12 col-sm-12 col-12  yellow-bg-div mw-100 mt-60px">
 
-            <?php
-        ?>
             <a href="javascript:void(0);" class="album-a mobile-keep"
                 rel="<?php echo wp_get_attachment_image_src(get_field('post_enlarged_img'),'full')[0];?>">
 
@@ -156,16 +152,16 @@ if ( $the_query->have_posts() ) {
 
             <div class="orange">
                 <?php
-        echo get_the_date('d M Y');
-        ?>
-                <!-- 4 Nov 2022 -->
+echo get_the_date('d M Y');
+?>
+
 
             </div>
 
             <div class="mt-3">
 
                 <?php echo get_the_excerpt();?>
-                <!-- 有關賽馬會「自主‧流」身體律動計劃的文章及資料會於這裡與大家分享。內容包括由青少女及計劃社工撰寫的文章和故事。以及，與香港浸會大學合作的研究正在進行，結果詳情將容後公佈 -->
+
 
 
                 <a href="<?php echo get_the_permalink();?>" class="orange more-link">... more</a>
@@ -176,24 +172,18 @@ if ( $the_query->have_posts() ) {
             <div class="mt-3">
 
                 <?php
-            $tags_arr = get_the_tags() ;
+$tags_arr = get_the_tags() ;
 
-            // echo $tags_arr[0]->name;
-            for($i=0;$i<count($tags_arr);$i++)
-            {
-                ?>
-                <?php //echo $tags_arr[$i];?>
+for($i=0;$i<count($tags_arr);$i++)
+{
+    ?>
                 <a href="<?php echo get_site_url();?>/tag/<?php echo $tags_arr[$i]->slug; ?>"
                     class="blog-tag me-3">#<?php echo $tags_arr[$i]->name;?></a>
                 <?php
-            }
+}
 
-            ?>
-                <!-- http://64.227.13.14/freeflow/tag/test1/ -->
-                <!-- <a href="javascript:void(0);" class="blog-tag me-3">#性</a>
-                <a href="javascript:void(0);" class="blog-tag me-3">#身體</a>
-                <a href="javascript:void(0);" class="blog-tag me-3">#自我</a>
-                <a href="javascript:void(0);" class="blog-tag">#感想</a> -->
+?>
+
             </div>
 
 
@@ -206,23 +196,16 @@ if ( $the_query->have_posts() ) {
 
                 <div class="col-9"><?php
 
-                // echo get_field('post_views');
-                // echo do_shortcode( '[post-views]');
-                pvc_post_views( get_the_ID(), $echo = true );
+    pvc_post_views( get_the_ID(), $echo = true );
 
-                ?> views</div>
+    ?> views</div>
                 <div class="col-3 text-end">
 
                     <?php
-                echo do_shortcode( '[posts_like_dislike id='.get_the_ID().']');
+    echo do_shortcode( '[posts_like_dislike id='.get_the_ID().']');
 
-                
-                ?>
-                    <!-- <span>10</span> -->
-
-                    <!-- <a href="javascript:void(0);" class="d-inline-block">
-                        <img class="heart-icon" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/heart.png"
-                            alt=""></a> -->
+    
+    ?>
 
                     <a href="javascript:void(0);" class="d-inline-block three-dots-a ms-2"> <img class="three-dots"
                             src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/3dots.png" alt=""></a>
@@ -232,9 +215,13 @@ if ( $the_query->have_posts() ) {
 
 
         </div>
+        <?php
+	}
+    ?>
+
+
 
         <?php
-   /* Restore original Post Data */
 	wp_reset_postdata();
 } else {
 	// no posts found
