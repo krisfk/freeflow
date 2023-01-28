@@ -44,7 +44,7 @@ get_header(); ?>
 
 </div>
 
-<div class="container  gx-0 mt-120px mw-100">
+<div class="container  gx-0 mt-120px ">
 
 
 
