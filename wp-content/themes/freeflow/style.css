@@ -1303,6 +1303,10 @@ h2 a {
     top: -2px;
 }
 
+.search-icon-a img {
+    height: 23px;
+}
+
 @media only screen and (max-width: 1400px) {
     .album-a-div {
         display: none;
