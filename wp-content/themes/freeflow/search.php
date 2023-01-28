@@ -112,9 +112,17 @@ foreach ($tags as $tag) {
 
 
         <?php
-$query_args = array(
+
+$query_args = array (
+	's' => (!empty($_GET['s'])?$_GET['s']:''),
 	'post_type' => 'post',
-);
+	'post_status' =>'publish',
+	// 'cat' => $_POST['cat'],
+	// 'posts_per_page' => 2,
+	// 'paged' => $paged
+   );
+
+
 
 // The Query
 $the_query = new WP_Query( $query_args );
