@@ -127,7 +127,7 @@ get_header(); ?>
             <div class="album-a-div mobile mt-4">
 
 
-                <div class="row gx-0">
+                <div class="row gx-lg-0 gx-md-3 gx-sm-3 gx-3">
 
                     <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3">
 
