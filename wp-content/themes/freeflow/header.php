@@ -682,7 +682,9 @@ echo'</li>';
 
                 $(this).prev('.album-a').click();
 
-                alert($(this).prev('.album-a').length)
+                if (!$(this).prev('.album-a').length) {
+
+                }
 
             })
             $('.photo-album-arrow.photo-album-arrow-r').click(function() {
