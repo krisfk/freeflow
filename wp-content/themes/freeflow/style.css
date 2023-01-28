@@ -1305,8 +1305,8 @@ h2 a {
 
 .search-icon-a {
     position: absolute;
-    top: 0;
-    right: 0;
+    top: 7px;
+    right: 20px;
 }
 
 .search-icon-a img {
