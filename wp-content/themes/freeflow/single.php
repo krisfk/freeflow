@@ -164,12 +164,12 @@ foreach ($tags as $tag) {
             <div class="row mt-4">
 
 
-                <div class="col-9"><?php
+                <div class="col-8"><?php
                 echo do_shortcode( '[post-views]');
 
                 ?>
                     views</div>
-                <div class="col-3 text-end">
+                <div class="col-4 text-end">
 
                     <span>
 

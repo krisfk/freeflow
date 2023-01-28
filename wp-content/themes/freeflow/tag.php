@@ -206,14 +206,14 @@ if ( $the_query->have_posts() ) {
             <div class="row mt-4">
 
 
-                <div class="col-9"><?php
+                <div class="col-8"><?php
 
                 // echo get_field('post_views');
                 // echo do_shortcode( '[post-views]');
                 pvc_post_views( get_the_ID(), $echo = true );
 
                 ?> views</div>
-                <div class="col-3 text-end">
+                <div class="col-5 text-end">
 
                     <?php
                 echo do_shortcode( '[posts_like_dislike id='.get_the_ID().']');
