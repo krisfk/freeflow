@@ -82,9 +82,12 @@ get_header(); ?>
 
 
         <?php
-$query_args = array(
-	'post_type' => 'post',
-);
+// $query_args = array(
+// 	'post_type' => 'post',
+// );
+
+$query_args = array( 'tag' => get_the_archive_title());
+
 
 // The Query
 $the_query = new WP_Query( $query_args );
