@@ -278,7 +278,7 @@ get_header(); ?>
                             rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02107_edited.jpg">
 
                             <img class=" d-inline-block w-100"
-                                src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-3@2x-4.png" alt="">
+                                src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-7@2x-2.png" alt="">
                         </a>
                     </div>
 
