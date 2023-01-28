@@ -72,7 +72,7 @@ get_header(); ?>
 
         </div>
         <div class="col-6">
-            <a href="javascript:void(0);" class="album-a"
+            <a href="javascript:void(0);" class="album-a mobile-keep"
                 rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-1@2x-50.jpg">
                 <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-2@2x-1.png"
                     alt="">
@@ -109,7 +109,7 @@ get_header(); ?>
     <div class="row">
         <div class="col-lg-6 col-md-12 col-sm-12 col-12  yellow-bg-div mw-100 mt-60px">
 
-            <a href="javascript:void(0);" class="album-a"
+            <a href="javascript:void(0);" class="album-a mobile-keep"
                 rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/IMG_2481.jpg">
                 <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/blog-temp-img-1.png"
                     alt="">
@@ -160,7 +160,7 @@ get_header(); ?>
         </div>
         <div class="col-lg-6 col-md-12 col-sm-12 col-12  yellow-bg-div  mw-100 mt-60px">
 
-            <a href="javascript:void(0);" class="album-a"
+            <a href="javascript:void(0);" class="album-a mobile-keep"
                 rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/IMG_2505.jpg">
 
                 <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/blog-temp-img-2.png"
@@ -219,7 +219,7 @@ get_header(); ?>
         <div class="col-lg-6 col-md-12 col-sm-12 col-12  yellow-bg-div  mw-100 mt-60px">
 
 
-            <a href="javascript:void(0);" class="album-a"
+            <a href="javascript:void(0);" class="album-a mobile-keep"
                 rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/IMG_2481.jpg">
 
                 <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/blog-temp-img-1.png"
@@ -269,7 +269,7 @@ get_header(); ?>
         </div>
         <div class="col-lg-6 col-md-12 col-sm-12 col-12  yellow-bg-div  mw-100 mt-60px">
 
-            <a href="javascript:void(0);" class="album-a"
+            <a href="javascript:void(0);" class="album-a mobile-keep"
                 rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/IMG_2505.jpg">
 
                 <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/blog-temp-img-2.png"
@@ -380,7 +380,7 @@ get_header(); ?>
         <div class="col-lg-6 col-md-12 col-sm-12 col-12  yellow-bg-div  mw-100 mt-60px
         ">
 
-            <a href="javascript:void(0);" class="album-a"
+            <a href="javascript:void(0);" class="album-a mobile-keep"
                 rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/IMG_2505.jpg">
 
                 <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/blog-temp-img-2.png"
