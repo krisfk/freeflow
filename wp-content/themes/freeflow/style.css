@@ -1281,7 +1281,17 @@ h2 a {
     display: none;
 }
 
+.album-a-div.mobile {
+    display: none;
+}
+
 @media only screen and (max-width: 1400px) {
+    .album-a-div {
+        display: none;
+    }
+    .album-a-div.mobile {
+        display: block;
+    }
     .step-by-step-div {
         display: none;
     }

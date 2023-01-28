@@ -90,37 +90,48 @@ get_header(); ?>
 
         <div class="col-lg-9 col-md-12 col-sm-12 col-12 ">
 
-            <div>
-                <a href="javascript:void(0);" class="album-a me-3 mb-3"
-                    rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02162_edited.jpg">
-                    <img class="height-280px d-inline-block"
-                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-17@2x.png" alt="">
-                </a>
-                <a href="javascript:void(0);" class="album-a  mb-3"
+
+            <div class="album-a-div">
+                <div>
+                    <a href="javascript:void(0);" class="album-a me-3 mb-3"
+                        rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02162_edited.jpg">
+                        <img class="height-280px d-inline-block"
+                            src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-17@2x.png" alt="">
+                    </a>
+                    <a href="javascript:void(0);" class="album-a  mb-3"
+                        rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02242_edited.jpg">
+
+                        <img class="height-280px d-inline-block"
+                            src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-18@2x.png" alt=""> </a>
+
+                </div>
+
+                <div>
+                    <a href="javascript:void(0);" class="album-a me-3"
+                        rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02122_edited.jpg">
+
+                        <img class=" height-280px d-inline-block"
+                            src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-19@2x.png" alt="">
+                    </a>
+
+                    <a href="javascript:void(0);" class="album-a"
+                        rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02198_edited.jpg">
+
+                        <img class="height-280px d-inline-block"
+                            src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-20@2x.png" alt="">
+                    </a>
+
+                </div>
+
+            </div>
+            <div class="album-a-div mobile">
+
+                <a href="javascript:void(0);" class="m-album-a  mb-3"
                     rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02242_edited.jpg">
 
                     <img class="height-280px d-inline-block"
                         src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-18@2x.png" alt=""> </a>
-
             </div>
-
-            <div>
-                <a href="javascript:void(0);" class="album-a me-3"
-                    rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02122_edited.jpg">
-
-                    <img class=" height-280px d-inline-block"
-                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-19@2x.png" alt="">
-                </a>
-
-                <a href="javascript:void(0);" class="album-a"
-                    rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02198_edited.jpg">
-
-                    <img class="height-280px d-inline-block"
-                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-20@2x.png" alt="">
-                </a>
-
-            </div>
-
         </div>
         <div class="col-lg-3 col-md-12 col-sm-12 col-12   text-end">
 
