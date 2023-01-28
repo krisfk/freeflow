@@ -118,7 +118,7 @@ get_header(); ?>
                         <img class="heart-icon" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/heart.png"
                             alt=""></a>
 
-                    <a href="javascript:void(0);" class="d-inline-block three-dots-a ms-4"> <img class="three-dots"
+                    <a href="javascript:void(0);" class="d-inline-block three-dots-a ms-2"> <img class="three-dots"
                             src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/3dots.png" alt=""></a>
                 </div>
 
