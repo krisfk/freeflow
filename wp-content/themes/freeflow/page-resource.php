@@ -160,7 +160,7 @@ echo get_the_date('d M Y');
 
             <div class="mt-3">
 
-                <!-- <?php echo get_the_excerpt();?> -->
+                <!-- <?php //echo get_the_excerpt();?> -->
 
                 <?php echo wp_trim_words( get_the_content(), 295, '' ); ?>
 
