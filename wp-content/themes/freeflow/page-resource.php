@@ -169,6 +169,9 @@ if ( $the_query->have_posts() ) {
 
             <div class="mt-3">
 
+                <?php
+            echo get_the_tags() ;
+            ?>
                 <!-- <a href="javascript:void(0);" class="blog-tag me-3">#性</a>
                 <a href="javascript:void(0);" class="blog-tag me-3">#身體</a>
                 <a href="javascript:void(0);" class="blog-tag me-3">#自我</a>
