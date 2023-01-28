@@ -143,9 +143,9 @@ echo do_shortcode( '[posts_like_dislike]');
                     ?>
                     </span>
 
-                    <a href="javascript:void(0);" class="d-inline-block">
+                    <!-- <a href="javascript:void(0);" class="d-inline-block">
                         <img class="heart-icon" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/heart.png"
-                            alt=""></a>
+                            alt=""></a> -->
 
                     <a href="javascript:void(0);" class="d-inline-block three-dots-a ms-4"> <img class="three-dots"
                             src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/3dots.png" alt=""></a>
