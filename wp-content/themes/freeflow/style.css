@@ -1380,6 +1380,13 @@ h2 a {
 }
 
 @media only screen and (max-width: 991px) {
+    .search-ui-div {
+        position: relative;
+        /* top: 7px; */
+        /* right: 20px; */
+        display: none;
+        margin-top: 1rem;
+    }
     .resource-detail-img {
         width: 100%;
     }
