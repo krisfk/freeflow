@@ -52,10 +52,10 @@ get_header(); ?>
 
     <div class="row">
 
-        <div class="col-12">
+        <div class="col-12 position-relative">
 
 
-            <div class="d-inline-block w-80">
+            <div class="d-inline-block w-75">
                 <a href="<?php echo get_site_url();?>/resource" class="blog-tag me-3">All Articles</a>
                 <?php
 
