@@ -1309,6 +1309,12 @@ h2 a {
     right: 20px;
 }
 
+.search-ui-div {
+    position: absolute;
+    top: 7px;
+    right: 20px;
+}
+
 .search-icon-a img {
     height: 23px;
     border-radius: 0px !important;
