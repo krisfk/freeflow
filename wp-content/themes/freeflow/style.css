@@ -1286,7 +1286,8 @@ h2 a {
 }
 
 .resource-detail-img {
-    max-width: 700px;
+    max-width: 750px;
+    margin: 0 auto;
 }
 
 @media only screen and (max-width: 1400px) {
