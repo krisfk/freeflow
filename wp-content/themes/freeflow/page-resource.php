@@ -92,6 +92,22 @@ get_header(); ?>
 
 <div class="container yellow-bg-div gx-0 ">
 
+    <?php
+
+  $tags = get_tags(array(
+    'hide_empty' => false
+  ));
+//   echo '<ul>';
+  foreach ($tags as $tag) {
+    ?>
+
+    <a href="javascript:void(0);" class="blog-tag me-3">#<?php $tag->name;?></a>
+    <?php
+    // echo '<li>' . $tag->name . '</li>';
+  }
+//   echo '</ul>';
+  
+?>
 
 
     <!-- <a href="javascript:void(0);" class="blog-tag me-3">All Articles</a>
