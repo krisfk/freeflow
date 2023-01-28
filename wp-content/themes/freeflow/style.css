@@ -1313,6 +1313,7 @@ h2 a {
     position: absolute;
     top: 7px;
     right: 20px;
+    display: none;
 }
 
 .search-icon-a img {
