@@ -133,7 +133,7 @@ if ( $the_query->have_posts() ) {
 
             <?php
         $img_src = wp_get_attachment_image_src( get_post_thumbnail_id(), 'full' );
-
+echo $img_src;
         ?>
             <a href="javascript:void(0);" class="album-a mobile-keep" rel="<?php echo $img_src;?>">
 
