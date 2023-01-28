@@ -1387,6 +1387,19 @@ div.asl_r .results .asl_nores {
     text-align: left;
 }
 
+#ajaxsearchlite1 .probox,
+div.asl_w .probox {
+    margin: 0;
+    padding: 8px;
+    height: 28px;
+    background-color: #fff;
+    border: 2px solid #de6464;
+    border-radius: 0 0 0 0;
+    box-shadow: 0 0 0 0 #b5b5b5 inset;
+    border-radius: 30px;
+    border: 2px solid #fe6c30 !important;
+}
+
 @media only screen and (max-width: 1400px) {
     .album-a-div {
         display: none;
