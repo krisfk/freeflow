@@ -164,7 +164,7 @@ echo get_the_date('d M Y');
 
 
 
-                <a href="<?php echo get_the_permalink();?>" class="orange more-link">... more</a>
+                <a href="<?php echo get_the_permalink();?>" class="orange more-link">more</a>
 
 
             </div>
