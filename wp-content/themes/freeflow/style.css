@@ -646,7 +646,12 @@ h2 {
 }
 
 .more-link {
+    display: none;
+}
+
+.orange.more-link {
     text-decoration: none;
+    display: inline-block;
 }
 
 .heart-icon-a {
