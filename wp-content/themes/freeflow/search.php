@@ -225,7 +225,7 @@ for($i=0;$i<count($tags_arr);$i++)
 	wp_reset_postdata();
 } else {
 	
-	echo 'No posts found';
+	echo '<div class="container mt-5">No posts found</div>';
 	// no posts found
 }
         
