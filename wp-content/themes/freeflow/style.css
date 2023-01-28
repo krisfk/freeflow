@@ -1358,10 +1358,6 @@ div[id*='ajaxsearchliteres'].wpdreams_asl_results .results img.asl_image {
     display: none;
 }
 
-.asl_m .probox svg {
-    fill: #ff6c2f !important;
-}
-
 @media only screen and (max-width: 1400px) {
     .album-a-div {
         display: none;
