@@ -127,8 +127,62 @@ if ( $the_query->have_posts() ) {
 	while ( $the_query->have_posts() ) {
 		$the_query->the_post();
 	}
-    echo 1;
-	/* Restore original Post Data */
+    ?>
+
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12  yellow-bg-div mw-100 mt-60px">
+
+            <a href="javascript:void(0);" class="album-a mobile-keep"
+                rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/IMG_2481.jpg">
+                <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/blog-temp-img-1.png"
+                    alt="">
+            </a>
+
+
+            <h2 class="purple big mt-4">
+                <a href="<?php echo get_site_url();?>/resource-2">
+                    <?php echo get_the_title();?></a>
+            </h2>
+
+            <div class="orange">4 Nov 2022</div>
+
+            <div class="mt-3">有關賽馬會「自主‧流」身體律動計劃的文章及資料會於這裡與大家分享。內容包括由青少女及計劃社工撰寫的文章和故事。以及，與香港浸會大學合作的研究正在進行，結果詳情將容後公佈
+                <a href="<?php echo get_site_url();?>/resource-2" class="orange more-link">... more</a>
+            </div>
+
+            <div class="mt-3"> <a href="javascript:void(0);" class="blog-tag me-3">#性</a>
+                <a href="javascript:void(0);" class="blog-tag me-3">#身體</a>
+                <a href="javascript:void(0);" class="blog-tag me-3">#自我</a>
+                <a href="javascript:void(0);" class="blog-tag">#感想</a>
+            </div>
+
+
+            <div class="blog-line mt-4"></div>
+
+
+
+            <div class="row mt-4">
+
+
+                <div class="col-9">214 views</div>
+                <div class="col-3 text-end">
+
+                    <span>10</span>
+
+                    <a href="javascript:void(0);" class="d-inline-block">
+                        <img class="heart-icon" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/heart.png"
+                            alt=""></a>
+
+                    <a href="javascript:void(0);" class="d-inline-block three-dots-a ms-4"> <img class="three-dots"
+                            src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/3dots.png" alt=""></a>
+                </div>
+
+            </div>
+
+
+        </div>
+
+        <?php
+   /* Restore original Post Data */
 	wp_reset_postdata();
 } else {
 	// no posts found
@@ -138,7 +192,7 @@ if ( $the_query->have_posts() ) {
     ?>
 
 
-        <div class="col-lg-6 col-md-12 col-sm-12 col-12  yellow-bg-div mw-100 mt-60px">
+        <!-- <div class="col-lg-6 col-md-12 col-sm-12 col-12  yellow-bg-div mw-100 mt-60px">
 
             <a href="javascript:void(0);" class="album-a mobile-keep"
                 rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/IMG_2481.jpg">
@@ -188,7 +242,7 @@ if ( $the_query->have_posts() ) {
             </div>
 
 
-        </div>
+        </div> -->
         <!-- <div class="col-lg-6 col-md-12 col-sm-12 col-12  yellow-bg-div  mw-100 mt-60px">
 
             <a href="javascript:void(0);" class="album-a mobile-keep"
