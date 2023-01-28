@@ -1437,7 +1437,7 @@ div.asl_r .results .item .asl_content h3 a {
 
 .results .asl_nores .asl_keyword {
     /* padding: 0 6px; */
-    padding: 0;
+    padding: 0 !important;
     cursor: pointer;
     font-weight: bold;
     font-family: Open Sans;
