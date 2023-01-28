@@ -47,29 +47,63 @@ get_header(); ?>
 
 
 
-<div class="container yellow-bg-div gx-0 mt-120px ">
+
+
+<div class="container yellow-bg-div gx-0 mt-120px">
+
+
+    <div class="row">
+
+        <div class="col-12 position-relative">
 
 
 
-    <div> Selected tag: <?php single_tag_title();?>
+            <div> Selected tag: <?php single_tag_title();?>
+            </div>
+            <div class="d-inline-block w-90">
+                <a href="<?php echo get_site_url();?>/resource" class="blog-tag me-3">All Articles</a>
+                <?php
+
+$tags = get_tags(array(
+'hide_empty' => false
+));
+foreach ($tags as $tag) {
+?>
+
+                <a href="<?php echo get_site_url();?>/tag/<?php echo $tag->slug; ?>"
+                    class="blog-tag me-3">#<?php echo  $tag->name;?></a>
+                <?php
+
+}
+?>
+            </div>
+
+
+            <a href="javascript:void(0);" class="search-icon-a"><img
+                    src="<?php echo get_template_directory_uri(); ?>/assets/images/search-icon.png" alt=""></a>
+
+
+            <div class="search-ui-div">
+                <?php
+        echo do_shortcode( '[ivory-search id="234" title="AJAX Search Form"]');
+
+        ?>
+            </div>
+
+        </div>
     </div>
 
-    <a href="<?php echo get_site_url();?>/resource" class="blog-tag me-3">All Articles</a>
+
+
+
 
     <?php
 
-  $tags = get_tags(array(
-    'hide_empty' => false
-  ));
-  foreach ($tags as $tag) {
-    ?>
-
-    <a href="<?php echo get_site_url();?>/tag/<?php echo $tag->slug; ?>"
-        class="blog-tag me-3">#<?php echo  $tag->name;?></a>
-    <?php
-    
-  }
 ?>
+
+
+
+
 
 </div>
 

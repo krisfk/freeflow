@@ -86,10 +86,6 @@ foreach ($tags as $tag) {
             </div>
 
         </div>
-        <!-- <div class="col-12"> -->
-
-
-        <!-- </div> -->
     </div>
 
 
@@ -97,7 +93,6 @@ foreach ($tags as $tag) {
 
 
     <?php
-                // echo do_shortcode( '[ivory-search id="234" title="AJAX Search Form"]');
 
 ?>
 
