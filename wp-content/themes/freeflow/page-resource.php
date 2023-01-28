@@ -39,13 +39,13 @@ get_header(); ?>
 
 </div>
 
-<div class="container yellow-bg-div gx-0 mt-120px">
+<div class="container  gx-0 mt-120px">
 
 
 
     <div class="row mt-4">
 
-        <div class="col-6 position-relative">
+        <div class="col-6 position-relative yellow-bg-div">
 
 
 
@@ -71,7 +71,7 @@ get_header(); ?>
 
 
         </div>
-        <div class="col-6">
+        <div class="col-6 yellow-bg-div">
             <a href="javascript:void(0);" class="album-a"
                 rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-1@2x-50.jpg">
                 <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-2@2x-1.png"
