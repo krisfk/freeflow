@@ -100,7 +100,7 @@ get_header(); ?>
   print_r($tags);
 //   echo '<ul>';
 //   foreach ($tags as $tag) {
-
+echo $tags[0]->name;
     for($i=0;$i<count($tags);$i++)
 {
     ?>
