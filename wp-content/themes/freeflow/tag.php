@@ -51,7 +51,7 @@ get_header(); ?>
 
 
 
-    <div> Selected tag: dfdsd
+    <div> Selected tag: <?php single_tag_title();?>
     </div>
 
     <a href="<?php echo get_site_url();?>/resource" class="blog-tag me-3">All Articles</a>
