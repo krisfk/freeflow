@@ -104,7 +104,6 @@ get_header(); ?>
   foreach ($tags as $tag) {
     ?>
 
-
     <a href="<?php echo get_site_url();?>/tag/<?php echo $tag->slug; ?>"
         class="blog-tag me-3">#<?php echo  $tag->name;?></a>
     <?php
@@ -228,11 +227,16 @@ if ( $the_query->have_posts() ) {
                 ?> views</div>
                 <div class="col-3 text-end">
 
-                    <span>10</span>
+                    <?php
+                echo do_shortcode( '[posts_like_dislike id='.get_the_ID().']');
 
-                    <a href="javascript:void(0);" class="d-inline-block">
+                
+                ?>
+                    <!-- <span>10</span> -->
+
+                    <!-- <a href="javascript:void(0);" class="d-inline-block">
                         <img class="heart-icon" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/heart.png"
-                            alt=""></a>
+                            alt=""></a> -->
 
                     <a href="javascript:void(0);" class="d-inline-block three-dots-a ms-2"> <img class="three-dots"
                             src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/3dots.png" alt=""></a>
