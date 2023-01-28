@@ -86,7 +86,7 @@ get_header(); ?>
 // 	'post_type' => 'post',
 // );
 
-$query_args = array( 'tag' => 3);
+$query_args = array( 'tag' => 'test1');
 
 
 // The Query
