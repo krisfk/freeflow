@@ -1374,6 +1374,19 @@ div.asl_m .probox .proclose svg {
     box-shadow: 0 0 0 2px rgb(255 255 255 / 90%);
 }
 
+div.asl_r .results .asl_nores {
+    overflow: hidden;
+    width: auto;
+    height: 100%;
+    line-height: initial;
+    text-align: center;
+    margin: 0;
+    background: #fff;
+    padding: 10px 3px;
+    color: #222;
+    text-align: left;
+}
+
 @media only screen and (max-width: 1400px) {
     .album-a-div {
         display: none;
