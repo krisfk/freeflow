@@ -93,8 +93,7 @@ $the_query = new WP_Query( $query_args );
 if ( $the_query->have_posts() ) {
 	while ( $the_query->have_posts() ) {
 		$the_query->the_post();
-	}
-    ?>
+        ?>
 
         <div class="col-lg-6 col-md-12 col-sm-12 col-12  yellow-bg-div mw-100 mt-60px">
 
@@ -193,6 +192,11 @@ if ( $the_query->have_posts() ) {
 
 
         </div>
+
+        <?php
+	}
+    ?>
+
 
         <?php
    /* Restore original Post Data */
