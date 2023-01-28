@@ -165,7 +165,7 @@ echo get_the_date('d M Y');
                 <?php echo wp_trim_words( get_the_content(), 295, '' ); ?>
 
 
-                <a href="<?php echo get_the_permalink();?>" class="orange more-link">...more</a>
+                <a href="<?php echo get_the_permalink();?>" class="orange more-link">... more</a>
 
 
             </div>
