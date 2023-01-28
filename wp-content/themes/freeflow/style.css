@@ -1290,6 +1290,10 @@ h2 a {
     margin: 0 auto;
 }
 
+.post-views {
+    display: inline-block;
+}
+
 @media only screen and (max-width: 1400px) {
     .album-a-div {
         display: none;
