@@ -112,6 +112,32 @@ get_header(); ?>
 
 <div class="container  gx-0 ">
     <div class="row">
+
+
+        <?php
+$query_args = array(
+	'post_type' => 'post',
+);
+
+// The Query
+$the_query = new WP_Query( $query_args );
+
+// The Loop
+if ( $the_query->have_posts() ) {
+	while ( $the_query->have_posts() ) {
+		$the_query->the_post();
+	}
+    echo 1;
+	/* Restore original Post Data */
+	wp_reset_postdata();
+} else {
+	// no posts found
+}
+        
+    
+    ?>
+
+
         <div class="col-lg-6 col-md-12 col-sm-12 col-12  yellow-bg-div mw-100 mt-60px">
 
             <a href="javascript:void(0);" class="album-a mobile-keep"
@@ -163,7 +189,7 @@ get_header(); ?>
 
 
         </div>
-        <div class="col-lg-6 col-md-12 col-sm-12 col-12  yellow-bg-div  mw-100 mt-60px">
+        <!-- <div class="col-lg-6 col-md-12 col-sm-12 col-12  yellow-bg-div  mw-100 mt-60px">
 
             <a href="javascript:void(0);" class="album-a mobile-keep"
                 rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/IMG_2505.jpg">
@@ -420,7 +446,7 @@ get_header(); ?>
             </div>
 
 
-        </div>
+        </div> -->
 
 
     </div>
