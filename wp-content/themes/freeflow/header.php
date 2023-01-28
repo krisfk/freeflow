@@ -657,7 +657,7 @@ echo'</li>';
             })
 
             $('.search-icon-a').click(function() {
-                $('.lightbox-layer.search-layer').fadeIn(200);
+                // $('.lightbox-layer.search-layer').fadeIn(200);
 
 
             })
