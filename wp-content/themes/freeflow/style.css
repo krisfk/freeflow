@@ -1381,11 +1381,13 @@ div.asl_r .results .asl_nores {
     line-height: initial;
     text-align: left !important;
     margin: 0;
+    font-size: 1rem !important;
     background: #fff;
     padding: 10px 3px;
     color: #222;
     text-align: left !important;
-    font-size: 1rem !important;
+    font-size: 0.8rem !important;
+    line-height: 1.7 !important;
 }
 
 #ajaxsearchlite1 .probox,
