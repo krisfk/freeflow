@@ -166,8 +166,7 @@ if ( $the_query->have_posts() ) {
 
             <div class="mt-3">
 
-                <?php echo get_the_excerpt();?>
-                <!-- 有關賽馬會「自主‧流」身體律動計劃的文章及資料會於這裡與大家分享。內容包括由青少女及計劃社工撰寫的文章和故事。以及，與香港浸會大學合作的研究正在進行，結果詳情將容後公佈 -->
+                <?php echo wp_trim_words( get_the_content(), 295, '' ); ?>
 
 
                 <a href="<?php echo get_the_permalink();?>" class="orange more-link">... more</a>
