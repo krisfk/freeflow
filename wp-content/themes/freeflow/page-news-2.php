@@ -191,7 +191,7 @@ get_header(); ?>
 
     <div class="row mt-4">
 
-        <div class="col-9">
+        <div class="col-lg-9 col-md-12 col-sm-12 col-12 ">
 
             <div>
 
