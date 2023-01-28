@@ -132,12 +132,14 @@ if ( $the_query->have_posts() ) {
         <div class="col-lg-6 col-md-12 col-sm-12 col-12  yellow-bg-div mw-100 mt-60px">
 
             <?php
-        $post_main_img_arr = wp_get_attachment_image_src( get_post_thumbnail_id(), 'full' );
         ?>
-            <a href="javascript:void(0);" class="album-a mobile-keep" rel="<?php echo $post_main_img_arr[0];?>">
+            <a href="javascript:void(0);" class="album-a mobile-keep"
+                rel="<?php echo wp_get_attachment_image_src(get_field('icon',get_field('post_enlarged_img')),'full')[0];?>">
 
 
-                <img class="w-100" src="<?php echo $post_main_img_arr[0];?>" alt="">
+                <img class="w-100"
+                    src="<?php echo wp_get_attachment_image_src(get_field('icon',get_field('post_main_img')),'full')[0];?>"
+                    alt="">
 
             </a>
 
