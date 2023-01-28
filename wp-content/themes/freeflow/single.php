@@ -80,7 +80,6 @@ foreach ($tags as $tag) {
 
             <div class="search-ui-div">
                 <?php
-        // echo do_shortcode( '[ivory-search id="234" title="AJAX Search Form"]');
 
         
         ?>

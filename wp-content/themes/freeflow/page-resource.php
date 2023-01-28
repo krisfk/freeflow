@@ -90,27 +90,59 @@ get_header(); ?>
 </div>
 
 
-<div class="container yellow-bg-div gx-0 mt-60px ">
 
 
-    <a href="<?php echo get_site_url();?>/resource" class="blog-tag me-1">All Articles</a>
+<div class="container yellow-bg-div gx-0 mt-120px">
 
-    <?php
 
-  $tags = get_tags(array(
-    'hide_empty' => false
-  ));
-  foreach ($tags as $tag) {
-    ?>
+    <div class="row">
 
-    <a href="<?php echo get_site_url();?>/tag/<?php echo $tag->slug; ?>"
-        class="blog-tag me-1">#<?php echo  $tag->name;?></a>
-    <?php
-    
-  }
+        <div class="col-12 position-relative">
+
+
+            <div class="d-inline-block w-90">
+                <a href="<?php echo get_site_url();?>/resource" class="blog-tag me-1">All Articles</a>
+                <?php
+
+$tags = get_tags(array(
+'hide_empty' => false
+));
+foreach ($tags as $tag) {
 ?>
 
+                <a href="<?php echo get_site_url();?>/tag/<?php echo $tag->slug; ?>"
+                    class="blog-tag me-1">#<?php echo  $tag->name;?></a>
+                <?php
+
+}
+?>
+            </div>
+
+
+            <a href="javascript:void(0);" class="search-icon-a"><img
+                    src="<?php echo get_template_directory_uri(); ?>/assets/images/search-icon.png" alt=""></a>
+
+
+            <div class="search-ui-div">
+                <?php
+
+        
+        ?>
+                <?php echo do_shortcode('[wpdreams_ajaxsearchlite]'); ?>
+            </div>
+
+        </div>
+    </div>
+
+
+
+
+
+
+
+
 </div>
+
 
 
 
