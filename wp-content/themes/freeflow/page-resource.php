@@ -134,11 +134,10 @@ if ( $the_query->have_posts() ) {
             <?php
         ?>
             <a href="javascript:void(0);" class="album-a mobile-keep"
-                rel="<?php echo wp_get_attachment_image_src(get_field('icon',get_field('post_enlarged_img')),'full')[0];?>">
+                rel="<?php echo wp_get_attachment_image_src(get_field('post_enlarged_img'),'full')[0];?>">
 
 
-                <img class="w-100"
-                    src="<?php echo wp_get_attachment_image_src(get_field('icon',get_field('post_main_img')),'full')[0];?>"
+                <img class="w-100" src="<?php echo wp_get_attachment_image_src(get_field('post_main_img'),'full')[0];?>"
                     alt="">
 
             </a>
