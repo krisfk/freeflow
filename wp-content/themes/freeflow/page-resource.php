@@ -131,10 +131,15 @@ if ( $the_query->have_posts() ) {
 
         <div class="col-lg-6 col-md-12 col-sm-12 col-12  yellow-bg-div mw-100 mt-60px">
 
-            <a href="javascript:void(0);" class="album-a mobile-keep"
-                rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/IMG_2481.jpg">
-                <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/blog-temp-img-1.png"
-                    alt="">
+            <?php
+        $img_src = wp_get_attachment_image_src( get_post_thumbnail_id(), 'full' );
+
+        ?>
+            <a href="javascript:void(0);" class="album-a mobile-keep" rel="<?php echo $img_src;?>">
+
+
+                <img class="w-100" src="<?php echo $img_src;?>" alt="">
+
             </a>
 
 
