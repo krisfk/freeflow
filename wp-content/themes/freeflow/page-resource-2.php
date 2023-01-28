@@ -71,7 +71,8 @@ get_header(); ?>
     <div class="row">
         <div class="col-12">
 
-            <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/blog-temp-img-1.png" alt="">
+            <img class="resource-detail-img"
+                src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/blog-temp-img-1.png" alt="">
 
 
 

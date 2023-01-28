@@ -1285,6 +1285,10 @@ h2 a {
     display: none;
 }
 
+.resource-detail-img {
+    max-width: 700px;
+}
+
 @media only screen and (max-width: 1400px) {
     .album-a-div {
         display: none;
@@ -1344,6 +1348,9 @@ h2 a {
 }
 
 @media only screen and (max-width: 991px) {
+    .resource-detail-img {
+        width: 100%;
+    }
     .page-resource .text-end {
         text-align: right !important;
     }
