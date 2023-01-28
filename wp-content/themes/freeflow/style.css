@@ -1294,6 +1294,15 @@ h2 a {
     display: inline-block;
 }
 
+.pld-like-dislike-wrap.pld-custom img {
+    max-width: 30px;
+    display: inline-block;
+    vertical-align: middle;
+    height: 12px;
+    position: relative;
+    top: -2px;
+}
+
 @media only screen and (max-width: 1400px) {
     .album-a-div {
         display: none;
