@@ -52,8 +52,12 @@ get_header(); ?>
 
     <div class="row">
 
-        <div class="col-12"> <a href="<?php echo get_site_url();?>/resource" class="blog-tag me-3">All Articles</a>
-            <?php
+        <div class="col-12">
+
+
+            <div>
+                <a href="<?php echo get_site_url();?>/resource" class="blog-tag me-3">All Articles</a>
+                <?php
 
 $tags = get_tags(array(
 'hide_empty' => false
@@ -61,12 +65,14 @@ $tags = get_tags(array(
 foreach ($tags as $tag) {
 ?>
 
-            <a href="<?php echo get_site_url();?>/tag/<?php echo $tag->slug; ?>"
-                class="blog-tag me-3">#<?php echo  $tag->name;?></a>
-            <?php
+                <a href="<?php echo get_site_url();?>/tag/<?php echo $tag->slug; ?>"
+                    class="blog-tag me-3">#<?php echo  $tag->name;?></a>
+                <?php
 
 }
 ?>
+            </div>
+
 
             <a href="javascript:void(0);" class="search-icon-a"><img
                     src="<?php echo get_template_directory_uri(); ?>/assets/images/search-icon.png" alt=""></a>
