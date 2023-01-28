@@ -131,26 +131,26 @@ get_header(); ?>
 
                     <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3">
 
-                            <img class="height-280px d-inline-block"
+                            <img class="height-280px d-inline-block w-100"
                                 src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-18@2x.png" alt="">
                         </a>
                     </div>
                     <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3">
 
-                            <img class="height-280px d-inline-block"
+                            <img class="height-280px d-inline-block w-100"
                                 src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-18@2x.png" alt="">
                         </a>
                     </div>
 
                     <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3">
 
-                            <img class="height-280px d-inline-block"
+                            <img class="height-280px d-inline-block w-100"
                                 src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-18@2x.png" alt="">
                         </a>
                     </div>
                     <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3">
 
-                            <img class="height-280px d-inline-block"
+                            <img class="height-280px d-inline-block w-100"
                                 src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-18@2x.png" alt="">
                         </a>
                     </div>
