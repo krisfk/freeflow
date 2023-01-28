@@ -1400,6 +1400,28 @@ div.asl_w .probox {
     border: 2px solid #fe6c30 !important;
 }
 
+div.asl_r .results .item .asl_content h3,
+div.asl_r .results .item .asl_content h3 a {
+    margin: 0;
+    padding: 0;
+    line-height: inherit;
+    font-weight: normal;
+    font-family: Open Sans;
+    color: #717171;
+    font-size: 14px;
+    line-height: 22px;
+    text-shadow: 0 0 0 rgb(255 255 255 / 0%);
+}
+
+div.asl_r .results .item .asl_content h3 a:hover {
+    font-weight: normal;
+    font-family: Open Sans;
+    color: #fd6c30;
+    font-size: 14px;
+    line-height: 20px;
+    text-shadow: 0 0 0 rgb(255 255 255 / 0%);
+}
+
 @media only screen and (max-width: 1400px) {
     .album-a-div {
         display: none;
