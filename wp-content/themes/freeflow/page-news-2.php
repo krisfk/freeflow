@@ -226,7 +226,7 @@ get_header(); ?>
             </div>
 
         </div>
-        <div class="col-3 text-end">
+        <div class="col-lg-3 col-md-12 col-sm-12 col-12  text-end">
 
             <h2 class="purple">我自在</h2>
 
