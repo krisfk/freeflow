@@ -1325,6 +1325,20 @@ h2 a {
     width: 90%;
 }
 
+div.is-ajax-search-details,
+div.is-ajax-search-result {
+    display: none;
+    height: auto;
+    width: 500px;
+    max-width: 100%;
+    position: absolute;
+    z-index: 999999;
+    background: #e2e2e2;
+    color: #313131;
+    padding: 5px;
+    margin: 1rem 0rem 0 -2%;
+}
+
 @media only screen and (max-width: 1400px) {
     .album-a-div {
         display: none;
