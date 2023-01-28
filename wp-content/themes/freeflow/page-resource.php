@@ -221,8 +221,9 @@ if ( $the_query->have_posts() ) {
 
                 <div class="col-9"><?php
 
-                echo get_field('post_views');
+                // echo get_field('post_views');
                 // echo do_shortcode( '[post-views]');
+                pvc_post_views( get_the_ID(), $echo = true );
 
                 ?> views</div>
                 <div class="col-3 text-end">
