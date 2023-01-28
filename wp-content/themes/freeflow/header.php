@@ -684,8 +684,9 @@ echo'</li>';
 
                 if (!$(this).prev('.album-a').length) {
 
-                    alert(6);
-                    // var enlarge_foto = $(this).attr('rel');
+                    // alert(6);
+                    var enlarge_foto = $(this).attr('rel');
+                    alert(enlarge_foto);
                     // $('.m-album-a[rel="' + enlarge_foto + '"]').click();
                 }
 
