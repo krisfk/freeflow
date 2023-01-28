@@ -177,11 +177,13 @@ if ( $the_query->have_posts() ) {
             {
                 ?>
                 <?php //echo $tags_arr[$i];?>
-                <a href="javascript:void(0);" class="blog-tag me-3">#<?php echo $tags_arr[$i]->name;?></a>
+                <a href="<?php echo get_site_url();?>/tag/<?php echo $tags_arr[$i]->slug; ?>"
+                    class="blog-tag me-3">#<?php echo $tags_arr[$i]->name;?></a>
                 <?php
             }
 
             ?>
+                <!-- http://64.227.13.14/freeflow/tag/test1/ -->
                 <!-- <a href="javascript:void(0);" class="blog-tag me-3">#性</a>
                 <a href="javascript:void(0);" class="blog-tag me-3">#身體</a>
                 <a href="javascript:void(0);" class="blog-tag me-3">#自我</a>
