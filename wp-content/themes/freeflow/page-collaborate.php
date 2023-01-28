@@ -51,7 +51,7 @@ get_header(); ?>
 
     <div class="row">
 
-        <div class="col-5">
+        <div class="col-lg-5 col-md-12 col-sm-12 col-12 ">
 
 
             <table class="float-start w-100">
@@ -77,7 +77,7 @@ get_header(); ?>
             </table>
 
         </div>
-        <div class="col-7">
+        <div class="col-lg-7 col-md-12 col-sm-12 col-12 ">
 
             <article class=" mobile-entry-title ">
                 <h2 class="purple">與我們合作
