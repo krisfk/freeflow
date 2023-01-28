@@ -1291,6 +1291,7 @@ h2 a {
     }
     .album-a-div.mobile {
         display: block;
+        padding: 0 0 5rem;
     }
     .step-by-step-div {
         display: none;
