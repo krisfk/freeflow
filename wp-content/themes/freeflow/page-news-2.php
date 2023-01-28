@@ -193,35 +193,75 @@ get_header(); ?>
 
         <div class="col-lg-9 col-md-12 col-sm-12 col-12 ">
 
-            <div>
+            <div class="album-a-div">
 
-                <a href="javascript:void(0);" class="album-a me-3 mb-3"
-                    rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02214_edited.jpg">
-                    <img class="height-280px d-inline-block"
-                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-21@2x.png" alt="">
-                </a>
-                <a href="javascript:void(0);" class="album-a  mb-3"
-                    rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02203_edited.jpg">
+                <div>
 
-                    <img class="height-280px d-inline-block"
-                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-22@2x.png" alt=""> </a>
+                    <a href="javascript:void(0);" class="album-a me-3 mb-3"
+                        rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02214_edited.jpg">
+                        <img class="height-280px d-inline-block"
+                            src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-21@2x.png" alt="">
+                    </a>
+                    <a href="javascript:void(0);" class="album-a  mb-3"
+                        rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02203_edited.jpg">
+
+                        <img class="height-280px d-inline-block"
+                            src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-22@2x.png" alt=""> </a>
+
+                </div>
+
+                <div>
+                    <a href="javascript:void(0);" class="album-a me-3"
+                        rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02209_edited.jpg">
+
+                        <img class="height-280px d-inline-block"
+                            src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-23@2x.png" alt="">
+                    </a>
+
+                    <a href="javascript:void(0);" class="album-a"
+                        rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02107_edited.jpg">
+
+                        <img class="height-280px d-inline-block"
+                            src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-24@2x.png" alt="">
+                    </a>
+
+                </div>
 
             </div>
 
-            <div>
-                <a href="javascript:void(0);" class="album-a me-3"
-                    rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02209_edited.jpg">
+            <div class="album-a-div mobile mt-4">
 
-                    <img class="height-280px d-inline-block"
-                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-23@2x.png" alt="">
-                </a>
 
-                <a href="javascript:void(0);" class="album-a"
-                    rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02107_edited.jpg">
+                <div class="row gx-lg-0 gx-md-3 gx-sm-3 gx-3">
 
-                    <img class="height-280px d-inline-block"
-                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-24@2x.png" alt="">
-                </a>
+                    <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3">
+
+                            <img class=" d-inline-block w-100"
+                                src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-1@2x-2.png" alt="">
+                        </a>
+                    </div>
+                    <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3">
+
+                            <img class=" d-inline-block w-100"
+                                src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-18@2x.png" alt="">
+                        </a>
+                    </div>
+
+                    <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3">
+
+                            <img class=" d-inline-block w-100"
+                                src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-2@2x-3.png" alt="">
+                        </a>
+                    </div>
+                    <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3">
+
+                            <img class=" d-inline-block w-100"
+                                src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-3@2x-4.png" alt="">
+                        </a>
+                    </div>
+
+                </div>
+
 
             </div>
 
@@ -244,7 +284,7 @@ get_header(); ?>
 
     </div>
 
-    <article class="vertical-article position-absolute bottom-0 end-0 me-4 mb-4">
+    <article class="mobile-horizontal vertical-article position-absolute bottom-0 end-0 me-4 mb-4">
         <h2 class="orange">青少女 <br>
             藝術展
         </h2>
