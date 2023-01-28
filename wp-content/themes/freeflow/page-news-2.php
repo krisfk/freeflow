@@ -124,10 +124,10 @@ get_header(); ?>
                 </div>
 
             </div>
-            <div class="album-a-div mobile">
+            <div class="album-a-div mobile mt-4">
 
 
-                <div class="row">
+                <div class="row gx-0">
 
                     <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3">
 
