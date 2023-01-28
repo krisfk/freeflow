@@ -131,7 +131,17 @@ get_header(); ?>
                     views</div>
                 <div class="col-3 text-end">
 
-                    <span>10</span>
+                    <span>
+
+                        <?php
+
+echo do_shortcode( '[posts_like_dislike]');
+
+
+                    // [posts_like_dislike id=post_id]
+
+                    ?>
+                    </span>
 
                     <a href="javascript:void(0);" class="d-inline-block">
                         <img class="heart-icon" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/heart.png"
