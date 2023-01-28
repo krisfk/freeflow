@@ -98,10 +98,22 @@ get_header(); ?>
 
             </div>
 
-            <div class="mt-3"> <a href="javascript:void(0);" class="blog-tag me-3">#性</a>
-                <a href="javascript:void(0);" class="blog-tag me-3">#身體</a>
-                <a href="javascript:void(0);" class="blog-tag me-3">#自我</a>
-                <a href="javascript:void(0);" class="blog-tag">#感想</a>
+            <div class="mt-3">
+
+                <?php
+            $tags_arr = get_the_tags() ;
+
+            // echo $tags_arr[0]->name;
+            for($i=0;$i<count($tags_arr);$i++)
+            {
+                ?>
+                <?php //echo $tags_arr[$i];?>
+                <a href="<?php echo get_site_url();?>/tag/<?php echo $tags_arr[$i]->slug; ?>"
+                    class="blog-tag me-3">#<?php echo $tags_arr[$i]->name;?></a>
+                <?php
+            }
+
+            ?>
             </div>
 
 
