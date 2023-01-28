@@ -1321,6 +1321,10 @@ h2 a {
     border-radius: 0px !important;
 }
 
+.w-90 {
+    width: 90%;
+}
+
 @media only screen and (max-width: 1400px) {
     .album-a-div {
         display: none;
