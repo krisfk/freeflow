@@ -101,7 +101,8 @@ get_header(); ?>
   foreach ($tags as $tag) {
     ?>
 
-    <a href="javascript:void(0);" class="blog-tag me-3">#<?php echo  $tag->name;?></a>
+    <a href="<?php echo get_site_url();?>/tag/<?php echo $tag->slug; ?>"
+        class="blog-tag me-3">#<?php echo  $tag->name;?></a>
     <?php
     // echo '<li>' . $tag->name . '</li>';
   }
