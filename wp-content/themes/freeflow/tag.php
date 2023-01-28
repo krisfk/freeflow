@@ -86,7 +86,7 @@ get_header(); ?>
 // 	'post_type' => 'post',
 // );
 
-$query_args = array( 'tag' => get_the_archive_title());
+$query_args = array( 'tag' => 3);
 
 
 // The Query
