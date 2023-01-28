@@ -388,8 +388,7 @@ get_header(); ?>
     </div>
 
     <article class="mobile-horizontal vertical-article position-absolute bottom-0 end-0 me-4 mb-4">
-        <h2 class="orange">身體律動 <br>
-            工作坊
+        <h2 class="orange">身體律動<br>工作坊
         </h2>
     </article>
 
