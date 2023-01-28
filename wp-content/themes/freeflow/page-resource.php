@@ -143,7 +143,13 @@ if ( $the_query->have_posts() ) {
                     <?php echo get_the_title();?></a>
             </h2>
 
-            <div class="orange">4 Nov 2022</div>
+            <div class="orange">
+                <?php
+        echo get_the_date();
+        ?>
+                <!-- 4 Nov 2022 -->
+
+            </div>
 
             <div class="mt-3">
 
