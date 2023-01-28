@@ -100,29 +100,15 @@ get_header(); ?>
   $tags = get_tags(array(
     'hide_empty' => false
   ));
-//   echo '<ul>';
   foreach ($tags as $tag) {
     ?>
 
     <a href="<?php echo get_site_url();?>/tag/<?php echo $tag->slug; ?>"
         class="blog-tag me-3">#<?php echo  $tag->name;?></a>
     <?php
-    // echo '<li>' . $tag->name . '</li>';
+    
   }
-//   echo '</ul>';
-  
 ?>
-
-
-    <!-- <a href="javascript:void(0);" class="blog-tag me-3">All Articles</a>
-    <a href="javascript:void(0);" class="blog-tag me-3">#性</a>
-    <a href="javascript:void(0);" class="blog-tag me-3">#身體</a>
-    <a href="javascript:void(0);" class="blog-tag me-3">#自我</a>
-    <a href="javascript:void(0);" class="blog-tag">#感想</a> -->
-
-
-
-
 
 </div>
 

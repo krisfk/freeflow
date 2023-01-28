@@ -50,14 +50,32 @@ get_header(); ?>
 <div class="container yellow-bg-div gx-0 mt-120px">
 
 
-
+    <!-- 
     <a href="javascript:void(0);" class="blog-tag me-3">All Articles</a>
     <a href="javascript:void(0);" class="blog-tag me-3">#性</a>
     <a href="javascript:void(0);" class="blog-tag me-3">#身體</a>
     <a href="javascript:void(0);" class="blog-tag me-3">#自我</a>
     <a href="javascript:void(0);" class="blog-tag">#感想</a>
 
+ -->
 
+
+    <a href="<?php echo get_site_url();?>/resource" class="blog-tag me-3">All Articles</a>
+
+    <?php
+
+$tags = get_tags(array(
+'hide_empty' => false
+));
+foreach ($tags as $tag) {
+?>
+
+    <a href="<?php echo get_site_url();?>/tag/<?php echo $tag->slug; ?>"
+        class="blog-tag me-3">#<?php echo  $tag->name;?></a>
+    <?php
+
+}
+?>
 
 
 
