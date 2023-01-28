@@ -146,8 +146,8 @@ get_header(); ?>
             <div class="row mt-4">
 
 
-                <div class="col-3">214 views</div>
-                <div class="col-9 text-end">
+                <div class="col-9">214 views</div>
+                <div class="col-3 text-end">
 
                     <span>10</span>
 
@@ -198,8 +198,8 @@ get_header(); ?>
             <div class="row mt-4">
 
 
-                <div class="col-3">214 views</div>
-                <div class="col-9 text-end">
+                <div class="col-9">214 views</div>
+                <div class="col-3 text-end">
 
                     <span>10</span>
 
@@ -255,8 +255,8 @@ get_header(); ?>
             <div class="row mt-4">
 
 
-                <div class="col-3">214 views</div>
-                <div class="col-9 text-end">
+                <div class="col-9">214 views</div>
+                <div class="col-3 text-end">
 
                     <span>10</span>
 
@@ -305,8 +305,8 @@ get_header(); ?>
             <div class="row mt-4">
 
 
-                <div class="col-3">214 views</div>
-                <div class="col-9 text-end">
+                <div class="col-9">214 views</div>
+                <div class="col-3 text-end">
 
                     <span>10</span>
 
@@ -365,8 +365,8 @@ get_header(); ?>
             <div class="row mt-4">
 
 
-                <div class="col-3">214 views</div>
-                <div class="col-9 text-end">
+                <div class="col-9">214 views</div>
+                <div class="col-3 text-end">
 
                     <span>10</span>
 
@@ -417,8 +417,8 @@ get_header(); ?>
             <div class="row mt-4">
 
 
-                <div class="col-3">214 views</div>
-                <div class="col-9 text-end">
+                <div class="col-9">214 views</div>
+                <div class="col-3 text-end">
 
                     <span>10</span>
 
