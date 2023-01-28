@@ -44,51 +44,6 @@ get_header(); ?>
 
 </div>
 
-<div class="container  gx-0 mt-120px  yellow-bg-div ">
-
-
-
-    <div class="row mt-4 mobile-reverse-row">
-
-        <div class="col-lg-6 col-md-12 col-sm-12 col-12  position-relative  mt-0">
-
-
-
-
-
-            <article class="vertical-article float-start me-4">
-                <h2 class="orange">律動資料庫
-                </h2>
-            </article>
-
-            <div>
-
-                有關賽馬會「自主．流」身體律動計劃的文章及資料會於這裡與大家分享。內容包括由青少女及計劃社工撰寫的文章和故事。 <br><br>
-
-                以及，與香港浸會大學合作的研究正在進行，結果詳情將容後公佈。
-
-            </div>
-
-
-
-
-
-
-
-        </div>
-        <div class="col-lg-6 col-md-12 col-sm-12 col-12  position-relative  mt-0">
-            <a href="javascript:void(0);" class="album-a mobile-keep"
-                rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-1@2x-50.jpg">
-                <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-2@2x-1.png"
-                    alt="">
-            </a>
-        </div>
-
-    </div>
-
-
-</div>
-
 
 
 
