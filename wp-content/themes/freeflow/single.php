@@ -58,6 +58,23 @@ get_header(); ?>
     <a href="javascript:void(0);" class="blog-tag">#感想</a> -->
 
 
+    <a href="<?php echo get_site_url();?>/resource" class="blog-tag me-3">All Articles</a>
+
+    <?php
+
+$tags = get_tags(array(
+'hide_empty' => false
+));
+foreach ($tags as $tag) {
+?>
+
+    <a href="<?php echo get_site_url();?>/tag/<?php echo $tag->slug; ?>"
+        class="blog-tag me-3">#<?php echo  $tag->name;?></a>
+    <?php
+
+}
+?>
+
 
 
 
