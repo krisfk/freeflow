@@ -189,7 +189,7 @@ get_header(); ?>
 <div class="container yellow-bg-div gx-0 mt-60px">
 
 
-    <div class="row mt-4">
+    <div class="row mt-4 mobile-reverse-row">
 
         <div class="col-lg-9 col-md-12 col-sm-12 col-12 ">
 
