@@ -208,6 +208,7 @@ get_header(); ?>
 
                 <div>
 
+
                     <a href="javascript:void(0);" class="album-a me-3 mb-3"
                         rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02214_edited.jpg">
                         <img class="height-280px d-inline-block"
@@ -245,26 +246,36 @@ get_header(); ?>
 
                 <div class="row gx-lg-0 gx-md-3 gx-sm-3 gx-3">
 
-                    <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3">
+
+
+
+
+
+
+                    <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3"
+                            rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02214_edited.jpg">
 
                             <img class=" d-inline-block w-100"
                                 src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-4@2x-2.png" alt="">
                         </a>
                     </div>
-                    <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3">
+                    <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3"
+                            rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02203_edited.jpg">
 
                             <img class=" d-inline-block w-100"
                                 src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-5@2x-3.png" alt="">
                         </a>
                     </div>
 
-                    <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3">
+                    <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3"
+                            rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02209_edited.jpg">
 
                             <img class=" d-inline-block w-100"
                                 src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-6@2x-2.png" alt="">
                         </a>
                     </div>
-                    <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3">
+                    <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3"
+                            rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02107_edited.jpg">
 
                             <img class=" d-inline-block w-100"
                                 src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-3@2x-4.png" alt="">
