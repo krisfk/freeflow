@@ -606,6 +606,8 @@ echo'</li>';
 
 
 
+
+
             $('.menu-btn').click(function() {
                 $(this).toggleClass('active');
 
@@ -651,6 +653,12 @@ echo'</li>';
                 $('.lightbox-enlarge-photo').attr('src', '');
                 $('.lightbox-layer').fadeOut(0);
                 $('.lightbox-enlarge-photo').removeClass('lazyloaded')
+
+            })
+
+            $('.search-icon-a').click(function() {
+                $('.lightbox-layer.search-layer').fadeIn(200);
+
 
             })
 
