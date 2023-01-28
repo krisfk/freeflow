@@ -172,12 +172,12 @@ if ( $the_query->have_posts() ) {
                 <?php
             $tags_arr = get_the_tags() ;
 
-            for($i=0;$i<count($tags_arr);$i++)
-            {
+            // for($i=0;$i<count($tags_arr);$i++)
+            // {
                 ?>
                 <!-- <a href="javascript:void(0);" class="blog-tag me-3">#<?php echo $tags_arr[$i];?></a> -->
                 <?php
-            }
+            // }
 
             ?>
                 <!-- <a href="javascript:void(0);" class="blog-tag me-3">#性</a>
