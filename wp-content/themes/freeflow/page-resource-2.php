@@ -51,16 +51,16 @@ get_header(); ?>
 
 
     <!-- 
-    <a href="javascript:void(0);" class="blog-tag me-3">All Articles</a>
-    <a href="javascript:void(0);" class="blog-tag me-3">#性</a>
-    <a href="javascript:void(0);" class="blog-tag me-3">#身體</a>
-    <a href="javascript:void(0);" class="blog-tag me-3">#自我</a>
+    <a href="javascript:void(0);" class="blog-tag me-1">All Articles</a>
+    <a href="javascript:void(0);" class="blog-tag me-1">#性</a>
+    <a href="javascript:void(0);" class="blog-tag me-1">#身體</a>
+    <a href="javascript:void(0);" class="blog-tag me-1">#自我</a>
     <a href="javascript:void(0);" class="blog-tag">#感想</a>
 
  -->
 
 
-    <a href="<?php echo get_site_url();?>/resource" class="blog-tag me-3">All Articles</a>
+    <a href="<?php echo get_site_url();?>/resource" class="blog-tag me-1">All Articles</a>
 
     <?php
 
@@ -71,7 +71,7 @@ foreach ($tags as $tag) {
 ?>
 
     <a href="<?php echo get_site_url();?>/tag/<?php echo $tag->slug; ?>"
-        class="blog-tag me-3">#<?php echo  $tag->name;?></a>
+        class="blog-tag me-1">#<?php echo  $tag->name;?></a>
     <?php
 
 }
@@ -113,9 +113,9 @@ foreach ($tags as $tag) {
                 故我在、我自在、漫動作。有關賽馬會「自主‧流」身體律動計劃的文章及資料會於這裡與大家分享。內容包括由青少女及計劃社工撰寫的文章和故事。以及，與香港浸會大學合作的研究正在進行，結果詳情將容後公佈在《我動故我在》，我們將分享青少年在這一年身體律動課的體驗及向公眾推廣身體律動及對自我身體的關注。在這空間與大眾討論女性標準，探討這些期望為本地青少女帶來的影響，協助公眾認識身體律動關顧自己的身心靈需要，加深對性別議題的認識。
             </div>
 
-            <div class="mt-3"> <a href="javascript:void(0);" class="blog-tag me-3">#性</a>
-                <a href="javascript:void(0);" class="blog-tag me-3">#身體</a>
-                <a href="javascript:void(0);" class="blog-tag me-3">#自我</a>
+            <div class="mt-3"> <a href="javascript:void(0);" class="blog-tag me-1">#性</a>
+                <a href="javascript:void(0);" class="blog-tag me-1">#身體</a>
+                <a href="javascript:void(0);" class="blog-tag me-1">#自我</a>
                 <a href="javascript:void(0);" class="blog-tag">#感想</a>
             </div>
 

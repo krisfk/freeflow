@@ -61,7 +61,7 @@ get_header(); ?>
             <div> Selected tag: <?php single_tag_title();?>
             </div>
             <div class="d-inline-block w-90">
-                <a href="<?php echo get_site_url();?>/resource" class="blog-tag me-3">All Articles</a>
+                <a href="<?php echo get_site_url();?>/resource" class="blog-tag me-1">All Articles</a>
                 <?php
 
 $tags = get_tags(array(
@@ -71,7 +71,7 @@ foreach ($tags as $tag) {
 ?>
 
                 <a href="<?php echo get_site_url();?>/tag/<?php echo $tag->slug; ?>"
-                    class="blog-tag me-3">#<?php echo  $tag->name;?></a>
+                    class="blog-tag me-1">#<?php echo  $tag->name;?></a>
                 <?php
 
 }
@@ -186,15 +186,15 @@ if ( $the_query->have_posts() ) {
                 ?>
                 <?php //echo $tags_arr[$i];?>
                 <a href="<?php echo get_site_url();?>/tag/<?php echo $tags_arr[$i]->slug; ?>"
-                    class="blog-tag me-3">#<?php echo $tags_arr[$i]->name;?></a>
+                    class="blog-tag me-1">#<?php echo $tags_arr[$i]->name;?></a>
                 <?php
             }
 
             ?>
                 <!-- http://64.227.13.14/freeflow/tag/test1/ -->
-                <!-- <a href="javascript:void(0);" class="blog-tag me-3">#性</a>
-                <a href="javascript:void(0);" class="blog-tag me-3">#身體</a>
-                <a href="javascript:void(0);" class="blog-tag me-3">#自我</a>
+                <!-- <a href="javascript:void(0);" class="blog-tag me-1">#性</a>
+                <a href="javascript:void(0);" class="blog-tag me-1">#身體</a>
+                <a href="javascript:void(0);" class="blog-tag me-1">#自我</a>
                 <a href="javascript:void(0);" class="blog-tag">#感想</a> -->
             </div>
 
@@ -271,9 +271,9 @@ if ( $the_query->have_posts() ) {
                 <a href="<?php echo get_site_url();?>/resource-2" class="orange more-link">... more</a>
             </div>
 
-            <div class="mt-3"> <a href="javascript:void(0);" class="blog-tag me-3">#性</a>
-                <a href="javascript:void(0);" class="blog-tag me-3">#身體</a>
-                <a href="javascript:void(0);" class="blog-tag me-3">#自我</a>
+            <div class="mt-3"> <a href="javascript:void(0);" class="blog-tag me-1">#性</a>
+                <a href="javascript:void(0);" class="blog-tag me-1">#身體</a>
+                <a href="javascript:void(0);" class="blog-tag me-1">#自我</a>
                 <a href="javascript:void(0);" class="blog-tag">#感想</a>
             </div>
 
@@ -323,9 +323,9 @@ if ( $the_query->have_posts() ) {
                 <a href="<?php echo get_site_url();?>/resource-2" class="orange more-link">... more</a>
             </div>
 
-            <div class="mt-3"> <a href="javascript:void(0);" class="blog-tag me-3">#性</a>
-                <a href="javascript:void(0);" class="blog-tag me-3">#身體</a>
-                <a href="javascript:void(0);" class="blog-tag me-3">#自我</a>
+            <div class="mt-3"> <a href="javascript:void(0);" class="blog-tag me-1">#性</a>
+                <a href="javascript:void(0);" class="blog-tag me-1">#身體</a>
+                <a href="javascript:void(0);" class="blog-tag me-1">#自我</a>
                 <a href="javascript:void(0);" class="blog-tag">#感想</a>
             </div>
 
@@ -375,9 +375,9 @@ if ( $the_query->have_posts() ) {
                 <a href="<?php echo get_site_url();?>/resource-2" class="orange more-link">... more</a>
             </div>
 
-            <div class="mt-3"> <a href="javascript:void(0);" class="blog-tag me-3">#性</a>
-                <a href="javascript:void(0);" class="blog-tag me-3">#身體</a>
-                <a href="javascript:void(0);" class="blog-tag me-3">#自我</a>
+            <div class="mt-3"> <a href="javascript:void(0);" class="blog-tag me-1">#性</a>
+                <a href="javascript:void(0);" class="blog-tag me-1">#身體</a>
+                <a href="javascript:void(0);" class="blog-tag me-1">#自我</a>
                 <a href="javascript:void(0);" class="blog-tag">#感想</a>
             </div>
 
@@ -426,9 +426,9 @@ if ( $the_query->have_posts() ) {
                 <a href="<?php echo get_site_url();?>/resource-2" class="orange more-link">... more</a>
             </div>
 
-            <div class="mt-3"> <a href="javascript:void(0);" class="blog-tag me-3">#性</a>
-                <a href="javascript:void(0);" class="blog-tag me-3">#身體</a>
-                <a href="javascript:void(0);" class="blog-tag me-3">#自我</a>
+            <div class="mt-3"> <a href="javascript:void(0);" class="blog-tag me-1">#性</a>
+                <a href="javascript:void(0);" class="blog-tag me-1">#身體</a>
+                <a href="javascript:void(0);" class="blog-tag me-1">#自我</a>
                 <a href="javascript:void(0);" class="blog-tag">#感想</a>
             </div>
 
@@ -478,9 +478,9 @@ if ( $the_query->have_posts() ) {
                 <a href="<?php echo get_site_url();?>/resource-2" class="orange more-link">... more</a>
             </div>
 
-            <div class="mt-3"> <a href="javascript:void(0);" class="blog-tag me-3">#性</a>
-                <a href="javascript:void(0);" class="blog-tag me-3">#身體</a>
-                <a href="javascript:void(0);" class="blog-tag me-3">#自我</a>
+            <div class="mt-3"> <a href="javascript:void(0);" class="blog-tag me-1">#性</a>
+                <a href="javascript:void(0);" class="blog-tag me-1">#身體</a>
+                <a href="javascript:void(0);" class="blog-tag me-1">#自我</a>
                 <a href="javascript:void(0);" class="blog-tag">#感想</a>
             </div>
 
@@ -529,9 +529,9 @@ if ( $the_query->have_posts() ) {
                 <a href="<?php echo get_site_url();?>/resource-2" class="orange more-link">... more</a>
             </div>
 
-            <div class="mt-3"> <a href="javascript:void(0);" class="blog-tag me-3">#性</a>
-                <a href="javascript:void(0);" class="blog-tag me-3">#身體</a>
-                <a href="javascript:void(0);" class="blog-tag me-3">#自我</a>
+            <div class="mt-3"> <a href="javascript:void(0);" class="blog-tag me-1">#性</a>
+                <a href="javascript:void(0);" class="blog-tag me-1">#身體</a>
+                <a href="javascript:void(0);" class="blog-tag me-1">#自我</a>
                 <a href="javascript:void(0);" class="blog-tag">#感想</a>
             </div>
 

@@ -56,7 +56,7 @@ get_header(); ?>
 
 
             <div class="d-inline-block w-90">
-                <a href="<?php echo get_site_url();?>/resource" class="blog-tag me-3">All Articles</a>
+                <a href="<?php echo get_site_url();?>/resource" class="blog-tag me-1">All Articles</a>
                 <?php
 
 $tags = get_tags(array(
@@ -66,7 +66,7 @@ foreach ($tags as $tag) {
 ?>
 
                 <a href="<?php echo get_site_url();?>/tag/<?php echo $tag->slug; ?>"
-                    class="blog-tag me-3">#<?php echo  $tag->name;?></a>
+                    class="blog-tag me-1">#<?php echo  $tag->name;?></a>
                 <?php
 
 }
@@ -148,7 +148,7 @@ foreach ($tags as $tag) {
                 ?>
                 <?php //echo $tags_arr[$i];?>
                 <a href="<?php echo get_site_url();?>/tag/<?php echo $tags_arr[$i]->slug; ?>"
-                    class="blog-tag me-3">#<?php echo $tags_arr[$i]->name;?></a>
+                    class="blog-tag me-1">#<?php echo $tags_arr[$i]->name;?></a>
                 <?php
             }
 
