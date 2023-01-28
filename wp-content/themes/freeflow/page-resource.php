@@ -160,7 +160,7 @@ echo get_the_date('d M Y');
 
             <div class="mt-3">
 
-                <?php echo get_the_excerpt(500);?>
+                <?php echo get_the_excerpt();?>
 
 
 
