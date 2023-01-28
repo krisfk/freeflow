@@ -93,7 +93,7 @@ get_header(); ?>
 <div class="container yellow-bg-div gx-0 ">
 
 
-    <a href="<?php get_site_url();?>/resources" class="blog-tag me-3">All Articles</a>
+    <a href="<?php get_site_url();?>/resource" class="blog-tag me-3">All Articles</a>
 
     <?php
 
