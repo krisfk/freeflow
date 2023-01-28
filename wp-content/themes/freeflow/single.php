@@ -52,7 +52,7 @@ get_header(); ?>
 
     <div class="row">
 
-        <div class="col-9"> <a href="<?php echo get_site_url();?>/resource" class="blog-tag me-3">All Articles</a>
+        <div class="col-12"> <a href="<?php echo get_site_url();?>/resource" class="blog-tag me-3">All Articles</a>
             <?php
 
 $tags = get_tags(array(
@@ -68,7 +68,7 @@ foreach ($tags as $tag) {
 }
 ?>
         </div>
-        <div class="col-3">
+        <div class="col-12">
 
             <?php
         echo do_shortcode( '[ivory-search id="234" title="AJAX Search Form"]');
