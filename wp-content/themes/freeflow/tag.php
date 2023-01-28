@@ -44,15 +44,15 @@ get_header(); ?>
 
 </div>
 
-<div class="container  gx-0 mt-120px  yellow-bg-div ">
 
-    Selected tag: dfdsd
-
-</div>
 
 
 <div class="container yellow-bg-div gx-0 ">
 
+
+
+    <div> Selected tag: dfdsd
+    </div>
 
     <a href="<?php echo get_site_url();?>/resource" class="blog-tag me-3">All Articles</a>
 
