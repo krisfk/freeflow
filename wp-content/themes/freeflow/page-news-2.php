@@ -381,14 +381,14 @@ get_header(); ?>
                     </div>
 
                     <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3"
-                            rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02618_edited.jpg">
+                            rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02370_edited.jpg">
 
                             <img class=" d-inline-block w-100"
                                 src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-10@2x-1.png" alt="">
                         </a>
                     </div>
                     <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3"
-                            rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02370_edited.jpg">
+                            rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02618_edited.jpg">
 
                             <img class=" d-inline-block w-100"
                                 src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-11@2x-2.png" alt="">
