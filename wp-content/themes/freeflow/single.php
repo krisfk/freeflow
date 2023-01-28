@@ -77,14 +77,14 @@ foreach ($tags as $tag) {
             <a href="javascript:void(0);" class="search-icon-a"><img
                     src="<?php echo get_template_directory_uri(); ?>/assets/images/search-icon.png" alt=""></a>
         </div>
-        <div class="col-12">
+        <!-- <div class="col-12"> -->
 
-            <?php
-        echo do_shortcode( '[ivory-search id="234" title="AJAX Search Form"]');
+        <?php
+        // echo do_shortcode( '[ivory-search id="234" title="AJAX Search Form"]');
 
         ?>
 
-        </div>
+        <!-- </div> -->
     </div>
 
 
