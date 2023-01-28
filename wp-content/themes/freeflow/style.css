@@ -1316,7 +1316,7 @@ h2 a {
 
 .search-ui-div {
     position: absolute;
-    top: 0px;
+    top: -4px;
     right: 10px;
     display: none;
 }
