@@ -1407,7 +1407,7 @@ div.asl_r .results .item .asl_content h3 a {
     line-height: inherit;
     font-weight: normal;
     font-family: Open Sans;
-    color: #717171;
+    color: #717171 !important;
     font-size: 14px;
     line-height: 22px;
     text-shadow: 0 0 0 rgb(255 255 255 / 0%);
@@ -1416,7 +1416,7 @@ div.asl_r .results .item .asl_content h3 a {
 div.asl_r .results .item .asl_content h3 a:hover {
     font-weight: normal;
     font-family: Open Sans;
-    color: #fd6c30;
+    color: #fd6c30 !important;
     font-size: 14px;
     line-height: 20px;
     text-shadow: 0 0 0 rgb(255 255 255 / 0%);
@@ -1429,7 +1429,7 @@ div.asl_r .results .item .asl_content h3 a {
     line-height: inherit;
     font-weight: normal;
     font-family: Open Sans;
-    color: #fe6c30;
+    color: #fe6c30 !important;
     font-size: 14px;
     line-height: 22px;
     text-shadow: 0 0 0 rgb(255 255 255 / 0%);
