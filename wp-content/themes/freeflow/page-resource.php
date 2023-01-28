@@ -97,6 +97,7 @@ get_header(); ?>
   $tags = get_tags(array(
     'hide_empty' => false
   ));
+  print_r($tags);
 //   echo '<ul>';
   foreach ($tags as $tag) {
     ?>
