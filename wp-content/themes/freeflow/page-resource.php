@@ -92,6 +92,9 @@ get_header(); ?>
 
 <div class="container yellow-bg-div gx-0 ">
 
+
+    <a href="<?php get_site_url();?>/resources" class="blog-tag me-3">All Articles</a>
+
     <?php
 
   $tags = get_tags(array(
@@ -100,6 +103,7 @@ get_header(); ?>
 //   echo '<ul>';
   foreach ($tags as $tag) {
     ?>
+
 
     <a href="<?php echo get_site_url();?>/tag/<?php echo $tag->slug; ?>"
         class="blog-tag me-3">#<?php echo  $tag->name;?></a>
