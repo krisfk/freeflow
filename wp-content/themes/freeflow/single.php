@@ -50,10 +50,7 @@ get_header(); ?>
 <div class="container yellow-bg-div gx-0 mt-120px">
 
 
-    <?php
-                echo do_shortcode( '[ivory-search id="234" title="AJAX Search Form"]');
 
-?>
 
     <!-- <a href="javascript:void(0);" class="blog-tag me-3">All Articles</a>
     <a href="javascript:void(0);" class="blog-tag me-3">#性</a>
@@ -78,6 +75,13 @@ foreach ($tags as $tag) {
 
 }
 ?>
+
+
+    <?php
+                echo do_shortcode( '[ivory-search id="234" title="AJAX Search Form"]');
+
+?>
+
 
 
 
