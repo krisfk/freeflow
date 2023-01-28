@@ -660,6 +660,8 @@ echo'</li>';
                 // $('.lightbox-layer.search-layer').fadeIn(200);
 
 
+                $(this).fadeOut(0);
+                $('.search-ui-div').fadeIn(200)
             })
 
             $('.term-1-btn').click(function() {
