@@ -220,7 +220,9 @@ if ( $the_query->have_posts() ) {
 
 
                 <div class="col-9"><?php
-                echo do_shortcode( '[post-views]');
+
+                echo get_field('post_views');
+                // echo do_shortcode( '[post-views]');
 
                 ?> views</div>
                 <div class="col-3 text-end">
