@@ -48,7 +48,7 @@ get_header(); ?>
 
 
 
-    <div class="row mt-4">
+    <div class="row mt-4 mobile-reverse-row">
 
         <div class="col-lg-6 col-md-12 col-sm-12 col-12  position-relative">
 
