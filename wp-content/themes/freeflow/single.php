@@ -128,7 +128,6 @@ get_header(); ?>
                 echo do_shortcode( '[post-views]');
 
                 ?>
-                    fff
                     views</div>
                 <div class="col-9 text-end">
 
