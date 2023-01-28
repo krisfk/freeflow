@@ -1305,6 +1305,14 @@ h2 a {
     .mobile.news-tpl-1-img-table {
         display: flex;
     }
+    .mobile-horizontal.vertical-article h2 {
+        writing-mode: initial;
+        letter-spacing: 0.1em;
+        float: right;
+    }
+    .mobile-horizontal.vertical-article h2 br {
+        display: none;
+    }
 }
 
 @media only screen and (max-width: 1200px) {
