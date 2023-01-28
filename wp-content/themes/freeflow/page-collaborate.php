@@ -79,6 +79,12 @@ get_header(); ?>
         </div>
         <div class="col-7">
 
+            <article class=" mobile-entry-title ">
+                <h2 class="purple">與我們合作
+
+                </h2>
+            </article>
+
             <div>
 
                 我們的使命需要大家大力支持！任何藝術團體、創作人，以及關心性別議題的朋友，歡迎成為我們的合作黟伴，為項目加添力量。
