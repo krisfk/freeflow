@@ -85,8 +85,13 @@ get_header(); ?>
 // $query_args = array(
 // 	'post_type' => 'post',
 // );
-echo get_the_archive_title();
-$query_args = array( 'tag' => 'test1');
+
+$tag = get_queried_object();
+// echo $tag->slug
+
+
+// echo get_the_archive_title();
+$query_args = array( 'tag' => $tag->slug);
 
 
 // The Query
