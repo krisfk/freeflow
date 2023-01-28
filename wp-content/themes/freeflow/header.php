@@ -72,7 +72,7 @@
                 </div>
                 <div class="col-12">
                     <?php
-        echo do_shortcode( '[ivory-search id="234" title="AJAX Search Form"]');
+        // echo do_shortcode( '[ivory-search id="234" title="AJAX Search Form"]');
 
         ?>
 
