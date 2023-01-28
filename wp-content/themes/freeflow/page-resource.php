@@ -97,15 +97,18 @@ get_header(); ?>
   $tags = get_tags(array(
     'hide_empty' => false
   ));
-  print_r($tags);
+//   print_r($tags);
 //   echo '<ul>';
-  foreach ($tags as $tag) {
+//   foreach ($tags as $tag) {
+    for($i=0;$i<count($tags);$i++)
+{
     ?>
 
-    <a href="javascript:void(0);" class="blog-tag me-3">#<?php $tag->name;?></a>
+    <a href="javascript:void(0);" class="blog-tag me-3">#<?php $tags[$i]->name;?></a>
     <?php
+    }
     // echo '<li>' . $tag->name . '</li>';
-  }
+//   }
 //   echo '</ul>';
   
 ?>
