@@ -126,11 +126,38 @@ get_header(); ?>
             </div>
             <div class="album-a-div mobile">
 
-                <a href="javascript:void(0);" class="m-album-a  mb-3"
-                    rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02242_edited.jpg">
 
-                    <img class="height-280px d-inline-block"
-                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-18@2x.png" alt=""> </a>
+                <div class="row">
+
+                    <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3">
+
+                            <img class="height-280px d-inline-block"
+                                src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-18@2x.png" alt="">
+                        </a>
+                    </div>
+                    <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3">
+
+                            <img class="height-280px d-inline-block"
+                                src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-18@2x.png" alt="">
+                        </a>
+                    </div>
+
+                    <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3">
+
+                            <img class="height-280px d-inline-block"
+                                src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-18@2x.png" alt="">
+                        </a>
+                    </div>
+                    <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3">
+
+                            <img class="height-280px d-inline-block"
+                                src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-18@2x.png" alt="">
+                        </a>
+                    </div>
+
+                </div>
+
+
             </div>
         </div>
         <div class="col-lg-3 col-md-12 col-sm-12 col-12   text-end">
