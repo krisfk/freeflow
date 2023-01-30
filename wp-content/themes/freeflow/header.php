@@ -486,10 +486,10 @@ echo'</li>';
             // if (!$('body').hasClass('home')) {
 
             $('.curve-bg').css({
-                'top': ($('.banner-div').height() / 1.4) + 'px'
+                'top': ($('.banner-div').height() / 1.5) + 'px'
             });
 
-            $('.curve-bg').height($('body').height() - $('.banner-div').height());
+            $('.curve-bg').height($('body').height() - $('.banner-div').height() + 100);
 
             $('.curve-bg').css({
                 'display': 'block'
