@@ -1904,6 +1904,11 @@ div.asl_r .results .item .asl_content h3 a {
     .home .home-banner-div .freeflow-logo-a img {
         width: 114px;
     }
+    .freeflow-logo-a img {
+        width: 114px;
+        top: 50px;
+        right: 16px;
+    }
     .home-banner-div .icons-div table {
         margin-right: 0.5rem;
     }
