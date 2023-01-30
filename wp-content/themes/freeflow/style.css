@@ -1324,6 +1324,7 @@ h2 a {
 .search-icon-a img {
     height: 23px;
     border-radius: 0px !important;
+    display: inline-block;
 }
 
 .w-90 {
