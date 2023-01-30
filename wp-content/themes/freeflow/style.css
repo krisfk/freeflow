@@ -1839,22 +1839,22 @@ div.asl_r .results .item .asl_content h3 a {
 @media only screen and (max-width: 480px) {
     .menu-btn {
         position: fixed;
-        top: 8px;
-        left: 12px;
+        top: 7px;
+        left: 17px;
         z-index: 200;
         text-decoration: none;
         z-index: 6000 !important;
         transition: 0.2s all;
     }
     .home .home-banner-div .freeflow-logo-a {
-        top: 48px;
-        right: 5px;
+        top: 50px;
+        right: 16px;
     }
     .home .home-banner-div .freeflow-logo-a img {
-        width: 73px;
+        width: 114px;
     }
     .home-banner-div .icons-div table {
-        margin-right: -0.3rem;
+        margin-right: 0.5rem;
     }
     .home-banner-div .icons-div {
         line-height: 1;
@@ -1907,15 +1907,15 @@ div.asl_r .results .item .asl_content h3 a {
     .icons-div table {}
     .home-banner-div .icons-div {
         line-height: 1;
-        top: 29px;
-        right: 26px;
+        top: 10px;
+        right: 10px;
     }
     .home-banner-div .icons-div table a {}
     .home-banner-div .icons-div table td {
         line-height: 1;
     }
     .home-banner-div .top-icon-img {
-        height: 21px;
+        height: 24px;
         width: auto;
     }
     .our-activity-btn {
