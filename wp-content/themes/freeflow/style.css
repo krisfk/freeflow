@@ -1647,7 +1647,8 @@ div.asl_r .results .item .asl_content h3 a {
         max-width: fit-content;
     }
     .yellow-bg-div {
-        max-width: 93%;
+        max-width: 80%;
+        padding: 1rem;
     }
     .album-a {
         display: none;
