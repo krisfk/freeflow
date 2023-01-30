@@ -1745,6 +1745,7 @@ div.asl_r .results .item .asl_content h3 a {
 @media only screen and (max-width: 576px) {
     .mobile .step-arrow {
         height: 20px;
+        display: inline-block;
     }
     .mobile .orange-bubble-know-more {
         color: #fff;
