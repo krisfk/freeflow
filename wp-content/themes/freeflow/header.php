@@ -656,6 +656,10 @@ echo'</li>';
             })
 
             $('.lightbox-close-btn').click(function() {
+
+                $('.video').html('');
+
+
                 $('.lightbox-enlarge-photo').attr('src', '');
                 $('.lightbox-layer').fadeOut(0);
                 $('.lightbox-enlarge-photo').removeClass('lazyloaded')
