@@ -102,6 +102,12 @@
                 <div class="col-12">
 
                     <div class="lightbox-enlarge-photo-div position-relative">
+
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/9tKGHIdpEac?rel=0"
+                            title="YouTube video player" frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                            allowfullscreen></iframe>
+
                         <!-- <a href="javascript:void(0);" class="photo-album-arrow photo-album-arrow-l"></a> -->
                         <!-- <a href="javascript:void(0);" class="photo-album-arrow photo-album-arrow-r"></a> -->
 
