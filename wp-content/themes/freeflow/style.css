@@ -101,7 +101,7 @@ Twenty Twenty-One is distributed under the terms of the GNU GPL.
 body {
     font-size: 18px;
     line-height: 2.5rem;
-    color: #808080;
+    color: #909090;
 }
 
 .home-banner-div {
@@ -1507,6 +1507,11 @@ div.asl_r .results .item .asl_content h3 a {
 }
 
 @media only screen and (max-width: 991px) {
+    body {
+        font-size: 1rem;
+        line-height: 2rem;
+        color: #909090;
+    }
     .search-ui-div {
         position: relative;
         top: auto;
