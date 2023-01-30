@@ -103,10 +103,7 @@
 
                     <div class="lightbox-enlarge-photo-div position-relative video">
 
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/9tKGHIdpEac?rel=0"
-                            title="YouTube video player" frameborder="0"
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                            allowfullscreen></iframe>
+
 
 
 
@@ -533,7 +530,8 @@ echo'</li>';
         $(function() {
 
 
-
+            var video_html =
+                '<iframe width="560" height="315" src="https://www.youtube.com/embed/9tKGHIdpEac?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>';
 
             // home_curve_fadein();
 
@@ -687,8 +685,11 @@ echo'</li>';
 
             $('.orange-bubble-know-more').click(function() {
 
+
+
                 $('.lightbox-layer.video-layer').fadeIn(200);
 
+                $('.video').html(video_html);
 
             })
 
