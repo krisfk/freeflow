@@ -1837,13 +1837,37 @@ div.asl_r .results .item .asl_content h3 a {
 }
 
 @media only screen and (max-width: 480px) {
+    .menu-btn {
+        position: fixed;
+        top: 8px;
+        left: 12px;
+        z-index: 200;
+        text-decoration: none;
+        z-index: 6000 !important;
+        transition: 0.2s all;
+    }
+    .home .home-banner-div .freeflow-logo-a {
+        top: 48px;
+        right: 5px;
+    }
+    .home .home-banner-div .freeflow-logo-a img {
+        width: 73px;
+    }
+    .home-banner-div .icons-div table {
+        margin-right: -0.3rem;
+    }
+    .home-banner-div .icons-div {
+        line-height: 1;
+        top: 13px;
+        right: -1px;
+    }
+    .home-banner-div .icons-div table a {
+        margin-right: 0.5rem;
+    }
     .home-banner-div .icons-div {
         line-height: 1;
         top: 28px;
         right: 17px;
-    }
-    .home-banner-div .icons-div table a {
-        margin-right: 0.5rem;
     }
     .sns-menu-ul li {
         display: table-cell;
