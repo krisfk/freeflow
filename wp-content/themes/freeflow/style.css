@@ -1857,6 +1857,15 @@ div.asl_r .results .item .asl_content h3 a {
 }
 
 @media only screen and (max-width: 480px) {
+    .menu-arrow.active {
+        display: inline-block;
+        width: 22px;
+        height: 22px;
+        background: url(./assets/images/menu-arrow-blue.png) no-repeat center center;
+        background-size: contain;
+        margin: 0 0 0 0.5rem;
+        transform: rotate(90deg);
+    }
     .menu-arrow {
         display: inline-block;
         width: 22px;
