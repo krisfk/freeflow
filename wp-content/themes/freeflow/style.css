@@ -1488,6 +1488,19 @@ div.asl_r .results .item .asl_content h3 a {
 }
 
 @media only screen and (max-width: 1200px) {
+    .page-collaborate .curve-bg {
+        opacity: 0.85;
+        transition: opacity 4s linear;
+        background: url(./assets/images/collab-mobile-curve.png) repeat-y;
+        background-size: 96% auto;
+        background-position: center 0;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: calc(100% - 680px);
+        top: 680px;
+    }
     .page-resource .curve-bg {
         opacity: 0.85;
         transition: opacity 4s linear;
