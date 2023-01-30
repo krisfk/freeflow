@@ -1879,6 +1879,10 @@ div.asl_r .results .item .asl_content h3 a {
         font-size: 2rem;
         font-weight: 200;
     }
+    .menu-div ul.level-2 li a {
+        font-size: 1.5rem;
+        font-weight: 200;
+    }
     .lang-switcher {
         position: absolute;
         top: 7px;
