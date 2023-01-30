@@ -1789,11 +1789,13 @@ div.asl_r .results .item .asl_content h3 a {
         background-size: 100% 100%;
     }
     .home .home-banner-div .freeflow-logo-a {
-        top: 66px;
-        right: 21px;
+        top: 71px;
+        right: 31px;
     }
     .home .home-banner-div .freeflow-logo-a img {
-        width: 135px;
+        width: 114px;
+        /* height: 72px; */
+        /* width: auto; */
     }
     .home-banner-div .icons-div table {
         margin-right: 1rem;
