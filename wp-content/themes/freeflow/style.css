@@ -1484,7 +1484,7 @@ div.asl_r .results .item .asl_content h3 a {
     .page-news-2 .curve-bg {
         opacity: 0.85;
         background: url(./assets/images/news-mobile-curve.png) repeat-y;
-        background-size: 95% auto;
+        background-size: 96% auto;
         background-position: center 0;
         position: absolute;
         transition: opacity 4s linear;
@@ -1496,7 +1496,7 @@ div.asl_r .results .item .asl_content h3 a {
     .curve-bg {
         opacity: 0.85;
         background: url(./assets/images/mobile-curve-2.png) repeat-y;
-        background-size: 95% auto;
+        background-size: 96% auto;
         background-position: center 0;
         position: absolute;
         transition: opacity 4s linear;
