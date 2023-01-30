@@ -92,7 +92,7 @@ get_header(); ?>
 
 
 
-<div class="container yellow-bg-div gx-0 mt-120px">
+<div class="container yellow-bg-div gx-0 mt-120px position-relative">
 
 
     <div class="row">
