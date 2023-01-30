@@ -1129,6 +1129,7 @@ a {
     text-decoration: underline;
     padding: 0;
     /* display: block; */
+    line-height: 3rem !important;
 }
 
 h2 a {
