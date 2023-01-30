@@ -1464,6 +1464,24 @@ div.asl_r .results .item .asl_content h3 a {
     padding-bottom: 56.25%;
 }
 
+.rll-youtube-player img {
+    bottom: 0;
+    display: block;
+    left: 0;
+    margin: auto;
+    max-width: 100%;
+    width: 100% !important;
+    position: absolute;
+    right: 0;
+    top: 0;
+    border: none;
+    height: auto;
+    cursor: pointer;
+    -webkit-transition: 0.4s all;
+    -moz-transition: 0.4s all;
+    transition: 0.4s all;
+}
+
 iframe {
     position: absolute;
     top: 0;
