@@ -15,7 +15,7 @@
 
 <?php //get_template_part( 'template-parts/footer/footer-widgets' ); ?>
 
-<footer class="footer-div ">
+<footer class="footer-div mt-120px">
 
 
     <div class="container pt-4 pb-4 max-width-80p ">
