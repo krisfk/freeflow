@@ -1927,6 +1927,15 @@ div.asl_r .results .item .asl_content h3 a {
 }
 
 @media only screen and (max-width: 375px) {
+    .menu-btn {
+        position: fixed;
+        top: 8px;
+        left: 26px;
+        z-index: 200;
+        text-decoration: none;
+        z-index: 6000 !important;
+        transition: 0.2s all;
+    }
     .home .home-banner-div .freeflow-logo-a {
         top: 60px;
     }
