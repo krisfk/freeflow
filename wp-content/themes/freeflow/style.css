@@ -1909,6 +1909,10 @@ div.asl_r .results .item .asl_content h3 a {
         top: 50px;
         right: 16px;
     }
+    .freeflow-logo-a {
+        top: 10px;
+        right: 12px;
+    }
     .home-banner-div .icons-div table {
         margin-right: 0.5rem;
     }
