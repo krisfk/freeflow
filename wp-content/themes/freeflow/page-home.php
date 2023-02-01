@@ -323,15 +323,9 @@ endwhile; ?>
                     <tr>
                         <td class="align-center">
                             <h2>
-
-
-                                我們的活動</h2>
-
+                                <?php echo get_field('bottom_album_arrow_txt_1');?></h2>
                             <div class="big-white-arrow-div mt-lg-4 mt-md-0 sm-lg-0 mt-0 ">
-
-                                發掘更多活動內容
-
-
+                                <?php echo get_field('bottom_album_arrow_txt_2');?>
                             </div>
                         </td>
                     </tr>
@@ -345,13 +339,17 @@ endwhile; ?>
 
             <div class="row">
 
+
                 <div class="col-6"> <a href="javascript:void(0);" class="album-a mobile-keep"
-                        rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC01183.jpg"><img class="w-100"
-                            src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/Asset-7@2x.png" alt=""></a>
+                        rel="<?php echo wp_get_attachment_image_src(get_field('bottom_album_photo_1_enlarge'),'full')[0];?>"><img
+                            class="w-100"
+                            src="<?php echo wp_get_attachment_image_src(get_field('bottom_album_photo_1'),'full')[0];?>"
+                            alt=""></a>
                 </div>
                 <div class="col-6"> <a href="javascript:void(0);" class="album-a mobile-keep"
-                        rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02409_edited.jpg"><img
-                            class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/Asset-8@2x.png"
+                        rel="<?php echo wp_get_attachment_image_src(get_field('bottom_album_photo_2_enlarge'),'full')[0];?>"><img
+                            class="w-100"
+                            src="<?php echo wp_get_attachment_image_src(get_field('bottom_album_photo_2'),'full')[0];?>"
                             alt=""></a>
                 </div>
             </div>
@@ -362,13 +360,15 @@ endwhile; ?>
             <div class="row">
 
                 <div class="col-6"> <a href="javascript:void(0);" class="album-a  mobile-keep"
-                        rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Untitled-design-9-copy.jpg"><img
-                            class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/Asset-9@2x.png"
+                        rel="<?php echo wp_get_attachment_image_src(get_field('bottom_album_photo_3_enlarge'),'full')[0];?>"><img
+                            class="w-100"
+                            src="<?php echo wp_get_attachment_image_src(get_field('bottom_album_photo_3'),'full')[0];?>"
                             alt=""></a>
                 </div>
                 <div class="col-6"> <a href="javascript:void(0);" class="album-a  mobile-keep"
-                        rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Untitled-design-8-copy.jpg"><img
-                            class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/Asset-10@2x.png"
+                        rel="<?php echo wp_get_attachment_image_src(get_field('bottom_album_photo_4_enlarge'),'full')[0];?>"><img
+                            class="w-100"
+                            src="<?php echo wp_get_attachment_image_src(get_field('bottom_album_photo_4'),'full')[0];?>"
                             alt=""></a>
                 </div>
             </div>
@@ -378,8 +378,10 @@ endwhile; ?>
         <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-4">
 
             <a href="javascript:void(0);" class="album-a d-block  mobile-keep"
-                rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC03956_edited.jpg"><img class="w-100"
-                    src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/Asset-11@2x.png" alt=""></a>
+                rel="<?php echo wp_get_attachment_image_src(get_field('bottom_album_photo_5_enlarge'),'full')[0];?>"><img
+                    class="w-100"
+                    src="<?php echo wp_get_attachment_image_src(get_field('bottom_album_photo_5'),'full')[0];?>"
+                    alt=""></a>
         </div>
 
     </div>
