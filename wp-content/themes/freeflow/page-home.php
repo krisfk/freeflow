@@ -31,11 +31,11 @@ get_header(); ?>
     height: 860px; -->
 <div class="home-banner-div" style="">
 
-    <img class="banner-img" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/home-banner-2-scaled.jpg"
+    <img class="banner-img" src="<?php echo wp_get_attachment_image_src(get_field('top_banner_desktop'),'full')[0];?>"
         alt="">
 
-    <img class="banner-img mobile" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/mobile-home-banner.jpg"
-        alt="">
+    <img class="banner-img mobile"
+        src="<?php echo wp_get_attachment_image_src(get_field('top_banner_mobile'),'full')[0];?>" alt="">
 
     <div class="icons-div">
 
