@@ -79,10 +79,7 @@ $idx=0;
 while( have_rows('content_blocks') ): the_row(); 
        if($idx%2==0)
        {
-        echo 1;
-        echo 2;
-       }
-       ?>
+        ?>
 
 <div class="container yellow-bg-div gx-0 mt-120px">
 
@@ -132,9 +129,7 @@ while( have_rows('content_blocks') ): the_row();
                     <div class="col-8">
 
                         <?php echo get_sub_field('subtitle');?>
-                        <!-- 賽馬會「自主・流」身體律動計劃 <br>
-                        Jockey Club ‘FreeFlow’ Body Movement Project
-                     -->
+
                     </div>
                     <div class="col-4">
 
@@ -160,12 +155,100 @@ while( have_rows('content_blocks') ): the_row();
 
 </div>
 
+<?php
+       }
+       else
+       {
+?>
+
+<div class="container yellow-bg-div gx-0 mt-120px">
+
+    <div class="row mobile-reverse-row">
+
+        <div class="col-lg-7 col-md-12 col-sm-12 col-12 ">
+
+
+
+
+
+            <div class="home-entry-title">
+
+                <div class="row">
+                    <div class="col-8"> 甚麽是身體律動？</div>
+                    <div class="col-4">
+
+                        <article class="vertical-article mobile-home-entry-title ">
+                            <h2 class="purple">信念
+                            </h2>
+                        </article>
+                    </div>
+                </div>
+
+
+            </div>
+            <div class="mt-4">
+                我們相信身體是最能夠直接呈現自身感受的載體，我們天生便懂得如何韻律。在律動過程中，沒有任何標準及規限，亦不需要向別人交代。在最舒適的情況下，與情感產生正向的回饋及內在轉變，表現最真實的自己。
+            </div>
+
+
+            <a href="<?php echo get_site_url();?>/about-curriculum" class="home-entry-link mt-4">發掘更多律動課程</a>
+
+        </div>
+
+        <div class="col-lg-5 col-md-12 col-sm-12 col-12 ">
+
+
+            <table class="float-end">
+                <tr>
+
+                    <td class="subtitle-td align-bottom">
+
+
+                        <article class="vertical-article ">
+                            <h2 class="purple">信念
+                            </h2>
+                        </article>
+
+                    </td>
+                    <td>
+                        <a href="javascript:void(0);" class="album-a"
+                            rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC01159.jpg"> <img
+                                class="entry-img row-img-min-400"
+                                src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/home-entry-2-photo.jpg"
+                                alt="">
+                        </a>
+
+
+                        <a href="javascript:void(0);" class="m-album-a"
+                            rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC01159.jpg"> <img
+                                class="entry-img row-img-min-400"
+                                src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-2@2x-2.png" alt="">
+                        </a>
+
+
+
+
+                    </td>
+                </tr>
+            </table>
+
+        </div>
+
+
+    </div>
+
+</div>
+<?php
+       }
+       ?>
+
+
 <?php 
 $idx++;
 
 endwhile; ?>
 <?php endif; ?>
-
+<!-- 
 <div class="container yellow-bg-div gx-0 mt-120px">
 
     <div class="row">
@@ -313,7 +396,7 @@ endwhile; ?>
 
     </div>
 
-</div>
+</div> -->
 
 
 <!-- <img class="mt-120px fake-video" src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/fake-video-1-scaled.jpg"
