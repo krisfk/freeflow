@@ -86,15 +86,17 @@ get_header(); ?>
                 <tr>
                     <td>
                         <a href="javascript:void(0);" class="album-a"
-                            rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC01156resize.jpg">
+                            rel="<?php echo wp_get_attachment_image_src(get_sub_field('image_enlarge'),'full')[0];?>">
                             <img class="entry-img row-img-min-400"
-                                src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-1@2x.png" alt="">
+                                src="<?php echo wp_get_attachment_image_src(get_sub_field('image_desktop'),'full')[0];?>"
+                                alt="">
                         </a>
 
                         <a href="javascript:void(0);" class="m-album-a"
-                            rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC01156resize.jpg">
+                            rel="<?php echo wp_get_attachment_image_src(get_sub_field('image_enlarge'),'full')[0];?>">
                             <img class="entry-img row-img-min-400"
-                                src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-1@2x-1.png" alt="">
+                                src="<?php echo wp_get_attachment_image_src(get_sub_field('image_mobile'),'full')[0];?>"
+                                alt="">
                         </a>
 
 
@@ -102,7 +104,7 @@ get_header(); ?>
                     <td class="subtitle-td align-bottom">
 
                         <article class="vertical-article ">
-                            <h2 class="purple">使命
+                            <h2 class="purple"><?php echo get_sub_field('big_title');?>
                             </h2>
                         </article>
 
@@ -118,12 +120,18 @@ get_header(); ?>
 
                 <div class="row">
 
-                    <div class="col-8"> 賽馬會「自主・流」身體律動計劃 <br>
-                        Jockey Club ‘FreeFlow’ Body Movement Project</div>
+                    <div class="col-8">
+
+                        <?php echo get_sub_field('subtitle');?>
+                        <!-- 賽馬會「自主・流」身體律動計劃 <br>
+                        Jockey Club ‘FreeFlow’ Body Movement Project
+                     -->
+                    </div>
                     <div class="col-4">
 
                         <article class="vertical-article mobile-home-entry-title ">
-                            <h2 class="purple">使命
+                            <h2 class="purple"> <?php echo get_sub_field('big_title');?>
+
                             </h2>
                         </article>
                     </div>
@@ -131,13 +139,17 @@ get_header(); ?>
                 </div>
 
             </div>
-            <div class="mt-4">
+
+            <?php
+            echo get_sub_field('html_content');
+            ?>
+            <!-- <div class="mt-4">
                 計劃為全港首個試點項目，與台灣雲門舞集舞蹈教室合作，設計出一套為香港青少女需求而定的身體律動課程，透過身體律動培育青少女對身體的好奇心，發掘身體多樣性；再輔以社會服務介入，致力為青少女充權，鼓勵創新和開放對話，促進個人成長和加深自我認識。
             </div>
 
 
 
-            <a href="<?php echo get_site_url();?>/about-curriculum" class="home-entry-link mt-4">發掘更多律動課程</a>
+            <a href="<?php echo get_site_url();?>/about-curriculum" class="home-entry-link mt-4">發掘更多律動課程</a> -->
 
 
         </div>
