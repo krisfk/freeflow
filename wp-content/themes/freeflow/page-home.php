@@ -266,7 +266,9 @@ endwhile; ?>
 
         <div class="col-lg-8 col-md-12 col-sm-12 col-12">
 
-            <div class="home-entry-title">
+            <?php echo get_field('bottom_content_block_html');?>
+
+            <!-- <div class="home-entry-title">
                 為甚麼這個計劃很重要？
 
             </div>
@@ -287,7 +289,7 @@ endwhile; ?>
 
                 你可通過各種方式參與這個計劃！如果你是教育工作者、創作者或藝術家，請查看本網站<a href="<?php echo get_site_url();?>/collaborate"
                     class="orange-link">與我們合作</a>頁面了解更多。至於有興趣透過其他方式合作的你，請在本頁下方給我們留言或直接發送電子郵件。
-            </div>
+            </div> -->
 
 
 
@@ -298,7 +300,7 @@ endwhile; ?>
         </div>
         <div class="col-lg-4 col-md-12 col-sm-12 col-12  text-end">
 
-            <h2 class="orange">想知更多？</h2>
+            <h2 class="orange"><?php echo get_field('bottom_content_block_title');?></h2>
 
         </div>
     </div>
