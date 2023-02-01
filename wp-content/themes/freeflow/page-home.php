@@ -174,11 +174,11 @@ while( have_rows('content_blocks') ): the_row();
             <div class="home-entry-title">
 
                 <div class="row">
-                    <div class="col-8"> 甚麽是身體律動？</div>
+                    <div class="col-8"> <?php echo get_sub_field('subtitle');?></div>
                     <div class="col-4">
 
                         <article class="vertical-article mobile-home-entry-title ">
-                            <h2 class="purple">信念
+                            <h2 class="purple"><?php echo get_sub_field('big_title');?>
                             </h2>
                         </article>
                     </div>
@@ -186,12 +186,9 @@ while( have_rows('content_blocks') ): the_row();
 
 
             </div>
-            <div class="mt-4">
-                我們相信身體是最能夠直接呈現自身感受的載體，我們天生便懂得如何韻律。在律動過程中，沒有任何標準及規限，亦不需要向別人交代。在最舒適的情況下，與情感產生正向的回饋及內在轉變，表現最真實的自己。
-            </div>
-
-
-            <a href="<?php echo get_site_url();?>/about-curriculum" class="home-entry-link mt-4">發掘更多律動課程</a>
+            <?php
+         echo get_sub_field('html_content');
+         ?>
 
         </div>
 
@@ -205,26 +202,28 @@ while( have_rows('content_blocks') ): the_row();
 
 
                         <article class="vertical-article ">
-                            <h2 class="purple">信念
+                            <h2 class="purple"><?php
+                                     echo get_sub_field('big_title');
+
+                            ?>
                             </h2>
                         </article>
 
                     </td>
                     <td>
                         <a href="javascript:void(0);" class="album-a"
-                            rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC01159.jpg"> <img
-                                class="entry-img row-img-min-400"
-                                src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/home-entry-2-photo.jpg"
+                            rel="<?php echo wp_get_attachment_image_src(get_sub_field('image_enlarge'),'full')[0];?>">
+                            <img class="entry-img row-img-min-400"
+                                src="<?php echo wp_get_attachment_image_src(get_sub_field('image_desktop'),'full')[0];?>"
                                 alt="">
                         </a>
 
-
                         <a href="javascript:void(0);" class="m-album-a"
-                            rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC01159.jpg"> <img
-                                class="entry-img row-img-min-400"
-                                src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-2@2x-2.png" alt="">
+                            rel="<?php echo wp_get_attachment_image_src(get_sub_field('image_enlarge'),'full')[0];?>">
+                            <img class="entry-img row-img-min-400"
+                                src="<?php echo wp_get_attachment_image_src(get_sub_field('image_mobile'),'full')[0];?>"
+                                alt="">
                         </a>
-
 
 
 
