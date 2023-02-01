@@ -71,6 +71,84 @@ get_header(); ?>
             src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/freeflow-logo.png" alt=""></a>
 </div>
 
+<?php if( have_rows('content_blocks') ): ?>
+<?php while( have_rows('content_blocks') ): the_row(); 
+        ?>
+
+<div class="container yellow-bg-div gx-0 mt-120px">
+
+    <div class="row">
+
+        <div class="col-lg-5 col-md-12 col-sm-12 col-12">
+
+
+            <table class="float-start w-100 position-relative">
+                <tr>
+                    <td>
+                        <a href="javascript:void(0);" class="album-a"
+                            rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC01156resize.jpg">
+                            <img class="entry-img row-img-min-400"
+                                src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-1@2x.png" alt="">
+                        </a>
+
+                        <a href="javascript:void(0);" class="m-album-a"
+                            rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC01156resize.jpg">
+                            <img class="entry-img row-img-min-400"
+                                src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-1@2x-1.png" alt="">
+                        </a>
+
+
+                    </td>
+                    <td class="subtitle-td align-bottom">
+
+                        <article class="vertical-article ">
+                            <h2 class="purple">使命
+                            </h2>
+                        </article>
+
+
+                    </td>
+                </tr>
+            </table>
+
+        </div>
+        <div class="col-lg-7 col-md-12 col-sm-12 col-12 ">
+
+            <div class="home-entry-title">
+
+                <div class="row">
+
+                    <div class="col-8"> 賽馬會「自主・流」身體律動計劃 <br>
+                        Jockey Club ‘FreeFlow’ Body Movement Project</div>
+                    <div class="col-4">
+
+                        <article class="vertical-article mobile-home-entry-title ">
+                            <h2 class="purple">使命
+                            </h2>
+                        </article>
+                    </div>
+
+                </div>
+
+            </div>
+            <div class="mt-4">
+                計劃為全港首個試點項目，與台灣雲門舞集舞蹈教室合作，設計出一套為香港青少女需求而定的身體律動課程，透過身體律動培育青少女對身體的好奇心，發掘身體多樣性；再輔以社會服務介入，致力為青少女充權，鼓勵創新和開放對話，促進個人成長和加深自我認識。
+            </div>
+
+
+
+            <a href="<?php echo get_site_url();?>/about-curriculum" class="home-entry-link mt-4">發掘更多律動課程</a>
+
+
+        </div>
+
+    </div>
+
+</div>
+
+<?php endwhile; ?>
+<?php endif; ?>
+
 <div class="container yellow-bg-div gx-0 mt-120px">
 
     <div class="row">
