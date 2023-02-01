@@ -72,8 +72,17 @@ get_header(); ?>
 </div>
 
 <?php if( have_rows('content_blocks') ): ?>
-<?php while( have_rows('content_blocks') ): the_row(); 
-        ?>
+
+<?php 
+
+$idx=0;
+while( have_rows('content_blocks') ): the_row(); 
+       if($idx%2==0)
+       {
+        echo 1;
+        echo 2;
+       }
+       ?>
 
 <div class="container yellow-bg-div gx-0 mt-120px">
 
@@ -143,13 +152,6 @@ get_header(); ?>
             <?php
             echo get_sub_field('html_content');
             ?>
-            <!-- <div class="mt-4">
-                計劃為全港首個試點項目，與台灣雲門舞集舞蹈教室合作，設計出一套為香港青少女需求而定的身體律動課程，透過身體律動培育青少女對身體的好奇心，發掘身體多樣性；再輔以社會服務介入，致力為青少女充權，鼓勵創新和開放對話，促進個人成長和加深自我認識。
-            </div>
-
-
-
-            <a href="<?php echo get_site_url();?>/about-curriculum" class="home-entry-link mt-4">發掘更多律動課程</a> -->
 
 
         </div>
