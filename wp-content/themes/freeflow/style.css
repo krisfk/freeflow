@@ -1136,8 +1136,7 @@ a {
 .news-a h2 {
     text-decoration: underline;
     padding: 0;
-    /* display: block; */
-    line-height: 3rem !important;
+    /* line-height: 3rem !important; */
 }
 
 h2 a {
@@ -1587,6 +1586,11 @@ iframe {
 }
 
 @media only screen and (max-width: 991px) {
+    .news-a h2 {
+        text-decoration: underline;
+        padding: 0;
+        line-height: 3rem !important;
+    }
     .lang-switcher {
         position: absolute;
         top: 26px;
