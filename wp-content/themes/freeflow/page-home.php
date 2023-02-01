@@ -160,7 +160,10 @@ while( have_rows('content_blocks') ): the_row();
 
 </div>
 
-<?php endwhile; ?>
+<?php 
+$idx++;
+
+endwhile; ?>
 <?php endif; ?>
 
 <div class="container yellow-bg-div gx-0 mt-120px">
