@@ -35,16 +35,22 @@
                         </tr>
                         <tr>
                             <!--  -->
-                            <td><a href="https://www.caritas.org.hk/zh/service/youth" target="_blank"
-                                    class="top-icon-img-a"><img class="top-icon-img"
-                                        src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/top-icon-1.png"
-                                        alt=""></a><a class="top-icon-img-a" href="https://www.cys.org.hk/"
-                                    target="_blank"><img class="top-icon-img"
-                                        src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/top-icon-2.png"
-                                        alt=""></a><a class="top-icon-img-a" href="https://teenskey.org/en/"
-                                    target="_blank"><img class="top-icon-img"
-                                        src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/top-icon-3.png"
+                            <td>
+
+
+
+                                <?php if( have_rows('partnership_logos_group_1',get_id_by_slug( 'general-config' ) )): ?>
+                                <?php while( have_rows('partnership_logos_group_1',get_id_by_slug( 'general-config'  )) ): the_row();                      ?>
+
+                                <a href="<?php echo get_sub_field('link_url');?>" target="_blank"><img
+                                        class="top-icon-img"
+                                        src="<?php echo wp_get_attachment_image_src(get_sub_field('partnership_logo'),'full')[0];?>"
                                         alt=""></a>
+
+
+                                <?php endwhile; ?>
+                                <?php endif; ?>
+
                             </td>
                         </tr>
                     </table>
@@ -56,10 +62,21 @@
                         </tr>
                         <tr>
                             <td>
-                                <a href="https://charities.hkjc.com/" target="_blank" class="top-icon-img-a"><img
+
+
+                                <?php if( have_rows('partnership_logos_group_2',get_id_by_slug( 'general-config' ) )): ?>
+                                <?php while( have_rows('partnership_logos_group_2',get_id_by_slug( 'general-config'  )) ): the_row();                      ?>
+
+                                <a href="<?php echo get_sub_field('link_url');?>" target="_blank"><img
                                         class="top-icon-img"
-                                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/top-icon-4.png"
+                                        src="<?php echo wp_get_attachment_image_src(get_sub_field('partnership_logo'),'full')[0];?>"
                                         alt=""></a>
+
+
+                                <?php endwhile; ?>
+                                <?php endif; ?>
+
+
                             </td>
                             <!-- <td> <a href="https://www.hkbu.edu.hk/zh_hk.html" target="_blank"
                                     class="top-icon-img-a"><img style="height:55px;" class="top-icon-img"
@@ -76,13 +93,24 @@
                             <td>合作夥伴</td>
                         </tr>
                         <tr>
-                            <td><a href="https://www.hkbu.edu.hk/zh_hk.html" target="_blank" class="top-icon-img-a"><img
-                                        style="height:55px;" class="top-icon-img"
-                                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/bu-logo-1.png"
-                                        alt=""></a> <a href="https://www.cgds.com.tw/" target="_blank"
-                                    class="top-icon-img-a"><img class="top-icon-img"
-                                        src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/bottom-icon-3.png"
-                                        alt=""></a></td>
+                            <td>
+
+
+                                <?php if( have_rows('partnership_logos_group_3',get_id_by_slug( 'general-config' ) )): ?>
+                                <?php while( have_rows('partnership_logos_group_3',get_id_by_slug( 'general-config'  )) ): the_row();                      ?>
+
+                                <a href="<?php echo get_sub_field('link_url');?>" target="_blank"><img
+                                        class="top-icon-img"
+                                        src="<?php echo wp_get_attachment_image_src(get_sub_field('partnership_logo'),'full')[0];?>"
+                                        alt=""></a>
+
+
+                                <?php endwhile; ?>
+                                <?php endif; ?>
+
+
+
+                            </td>
                         </tr>
                     </table>
                 </div>
