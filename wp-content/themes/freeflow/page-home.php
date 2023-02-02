@@ -55,11 +55,10 @@ get_header(); ?>
             <tr>
                 <td>
 
-                    <!-- get_id_by_slug -->
-                    <?php echo  get_id_by_slug( 'general-config' );?>
-                    <?php if( have_rows('partnership_logos_group_1',get_the_title( get_page_by_path( 'general-config' ) )) ): ?>
-                    <?php while( have_rows('partnership_logos_group_1',get_the_title( get_page_by_path( 'general-config' ) )) ): the_row();                      ?>
+                    <?php if( have_rows('partnership_logos_group_1',get_id_by_slug( 'general-config' ) )): ?>
+                    <?php while( have_rows('partnership_logos_group_1',get_id_by_slug( 'general-config'  )) ): the_row();                      ?>
 
+                    echo 1;
 
                     <?php endwhile; ?>
                     <?php endif; ?>
