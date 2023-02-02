@@ -229,14 +229,14 @@ endwhile; ?>
         <div class="col-12 position-relative">
 
 
-            <h2 class="purple">律動課程框架</h2>
+            <h2 class="purple"><?php echo get_field('steps_title');?></h2>
 
             <div class="position-relative w-100 mt-4">
 
                 <table class="w-100 step-by-step-div">
                     <tr>
                         <td class="">
-                            <div class="green-bubble">體驗課</div>
+                            <div class="green-bubble"><?php echo get_field('step_1_name');?></div>
                         </td>
                         <td class="pt-0 pe-2 ps-2">
 
@@ -245,7 +245,7 @@ endwhile; ?>
                                     alt=""></div>
                         </td>
                         <td class="">
-                            <div class="green-bubble">單元一</div>
+                            <div class="green-bubble"><?php echo get_field('step_2_name');?></div>
                         </td>
                         <td class="pt-0 pe-2 ps-2">
                             <div> <img class="step-arrow"
@@ -253,7 +253,7 @@ endwhile; ?>
                                     alt=""></div>
                         </td>
                         <td>
-                            <div class="green-bubble">單元二</div>
+                            <div class="green-bubble"><?php echo get_field('step_3_name');?></div>
                         </td>
                         <td class="pt-0 pe-2 ps-2">
                             <div> <img class="step-arrow"
@@ -261,7 +261,7 @@ endwhile; ?>
                                     alt=""></div>
                         </td>
                         <td class="">
-                            <div class="green-bubble">藝術探索</div>
+                            <div class="green-bubble"><?php echo get_field('step_4_name');?></div>
                         </td>
                     </tr>
                     <tr>
@@ -289,7 +289,7 @@ endwhile; ?>
                                     alt=""></div>
                         </td>
                         <td class="">
-                            <div class="green-bubble">藝術展演</div>
+                            <div class="green-bubble"><?php echo get_field('step_7_name');?></div>
                         </td>
                         <td class="pt-0 pe-2 ps-2">
                             <div style="transform:rotate(180deg);"> <img class="step-arrow"
@@ -297,7 +297,7 @@ endwhile; ?>
                                     alt=""></div>
                         </td>
                         <td>
-                            <div class="green-bubble">藝術日營
+                            <div class="green-bubble"><?php echo get_field('step_6_name');?>
 
                             </div>
                         </td>
@@ -307,7 +307,7 @@ endwhile; ?>
                                     alt=""></div>
                         </td>
                         <td class="">
-                            <div class="green-bubble">交流會</div>
+                            <div class="green-bubble"><?php echo get_field('step_5_name');?></div>
                         </td>
                     </tr>
                 </table>
