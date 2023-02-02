@@ -624,7 +624,45 @@ endif;
             <div class="row">
 
                 <div class="col-lg-4 col-md-12 col-sm-12 col-12 ">
-                    <div class="feeling-div mb-5">
+
+
+                    <?php
+                
+if( have_rows('column_1_feelings') ):
+    while( have_rows('column_1_feelings') ) : the_row();
+
+    ?>
+
+                    <div class="feeling-div mb-5 <?php echo get_sub_field('font_size')=='big' ? 'big-text':'';?>">
+
+
+                        <div class="text-start">
+                            <img class="quote open"
+                                src="<?php echo get_template_directory_uri(); ?>/assets/images/open-quote.png" alt="">
+                        </div>
+
+                        <?php
+                        echo get_sub_field('feeling_content');
+                        ?>
+                        <div class="text-end">
+                            <img class="quote close"
+                                src="<?php echo get_template_directory_uri(); ?>/assets/images/close-quote.png" alt="">
+                        </div>
+                    </div>
+
+                    <?php
+    endwhile;
+
+else :
+endif;
+
+                ?>
+
+
+
+
+
+                    <!-- <div class="feeling-div mb-5">
 
 
                         <div class="text-start">
@@ -666,7 +704,7 @@ endif;
                             <img class="quote close"
                                 src="<?php echo get_template_directory_uri(); ?>/assets/images/close-quote.png" alt="">
                         </div>
-                    </div>
+                    </div> -->
                 </div>
                 <div class="col-lg-4 col-md-12 col-sm-12 col-12 ">
 
