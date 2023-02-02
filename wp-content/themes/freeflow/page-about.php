@@ -62,6 +62,7 @@ while( have_rows('content_blocks') ): the_row();
 
         <div
             class="col-lg-<?php echo get_sub_field('column_proportion') == '5 7' ? '5':'6'; ?> col-md-12 col-sm-12 col-12">
+            <?php echo echo get_sub_field('column_proportion');?>
 
             <table class="float-start w-100 position-relative">
                 <tr>
