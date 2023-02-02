@@ -29,6 +29,10 @@ get_header(); ?>
     display: block;
     width: 100%;
     height: 860px; -->
+
+<?php
+    flatsome_option('site_logo');
+    ?>
 <div class="home-banner-div" style="">
 
     <img class="banner-img" src="<?php echo wp_get_attachment_image_src(get_field('top_banner_desktop'),'full')[0];?>"
