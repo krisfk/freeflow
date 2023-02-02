@@ -58,18 +58,21 @@ get_header(); ?>
                     <?php if( have_rows('partnership_logos_group_1',get_id_by_slug( 'general-config' ) )): ?>
                     <?php while( have_rows('partnership_logos_group_1',get_id_by_slug( 'general-config'  )) ): the_row();                      ?>
 
-                    echo 1;
+                    <a href="<?php echo get_sub_field('link_url');?>" target="_blank"><img class="top-icon-img"
+                            src="<?php echo wp_get_attachment_image_src(get_sub_field('partnership_logo'),'full')[0];?>"
+                            alt=""></a>
+
 
                     <?php endwhile; ?>
                     <?php endif; ?>
 
 
-                    <a href="https://www.caritas.org.hk/zh/service/youth" target="_blank"><img class="top-icon-img"
+                    <!-- <a href="https://www.caritas.org.hk/zh/service/youth" target="_blank"><img class="top-icon-img"
                             src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/top-icon-1.png" alt=""></a><a
                         href="https://www.cys.org.hk/" target="_blank"><img class="top-icon-img"
                             src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/top-icon-2.png" alt=""></a><a
                         href="https://teenskey.org/en/" target="_blank"><img class="top-icon-img"
-                            src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/top-icon-3.png" alt=""></a>
+                            src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/top-icon-3.png" alt=""></a> -->
                 </td>
             </tr>
         </table>
