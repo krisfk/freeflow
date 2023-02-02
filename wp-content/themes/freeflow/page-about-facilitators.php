@@ -32,22 +32,77 @@ get_header(); ?>
 
 
 
-    <img class="banner-img" style=" "
-        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/facilitators-banner-scaled.jpg" alt="">
 
-    <img class="banner-img mobile" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-9@2x-50.jpg"
+    <img class="banner-img" src="<?php echo wp_get_attachment_image_src(get_field('top_banner_desktop'),'full')[0];?>"
         alt="">
 
-
+    <img class="banner-img mobile"
+        src="<?php echo wp_get_attachment_image_src(get_field('top_banner_mobile'),'full')[0];?>" alt="">
 
 </div>
 
 <div class="container yellow-bg-div gx-0 mt-120px">
 
     <div>
-        <h2 class="purple">認識我們的 <br>
-            律動導師</h2>
+        <h2 class="purple">
+            <?php echo get_field('big_title');?>
+        </h2>
     </div>
+
+    <?php
+    
+
+// Check rows existexists.
+if( have_rows('tutors') ):
+
+    // Loop through rows.
+    while( have_rows('tutors') ) : the_row();
+
+    ?>
+
+    <div class="row align-items-center mt-5 gx-5">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-lg-0 mb-md-4 mb-sm-4 mb-4 ">
+
+
+
+            <a href="javascript:void(0);" class="album-a mobile-keep"
+                rel="<?php echo wp_get_attachment_image_src(get_sub_field('tutor_image_enlarge'),'full')[0];?>">
+
+                <img class="w-100"
+                    src="<?php echo wp_get_attachment_image_src(get_sub_field('tutor_image'),'full')[0];?>" alt="">
+
+            </a>
+        </div>
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12 ">
+
+            <h2 class="orange">
+
+
+                <?php
+                echo get_sub_field('tutor_name');
+                ?>
+
+            </h2>
+
+            <?php
+echo get_sub_field('tutor_description');
+?>
+
+
+        </div>
+    </div>
+
+    <?php
+
+    // End loop.
+    endwhile;
+
+// No value.
+else :
+    // Do something...
+endif;
+
+    ?>
 
     <div class="row align-items-center mt-5 gx-5">
         <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-lg-0 mb-md-4 mb-sm-4 mb-4 ">
@@ -63,7 +118,11 @@ get_header(); ?>
         </div>
         <div class="col-lg-6 col-md-12 col-sm-12 col-12 ">
 
-            <h2 class="orange">何蕤渟 (河馬老師)</h2>
+            <h2 class="orange">
+
+                何蕤渟 (河馬老師)
+
+            </h2>
 
 
             現為自由身教育藝術家。 <br>
@@ -75,6 +134,9 @@ get_header(); ?>
 
         </div>
     </div>
+
+
+
     <div class="row align-items-center mt-5 gx-5 mobile-reverse-row">
         <div class="col-lg-6 col-md-12 col-sm-12 col-12 ">
 
