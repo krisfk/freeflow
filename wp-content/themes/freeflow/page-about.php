@@ -32,11 +32,12 @@ get_header(); ?>
 
 
 
-    <img class="banner-img" style=" "
-        src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/about-banner-scaled.jpg" alt="">
 
-    <img class="banner-img mobile" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-1@2x-50-1.jpg"
+    <img class="banner-img" src="<?php echo wp_get_attachment_image_src(get_field('top_banner_desktop'),'full')[0];?>"
         alt="">
+
+    <img class="banner-img mobile"
+        src="<?php echo wp_get_attachment_image_src(get_field('top_banner_mobile'),'full')[0];?>" alt="">
 
 
 
@@ -96,7 +97,7 @@ get_header(); ?>
             </article>
 
 
-            <div>
+            <!-- <div>
                 由香港賽馬會慈善信託基金捐助，賽馬會「自主・流」身體律動計劃是一個為期三年的試點項目(2021－2024)，旨在改善15至24歲青少女的身心健康，過程中啟發她們的好奇心，擁抱身體多樣性，培養性別意識。
                 <br> <br>
                 透過台灣雲門舞集舞蹈教室為青少女需要而設計的「生活律動」課程，參加者可以從形體動作，以及與同伴交流，開拓肢體的語彙和創意思維，以與生俱來的節奏感重新感受和定義生活。共同尋找一個舒適的空間討論女性標準，探討這些期望為她們帶來的影響。青少女從中得到陪伴，逐漸增加自信，踏上連結自我的旅程。
@@ -105,7 +106,7 @@ get_header(); ?>
             </div>
 
 
-            <a href="<?php echo get_site_url();?>/about-curriculum" class="home-entry-link mt-4">更多課程資訊</a>
+            <a href="<?php echo get_site_url();?>/about-curriculum" class="home-entry-link mt-4">更多課程資訊</a> -->
 
         </div>
 
@@ -126,7 +127,7 @@ get_header(); ?>
 
 
 
-            <div>
+            <!-- <div>
                 女性一直被歷史和社會因素所規範。尤其是年輕女性，面對社教化的壓力和家庭的期望，個人發展難免受到影響。 <br><br>
 
                 青少女正在面對來自不同方面的創傷性經歷，例如家庭、伴侶、社會。
@@ -144,7 +145,7 @@ get_header(); ?>
                 <br>
                 因此，認識身體是學習為自己負責的開始，讓少女們找回自己的樣子。透過身體的勞動感受自己的存在，重新建立安全感與自在，回歸自己面對身體時的感覺。
 
-            </div>
+            </div> -->
 
 
 
