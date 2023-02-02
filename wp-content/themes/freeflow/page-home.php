@@ -31,6 +31,10 @@ get_header(); ?>
     height: 860px; -->
 
 <?php
+
+echo esc_url( wp_get_attachment_url( get_theme_mod( 'custom_logo' ) ) );
+
+
 // echo get_custom_logo();
     // flatsome_option('site_logo');
     ?>
