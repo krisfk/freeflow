@@ -32,7 +32,7 @@ get_header(); ?>
 
 <?php
 
-echo esc_url( wp_get_attachment_url( get_theme_mod( 'custom_logo' ) ) );
+
 
 
 // echo get_custom_logo();
@@ -76,8 +76,8 @@ echo esc_url( wp_get_attachment_url( get_theme_mod( 'custom_logo' ) ) );
 
     </div>
 
-    <a href="<?php echo get_site_url();?>" class="freeflow-logo-a"><img
-            src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/freeflow-logo.png" alt=""></a>
+    <a href="<?php echo get_site_url();?>" class="freeflow-logo-a"><img src="<?php echo esc_url( wp_get_attachment_url( get_theme_mod( 'custom_logo' ) ) );
+?>" alt=""></a>
 </div>
 
 <?php if( have_rows('content_blocks') ): ?>
