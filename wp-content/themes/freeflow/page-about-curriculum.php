@@ -662,144 +662,84 @@ endif;
 
 
 
-                    <!-- <div class="feeling-div mb-5">
 
 
-                        <div class="text-start">
-                            <img class="quote open"
-                                src="<?php echo get_template_directory_uri(); ?>/assets/images/open-quote.png" alt="">
-                        </div>
-                        這是第一次我親身感覺到身體與我的連結，原來身體真的會告訴我們很多事，無論是回憶，或是自我形象。這是一次很好的personal growth...
-
-                        <div class="text-end">
-                            <img class="quote close"
-                                src="<?php echo get_template_directory_uri(); ?>/assets/images/close-quote.png" alt="">
-                        </div>
-                    </div>
-
-                    <div class="feeling-div mb-5">
-
-
-                        <div class="text-start">
-                            <img class="quote open"
-                                src="<?php echo get_template_directory_uri(); ?>/assets/images/open-quote.png" alt="">
-                        </div>
-                        好可惜無上到完整實體課，不過都好開心
-                        ，最深刻嘉賓分享自愛同自我接納係一個恆常練習，同埋認識同連結多啲自己身體...
-                        <div class="text-end">
-                            <img class="quote close"
-                                src="<?php echo get_template_directory_uri(); ?>/assets/images/close-quote.png" alt="">
-                        </div>
-                    </div>
-
-                    <div class="feeling-div mb-5 big-text">
-
-
-                        <div class="text-start">
-                            <img class="quote open"
-                                src="<?php echo get_template_directory_uri(); ?>/assets/images/open-quote.png" alt="">
-                        </div>
-                        在最後成果表演中，我很享受，也為我們這一班感到自豪...
-                        <div class="text-end">
-                            <img class="quote close"
-                                src="<?php echo get_template_directory_uri(); ?>/assets/images/close-quote.png" alt="">
-                        </div>
-                    </div> -->
                 </div>
                 <div class="col-lg-4 col-md-12 col-sm-12 col-12 ">
 
-                    <div class="feeling-div mb-5 big-text">
+
+                    <?php
+                
+                if( have_rows('column_2_feelings') ):
+                    while( have_rows('column_2_feelings') ) : the_row();
+                
+                    ?>
+
+                    <div class="feeling-div mb-5 <?php echo get_sub_field('font_size')=='big' ? 'big-text':'';?>">
 
 
                         <div class="text-start">
                             <img class="quote open"
                                 src="<?php echo get_template_directory_uri(); ?>/assets/images/open-quote.png" alt="">
                         </div>
-                        很有意義的活動，促進與不同人的交流...
+
+                        <?php
+                                        echo get_sub_field('feeling_content');
+                                        ?>
                         <div class="text-end">
                             <img class="quote close"
                                 src="<?php echo get_template_directory_uri(); ?>/assets/images/close-quote.png" alt="">
                         </div>
                     </div>
 
-                    <div class="feeling-div mb-5">
-
-
-                        <div class="text-start">
-                            <img class="quote open"
-                                src="<?php echo get_template_directory_uri(); ?>/assets/images/open-quote.png" alt="">
-                        </div>
-                        經過身體律動課後，以及其他課程，我感受到身體對舞動的熱情，因而我自己也跟老師學跳舞並與朋友合辦表演。 <br>
-                        以往我一直都認為自己的身體過於僵硬，未能做跳舞演出，但原來我也有我可以做到的事，只要我享受這個過程，一定會是一個精彩的演出...
-                        <div class="text-end">
-                            <img class="quote close"
-                                src="<?php echo get_template_directory_uri(); ?>/assets/images/close-quote.png" alt="">
-                        </div>
-                    </div>
-
-                    <div class="feeling-div mb-5">
-
-
-                        <div class="text-start">
-                            <img class="quote open"
-                                src="<?php echo get_template_directory_uri(); ?>/assets/images/open-quote.png" alt="">
-                        </div>
-                        很喜歡這個計劃，很有意籤，讓我更了解自己，更重要的是更愛自己。 <br>
-                        我從來沒有想像我一直想倡導的理念能在香港推廣... <div class="text-end">
-                            <img class="quote close"
-                                src="<?php echo get_template_directory_uri(); ?>/assets/images/close-quote.png" alt="">
-                        </div>
-                    </div>
-
+                    <?php
+                    endwhile;
+                
+                else :
+                endif;
+                
+                                ?>
 
 
 
                 </div>
                 <div class="col-lg-4 col-md-12 col-sm-12 col-12 ">
-                    <div class="feeling-div mb-5">
+
+
+
+                    <?php
+                
+                if( have_rows('column_3_feelings') ):
+                    while( have_rows('column_3_feelings') ) : the_row();
+                
+                    ?>
+
+                    <div class="feeling-div mb-5 <?php echo get_sub_field('font_size')=='big' ? 'big-text':'';?>">
 
 
                         <div class="text-start">
                             <img class="quote open"
                                 src="<?php echo get_template_directory_uri(); ?>/assets/images/open-quote.png" alt="">
                         </div>
-                        課堂的空間很接納每一個狀態的我，初時我是比較累，不太投入，動作也是略略做過便算了。但後來看到大家的投入和老師給予的空間，我慢慢開放自己,也很享受每一堂課...
+
+                        <?php
+                                        echo get_sub_field('feeling_content');
+                                        ?>
                         <div class="text-end">
                             <img class="quote close"
                                 src="<?php echo get_template_directory_uri(); ?>/assets/images/close-quote.png" alt="">
                         </div>
                     </div>
 
-                    <div class="feeling-div mb-5 big-text">
+                    <?php
+                    endwhile;
+                
+                else :
+                endif;
+                
+                                ?>
 
 
-                        <div class="text-start">
-                            <img class="quote open"
-                                src="<?php echo get_template_directory_uri(); ?>/assets/images/open-quote.png" alt="">
-                        </div>
-                        小組的討論讓我察覺到女性的身體常常處於被批評和壓迫的狀態...
-                        <div class="text-end">
-                            <img class="quote close"
-                                src="<?php echo get_template_directory_uri(); ?>/assets/images/close-quote.png" alt="">
-                        </div>
-                    </div>
-
-                    <div class="feeling-div mb-5 ">
-
-
-                        <div class="text-start">
-                            <img class="quote open"
-                                src="<?php echo get_template_directory_uri(); ?>/assets/images/open-quote.png" alt="">
-                        </div>
-                        在律動課上，我想起了很多關於家庭對於我作為一個女孩子的要求，以致我很介意自己做甚麼動作，而未能放開身體...
-
-                        <div class="text-end">
-
-                            <img class="quote close"
-                                src="<?php echo get_template_directory_uri(); ?>/assets/images/close-quote.png" alt="">
-                        </div>
-
-                    </div>
                 </div>
 
             </div>
