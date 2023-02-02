@@ -216,6 +216,7 @@ while( have_rows('content_blocks') ): the_row();
 
 
 <?php 
+// 
 $idx++;
 
 endwhile; ?>
