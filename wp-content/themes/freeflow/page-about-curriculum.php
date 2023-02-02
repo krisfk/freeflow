@@ -470,9 +470,20 @@ endwhile; ?>
     <div class="row">
 
         <div class="col-12 position-relative">
-            <h2 class="purple">律動課程特色</h2>
+            <h2 class="purple"><?php echo get_field('feature_title');?></h2>
         </div>
 
+
+        <?php
+
+
+// Check rows existexists.
+if( have_rows('feature_contents') ):
+
+    // Loop through rows.
+    while( have_rows('feature_contents') ) : the_row();
+
+    ?>
         <div class="col-lg-6 col-md-12 col-sm-12 col-12  mt-4">
 
 
@@ -480,20 +491,34 @@ endwhile; ?>
                 <div class="col-6">
 
                     <a href="javascript:void(0);" class="album-a mobile-keep"
-                        rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC00530.jpg">
-                        <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-6@2x.png"
+                        rel="<?php echo wp_get_attachment_image_src(get_sub_field('feature_image_enlarge'),'full')[0];?>">
+                        <img class="w-100"
+                            src="<?php echo wp_get_attachment_image_src(get_sub_field('feature_image'),'full')[0];?>"
                             alt="">
                     </a>
                 </div>
-                <div class="col-6"> <span class="green middle-size"> 人人平等</span>
+                <div class="col-6"> <span class="green middle-size">
+                        <?php echo get_sub_field('feature_green_title');?></span>
                     <br>
-                    參加者不會被視為病患，都不需要被治療。不把人標籤化，所有人一樣的平等。
+
+                    <?php
+                    echo get_sub_field('feature_content');
+                    ?>
                 </div>
             </div>
 
         </div>
 
-        <div class="col-lg-6 col-md-12 col-sm-12 col-12  mt-4">
+        <?php
+    endwhile;
+
+else :
+endif;
+
+?>
+
+
+        <!-- <div class="col-lg-6 col-md-12 col-sm-12 col-12  mt-4">
 
 
             <div class="row align-items-center">
@@ -617,7 +642,7 @@ endwhile; ?>
                 </div>
             </div>
 
-        </div>
+        </div> -->
 
 
 
