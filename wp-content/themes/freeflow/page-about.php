@@ -62,7 +62,7 @@ while( have_rows('content_blocks') ): the_row();
 
         <div
             class="col-lg-<?php echo get_sub_field('column_proportion') == '5 7' ? '5':'6'; ?> col-md-12 col-sm-12 col-12">
-            <?php echo  get_sub_field('column_proportion');?>
+            <?php //echo  get_sub_field('column_proportion');?>
 
             <table class="float-start w-100 position-relative">
                 <tr>
@@ -142,7 +142,8 @@ while( have_rows('content_blocks') ): the_row();
 
     <div class="row mobile-reverse-row">
 
-        <div class="col-lg-7 col-md-12 col-sm-12 col-12 ">
+        <div
+            class="col-lg-<?php echo get_sub_field('column_proportion') == '5 7' ? '7':'6'; ?> col-md-12 col-sm-12 col-12 ">
 
 
 
@@ -169,7 +170,8 @@ while( have_rows('content_blocks') ): the_row();
 
         </div>
 
-        <div class="col-lg-5 col-md-12 col-sm-12 col-12 ">
+        <div
+            class="col-lg-<?php echo get_sub_field('column_proportion') == '5 7' ? '5':'6'; ?> col-md-12 col-sm-12 col-12 ">
 
 
             <table class="float-end">
