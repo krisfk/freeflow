@@ -518,173 +518,7 @@ endif;
 ?>
 
 
-        <!-- <div class="col-lg-6 col-md-12 col-sm-12 col-12  mt-4">
 
-
-            <div class="row align-items-center">
-                <div class="col-6">
-
-                    <a href="javascript:void(0);" class="album-a  mobile-keep"
-                        rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC00530.jpg">
-                        <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-6@2x.png"
-                            alt="">
-                    </a>
-                </div>
-                <div class="col-6"> <span class="green middle-size">
-
-                        沒有標準框架 <br>
-                        創造一套自己的動作
-
-
-                    </span>
-                    <br>
-                    在身體律動課裡，每個人都是不一樣的。沒有一定的標準，亦不需要別人的批判或認可，而是去學習發掘內在的經驗。
-                </div>
-            </div>
-
-        </div>
-
-
-        <div class="col-lg-6 col-md-12 col-sm-12 col-12  mt-4">
-
-
-            <div class="row align-items-center">
-                <div class="col-6">
-
-                    <a href="javascript:void(0);" class="album-a  mobile-keep"
-                        rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC00530.jpg">
-                        <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-6@2x.png"
-                            alt="">
-                    </a>
-                </div>
-                <div class="col-6"> <span class="green middle-size">
-
-                        沒有標準框架 <br>
-                        創造一套自己的動作
-
-
-                    </span>
-                    <br>
-                    在身體律動課裡，每個人都是不一樣的。沒有一定的標準，亦不需要別人的批判或認可，而是去學習發掘內在的經驗。
-                </div>
-            </div>
-
-        </div>
-
-
-        <div class="col-lg-6 col-md-12 col-sm-12 col-12  mt-4">
-
-
-            <div class="row align-items-center">
-                <div class="col-6">
-
-                    <a href="javascript:void(0);" class="album-a  mobile-keep"
-                        rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC00530.jpg">
-                        <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-6@2x.png"
-                            alt="">
-                    </a>
-                </div>
-                <div class="col-6"> <span class="green middle-size">
-                        重視當下體驗 <br>
-                        解除大惱疲勞
-                    </span>
-                    <br>
-                    課程不會教授拉筋、舞蹈技巧等，參加者可按當天狀態及能力參與課程，在沒有壓力情況下自在地動身體，釋放當日的煩惱。
-                </div>
-            </div>
-
-        </div>
-
-
-        <div class="col-lg-6 col-md-12 col-sm-12 col-12  mt-4">
-
-
-            <div class="row align-items-center">
-                <div class="col-6">
-
-                    <a href="javascript:void(0);" class="album-a  mobile-keep"
-                        rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC00530.jpg">
-                        <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-6@2x.png"
-                            alt="">
-                    </a>
-                </div>
-                <div class="col-6"> <span class="green middle-size">
-                        先「靜」後「動」
-
-                    </span>
-                    <br>
-                    除了外在的「動」，每堂課導師會先進行暖身延展，啟動身體的能量，其後進入主題活動，探索與認識自己。
-                </div>
-            </div>
-
-        </div>
-
-
-        <div class="col-lg-6 col-md-12 col-sm-12 col-12  mt-4">
-
-
-            <div class="row align-items-center">
-                <div class="col-6">
-
-                    <a href="javascript:void(0);" class="album-a  mobile-keep"
-                        rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC00530.jpg">
-                        <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-6@2x.png"
-                            alt="">
-                    </a>
-                </div>
-                <div class="col-6"> <span class="green middle-size">
-                        從個人到群體
-
-
-                    </span>
-                    <br>
-                    課程內容中不但有個人自我表達的部分，還有支撐、給予、合作、平衡、形狀等身體練習，需要參加者們互相合作，從中發展更多肢互動的可能性，檢視自己與他人的關係。
-                </div>
-            </div>
-
-        </div> -->
-
-
-
-        <!-- <div class="col-6 mt-4">
-            <table>
-                <tr>
-                    <td><img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-6@2x.png"
-                            alt=""></td>
-                    <td class="ps-3">
-
-                        <span class="green middle-size">
-
-                            沒有標準框架 <br>
-                            創造一套自己的動作
-
-                        </span>
-                        <br>
-                        在身體律動課裡，每個人都是不一樣的。沒有一定的標準，亦不需要別人的批判或認可，而是去學習發掘內在的經驗。
-                    </td>
-                </tr>
-            </table>
-        </div>
-
-        <div class="col-6 mt-4">
-            <table>
-                <tr>
-                    <td><img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-6@2x.png"
-                            alt=""></td>
-                    <td class="ps-3">
-
-                        <span class="green middle-size">
-                            課程具生活化 <br>
-                            引發興趣主動參與
-
-
-                        </span>
-                        <br>
-                        不需任何舞蹈經驗，我們相信我們天生便懂得律動。導師會引導參加者從生活經驗擷取身體動作元素，透過多樣的視野與方法，讓參加者純粹享受活動身體的樂趣。
-                    </td>
-                </tr>
-            </table>
-        </div> -->
 
 
     </div>
@@ -946,7 +780,12 @@ endif;
 
         <div class="col-lg-8 col-md-12 col-sm-12 col-12 ">
 
-            <div class="home-entry-title">
+
+            <?php
+        
+        echo get_field('bottom_content_block_html');
+        ?>
+            <!-- <div class="home-entry-title">
                 問：為什麼香港需要身體律動?
 
 
@@ -984,7 +823,7 @@ endif;
 
                 計劃除了以與雲門舞集舞蹈教室合作的律動課作為軸心，每課堂結束後社工亦會進行小組活動，以作促進參加者對自身的覺察及性別意識，建立正面的社交發展、態度與情緒掌控技巧，而小組內容會因應青少女的能力和需求調整。
             </div>
-
+ -->
 
 
 
@@ -1001,7 +840,7 @@ endif;
         </div>
         <div class="col-lg-4 col-md-12 col-sm-12 col-12  text-end">
 
-            <h2 class="orange">常見問題</h2>
+            <h2 class="orange"><?php echo get_field('bottom_content_block_title');?></h2>
 
         </div>
     </div>
