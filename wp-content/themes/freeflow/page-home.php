@@ -56,7 +56,7 @@ get_header(); ?>
                 <td>
 
 
-                    <?php echo get_the_title( get_page_by_path( 'general-config' );?>
+                    <?php echo get_the_title( get_page_by_path( 'general-config' ));?>
                     <?php if( have_rows('partnership_logos_group_1',get_the_title( get_page_by_path( 'general-config' ) )) ): ?>
                     <?php while( have_rows('partnership_logos_group_1',get_the_title( get_page_by_path( 'general-config' ) )) ): the_row();                      ?>
 
