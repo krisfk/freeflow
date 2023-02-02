@@ -31,7 +31,7 @@ get_header(); ?>
     height: 860px; -->
 
 <?php
-    flatsome_option('site_logo');
+    // flatsome_option('site_logo');
     ?>
 <div class="home-banner-div" style="">
 
