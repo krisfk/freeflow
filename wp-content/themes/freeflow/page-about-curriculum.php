@@ -29,13 +29,191 @@ get_header(); ?>
 
 <div class="banner-div" style="">
 
-    <img class="banner-img" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/what-is-body-banner-scaled.jpg"
+
+    <img class="banner-img" src="<?php echo wp_get_attachment_image_src(get_field('top_banner_desktop'),'full')[0];?>"
         alt="">
 
-    <img class="banner-img mobile" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-8@2x-50.jpg"
-        alt="">
+    <img class="banner-img mobile"
+        src="<?php echo wp_get_attachment_image_src(get_field('top_banner_mobile'),'full')[0];?>" alt="">
 
 </div>
+
+<?php if( have_rows('content_blocks') ): ?>
+
+<?php 
+
+$idx=0;
+while( have_rows('content_blocks') ): the_row(); 
+       if($idx%2==0)
+       {
+        ?>
+
+<div class="container yellow-bg-div gx-0 mt-120px">
+
+    <div class="row">
+
+        <div class="col-lg-5 col-md-12 col-sm-12 col-12">
+
+
+            <table class="float-start w-100 position-relative">
+                <tr>
+                    <td>
+                        <a href="javascript:void(0);" class="album-a"
+                            rel="<?php echo wp_get_attachment_image_src(get_sub_field('image_enlarge'),'full')[0];?>">
+                            <img class="entry-img row-img-min-400"
+                                src="<?php echo wp_get_attachment_image_src(get_sub_field('image_desktop'),'full')[0];?>"
+                                alt="">
+                        </a>
+
+                        <a href="javascript:void(0);" class="m-album-a"
+                            rel="<?php echo wp_get_attachment_image_src(get_sub_field('image_enlarge'),'full')[0];?>">
+                            <img class="entry-img row-img-min-400"
+                                src="<?php echo wp_get_attachment_image_src(get_sub_field('image_mobile'),'full')[0];?>"
+                                alt="">
+                        </a>
+
+
+                    </td>
+                    <td class="subtitle-td align-bottom">
+
+                        <article class="vertical-article ">
+                            <h2 class="purple"><?php echo get_sub_field('big_title');?>
+                            </h2>
+                        </article>
+
+
+                    </td>
+                </tr>
+            </table>
+
+        </div>
+        <div class="col-lg-7 col-md-12 col-sm-12 col-12 ">
+
+            <div class="home-entry-title">
+
+                <div class="row">
+
+                    <div class="col-8">
+
+                        <?php echo get_sub_field('subtitle');?>
+
+                    </div>
+                    <div class="col-4">
+
+                        <article class="vertical-article mobile-home-entry-title ">
+                            <h2 class="purple"> <?php echo get_sub_field('big_title');?>
+
+                            </h2>
+                        </article>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <?php
+            echo get_sub_field('html_content');
+            ?>
+
+
+        </div>
+
+    </div>
+
+</div>
+
+<?php
+       }
+       else
+       {
+?>
+
+<div class="container yellow-bg-div gx-0 mt-120px">
+
+    <div class="row mobile-reverse-row">
+
+        <div class="col-lg-7 col-md-12 col-sm-12 col-12 ">
+
+
+
+
+
+            <div class="home-entry-title">
+
+                <div class="row">
+                    <div class="col-8"> <?php echo get_sub_field('subtitle');?></div>
+                    <div class="col-4">
+
+                        <article class="vertical-article mobile-home-entry-title ">
+                            <h2 class="purple"><?php echo get_sub_field('big_title');?>
+                            </h2>
+                        </article>
+                    </div>
+                </div>
+
+
+            </div>
+            <?php
+         echo get_sub_field('html_content');
+         ?>
+
+        </div>
+
+        <div class="col-lg-5 col-md-12 col-sm-12 col-12 ">
+
+
+            <table class="float-end">
+                <tr>
+
+                    <td class="subtitle-td align-bottom">
+
+
+                        <article class="vertical-article ">
+                            <h2 class="purple"><?php
+                                     echo get_sub_field('big_title');
+
+                            ?>
+                            </h2>
+                        </article>
+
+                    </td>
+                    <td>
+                        <a href="javascript:void(0);" class="album-a"
+                            rel="<?php echo wp_get_attachment_image_src(get_sub_field('image_enlarge'),'full')[0];?>">
+                            <img class="entry-img row-img-min-400"
+                                src="<?php echo wp_get_attachment_image_src(get_sub_field('image_desktop'),'full')[0];?>"
+                                alt="">
+                        </a>
+
+                        <a href="javascript:void(0);" class="m-album-a"
+                            rel="<?php echo wp_get_attachment_image_src(get_sub_field('image_enlarge'),'full')[0];?>">
+                            <img class="entry-img row-img-min-400"
+                                src="<?php echo wp_get_attachment_image_src(get_sub_field('image_mobile'),'full')[0];?>"
+                                alt="">
+                        </a>
+
+
+
+                    </td>
+                </tr>
+            </table>
+
+        </div>
+
+
+    </div>
+
+</div>
+<?php
+       }
+       ?>
+
+
+<?php 
+$idx++;
+
+endwhile; ?>
+<?php endif; ?>
 
 <div class="container yellow-bg-div gx-0 mt-120px">
 
