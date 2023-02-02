@@ -62,7 +62,12 @@ if( have_rows('tutors') ):
 
     ?>
 
-    <div class="row align-items-center mt-5 gx-5 <?php echo $idx%2==0 ? '':'mobile-reverse-row';?>">
+    <?php
+
+if($idx%2==0)
+{
+?>
+    <div class="row align-items-center mt-5 gx-5 ">
         <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-lg-0 mb-md-4 mb-sm-4 mb-4 ">
 
 
@@ -93,6 +98,52 @@ echo get_sub_field('tutor_description');
 
         </div>
     </div>
+    <?php
+}
+else
+{
+?>
+    <div class="row align-items-center mt-5 gx-5 ">
+
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12 ">
+
+            <h2 class="orange">
+
+
+                <?php
+    echo get_sub_field('tutor_name');
+    ?>
+
+            </h2>
+
+            <?php
+echo get_sub_field('tutor_description');
+?>
+
+
+        </div>
+
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12 mb-lg-0 mb-md-4 mb-sm-4 mb-4 ">
+
+
+
+            <a href="javascript:void(0);" class="album-a mobile-keep"
+                rel="<?php echo wp_get_attachment_image_src(get_sub_field('tutor_image_enlarge'),'full')[0];?>">
+
+                <img class="w-100"
+                    src="<?php echo wp_get_attachment_image_src(get_sub_field('tutor_image'),'full')[0];?>" alt="">
+
+            </a>
+        </div>
+
+    </div>
+    <?php
+}
+
+
+?>
+
+
 
     <?php
 
