@@ -319,7 +319,7 @@ endwhile; ?>
                     <div class="row">
 
                         <div class="col-5">
-                            <div class="green-bubble">體驗課</div>
+                            <div class="green-bubble"><?php echo get_field('step_1_name');?></div>
                         </div>
 
                         <div class="col-2">
@@ -358,14 +358,14 @@ endwhile; ?>
                     <div class="row">
 
                         <div class="col-5">
-                            <div class="green-bubble">單完一</div>
+                            <div class="green-bubble"><?php echo get_field('step_2_name');?></div>
                         </div>
 
                         <div class="col-2">
 
                         </div>
                         <div class="col-5">
-                            <div class="green-bubble">藝術展演</div>
+                            <div class="green-bubble"><?php echo get_field('step_7_name');?></div>
 
                         </div>
                     </div>
@@ -393,14 +393,14 @@ endwhile; ?>
                     <div class="row">
 
                         <div class="col-5">
-                            <div class="green-bubble">單完二</div>
+                            <div class="green-bubble"><?php echo get_field('step_3_name');?></div>
                         </div>
 
                         <div class="col-2">
 
                         </div>
                         <div class="col-5">
-                            <div class="green-bubble">藝術日營</div>
+                            <div class="green-bubble"><?php echo get_field('step_5_name');?></div>
 
                         </div>
                     </div>
@@ -428,7 +428,7 @@ endwhile; ?>
                     <div class="row">
 
                         <div class="col-5">
-                            <div class="green-bubble">藝術探索</div>
+                            <div class="green-bubble"><?php echo get_field('step_4_name');?></div>
                         </div>
 
                         <div class="col-2 text-center">
@@ -439,7 +439,7 @@ endwhile; ?>
 
                         </div>
                         <div class="col-5">
-                            <div class="green-bubble">交流會</div>
+                            <div class="green-bubble"><?php echo get_field('step_5_name');?></div>
 
                         </div>
                     </div>
