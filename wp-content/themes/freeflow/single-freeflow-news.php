@@ -272,7 +272,7 @@ if( have_rows('layout2_content_blocks') ):
 
             <div>
 
-                <?php echo get_sub_field('orange_title');?>
+                <?php echo get_sub_field('text_content');?>
 
             </div>
 
