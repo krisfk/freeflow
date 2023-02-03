@@ -66,9 +66,9 @@ if ( have_posts() ) {
             <!-- Activity Headline Image -->
 
             <a href="javascript:void(0);" class="album-a mobile-keep mb-lg-0 mb-md-4 mb-sm-4 mb-4"
-                rel="<?php echo wp_get_attachment_image_src(get_sub_field('activity_headline_image'),'full')[0];?>">
+                rel="<?php echo wp_get_attachment_image_src(get_field('activity_headline_image'),'full')[0];?>">
                 <img class="w-100"
-                    src="<?php echo wp_get_attachment_image_src(get_sub_field('activity_headline_image_enlarge'),'full')[0];?>"
+                    src="<?php echo wp_get_attachment_image_src(get_field('activity_headline_image_enlarge'),'full')[0];?>"
                     alt="">
             </a>
 
