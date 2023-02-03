@@ -25,7 +25,7 @@ get_header(); ?>
 
 
 <a href="<?php echo get_site_url();?>" class="freeflow-logo-a"><img
-        src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/freeflow-logo.png" alt=""></a>
+        src="<?php echo esc_url( wp_get_attachment_url( get_theme_mod( 'custom_logo' ) ) );?>" alt=""></a>
 
 <div class="banner-div" style="">
 
