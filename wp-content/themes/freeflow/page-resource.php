@@ -77,7 +77,7 @@ get_header(); ?>
 
         </div>
 
-        block 1 image enlarge
+        <!-- block 1 image enlarge -->
 
 
         <div class="col-lg-6 col-md-12 col-sm-12 col-12  position-relative  mt-0">
