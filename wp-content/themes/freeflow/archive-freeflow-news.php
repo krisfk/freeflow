@@ -44,7 +44,7 @@ get_header(); ?>
 
 $query_args = array(
 	// 'post_type' => 'freeflow-news',
-	'order' => 'DESC'
+	'order' => 'ASC'
 );
 
 // The Query
