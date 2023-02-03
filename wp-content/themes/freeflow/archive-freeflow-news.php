@@ -44,7 +44,7 @@ get_header(); ?>
 
 $query_args = array(
 	// 'post_type' => 'freeflow-news',
-	'order' => 'ASC'
+	'order' => 'DESC'
 );
 
 // The Query
@@ -52,9 +52,9 @@ $the_query = new WP_Query( $query_args );
 
 // The Loop
 
-if ( $the_query->have_posts() ) {
-	while ( $the_query->have_posts() ) {
-		$the_query->the_post();
+if ( $have_posts() ) {
+	while ( have_posts() ) {
+		the_post();
 
         ?>
 
