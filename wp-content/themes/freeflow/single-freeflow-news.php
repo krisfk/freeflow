@@ -77,12 +77,12 @@ if( have_rows('layout1_content_blocks') ):
         <tr>
             <td>
                 <a href="javascript:void(0);" class="album-a me-4"
-                    rel="<?php echo wp_get_attachment_image_src(get_field('block_image_1_enlarge'),'full')[0];?>">
-                    <img src="<?php echo wp_get_attachment_image_src(get_field('block_image_1_desktop'),'full')[0];?>"
+                    rel="<?php echo wp_get_attachment_image_src(get_sub_field('block_image_1_enlarge'),'full')[0];?>">
+                    <img src="<?php echo wp_get_attachment_image_src(get_sub_field('block_image_1_desktop'),'full')[0];?>"
                         alt=""></a>
                 <a href="javascript:void(0);" class="album-a"
-                    rel="<?php echo wp_get_attachment_image_src(get_field('block_image_1_enlarge'),'full')[0];?>"><img
-                        src="<?php echo wp_get_attachment_image_src(get_field('block_image_2_desktop'),'full')[0];?>"
+                    rel="<?php echo wp_get_attachment_image_src(get_sub_field('block_image_1_enlarge'),'full')[0];?>"><img
+                        src="<?php echo wp_get_attachment_image_src(get_sub_field('block_image_2_desktop'),'full')[0];?>"
                         alt=""></a>
             </td>
         </tr>
