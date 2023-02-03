@@ -63,10 +63,13 @@ if ( $the_query->have_posts() ) {
     <div class="row align-items-center mt-0 gx-5">
         <div class="col-lg-6 col-md-12 col-sm-12 col-12 ">
 
+            <!-- Activity Headline Image -->
 
             <a href="javascript:void(0);" class="album-a mobile-keep mb-lg-0 mb-md-4 mb-sm-4 mb-4"
-                rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Art-Camp-Poster.jpg">
-                <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-4@2x.png" alt="">
+                rel="<?php echo wp_get_attachment_image_src(get_sub_field('activity_headline_image'),'full')[0];?>">
+                <img class="w-100"
+                    src="<?php echo wp_get_attachment_image_src(get_sub_field('activity_headline_image_enlarge'),'full')[0];?>"
+                    alt="">
             </a>
 
         </div>
