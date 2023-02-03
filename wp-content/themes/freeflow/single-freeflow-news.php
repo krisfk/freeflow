@@ -232,14 +232,16 @@ if( have_rows('layout2_content_blocks') ):
 
                 <div class="row gx-lg-0 gx-md-3 gx-sm-3 gx-3">
 
-                    <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3">
+                    <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3"
+                            rel="<?php echo wp_get_attachment_image_src(get_sub_field('image1_enlarge'),'full')[0];?>">
 
                             <img class=" d-inline-block w-100"
                                 src="<?php echo wp_get_attachment_image_src(get_sub_field('image1_mobile'),'full')[0];?>"
                                 alt="">
                         </a>
                     </div>
-                    <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3">
+                    <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3"
+                            rel="<?php echo wp_get_attachment_image_src(get_sub_field('image2_enlarge'),'full')[0];?>">
 
                             <img class=" d-inline-block w-100"
                                 src="<?php echo wp_get_attachment_image_src(get_sub_field('image2_mobile'),'full')[0];?>"
@@ -247,14 +249,16 @@ if( have_rows('layout2_content_blocks') ):
                         </a>
                     </div>
 
-                    <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3">
+                    <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3"
+                            rel="<?php echo wp_get_attachment_image_src(get_sub_field('image3_enlarge'),'full')[0];?>">
 
                             <img class=" d-inline-block w-100"
                                 src="<?php echo wp_get_attachment_image_src(get_sub_field('image3_mobile'),'full')[0];?>"
                                 alt="">
                         </a>
                     </div>
-                    <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3">
+                    <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3"
+                            rel="<?php echo wp_get_attachment_image_src(get_sub_field('image4_enlarge'),'full')[0];?>">
 
                             <img class=" d-inline-block w-100"
                                 src="<?php echo wp_get_attachment_image_src(get_sub_field('image4_mobile'),'full')[0];?>"
