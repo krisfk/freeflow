@@ -42,17 +42,19 @@ get_header(); ?>
 
 <?php
 
-// $query_args = array(
-// 	'post_type' => 'freeflow-news',
-// );
+$query_args = array(
+	// 'post_type' => 'freeflow-news',
+	'order' => 'DESC'
+);
 
 // The Query
 $the_query = new WP_Query( $query_args );
 
 // The Loop
-if ( have_posts() ) {
-	while ( have_posts() ) {
-		the_post();
+
+if ( $the_query->have_posts() ) {
+	while ( $the_query->have_posts() ) {
+		$the_query->the_post();
 
         ?>
 
