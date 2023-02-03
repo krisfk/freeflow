@@ -39,6 +39,33 @@ get_header(); ?>
 
 </div>
 
+
+<?php
+
+$query_args = array(
+	'post_type' => 'freeflow-news',
+);
+
+// The Query
+$the_query = new WP_Query( $query_args );
+
+// The Loop
+if ( $the_query->have_posts() ) {
+	while ( $the_query->have_posts() ) {
+		$the_query->the_post();
+
+        echo 1;
+	}
+
+	/* Restore original Post Data */
+	wp_reset_postdata();
+} else {
+	// no posts found
+}
+
+?>
+
+
 <div class="container yellow-bg-div gx-0 mt-120px">
 
 
