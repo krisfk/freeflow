@@ -1489,6 +1489,10 @@ iframe {
     height: 100%;
 }
 
+p {
+    margin: 0;
+}
+
 @media only screen and (max-width: 1400px) {
     .album-a-div {
         display: none;
