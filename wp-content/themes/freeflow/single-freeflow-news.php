@@ -193,31 +193,35 @@ if( have_rows('layout2_content_blocks') ):
                 <div>
 
                     <a href="javascript:void(0);" class="album-a me-3 mb-3"
-                        rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02162_edited.jpg">
+                        rel="<?php echo wp_get_attachment_image_src(get_sub_field('image1_enlarge'),'full')[0];?>">
                         <img class="height-280px d-inline-block"
-                            src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-17@2x.png" alt="">
+                            src="<?php echo wp_get_attachment_image_src(get_sub_field('image1_desktop'),'full')[0];?>"
+                            alt="">
                     </a>
                     <a href="javascript:void(0);" class="album-a  mb-3"
-                        rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02242_edited.jpg">
+                        rel="<?php echo wp_get_attachment_image_src(get_sub_field('image2_enlarge'),'full')[0];?>">
 
                         <img class="height-280px d-inline-block"
-                            src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-18@2x.png" alt=""> </a>
+                            src="<?php echo wp_get_attachment_image_src(get_sub_field('image2_desktop'),'full')[0];?>"
+                            alt=""> </a>
 
                 </div>
 
                 <div>
                     <a href="javascript:void(0);" class="album-a me-3"
-                        rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02122_edited.jpg">
+                        rel="<?php echo wp_get_attachment_image_src(get_sub_field('image3_enlarge'),'full')[0];?>">
 
                         <img class=" height-280px d-inline-block"
-                            src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-19@2x.png" alt="">
+                            src="<?php echo wp_get_attachment_image_src(get_sub_field('image3_desktop'),'full')[0];?>"
+                            alt="">
                     </a>
 
                     <a href="javascript:void(0);" class="album-a"
-                        rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02198_edited.jpg">
+                        rel="<?php echo wp_get_attachment_image_src(get_sub_field('image4_enlarge'),'full')[0];?>">
 
                         <img class="height-280px d-inline-block"
-                            src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-20@2x.png" alt="">
+                            src="<?php echo wp_get_attachment_image_src(get_sub_field('image4_desktop'),'full')[0];?>"
+                            alt="">
                     </a>
 
                 </div>
@@ -226,41 +230,35 @@ if( have_rows('layout2_content_blocks') ):
 
             <div class="album-a-div mobile mt-4">
 
-
-
-
-
-
-
                 <div class="row gx-lg-0 gx-md-3 gx-sm-3 gx-3">
 
-                    <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3"
-                            rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02162_edited.jpg">
+                    <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3">
 
                             <img class=" d-inline-block w-100"
-                                src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-1@2x-2.png" alt="">
+                                src="<?php echo wp_get_attachment_image_src(get_sub_field('image1_mobile'),'full')[0];?>"
+                                alt="">
                         </a>
                     </div>
-                    <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3"
-                            rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02242_edited.jpg">
+                    <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3">
 
                             <img class=" d-inline-block w-100"
-                                src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-18@2x.png" alt="">
+                                src="<?php echo wp_get_attachment_image_src(get_sub_field('image2_mobile'),'full')[0];?>"
+                                alt="">
                         </a>
                     </div>
 
-                    <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3"
-                            rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02122_edited.jpg">
+                    <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3">
 
                             <img class=" d-inline-block w-100"
-                                src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-2@2x-3.png" alt="">
+                                src="<?php echo wp_get_attachment_image_src(get_sub_field('image3_mobile'),'full')[0];?>"
+                                alt="">
                         </a>
                     </div>
-                    <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3"
-                            rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02198_edited.jpg">
+                    <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3">
 
                             <img class=" d-inline-block w-100"
-                                src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-3@2x-4.png" alt="">
+                                src="<?php echo wp_get_attachment_image_src(get_sub_field('image4_mobile'),'full')[0];?>"
+                                alt="">
                         </a>
                     </div>
                 </div>
