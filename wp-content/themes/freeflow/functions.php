@@ -731,9 +731,9 @@ function get_id_by_slug($page_slug) {
     }
 } 
 
-function my_change_posts_order( $query ){
-    if ( ! is_admin() && ( is_category() || is_tag() ) && $query->is_main_query() ) {
-        $query->set( 'order', 'ASC' );
-    }
-};
-add_action( 'pre_get_posts', 'my_change_posts_order'); 
+// function my_change_posts_order( $query ){
+//     if ( ! is_admin() && ( is_category() || is_tag() ) && $query->is_main_query() ) {
+//         $query->set( 'order', 'ASC' );
+//     }
+// };
+// add_action( 'pre_get_posts', 'my_change_posts_order'); 
