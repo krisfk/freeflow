@@ -73,10 +73,16 @@ get_header(); ?>
 
 
 
+
+
         </div>
+
+        block 1 image enlarge
+
+
         <div class="col-lg-6 col-md-12 col-sm-12 col-12  position-relative  mt-0">
             <a href="javascript:void(0);" class="album-a mobile-keep"
-                rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-1@2x-50.jpg">
+                rel="<?php echo wp_get_attachment_image_src(get_field('block_1_image_enlarge'),'full')[0];?>">
                 <img class="w-100" src="<?php echo wp_get_attachment_image_src(get_field('block_1_image'),'full')[0];?>"
                     alt="">
             </a>
