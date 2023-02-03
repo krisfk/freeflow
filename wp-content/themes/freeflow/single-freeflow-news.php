@@ -57,6 +57,10 @@ get_header(); ?>
 
 <?php
 
+if(get_field('select_layout') =='layout 1')
+{
+    
+
 // Check rows existexists.
 if( have_rows('layout1_content_blocks') ):
 
@@ -121,7 +125,7 @@ else :
 endif;
 
 // layout1 content blocks
-
+}
 ?>
 
 <!-- 
