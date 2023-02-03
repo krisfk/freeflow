@@ -55,24 +55,35 @@ get_header(); ?>
 
 </div>
 
+<?php
+
+// Check rows existexists.
+if( have_rows('repeater_field_name') ):
+
+    // Loop through rows.
+    while( have_rows('repeater_field_name') ) : the_row();
+
+    ?>
+
 <div class="container yellow-bg-div gx-0 mt-120px">
 
 
-    <h2 class="purple">藝術日營《身體我自在》</h2>
+    <h2 class="purple"><?php echo get_sub_field('block_title');?></h2>
 
-    <div class="mt-4">在今年Art Camp《身體我自在》，我們舉辦了一系列的藝術活動，讓來自不同機構的青少女聚一聚， <br>
-        一同體驗及交流。她們當日製作的成品亦於該年度的展覽中展出。
+    <div class="mt-4"><?php echo get_sub_field('block_content');?>
     </div>
 
     <table class="news-tpl-1-img-table mt-4 w-100">
         <tr>
             <td>
                 <a href="javascript:void(0);" class="album-a me-4"
-                    rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/vlcsnap-2022-07-21-19h29m05s552.jpg">
-                    <img src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-7@2x-1.png" alt=""></a>
+                    rel="<?php echo wp_get_attachment_image_src(get_field('block_image_1_enlarge'),'full')[0];?>">
+                    <img src="<?php echo wp_get_attachment_image_src(get_field('block_image_1_desktop'),'full')[0];?>"
+                        alt=""></a>
                 <a href="javascript:void(0);" class="album-a"
-                    rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/vlcsnap-2022-07-21-19h29m05s552.jpg"><img
-                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-8@2x-1.png" alt=""></a>
+                    rel="<?php echo wp_get_attachment_image_src(get_field('block_image_1_enlarge'),'full')[0];?>"><img
+                        src="<?php echo wp_get_attachment_image_src(get_field('block_image_2_desktop'),'full')[0];?>"
+                        alt=""></a>
             </td>
         </tr>
     </table>
@@ -81,16 +92,14 @@ get_header(); ?>
 
         <div class="col-6">
 
-            <a href="javascript:void(0);" class="m-album-a"
-                rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/vlcsnap-2022-07-21-19h29m05s552.jpg">
+            <a href="javascript:void(0);" class="m-album-a">
                 <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-7@2x-1.png"
                     alt=""></a>
 
         </div>
         <div class="col-6">
 
-            <a href="javascript:void(0);" class="m-album-a"
-                rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/vlcsnap-2022-07-21-19h29m05s552.jpg">
+            <a href="javascript:void(0);" class="m-album-a">
                 <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-7@2x-1.png"
                     alt=""></a>
         </div>
@@ -100,7 +109,20 @@ get_header(); ?>
 
 </div>
 
+<?php
+    // End loop.
+    endwhile;
 
+// No value.
+else :
+    // Do something...
+endif;
+
+// layout1 content blocks
+
+?>
+
+<!-- 
 
 
 <div class="container yellow-bg-div gx-0 mt-60px">
@@ -237,7 +259,7 @@ get_header(); ?>
 
 </div>
 
-
+ -->
 
 
 
