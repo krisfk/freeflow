@@ -267,7 +267,7 @@ body {
     opacity: 0.1;
 }
 
-.page-news .curve-bg,
+.post-type-archive-freeflow-news .curve-bg,
 .page-news-1 .curve-bg,
 .page-news-2 .curve-bg {
     opacity: 0.85;
@@ -283,7 +283,7 @@ body {
     top: 680px;
 }
 
-.page-news .curve-bg.fout,
+.post-type-archive-freeflow-news .curve-bg.fout,
 .page-news-1 .curve-bg.fout,
 .page-news-2 .curve-bg.fout,
 .page-resource .curve-bg.fout,
@@ -1546,7 +1546,7 @@ iframe {
         height: calc(100% - 680px);
         top: 680px;
     }
-    .page-news .curve-bg,
+    .post-type-archive-freeflow-news .curve-bg,
     .page-news-1 .curve-bg,
     .page-news-2 .curve-bg {
         opacity: 0.85;
