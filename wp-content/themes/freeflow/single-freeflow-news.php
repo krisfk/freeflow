@@ -58,6 +58,7 @@ get_header(); ?>
 <?php
 
 // Check rows existexists.
+echo 11;
 if( have_rows('repeater_field_name') ):
 
     // Loop through rows.
