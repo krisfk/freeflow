@@ -27,14 +27,18 @@ get_header(); ?>
 <a href="<?php echo get_site_url();?>" class="freeflow-logo-a"><img
         src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/freeflow-logo.png" alt=""></a>
 
-
 <div class="banner-div" style="">
 
-    <img class="banner-img" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/resource-banner-scaled.jpg"
+    <img class="banner-img" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/news-banner-1-scaled.jpg"
         alt="">
 
-    <img class="banner-img mobile" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-1@2x-50-4.jpg"
+
+
+    <img class="banner-img mobile" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-2@2x-50.jpg"
         alt="">
+
+
+
 
 
 
@@ -43,174 +47,187 @@ get_header(); ?>
 
 </div>
 
-
-
-
-
 <div class="container yellow-bg-div gx-0 mt-120px">
 
 
-    <div class="row">
+    <h2 class="purple">藝術日營《身體我自在》</h2>
 
-        <div class="col-12 position-relative">
+    <div class="mt-4">在今年Art Camp《身體我自在》，我們舉辦了一系列的藝術活動，讓來自不同機構的青少女聚一聚， <br>
+        一同體驗及交流。她們當日製作的成品亦於該年度的展覽中展出。
+    </div>
 
+    <table class="news-tpl-1-img-table mt-4 w-100">
+        <tr>
+            <td>
+                <a href="javascript:void(0);" class="album-a me-4"
+                    rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/vlcsnap-2022-07-21-19h29m05s552.jpg">
+                    <img src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-7@2x-1.png" alt=""></a>
+                <a href="javascript:void(0);" class="album-a"
+                    rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/vlcsnap-2022-07-21-19h29m05s552.jpg"><img
+                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-8@2x-1.png" alt=""></a>
+            </td>
+        </tr>
+    </table>
 
-            <div class="d-inline-block w-90">
-                <a href="<?php echo get_site_url();?>/resource" class="blog-tag me-1">All Articles</a>
-                <?php
+    <div class="row news-tpl-1-img-table mobile mt-4 gx-lg-0 gx-md-3 gx-sm-3 gx-3 ">
 
-$tags = get_tags(array(
-'hide_empty' => false
-));
-foreach ($tags as $tag) {
-?>
+        <div class="col-6">
 
-                <a href="<?php echo get_site_url();?>/tag/<?php echo $tag->slug; ?>"
-                    class="blog-tag me-1">#<?php echo  $tag->name;?></a>
-                <?php
+            <a href="javascript:void(0);" class="m-album-a"
+                rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/vlcsnap-2022-07-21-19h29m05s552.jpg">
+                <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-7@2x-1.png"
+                    alt=""></a>
 
-}
-?>
-            </div>
+        </div>
+        <div class="col-6">
 
-
-            <a href="javascript:void(0);" class="search-icon-a"><img
-                    src="<?php echo get_template_directory_uri(); ?>/assets/images/search-icon.png" alt=""></a>
-
-
-            <div class="search-ui-div">
-                <?php
-
-        
-        ?>
-                <?php echo do_shortcode('[wpdreams_ajaxsearchlite]'); ?>
-            </div>
-
+            <a href="javascript:void(0);" class="m-album-a"
+                rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/vlcsnap-2022-07-21-19h29m05s552.jpg">
+                <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-7@2x-1.png"
+                    alt=""></a>
         </div>
     </div>
 
 
 
-
-
-    <?php
-
-?>
-
-
-
-
-
 </div>
-
 
 
 
 
 <div class="container yellow-bg-div gx-0 mt-60px">
-    <div class="row">
-        <div class="col-12">
-
-            <!-- <img class="resource-detail-img"
-                src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/blog-temp-img-1.png" alt=""> -->
 
 
-            <a href="javascript:void(0);" class="album-a mobile-keep d-block mx-auto"
-                rel="<?php echo wp_get_attachment_image_src(get_field('post_enlarged_img'),'full')[0];?>">
+    <h2 class="purple">香水製作工作坊</h2>
 
+    <div class="mt-4">可調製屬於自己的香水, 找尋自己的味道
+    </div>
 
-                <img class="resource-detail-img"
-                    src="<?php echo wp_get_attachment_image_src(get_field('post_main_img'),'full')[0];?>" alt="">
+    <table class="news-tpl-1-img-table mt-4 w-100">
+        <tr>
+            <td><a href="javascript:void(0);" class="album-a me-4"
+                    rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/WhatsApp-Image-2022-08-04-at-4.54.52-PM.jpg"><img
+                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-9@2x-1.png" alt=""></a>
+                <a href="javascript:void(0);" class="album-a"
+                    rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/WhatsApp-Image-2022-08-04-at-4.54.52-PM.jpg"><img
+                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-10@2x.png" alt=""></a>
+            </td>
 
-            </a>
+        </tr>
+    </table>
 
+    <div class="row news-tpl-1-img-table mobile mt-4 gx-lg-0 gx-md-3 gx-sm-3 gx-3 ">
 
-            <h2 class="purple big mt-4"> <?php echo get_the_title();?></a>
-            </h2>
+        <div class="col-6">
 
-            <div class="orange"> <?php
-        echo get_the_date('d M Y');
-        ?></div>
-
-            <div class="mt-3">
-
-                <?php echo get_the_content();?>
-
-            </div>
-
-            <div class="mt-3">
-
-                <?php
-            $tags_arr = get_the_tags() ;
-
-            // echo $tags_arr[0]->name;
-            for($i=0;$i<count($tags_arr);$i++)
-            {
-                ?>
-                <?php //echo $tags_arr[$i];?>
-                <a href="<?php echo get_site_url();?>/tag/<?php echo $tags_arr[$i]->slug; ?>"
-                    class="blog-tag me-1">#<?php echo $tags_arr[$i]->name;?></a>
-                <?php
-            }
-
-            ?>
-            </div>
-
-
-            <div class="blog-line mt-4"></div>
-
-
-
-            <div class="row mt-4">
-
-
-                <div class="col-7"><?php
-                echo do_shortcode( '[post-views]');
-
-                ?>
-                    views</div>
-                <div class="col-5 text-end">
-
-                    <span>
-
-                        <?php
-
-echo do_shortcode( '[posts_like_dislike]');
-
-
-                    // [posts_like_dislike id=post_id]
-
-                    ?>
-                    </span>
-
-                    <!-- <a href="javascript:void(0);" class="d-inline-block">
-                        <img class="heart-icon" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/heart.png"
-                            alt=""></a> -->
-
-                    <a href="javascript:void(0);" class="d-inline-block three-dots-a ms-2"> <img class="three-dots"
-                            src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/3dots.png" alt=""></a>
-                </div>
-
-            </div>
-
+            <a href="javascript:void(0);" class="m-album-a"
+                rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/WhatsApp-Image-2022-08-04-at-4.54.52-PM.jpg">
+                <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-10@2x.png"
+                    alt=""></a>
 
         </div>
+        <div class="col-6">
 
+            <a href="javascript:void(0);" class="m-album-a "
+                rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/WhatsApp-Image-2022-08-04-at-4.54.52-PM.jpg">
+                <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-10@2x.png"
+                    alt=""></a>
+        </div>
     </div>
+
+
+</div>
+
+
+
+<div class="container yellow-bg-div gx-0 mt-60px">
+
+
+    <h2 class="purple">Love Tee Styling with Adele Leung</h2>
+
+    <div class="mt-4">由形象顧問&造型師Adele指導，學習如何從穿搭方面找到自己的獨特性
+    </div>
+
+    <table class="news-tpl-1-img-table mt-4 w-100">
+        <tr>
+            <td><a href="javascript:void(0);" class="album-a me-4"
+                    rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/WhatsApp-Image-2022-08-04-at-4.55.03-PM.jpg"><img
+                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-11@2x-1.png" alt=""></a>
+
+                <a href="javascript:void(0);" class="album-a"
+                    rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/WhatsApp-Image-2022-08-04-at-4.55.03-PM.jpg"><img
+                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-12@2x-1.png" alt=""></a>
+            </td>
+
+        </tr>
+    </table>
+
+
+    <div class="row news-tpl-1-img-table mobile mt-4 gx-lg-0 gx-md-3 gx-sm-3 gx-3 ">
+
+        <div class="col-6">
+
+            <a href="javascript:void(0);" class="m-album-a"
+                rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/WhatsApp-Image-2022-08-04-at-4.55.03-PM.jpg">
+                <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-11@2x-1.png"
+                    alt=""></a>
+
+        </div>
+        <div class="col-6">
+
+            <a href="javascript:void(0);" class="m-album-a "
+                rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/WhatsApp-Image-2022-08-04-at-4.55.03-PM.jpg">
+                <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-11@2x-1.png"
+                    alt=""></a>
+        </div>
+    </div>
+
+
 </div>
 
 
 
 
+<div class="container yellow-bg-div gx-0 mt-60px">
 
 
+    <h2 class="purple">身體藝術工作坊 x 3間NGOs</h2>
 
+    <div class="mt-4">盆景 / 身體造型蠟燭 / 酒精墨水畫 / 新式書法
+    </div>
 
+    <table class="news-tpl-1-img-table mt-4 w-100">
+        <tr>
+            <td><a href="javascript:void(0);" class="album-a me-4"
+                    rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/WhatsApp-Image-2022-08-04-at-4.55.39-PM.jpg"><img
+                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-13@2x-1.png" alt=""></a>
+                <a href="javascript:void(0);" class="album-a"
+                    rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/WhatsApp-Image-2022-08-04-at-4.55.39-PM.jpg"><img
+                        src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-14@2x.png" alt=""></a>
 
+            </td>
+        </tr>
+    </table>
+    <div class="row news-tpl-1-img-table mobile mt-4 gx-lg-0 gx-md-3 gx-sm-3 gx-3 ">
 
+        <div class="col-6">
 
+            <a href="javascript:void(0);" class="m-album-a"
+                rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/WhatsApp-Image-2022-08-04-at-4.55.39-PM.jpg">
+                <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-14@2x.png"
+                    alt=""></a>
 
+        </div>
+        <div class="col-6">
 
+            <a href="javascript:void(0);" class="m-album-a"
+                rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/WhatsApp-Image-2022-08-04-at-4.55.39-PM.jpg">
+                <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-14@2x.png"
+                    alt=""></a>
+        </div>
+    </div>
+
+</div>
 
 
 
