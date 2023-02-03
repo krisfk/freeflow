@@ -54,17 +54,7 @@ if ( $the_query->have_posts() ) {
 	while ( $the_query->have_posts() ) {
 		$the_query->the_post();
 
-        echo 1;
-	}
-
-	/* Restore original Post Data */
-	wp_reset_postdata();
-} else {
-	// no posts found
-}
-
-?>
-
+        ?>
 
 <div class="container yellow-bg-div gx-0 mt-120px">
 
@@ -84,59 +74,15 @@ if ( $the_query->have_posts() ) {
 
 
             <a href="<?php echo get_site_url();?>/news-1" class="news-a">
-                <h2 class="orange">身體我自在
+                <h2 class="orange"><?php echo get_field('activity_name');?>
                 </h2>
 
 
                 <div class="mt-4">
-                    活動日期: <br>
-                    2022年7月10日<br>
-                    時間:<br>
-                    11:00-18:00<br>
-                    地點:<br>
-                    鰂魚涌WLAB</div>
+                    <?php
+            echo get_field('activity_detail');
+            ?>
 
-            </a>
-
-        </div>
-    </div>
-
-</div>
-
-
-<div class="container yellow-bg-div gx-0 mt-60px">
-
-    <div class="row align-items-center mt-0 gx-5">
-        <div class="col-lg-6 col-md-12 col-sm-12 col-12 ">
-
-            <a href="javascript:void(0);" class="album-a mobile-keep  mb-lg-0 mb-md-4 mb-sm-4 mb-4"
-                rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Annual-Poster.jpg">
-
-
-                <img class="w-100" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-5@2x-1.png"
-                    alt="">
-            </a>
-        </div>
-        <div class="col-lg-6 col-md-12 col-sm-12 col-12 text-end">
-
-
-
-            <a href="<?php echo get_site_url();?>/news-2" class="news-a">
-
-                <h2 class="orange">
-                    我動故我在 <br>
-                    I Move<br>
-                    Therefore I Am
-
-                </h2>
-
-                <div class="mt-4">
-                    展覽日期: <br>
-                    2022年9月3－4日<br>
-                    展覽時間:<br>
-                    12:00－19:30 (六), 12:00－18:00 (日)<br>
-                    地點:<br>
-                    JCCAC賽馬會創意藝術中心L1藝廊
                 </div>
 
             </a>
@@ -144,8 +90,23 @@ if ( $the_query->have_posts() ) {
         </div>
     </div>
 
-
 </div>
+
+
+<?php
+        // echo 1;
+	}
+
+	/* Restore original Post Data */
+	wp_reset_postdata();
+} else {
+	// no posts found
+}
+
+?>
+
+
+
 
 
 
