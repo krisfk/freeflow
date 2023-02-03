@@ -268,7 +268,7 @@ body {
 }
 
 .post-type-archive-freeflow-news .curve-bg,
-.page-news-1 .curve-bg,
+.single-freeflow-news .curve-bg,
 .page-news-2 .curve-bg {
     opacity: 0.85;
     transition: opacity 4s linear;
@@ -284,7 +284,7 @@ body {
 }
 
 .post-type-archive-freeflow-news .curve-bg.fout,
-.page-news-1 .curve-bg.fout,
+.single-freeflow-news .curve-bg.fout,
 .page-news-2 .curve-bg.fout,
 .page-resource .curve-bg.fout,
 .page-collaborate .curve-bg.fout,
@@ -1547,7 +1547,7 @@ iframe {
         top: 680px;
     }
     .post-type-archive-freeflow-news .curve-bg,
-    .page-news-1 .curve-bg,
+    .single-freeflow-news .curve-bg,
     .page-news-2 .curve-bg {
         opacity: 0.85;
         background: url(./assets/images/news-mobile-curve.png) repeat-y;
