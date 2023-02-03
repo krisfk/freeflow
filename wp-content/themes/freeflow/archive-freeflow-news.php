@@ -42,13 +42,13 @@ get_header(); ?>
 
 <?php
 
-$query_args = array(
-	// 'post_type' => 'freeflow-news',
-	'order' => 'DESC'
-);
+// $query_args = array(
+// 	// 'post_type' => 'freeflow-news',
+// 	'order' => 'DESC'
+// );
 
 // The Query
-$the_query = new WP_Query( $query_args );
+// $the_query = new WP_Query( $query_args );
 
 // The Loop
 
