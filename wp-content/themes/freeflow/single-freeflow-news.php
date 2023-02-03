@@ -58,11 +58,10 @@ get_header(); ?>
 <?php
 
 // Check rows existexists.
-echo 11;
-if( have_rows('repeater_field_name') ):
+if( have_rows('layout1_content_blocks') ):
 
     // Loop through rows.
-    while( have_rows('repeater_field_name') ) : the_row();
+    while( have_rows('layout1_content_blocks') ) : the_row();
 
     ?>
 
