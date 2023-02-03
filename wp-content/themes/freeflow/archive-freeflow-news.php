@@ -76,7 +76,7 @@ if ( have_posts() ) {
         <div class="col-lg-6 col-md-12 col-sm-12 col-12 text-end">
 
 
-            <a href="<?php echo get_site_url();?>/news-1" class="news-a">
+            <a href="<?php echo get_the_permalink();?>" class="news-a">
                 <h2 class="orange"><?php echo get_field('activity_name');?>
                 </h2>
 
