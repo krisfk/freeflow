@@ -171,6 +171,138 @@ else
 </div>
 
 
+
+
+<?php
+
+// Check rows existexists.
+if( have_rows('layout2_content_blocks') ):
+
+    // Loop through rows.
+    while( have_rows('layout2_content_blocks') ) : the_row();
+
+    ?>
+
+<div class="container yellow-bg-div gx-0 mt-60px">
+
+    <div class="row mt-4 mobile-reverse-row">
+
+        <div class="col-lg-9 col-md-12 col-sm-12 col-12 ">
+
+            <div class="album-a-div">
+                <div>
+
+                    <a href="javascript:void(0);" class="album-a me-3 mb-3"
+                        rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02162_edited.jpg">
+                        <img class="height-280px d-inline-block"
+                            src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-17@2x.png" alt="">
+                    </a>
+                    <a href="javascript:void(0);" class="album-a  mb-3"
+                        rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02242_edited.jpg">
+
+                        <img class="height-280px d-inline-block"
+                            src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-18@2x.png" alt=""> </a>
+
+                </div>
+
+                <div>
+                    <a href="javascript:void(0);" class="album-a me-3"
+                        rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02122_edited.jpg">
+
+                        <img class=" height-280px d-inline-block"
+                            src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-19@2x.png" alt="">
+                    </a>
+
+                    <a href="javascript:void(0);" class="album-a"
+                        rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02198_edited.jpg">
+
+                        <img class="height-280px d-inline-block"
+                            src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-20@2x.png" alt="">
+                    </a>
+
+                </div>
+
+            </div>
+
+            <div class="album-a-div mobile mt-4">
+
+
+
+
+
+
+
+                <div class="row gx-lg-0 gx-md-3 gx-sm-3 gx-3">
+
+                    <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3"
+                            rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02162_edited.jpg">
+
+                            <img class=" d-inline-block w-100"
+                                src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-1@2x-2.png" alt="">
+                        </a>
+                    </div>
+                    <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3"
+                            rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02242_edited.jpg">
+
+                            <img class=" d-inline-block w-100"
+                                src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-18@2x.png" alt="">
+                        </a>
+                    </div>
+
+                    <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3"
+                            rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02122_edited.jpg">
+
+                            <img class=" d-inline-block w-100"
+                                src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-2@2x-3.png" alt="">
+                        </a>
+                    </div>
+                    <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3"
+                            rel="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/DSC02198_edited.jpg">
+
+                            <img class=" d-inline-block w-100"
+                                src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-3@2x-4.png" alt="">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-3 col-md-12 col-sm-12 col-12   text-end">
+
+            <h2 class="purple"><?php echo get_sub_field('purple_title');?></h2>
+
+            <div>
+
+                <?php echo get_sub_field('orange_title');?>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <article class="mobile-horizontal vertical-article position-absolute bottom-0 end-0 me-4 mb-4">
+        <h2 class="orange"> <?php echo get_sub_field('orange_title');?>
+
+        </h2>
+    </article>
+
+
+</div>
+
+
+
+
+<?php
+    endwhile;
+
+// No value.
+else :
+    // Do something...
+endif;
+
+?>
+
+
 <?php
 
 
