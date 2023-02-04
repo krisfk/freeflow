@@ -290,7 +290,7 @@ $current_language_code = apply_filters( 'wpml_current_language', null );
 
 
                 <?php
-if($current_language_code='zh-hant')
+if($current_language_code=='zh-hant')
 {
 ?>
                 <li class="me-3"><a class="active" href="<?php echo $langs['zh-hant']['url'];?>">中</a></li>
@@ -298,8 +298,8 @@ if($current_language_code='zh-hant')
 
                 <?php
 }
-else
-if($current_language_code='en')
+
+if($current_language_code=='en')
 {
 ?>
                 <li class="me-3"><a href="<?php echo $langs['zh-hant']['url'];?>">中</a></li>
