@@ -1548,6 +1548,10 @@ h2.orange p {
     margin: -10px 0 0 0;
 }
 
+.wpcf7-submit {
+    display: none;
+}
+
 @media only screen and (max-width: 1400px) {
     .album-a-div {
         display: none;
