@@ -1917,6 +1917,11 @@ html[lang='en-US'] .subtitle-td.align-bottom {
 }
 
 @media only screen and (max-width: 576px) {
+    html[lang='en-US'] .mobile-horizontal.vertical-article h2.orange {
+        font-size: 20px;
+        text-align: right;
+        font-weight: 400;
+    }
     html[lang='en-US'] .orange-bubble-know-more {
         color: #fff;
         font-size: 36px;
