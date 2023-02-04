@@ -1577,7 +1577,7 @@ textarea.form-control {
     border: 2px solid #00a0d2; */
     margin: 0;
     padding: 0;
-    text-align: center;
+    text-align: center !important;
 }
 
 @media only screen and (max-width: 1400px) {
