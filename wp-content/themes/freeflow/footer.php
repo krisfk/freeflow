@@ -167,6 +167,9 @@ echo $current_language_code=='zh-hant' ? '合作夥伴' : 'In partnership with';
             <div class="col-12">
 
                 <div>
+                    <?php
+                    echo get_field('footer_statement',$general_config_id);
+                    ?>
                     於新冠肺炎疫情期間拍攝之影像，在場人士均有嚴格遵從當時實行之防疫措施。 <br>
                     所有作品內容均由主辦單位/創作團隊獨立製作，並不代表本計劃及捐助機構之立場或意見。
                 </div>
@@ -177,8 +180,12 @@ echo $current_language_code=='zh-hant' ? '合作夥伴' : 'In partnership with';
                     <div class="col-lg-8 col-md-8 col-sm-9 col-9 ">
                         <ul class="footer-menu-ul p-0  ">
                             <li>&copy; 2022 JC FreeFlow</li>
-                            <li><a href="javascript:void(0);" class="term-1-btn">使用條款</a></li>
-                            <li><a href="javascript:void(0);" class="term-2-btn">私隱政策</a></li>
+                            <li><a href="javascript:void(0);" class="term-1-btn"><?php
+                    echo get_field('footer_term_txt_1',$general_config_id);
+                    ?></a></li>
+                            <li><a href="javascript:void(0);" class="term-2-btn"><?php
+                    echo get_field('footer_term_txt_2',$general_config_id);
+                    ?></a></li>
                         </ul>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-3 col-3 text-end">
