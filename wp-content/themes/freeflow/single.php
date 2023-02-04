@@ -32,11 +32,9 @@ get_header(); ?>
 
     <?php
 global $current_language_code;
-// echo $current_language_code;
 if($current_language_code=='zh-hant')
 {
     echo get_field('activity_top_banner_desktop',96);
-    // echo 999;
  ?>
     <img class="banner-img"
         src="<?php echo wp_get_attachment_image_src(get_field('top_banner_desktop',96),'full')[0];?>" alt="">
@@ -62,18 +60,8 @@ if($current_language_code=='en')
     <?php
 }
 
-// echo $current_language_code;
 ?>
 
-    <!-- <img class="banner-img" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/resource-banner-scaled.jpg"
-        alt="">
-
-    <img class="banner-img mobile" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-1@2x-50-4.jpg"
-        alt=""> -->
-
-    <?php
-        
-        ?>
 
 
 

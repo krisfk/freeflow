@@ -29,10 +29,48 @@ get_header(); ?>
 <div class="banner-div" style="">
 
 
+
+
+    <?php
+global $current_language_code;
+if($current_language_code=='zh-hant')
+{
+    echo get_field('activity_top_banner_desktop',96);
+ ?>
+    <img class="banner-img"
+        src="<?php echo wp_get_attachment_image_src(get_field('news_top_banner_desktop',323),'full')[0];?>" alt="">
+
+    <img class="banner-img mobile"
+        src="<?php echo wp_get_attachment_image_src(get_field('news_top_banner_mobile',323),'full')[0];?>" alt="">
+
+
+    <?php   
+}
+if($current_language_code=='en')
+
+{
+?>
+    <img class="banner-img"
+        src="<?php echo wp_get_attachment_image_src(get_field('news_top_banner_desktop',810),'full')[0];?>" alt="">
+
+    <img class="banner-img mobile"
+        src="<?php echo wp_get_attachment_image_src(get_field('news_top_banner_mobile',810),'full')[0];?>" alt="">
+
+
+
+    <?php
+}
+
+?>
+
+
+
+
     <img class="banner-img" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/news-banner-scaled.jpg" alt="">
 
     <img class="banner-img mobile" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-1@2x-50-2.jpg"
         alt="">
+
 
 
 
