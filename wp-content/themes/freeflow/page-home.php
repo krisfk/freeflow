@@ -14,7 +14,11 @@
  * @since Twenty Twenty-One 1.0
  */
 
-get_header(); ?>
+get_header();
+
+global $current_language_code;
+
+?>
 
 <?php if ( is_home() && ! is_front_page() && ! empty( single_post_title( '', false ) ) ) : ?>
 <header class="page-header alignwide">
@@ -50,7 +54,15 @@ get_header(); ?>
 
         <table>
             <tr>
-                <td>主辦機構</td>
+                <td>
+
+                    <?php
+echo $current_language_code=='zh-hant' ? '主辦機構' : 'Organiser by';
+
+
+?>
+
+                </td>
             </tr>
             <tr>
                 <td>
@@ -70,7 +82,15 @@ get_header(); ?>
         </table>
         <table>
             <tr>
-                <td>捐助機構</td>
+                <td>
+
+                    <?php
+echo $current_language_code=='zh-hant' ? '捐助機構' : 'Funded by';
+
+
+?>
+
+                </td>
             </tr>
             <tr>
                 <td>
