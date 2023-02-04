@@ -1641,7 +1641,12 @@ html[lang='en-US'] .subtitle-td.align-bottom {
 }
 
 @media only screen and (max-width: 991px) {
-    .resource-first-table {}
+    .resource-first-table {
+        display: flex;
+    }
+    .resource-first-table td {
+        display: inline-block;
+    }
     html[lang='en-US'] .orange-bubble-know-more {
         color: #fff;
         font-size: 36px;
