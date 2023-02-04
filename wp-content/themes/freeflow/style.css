@@ -1549,7 +1549,7 @@ h2.orange p {
 }
 
 .wpcf7-submit {
-    display: none;
+    display: none !important;
 }
 
 @media only screen and (max-width: 1400px) {
