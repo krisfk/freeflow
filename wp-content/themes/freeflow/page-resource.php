@@ -58,19 +58,24 @@ get_header(); ?>
         <div class="col-lg-6 col-md-12 col-sm-12 col-12  position-relative  mt-0">
 
 
+            <table>
+                <tr>
+                    <td>
+                        <article class="vertical-article float-start me-4">
+                            <h2 class="orange"><?php echo get_field('block_1_title');?>
+                            </h2>
+                        </article>
+                    </td>
+                    <td>
+                        <div>
 
+                            <?php echo get_field('block_1_text_content');?>
 
+                        </div>
+                    </td>
+                </tr>
+            </table>
 
-            <article class="vertical-article float-start me-4">
-                <h2 class="orange"><?php echo get_field('block_1_title');?>
-                </h2>
-            </article>
-
-            <div>
-
-                <?php echo get_field('block_1_text_content');?>
-
-            </div>
 
 
 
