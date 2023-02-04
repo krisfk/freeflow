@@ -628,6 +628,13 @@ h2 {
     display: inline-block;
 }
 
+html[lang='en-US'] .vertical-article {
+    writing-mode: vertical-rl;
+    letter-spacing: 0.1em;
+    float: right;
+    transform: rotate(180deg);
+}
+
 .vertical-article {
     writing-mode: vertical-rl;
     letter-spacing: 0.1em;
