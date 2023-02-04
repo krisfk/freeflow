@@ -1681,6 +1681,9 @@ h2.orange p {
         color: #ff6c2f;
         line-height: normal;
     }
+    html[lang='en_US'] h2.orange br {
+        display: none;
+    }
     .mobile-entry-title {
         display: block;
     }
