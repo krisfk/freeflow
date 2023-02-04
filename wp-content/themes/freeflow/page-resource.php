@@ -58,7 +58,7 @@ get_header(); ?>
         <div class="col-lg-6 col-md-12 col-sm-12 col-12  position-relative  mt-0">
 
 
-            <table>
+            <table class="resource-first-table">
                 <tr>
                     <td class="align-top">
                         <article class="vertical-article float-start me-4">
