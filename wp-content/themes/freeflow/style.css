@@ -1561,7 +1561,8 @@ h2.orange p {
     height: 24px;
     border: none;
     border-radius: 100%;
-    padding: 0;
+    padding: 0 !important;
+    margin: 0 !important;
     position: relative;
     float: right;
 }
