@@ -417,22 +417,26 @@ echo'</li>';
 
  -->
 
+            <?php
+                $general_config_id =  $current_language_code=='zh-hant' ? 323:810;
 
+?>
             <ul class="sns-menu-ul">
 
                 <li>
-                    <a href="https://www.instagram.com/jcfreeflow/" target="_blank" class="sns-icon sns-icon-1-a">
+                    <a href="<?php echo get_field('ig_url',$general_config_id)?>" target="_blank"
+                        class="sns-icon sns-icon-1-a">
                         <img src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/sns-icon-1.png" alt="">
                     </a>
                 </li>
                 <li>
-                    <a href="https://www.facebook.com/%E8%B3%BD%E9%A6%AC%E6%9C%83%E8%87%AA%E4%B8%BB%E6%B5%81%E8%BA%AB%E9%AB%94%E5%BE%8B%E5%8B%95%E8%A8%88%E5%8A%83-Jockey-Club-FreeFlow-Body-Movement-Project-101027252379175/"
-                        target="_blank" class="sns-icon sns-icon-2-a">
+                    <a href="<?php echo get_field('fb_url',$general_config_id)?>" target="_blank"
+                        class="sns-icon sns-icon-2-a">
                         <img src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/sns-icon-2.png" alt="">
                     </a>
                 </li>
                 <li>
-                    <a href="https://www.youtube.com/channel/UCnDv1PeKwAusiCd5_ebm66A" target="_blank"
+                    <a href="<?php echo get_field('youtube_url',$general_config_id)?>" target="_blank"
                         class="sns-icon sns-icon-3-a">
                         <img src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/sns-icon-3.png" alt="">
                     </a>
