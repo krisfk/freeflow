@@ -206,7 +206,7 @@ if ( $the_query->have_posts() ) {
 
 switch_to_locale('en_US');
 echo get_the_date('d M Y');
-switch_to_locale($current_language_code);
+// switch_to_locale($current_language_code);
 
 
 // echo get_the_date('M');
