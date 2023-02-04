@@ -11,7 +11,6 @@
  * @since Twenty Twenty-One 1.0
  */
 $current_language_code = apply_filters( 'wpml_current_language', null );
-echo $current_language_code;
 ?>
 <!doctype html>
 <html <?php language_attributes(); ?> <?php twentytwentyone_the_html_classes(); ?>>
