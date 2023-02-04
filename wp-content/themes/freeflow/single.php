@@ -39,6 +39,11 @@ get_header(); ?>
     <img class="banner-img mobile" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-1@2x-50-4.jpg"
         alt=""> -->
 
+    <?php
+        
+global $current_language_code;
+$current_language_code = apply_filters( 'wpml_current_language', null );
+        ?>
 
     <img class="banner-img"
         src="<?php echo wp_get_attachment_image_src(get_field('activity_top_banner_desktop',778),'full')[0];?>" alt="">
