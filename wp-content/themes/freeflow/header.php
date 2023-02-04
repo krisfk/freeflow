@@ -15,6 +15,9 @@
 global $current_language_code;
 $current_language_code = apply_filters( 'wpml_current_language', null );
 
+$general_config_id =  $current_language_code=='zh-hant' ? 323:810;
+
+
 ?>
 <!doctype html>
 <html <?php language_attributes(); ?> <?php twentytwentyone_the_html_classes(); ?>>
@@ -432,10 +435,7 @@ echo'</li>';
 
  -->
 
-            <?php
-                $general_config_id =  $current_language_code=='zh-hant' ? 323:810;
 
-?>
             <ul class="sns-menu-ul">
 
                 <li>
