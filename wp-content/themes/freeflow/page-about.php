@@ -103,12 +103,12 @@ while( have_rows('content_blocks') ): the_row();
 
                 <div class="row">
 
-                    <div class="col-8">
+                    <!-- <div class="col-8">
 
                         <?php echo get_sub_field('subtitle');?>
 
-                    </div>
-                    <div class="col-4">
+                    </div> -->
+                    <div class="col-12">
 
                         <article class="vertical-article mobile-home-entry-title ">
                             <h2 class="purple"> <?php echo get_sub_field('big_title');?>
@@ -152,8 +152,8 @@ while( have_rows('content_blocks') ): the_row();
             <div class="home-entry-title">
 
                 <div class="row">
-                    <div class="col-8"> <?php echo get_sub_field('subtitle');?></div>
-                    <div class="col-4">
+                    <!-- <div class="col-8"> <?php echo get_sub_field('subtitle');?></div> -->
+                    <div class="col-12">
 
                         <article class="vertical-article mobile-home-entry-title ">
                             <h2 class="purple"><?php echo get_sub_field('big_title');?>
