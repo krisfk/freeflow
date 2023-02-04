@@ -165,6 +165,7 @@ echo $current_language_code=='zh-hant' ? '合作夥伴' : 'In partnership with';
                     <a href="javascript:void(0);" class="form-submit-btn">提交</a>
 
                 </div> -->
+                <input class="form-control mb-3" type="text" placeholder="訊息">
             </div>
         </div>
 
