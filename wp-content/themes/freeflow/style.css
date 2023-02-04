@@ -1552,6 +1552,20 @@ h2.orange p {
     display: none !important;
 }
 
+.wpcf7-spinner {
+    /* visibility: hidden; */
+    display: inline-block;
+    background-color: #23282d;
+    opacity: 0.75;
+    width: 24px;
+    height: 24px;
+    border: none;
+    border-radius: 100%;
+    padding: 0;
+    position: relative;
+    float: right;
+}
+
 @media only screen and (max-width: 1400px) {
     .album-a-div {
         display: none;
