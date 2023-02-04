@@ -60,13 +60,13 @@ get_header(); ?>
 
             <table>
                 <tr>
-                    <td>
+                    <td class="align-top">
                         <article class="vertical-article float-start me-4">
                             <h2 class="orange"><?php echo get_field('block_1_title');?>
                             </h2>
                         </article>
                     </td>
-                    <td>
+                    <td class="align-top">
                         <div>
 
                             <?php echo get_field('block_1_text_content');?>
