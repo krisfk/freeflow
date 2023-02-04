@@ -283,7 +283,12 @@ $current_language_code = apply_filters( 'wpml_current_language', null );
             <ul class="lang-switcher">
 
                 <li class="me-3">
-                    <a href="<?php echo get_site_url();?>/">主頁</a>
+
+                    <?php
+                $home_url = apply_filters( 'wpml_home_url', get_option( 'home' ) );
+
+                ?>
+                    <a href="<?php echo $home_url;?>/">主頁</a>
 
                 </li>
 
