@@ -283,7 +283,7 @@ $current_language_code = apply_filters( 'wpml_current_language', null );
             <ul class="lang-switcher">
 
                 <li class="me-3">
-                    <a href="<?php echo get_site_url();?>/<?php echo $current_language_code;?>">主頁</a>
+                    <a href="<?php echo get_site_url();?>/">主頁</a>
 
                 </li>
 
