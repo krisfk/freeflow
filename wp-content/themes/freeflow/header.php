@@ -170,10 +170,17 @@ $current_language_code = apply_filters( 'wpml_current_language', null );
 
                 </div>
                 <div class="col-lg-3 col-md-12 col-sm-12 col-12 ">
-                    <h2 class="orange">使用條款</h2>
+                    <h2 class="orange">
+
+                        <?php echo get_field('term_title',$general_config_id);?>
+                        <!-- 使用條款 -->
+
+                    </h2>
                 </div>
                 <div class="col-lg-9 col-md-12 col-sm-12 col-12  terms-content-div">
-                    本網站所含信息僅供一般參考之用。該信息由賽馬會「自主・流」身體律動計劃提供。本網站所載的全部內容及資料，包括但不限於網站的美術設計、瀏覽連繫及軟件程式，均屬賽馬會「自主・流」身體律動計劃所有，且受版權保護。任何人士如未獲計劃之合作機構事先給予書面許可，一律禁止轉載、發放或擅用本網站的任何內容或資料。
+                    <?php echo get_field('term_content',$general_config_id);?>
+
+                    <!-- 本網站所含信息僅供一般參考之用。該信息由賽馬會「自主・流」身體律動計劃提供。本網站所載的全部內容及資料，包括但不限於網站的美術設計、瀏覽連繫及軟件程式，均屬賽馬會「自主・流」身體律動計劃所有，且受版權保護。任何人士如未獲計劃之合作機構事先給予書面許可，一律禁止轉載、發放或擅用本網站的任何內容或資料。
                     <br> <br>
 
                     賽馬會「自主・流」身體律動計劃會盡力發放最新以及最準確的信息，但不對網站或網站上包含的信息、產品、服務或相關圖形的適用而負上任何責任。因此，對此類信息的任何依賴均由用戶自行承擔風險。<br> <br>
@@ -186,7 +193,7 @@ $current_language_code = apply_filters( 'wpml_current_language', null );
 
                     有關使用本網站任何部分的所有使用條款和條件以及免責聲明均以中文和英文書寫。中英文版本如有出入，概以英文為準。
                     <br> <br>
-                    所有作品內容均由主辦單位/創作團隊獨立製作，並不代表本計劃及捐助機構之立場或意見。
+                    所有作品內容均由主辦單位/創作團隊獨立製作，並不代表本計劃及捐助機構之立場或意見。 -->
                 </div>
             </div>
         </div>
@@ -208,11 +215,19 @@ $current_language_code = apply_filters( 'wpml_current_language', null );
 
                 </div>
                 <div class="col-lg-3 col-md-12 col-sm-12 col-12 ">
-                    <h2 class="orange">私隱政策</h2>
+                    <h2 class="orange">
+                        <!-- 私隱政策 -->
+                        <?php echo get_field('privacy_title',$general_config_id);?>
+
+
+                    </h2>
                 </div>
                 <div class="col-lg-9 col-md-12 col-sm-12 col-12  terms-content-div">
 
-                    本私隱政策描述了我們在閣下使用服務時收集、使用和披露信息的政策和程序，並列明閣下的私隱權以及法律保障。 <br><br>
+                    <?php echo get_field('privacy_content',$general_config_id);?>
+
+
+                    <!-- 本私隱政策描述了我們在閣下使用服務時收集、使用和披露信息的政策和程序，並列明閣下的私隱權以及法律保障。 <br><br>
 
                     我們會使用閣下的個人數據來提供和改進服務。通過使用服務，閣下同意按照本私隱政策收集和使用信息。 <br><br>
 
@@ -268,7 +283,7 @@ $current_language_code = apply_filters( 'wpml_current_language', null );
                     <span class="orange"> 聯絡我們</span> <br>
                     如果閣下對本私隱政策有任何疑問，閣下可以通過電子郵件聯繫我們：
                     <a href="mailto:freeflowjc.info@gmail.com" target="_blank"
-                        class="orange">freeflowjc.info@gmail.com</a>
+                        class="orange">freeflowjc.info@gmail.com</a> -->
 
                 </div>
             </div>
