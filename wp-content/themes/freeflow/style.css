@@ -1597,7 +1597,7 @@ h2.orange p {
 }
 
 html[lang='en_US'] .subtitle-td.align-bottom {
-    vertical-align: top;
+    vertical-align: top !important;
 }
 
 @media only screen and (max-width: 991px) {
