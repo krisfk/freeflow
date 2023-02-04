@@ -199,6 +199,7 @@ if ( $the_query->have_posts() ) {
             <div class="orange">
                 <?php
 echo get_the_date('d M Y');
+echo get_the_date('M');
 ?>
 
 
