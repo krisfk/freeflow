@@ -1571,6 +1571,15 @@ textarea.form-control {
     font-size: 12px;
 }
 
+.wpcf7 form .wpcf7-response-output {
+    /* margin: 2em 0.5em 1em;
+    padding: 0.2em 1em;
+    border: 2px solid #00a0d2; */
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
 @media only screen and (max-width: 1400px) {
     .album-a-div {
         display: none;
