@@ -290,6 +290,10 @@ $current_language_code = apply_filters( 'wpml_current_language', null );
 
 
                 <?php
+
+$langs= icl_get_languages('skip_missing=0&orderby=custom&order=asc&link_empty_to=');
+
+
 if($current_language_code=='zh-hant')
 {
 ?>
