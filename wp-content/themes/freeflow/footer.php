@@ -11,6 +11,9 @@
  * @since Twenty Twenty-One 1.0
  */
 
+ global $current_language_code;
+
+ 
 ?>
 
 <?php //get_template_part( 'template-parts/footer/footer-widgets' ); ?>
@@ -31,7 +34,13 @@
 
                     <table class="w-100">
                         <tr>
-                            <td>主辦機構</td>
+                            <td>
+                                <?php
+echo $current_language_code=='zh-hant' ? '主辦機構' : 'Organiser by';
+
+
+?>
+                            </td>
                         </tr>
                         <tr>
                             <!--  -->
@@ -57,7 +66,15 @@
 
                     <table class="w-100">
                         <tr>
-                            <td>捐助機構</td>
+                            <td>
+
+                                <?php
+echo $current_language_code=='zh-hant' ? '捐助機構' : 'Funded by';
+
+
+?>
+
+                            </td>
                             <!-- <td>合作夥伴</td> -->
                         </tr>
                         <tr>
@@ -90,7 +107,15 @@
 
                     <table class="w-100">
                         <tr>
-                            <td>合作夥伴</td>
+                            <td>
+
+                                <?php
+echo $current_language_code=='zh-hant' ? '合作夥伴' : 'In partnership with';
+
+
+?>
+
+                            </td>
                         </tr>
                         <tr>
                             <td>
