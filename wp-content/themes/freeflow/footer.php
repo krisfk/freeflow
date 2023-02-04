@@ -170,8 +170,8 @@ echo $current_language_code=='zh-hant' ? '合作夥伴' : 'In partnership with';
                     <?php
                     echo get_field('footer_statement',$general_config_id);
                     ?>
-                    於新冠肺炎疫情期間拍攝之影像，在場人士均有嚴格遵從當時實行之防疫措施。 <br>
-                    所有作品內容均由主辦單位/創作團隊獨立製作，並不代表本計劃及捐助機構之立場或意見。
+                    <!-- 於新冠肺炎疫情期間拍攝之影像，在場人士均有嚴格遵從當時實行之防疫措施。 <br>
+                    所有作品內容均由主辦單位/創作團隊獨立製作，並不代表本計劃及捐助機構之立場或意見。 -->
                 </div>
 
 
