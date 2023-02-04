@@ -33,7 +33,17 @@ get_header(); ?>
     <?php
 global $current_language_code;
 
-echo $current_language_code;
+if($current_language_code=='zh-hant')
+{
+    
+}
+if($current_language_code=='en')
+
+{
+
+}
+
+// echo $current_language_code;
 ?>
 
     <!-- <img class="banner-img" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/resource-banner-scaled.jpg"
