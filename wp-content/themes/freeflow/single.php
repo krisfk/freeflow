@@ -35,12 +35,29 @@ global $current_language_code;
 echo $current_language_code;
 if($current_language_code=='zh-hant')
 {
-    
+ ?>
+    <img class="banner-img"
+        src="<?php echo wp_get_attachment_image_src(get_field('activity_top_banner_desktop',96),'full')[0];?>" alt="">
+
+    <img class="banner-img mobile"
+        src="<?php echo wp_get_attachment_image_src(get_field('activity_top_banner_mobile',96),'full')[0];?>" alt="">
+
+
+    <?php   
 }
 if($current_language_code=='en')
 
 {
+?>
+    <img class="banner-img"
+        src="<?php echo wp_get_attachment_image_src(get_field('activity_top_banner_desktop',778),'full')[0];?>" alt="">
 
+    <img class="banner-img mobile"
+        src="<?php echo wp_get_attachment_image_src(get_field('activity_top_banner_mobile',778),'full')[0];?>" alt="">
+
+
+
+    <?php
 }
 
 // echo $current_language_code;
@@ -54,16 +71,7 @@ if($current_language_code=='en')
 
     <?php
         
-global $current_language_code;
-$current_language_code = apply_filters( 'wpml_current_language', null );
         ?>
-
-    <img class="banner-img"
-        src="<?php echo wp_get_attachment_image_src(get_field('activity_top_banner_desktop',778),'full')[0];?>" alt="">
-
-    <img class="banner-img mobile"
-        src="<?php echo wp_get_attachment_image_src(get_field('activity_top_banner_mobile',778),'full')[0];?>" alt="">
-
 
 
 
