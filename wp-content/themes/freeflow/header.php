@@ -289,9 +289,25 @@ $current_language_code = apply_filters( 'wpml_current_language', null );
 
 
 
+                <?php
+if($current_language_code='zh-hant')
+{
+?>
+                <li class="me-3"><a class="active" href="<?php echo $langs['zh-hant']['url'];?>">中</a></li>
+                <li><a href="<?php echo $langs['en']['url'];?>">EN</a></li>
 
-                <li class="me-3"><a class="active" href="javascript:void(0);">中</a></li>
-                <li><a href="javascript:void(0);">EN</a></li>
+                <?php
+}
+
+if($current_language_code='en')
+{
+?>
+                <li class="me-3"><a href="<?php echo $langs['zh-hant']['url'];?>">中</a></li>
+                <li><a class="active" href="<?php echo $langs['en']['url'];?>">EN</a></li>
+                <?php
+}
+
+?>
 
 
             </ul>
