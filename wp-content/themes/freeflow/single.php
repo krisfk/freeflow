@@ -166,7 +166,12 @@ foreach ($tags as $tag) {
             </h2>
 
             <div class="orange"> <?php
-        echo get_the_date('d M Y');
+
+        switch_to_locale('en_US');
+echo get_the_date('d M Y');
+switch_to_locale($current_language_code);
+
+
         ?></div>
 
             <div class="mt-3">
