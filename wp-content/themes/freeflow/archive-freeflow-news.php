@@ -66,10 +66,10 @@ if($current_language_code=='en')
 
 
 
-    <img class="banner-img" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/news-banner-scaled.jpg" alt="">
+    <!-- <img class="banner-img" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/news-banner-scaled.jpg" alt="">
 
     <img class="banner-img mobile" src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/Asset-1@2x-50-2.jpg"
-        alt="">
+        alt=""> -->
 
 
 
