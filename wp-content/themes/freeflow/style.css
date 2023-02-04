@@ -1762,6 +1762,10 @@ html[lang='en-US'] .subtitle-td.align-bottom {
     }
     .mobile-home-entry-title {
         display: block;
+        writing-mode: horizontal-tb;
+        float: left;
+        display: block;
+        margin: 1rem 0 1rem 0;
     }
     .entry-img {
         width: 100%;
