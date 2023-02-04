@@ -1714,6 +1714,9 @@ html[lang='en-US'] .subtitle-td.align-bottom {
         width: 100%;
         margin: 1rem 0 0 0;
     }
+    html[lang='en-US'] .page-resource .vertical-article {
+        writing-mode: initial;
+    }
     .page-resource .yellow-bg-div {
         width: 80%;
         margin: 60px auto 0 auto;
