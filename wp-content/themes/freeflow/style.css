@@ -1596,7 +1596,7 @@ h2.orange p {
     }
 }
 
-html[lang='en_US'] .subtitle-td.align-bottom {
+html[lang='en-US'] .subtitle-td.align-bottom {
     vertical-align: top !important;
 }
 
@@ -1684,9 +1684,6 @@ html[lang='en_US'] .subtitle-td.align-bottom {
         font-weight: 200;
         color: #ff6c2f;
         line-height: normal;
-    }
-    html[lang='en_US'] h2.orange br {
-        display: none;
     }
     .mobile-entry-title {
         display: block;
