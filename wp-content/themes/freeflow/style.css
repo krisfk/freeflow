@@ -2146,6 +2146,9 @@ html[lang='en-US'] .subtitle-td.align-bottom {
     .mobile .green-bubble {
         font-size: 17px;
     }
+    html[lang='en-US'] .mobile .green-bubble {
+        font-size: 7px;
+    }
 }
 
 @media only screen and (max-width: 375px) {
