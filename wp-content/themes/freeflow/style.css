@@ -1260,7 +1260,7 @@ html[lang='en-US'] .orange-bubble-know-more {
     text-align: center;
     width: 280px;
     background: url(./assets/images/orange-know-more-txt-en.png) no-repeat #ff6c2f center center;
-    background-size: 60%;
+    background-size: 45% auto;
     text-decoration: none;
     width: 100% !important;
     display: block;
@@ -1628,6 +1628,21 @@ html[lang='en-US'] .subtitle-td.align-bottom {
 }
 
 @media only screen and (max-width: 991px) {
+    html[lang='en-US'] .orange-bubble-know-more {
+        color: #fff;
+        font-size: 36px;
+        font-weight: 200;
+        text-indent: -1000px;
+        padding: 0.5rem;
+        border-radius: 3rem;
+        text-align: center;
+        width: 280px;
+        background: url(./assets/images/orange-know-more-txt-en.png) no-repeat #ff6c2f center center;
+        background-size: 55% auto;
+        text-decoration: none;
+        width: 100% !important;
+        display: block;
+    }
     html[lang='en-US'] .green-bubble {
         font-size: 24px;
     }
@@ -1889,6 +1904,21 @@ html[lang='en-US'] .subtitle-td.align-bottom {
 }
 
 @media only screen and (max-width: 576px) {
+    html[lang='en-US'] .orange-bubble-know-more {
+        color: #fff;
+        font-size: 36px;
+        font-weight: 200;
+        text-indent: -1000px;
+        padding: 0.5rem;
+        border-radius: 3rem;
+        text-align: center;
+        width: 280px;
+        background: url(./assets/images/orange-know-more-txt-en.png) no-repeat #ff6c2f center center;
+        background-size: 75% auto;
+        text-decoration: none;
+        width: 100% !important;
+        display: block;
+    }
     .mobile .step-arrow {
         height: 20px;
         display: inline-block;
