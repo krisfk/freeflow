@@ -147,7 +147,7 @@ while( have_rows('content_blocks') ): the_row();
         </div>
         <div class="col-lg-7 col-md-12 col-sm-12 col-12 ">
 
-            <div class="home-entry-title">
+            <div class="home-entry-title mb-4">
 
                 <div class="row">
 
