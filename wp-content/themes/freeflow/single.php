@@ -39,10 +39,10 @@ if($current_language_code=='zh-hant')
     // echo 999;
  ?>
     <img class="banner-img"
-        src="<?php echo wp_get_attachment_image_src(get_field('activity_top_banner_desktop',96),'full')[0];?>" alt="">
+        src="<?php echo wp_get_attachment_image_src(get_field('top_banner_desktop',96),'full')[0];?>" alt="">
 
     <img class="banner-img mobile"
-        src="<?php echo wp_get_attachment_image_src(get_field('activity_top_banner_mobile',96),'full')[0];?>" alt="">
+        src="<?php echo wp_get_attachment_image_src(get_field('top_banner_mobile',96),'full')[0];?>" alt="">
 
 
     <?php   
@@ -52,10 +52,10 @@ if($current_language_code=='en')
 {
 ?>
     <img class="banner-img"
-        src="<?php echo wp_get_attachment_image_src(get_field('activity_top_banner_desktop',778),'full')[0];?>" alt="">
+        src="<?php echo wp_get_attachment_image_src(get_field('top_banner_desktop',778),'full')[0];?>" alt="">
 
     <img class="banner-img mobile"
-        src="<?php echo wp_get_attachment_image_src(get_field('activity_top_banner_mobile',778),'full')[0];?>" alt="">
+        src="<?php echo wp_get_attachment_image_src(get_field('top_banner_mobile',778),'full')[0];?>" alt="">
 
 
 
