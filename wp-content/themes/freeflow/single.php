@@ -32,10 +32,11 @@ get_header(); ?>
 
     <?php
 global $current_language_code;
-echo $current_language_code;
+// echo $current_language_code;
 if($current_language_code=='zh-hant')
 {
-    echo 999;
+    echo get_field('activity_top_banner_desktop',96);
+    // echo 999;
  ?>
     <img class="banner-img"
         src="<?php echo wp_get_attachment_image_src(get_field('activity_top_banner_desktop',96),'full')[0];?>" alt="">
