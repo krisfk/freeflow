@@ -14,7 +14,12 @@
  * @since Twenty Twenty-One 1.0
  */
 
-get_header(); ?>
+get_header(); 
+
+global $current_language_code;
+
+
+?>
 
 <?php if ( is_home() && ! is_front_page() && ! empty( single_post_title( '', false ) ) ) : ?>
 <header class="page-header alignwide">
@@ -198,8 +203,13 @@ if ( $the_query->have_posts() ) {
 
             <div class="orange">
                 <?php
+
+switch_to_locale('en_US');
 echo get_the_date('d M Y');
-echo get_the_date('M');
+switch_to_locale($current_language_code);
+
+
+// echo get_the_date('M');
 ?>
 
 
