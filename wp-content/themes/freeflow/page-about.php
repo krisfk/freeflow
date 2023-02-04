@@ -25,7 +25,7 @@ get_header(); ?>
 
 
 <a href="<?php echo get_site_url();?>" class="freeflow-logo-a"><img
-        src="<?php echo esc_url( wp_get_attachment_url( get_theme_mod( 'custom_logo' ) ) );?>" alt=""></a>
+        src="http://64.227.13.14/freeflow/wp-content/uploads/2022/12/freeflow-logo.png" alt=""></a>
 
 <div class="banner-div">
 
@@ -82,6 +82,9 @@ while( have_rows('content_blocks') ): the_row();
                         </a>
 
 
+                    </td>
+                    <td class="subtitle-td align-bottom">
+
                         <article class="vertical-article ">
                             <h2 class="purple"><?php echo get_sub_field('big_title');?>
                             </h2>
@@ -89,15 +92,6 @@ while( have_rows('content_blocks') ): the_row();
 
 
                     </td>
-                    <!-- <td class="subtitle-td align-top">
-
-                        <article class="vertical-article ">
-                            <h2 class="purple"><?php echo get_sub_field('big_title');?>
-                            </h2>
-                        </article>
-
-
-                    </td> -->
                 </tr>
             </table>
 
@@ -183,7 +177,7 @@ while( have_rows('content_blocks') ): the_row();
             <table class="float-end">
                 <tr>
 
-                    <td class="subtitle-td align-top">
+                    <td class="subtitle-td align-bottom">
 
 
                         <article class="vertical-article ">
