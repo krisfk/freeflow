@@ -484,7 +484,7 @@ if( have_rows('feature_contents') ):
     while( have_rows('feature_contents') ) : the_row();
 
     ?>
-        <div class="col-lg-6 col-md-6 col-sm-12 col-12  mt-4">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12  mt-4">
 
 
             <div class="row align-items-top">
