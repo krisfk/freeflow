@@ -286,8 +286,14 @@ $current_language_code = apply_filters( 'wpml_current_language', null );
                     <a href="<?php echo get_site_url();?>">主頁</a>
 
                 </li>
+
+
+
+
                 <li class="me-3"><a class="active" href="javascript:void(0);">中</a></li>
                 <li><a href="javascript:void(0);">EN</a></li>
+
+
             </ul>
 
 
