@@ -82,9 +82,6 @@ while( have_rows('content_blocks') ): the_row();
                         </a>
 
 
-                    </td>
-                    <td class="subtitle-td align-top">
-
                         <article class="vertical-article ">
                             <h2 class="purple"><?php echo get_sub_field('big_title');?>
                             </h2>
@@ -92,6 +89,15 @@ while( have_rows('content_blocks') ): the_row();
 
 
                     </td>
+                    <!-- <td class="subtitle-td align-top">
+
+                        <article class="vertical-article ">
+                            <h2 class="purple"><?php echo get_sub_field('big_title');?>
+                            </h2>
+                        </article>
+
+
+                    </td> -->
                 </tr>
             </table>
 
