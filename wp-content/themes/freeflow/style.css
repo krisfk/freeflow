@@ -1716,6 +1716,7 @@ html[lang='en-US'] .subtitle-td.align-bottom {
     }
     html[lang='en-US'] .page-resource .vertical-article {
         writing-mode: initial;
+        transform: rotate(0deg);
     }
     .page-resource .yellow-bg-div {
         width: 80%;
