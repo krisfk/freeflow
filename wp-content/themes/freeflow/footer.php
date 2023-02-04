@@ -150,6 +150,11 @@ echo $current_language_code=='zh-hant' ? '合作夥伴' : 'In partnership with';
             <div class="col-lg-5 col-md-12 col-sm-12 col-12  form-div">
 
 
+                <?php
+            
+            echo do_shortcode('[contact-form-7 id="843" title="freeflow contact form"]');
+            ?>
+
                 <h3 class="mb-3">與我們聯絡</h3>
                 <input class="form-control mb-3" type="text" placeholder="姓名">
                 <input class="form-control mb-3" type="text" placeholder="電郵">
