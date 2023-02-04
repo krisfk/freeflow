@@ -36,6 +36,10 @@
                         <tr>
                             <td>
                                 <?php
+
+$general_config_id =  $current_language_code=='zh-hant' ? 323:810;
+
+
 echo $current_language_code=='zh-hant' ? '主辦機構' : 'Organiser by';
 
 
@@ -48,8 +52,8 @@ echo $current_language_code=='zh-hant' ? '主辦機構' : 'Organiser by';
 
 
 
-                                <?php if( have_rows('partnership_logos_group_1',get_id_by_slug( 'general-config' ) )): ?>
-                                <?php while( have_rows('partnership_logos_group_1',get_id_by_slug( 'general-config'  )) ): the_row();                      ?>
+                                <?php if( have_rows('partnership_logos_group_1',$general_config_id )): ?>
+                                <?php while( have_rows('partnership_logos_group_1',$general_config_id) ): the_row();                      ?>
 
                                 <a href="<?php echo get_sub_field('link_url');?>" target="_blank"><img
                                         class="top-icon-img"
@@ -82,9 +86,6 @@ echo $current_language_code=='zh-hant' ? '捐助機構' : 'Funded by';
 
 
 
-                                <?php
-                $general_config_id =  $current_language_code=='zh-hant' ? 323:810;
-                ?>
 
                                 <?php if( have_rows('partnership_logos_group_2',$general_config_id )): ?>
                                 <?php while( have_rows('partnership_logos_group_2',$general_config_id ) ): the_row();                      ?>
@@ -126,8 +127,8 @@ echo $current_language_code=='zh-hant' ? '合作夥伴' : 'In partnership with';
                             <td>
 
 
-                                <?php if( have_rows('partnership_logos_group_3',get_id_by_slug( 'general-config' ) )): ?>
-                                <?php while( have_rows('partnership_logos_group_3',get_id_by_slug( 'general-config'  )) ): the_row();                      ?>
+                                <?php if( have_rows('partnership_logos_group_3',$general_config_id )): ?>
+                                <?php while( have_rows('partnership_logos_group_3',$general_config_id) ): the_row();                      ?>
 
                                 <a href="<?php echo get_sub_field('link_url');?>" target="_blank"><img
                                         class="top-icon-img"
