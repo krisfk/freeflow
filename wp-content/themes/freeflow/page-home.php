@@ -67,8 +67,12 @@ echo $current_language_code=='zh-hant' ? '主辦機構' : 'Organiser by';
             <tr>
                 <td>
 
-                    <?php if( have_rows('partnership_logos_group_1',get_id_by_slug( 'general-config' ) )): ?>
-                    <?php while( have_rows('partnership_logos_group_1',get_id_by_slug( 'general-config'  )) ): the_row();                      ?>
+                    <?php
+                $general_config_id =  $current_language_code=='zh-hant' ? 323:810;
+                ?>
+
+                    <?php if( have_rows('partnership_logos_group_1',$general_config_id )): ?>
+                    <?php while( have_rows('partnership_logos_group_1',$general_config_id) ): the_row();                      ?>
 
                     <a href="<?php echo get_sub_field('link_url');?>" target="_blank"><img class="top-icon-img"
                             src="<?php echo wp_get_attachment_image_src(get_sub_field('partnership_logo'),'full')[0];?>"
