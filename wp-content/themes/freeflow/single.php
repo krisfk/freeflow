@@ -32,7 +32,7 @@ get_header(); ?>
 
     <?php
 global $current_language_code;
-
+echo $current_language_code;
 if($current_language_code=='zh-hant')
 {
     
