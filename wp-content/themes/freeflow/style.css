@@ -1226,6 +1226,10 @@ html[lang='en-US'] .green-bubble {
     font-size: 24px;
 }
 
+html[lang='en-US'] .green-bubble.first {
+    /*         line-height:px */
+}
+
 .mobile .green-bubble {
     width: 100%;
 }
@@ -1624,6 +1628,13 @@ html[lang='en-US'] .subtitle-td.align-bottom {
 }
 
 @media only screen and (max-width: 991px) {
+    html[lang='en-US'] .green-bubble {
+        font-size: 24px;
+    }
+    html[lang='en-US'] .green-bubble.first {
+        /*         line-height:px */
+        font-size: 15px;
+    }
     .news-a h2 {
         text-decoration: underline;
         padding: 0;
@@ -1918,6 +1929,9 @@ html[lang='en-US'] .subtitle-td.align-bottom {
     html[lang='en-US'] .mobile .green-bubble {
         font-size: 13px;
     }
+    html[lang='en-US'] .mobile .green-bubble.first {
+        line-height: 16px;
+    }
     .curve-bg {
         /* display: none; */
         opacity: 0.85;
@@ -2150,7 +2164,7 @@ html[lang='en-US'] .subtitle-td.align-bottom {
         font-size: 17px;
     }
     html[lang='en-US'] .mobile .green-bubble {
-        font-size: 7px;
+        font-size: 11px;
     }
 }
 
