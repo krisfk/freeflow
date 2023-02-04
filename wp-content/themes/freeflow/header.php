@@ -298,7 +298,7 @@ if($current_language_code='zh-hant')
 
                 <?php
 }
-
+else
 if($current_language_code='en')
 {
 ?>
