@@ -1596,6 +1596,10 @@ h2.orange p {
     }
 }
 
+html[lang='en_US'] .subtitle-td.align-bottom {
+    vertical-align: top;
+}
+
 @media only screen and (max-width: 991px) {
     .news-a h2 {
         text-decoration: underline;
