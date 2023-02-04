@@ -288,7 +288,13 @@ $current_language_code = apply_filters( 'wpml_current_language', null );
                 $home_url = apply_filters( 'wpml_home_url', get_option( 'home' ) );
 
                 ?>
-                    <a href="<?php echo $home_url;?>/">主頁</a>
+                    <a href="<?php echo $home_url;?>/">
+                        <?php
+
+echo $current_language_code=='zh-hant' ? '主頁' : 'Home';
+
+?>
+                    </a>
 
                 </li>
 
