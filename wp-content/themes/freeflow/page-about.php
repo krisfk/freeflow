@@ -177,7 +177,7 @@ while( have_rows('content_blocks') ): the_row();
             <table class="float-end">
                 <tr>
 
-                    <td class="subtitle-td align-bottom">
+                    <td class="subtitle-td align-top">
 
 
                         <article class="vertical-article ">
