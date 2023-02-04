@@ -635,6 +635,19 @@ html[lang='en-US'] .vertical-article {
     transform: rotate(180deg);
 }
 
+html[lang='en-US'] .mobile-horizontal.vertical-article {
+    writing-mode: initial;
+    letter-spacing: 0.1em;
+    float: right;
+    transform: initial;
+}
+
+html[lang='en-US'] .mobile-horizontal.vertical-article h2.orange {
+    font-size: 2rem;
+    text-align: right;
+    font-weight: 400;
+}
+
 .vertical-article {
     writing-mode: vertical-rl;
     letter-spacing: 0.1em;
