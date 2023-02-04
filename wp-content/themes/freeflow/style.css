@@ -1567,6 +1567,10 @@ h2.orange p {
     float: right;
 }
 
+textarea.form-control {
+    font-size: 12px;
+}
+
 @media only screen and (max-width: 1400px) {
     .album-a-div {
         display: none;
