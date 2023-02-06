@@ -1201,7 +1201,7 @@ h2 a {
   text-decoration-color: #605ed3;
 }
 
-html[html='en-US'] .purple-a {
+html[lang='en-US'] .purple-a {
   text-underline-offset: auto;
   color: inherit;
   text-decoration-color: #605ed3;
@@ -1212,7 +1212,7 @@ html[html='en-US'] .purple-a {
   text-underline-offset: 0.5rem;
 }
 
-html[html='en-US'] .purple-a:hover {
+html[lang='en-US'] .purple-a:hover {
   color: #605ed3;
   text-underline-offset: auto;
 }
