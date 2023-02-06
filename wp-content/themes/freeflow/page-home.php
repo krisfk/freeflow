@@ -99,6 +99,8 @@ echo $current_language_code=='zh-hant' ? '捐助機構' : 'Funded by';
             <tr>
                 <td>
 
+
+                    <?php echo get_id_by_slug( 'general-config' );?>
                     <?php if( have_rows('partnership_logos_group_2',get_id_by_slug( 'general-config' ) )): ?>
                     <?php while( have_rows('partnership_logos_group_2',get_id_by_slug( 'general-config'  )) ): the_row();                      ?>
 
