@@ -358,11 +358,13 @@ html[lang='en-US'] .orange-link {
   color: #808080;
   display: inline-block;
   text-underline-offset: auto;
-  border-bottom: 2px solid #ff6c2f !important;
-  text-decoration: none;
+  /* border-bottom: 2px solid #ff6c2f !important; */
+  text-decoration: underline;
   line-height: 2rem;
   transition: 0.2s all;
   font-weight: bold;
+  color: inherit;
+  text-decoration-color: #ff6c2f;
   /* margin: 0 0.05rem 0 0; */
 }
 
