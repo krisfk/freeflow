@@ -219,6 +219,8 @@ echo do_shortcode( '[posts_like_dislike]');
 
                     <a href="javascript:void(0);" class="d-inline-block three-dots-a ms-2"> <img class="three-dots"
                             src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/3dots.png" alt=""></a>
+
+                    <?php echo do_shortcode('[addtoany]');?>
                 </div>
 
             </div>
