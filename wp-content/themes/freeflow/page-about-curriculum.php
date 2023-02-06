@@ -236,7 +236,7 @@ endwhile; ?>
                 <table class="w-100 step-by-step-div">
                     <tr>
                         <td class="">
-                            <div class="green-bubble first"><?php echo get_field('step_1_name');?></div>
+                            <div class="green-bubble two-line"><?php echo get_field('step_1_name');?></div>
                         </td>
                         <td class="pt-0 pe-2 ps-2">
 
@@ -319,7 +319,7 @@ endwhile; ?>
                     <div class="row">
 
                         <div class="col-5">
-                            <div class="green-bubble first"><?php echo get_field('step_1_name');?></div>
+                            <div class="green-bubble two-line"><?php echo get_field('step_1_name');?></div>
                         </div>
 
                         <div class="col-2">

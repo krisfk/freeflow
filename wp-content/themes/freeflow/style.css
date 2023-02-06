@@ -1255,7 +1255,7 @@ html[lang='en-US'] .green-bubble {
   font-size: 24px;
 }
 
-html[lang='en-US'] .green-bubble.first {
+html[lang='en-US'] .green-bubble.two-line {
   /*         line-height:px */
 }
 
@@ -1757,7 +1757,7 @@ html[lang='en-US'] .subtitle-td.align-bottom {
   html[lang='en-US'] .green-bubble {
     font-size: 24px;
   }
-  html[lang='en-US'] .green-bubble.first {
+  html[lang='en-US'] .green-bubble.two-line {
     /*         line-height:px */
     font-size: 15px;
   }
@@ -2086,7 +2086,7 @@ html[lang='en-US'] .subtitle-td.align-bottom {
   html[lang='en-US'] .mobile .green-bubble {
     font-size: 13px;
   }
-  html[lang='en-US'] .mobile .green-bubble.first {
+  html[lang='en-US'] .mobile .green-bubble.two-line {
     line-height: 16px;
   }
   .curve-bg {
