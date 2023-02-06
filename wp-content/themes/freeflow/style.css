@@ -695,6 +695,11 @@ html[lang='en-US'] .mobile-horizontal.vertical-article h2.orange {
 
 .more-link {
   display: none;
+  transition: 0.2s all;
+}
+
+.more-link:hover {
+  color: #605ed3;
 }
 
 .orange.more-link {
