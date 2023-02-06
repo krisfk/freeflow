@@ -354,6 +354,18 @@ html[lang='en-US'] body {
   /* margin: 0 0.05rem 0 0; */
 }
 
+html[lang='en-US'] .orange-link {
+  color: #808080;
+  display: inline-block;
+  text-underline-offset: auto;
+  border-bottom: 2px solid #ff6c2f !important;
+  text-decoration: none;
+  line-height: 2rem;
+  transition: 0.2s all;
+  font-weight: bold;
+  /* margin: 0 0.05rem 0 0; */
+}
+
 .orange-link:hover {
   /* opacity: 0.85; */
   color: #ff6c2f;
