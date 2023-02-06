@@ -1379,6 +1379,7 @@ html[lang='en-US'] .orange-bubble-know-more {
   top: 4px;
   right: 10px;
   display: inline-block !important;
+  width: 23px;
 }
 
 .search-ui-div {
