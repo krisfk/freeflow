@@ -599,7 +599,7 @@ echo'</li>';
 
             $('.three-dots-a').click(function() {
 
-                $(this).next('.addtoany_shortcode').fadeIn(0);
+                $(this).next('.addtoany_shortcode').fadeIn(200);
             })
             $('.form-submit-btn').click(function() {
 
