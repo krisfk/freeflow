@@ -100,9 +100,9 @@ echo $current_language_code=='zh-hant' ? '捐助機構' : 'Funded by';
                 <td>
 
 
-                    <?php echo get_id_by_slug( 'general-config' );?>
-                    <?php if( have_rows('partnership_logos_group_2',get_id_by_slug( 'general-config' ) )): ?>
-                    <?php while( have_rows('partnership_logos_group_2',get_id_by_slug( 'general-config'  )) ): the_row();                      ?>
+                    <?php //echo get_id_by_slug( 'general-config' );?>
+                    <?php if( have_rows('partnership_logos_group_2',$general_config_id )): ?>
+                    <?php while( have_rows('partnership_logos_group_2',$general_config_id) ): the_row();                      ?>
 
                     <a href="<?php echo get_sub_field('link_url');?>" target="_blank"><img class="top-icon-img"
                             src="<?php echo wp_get_attachment_image_src(get_sub_field('partnership_logo'),'full')[0];?>"
