@@ -245,11 +245,11 @@ for($i=0;$i<count($tags_arr);$i++)
             </div>
 
 
-            <div class="blog-line mt-4"></div>
+            <div class="blog-line mt-lg-4 mt-md-2 mt-sm-2 mt-2"></div>
 
 
 
-            <div class="row mt-4">
+            <div class="row mt-lg-4 mt-md-2 mt-sm-2 mt-2 ">
 
 
                 <div class="col-7"><?php
