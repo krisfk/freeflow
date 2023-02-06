@@ -1196,14 +1196,14 @@ h2 a {
 }
 
 .purple-a {
-  text-underline-offset: 0.8rem;
+  text-underline-offset: 0.5rem;
   color: inherit;
   text-decoration-color: #605ed3;
 }
 
 .purple-a:hover {
   color: #605ed3;
-  text-underline-offset: 0.8rem;
+  text-underline-offset: 0.5rem;
 }
 
 .photo-album-arrow {
