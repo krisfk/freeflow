@@ -1671,6 +1671,10 @@ textarea.form-control {
   border: none !important;
 }
 
+.addtoany_shortcode {
+  display: none !important;
+}
+
 @media only screen and (max-width: 1400px) {
   .album-a-div {
     display: none;

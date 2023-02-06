@@ -595,6 +595,12 @@ echo'</li>';
 
         $(function() {
 
+
+
+            $('.three-dots-a').click(function() {
+
+                $(this).next('.addtoany_shortcode').fadeIn(0);
+            })
             $('.form-submit-btn').click(function() {
 
                 $('.wpcf7-submit').click();
