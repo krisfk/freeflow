@@ -197,7 +197,7 @@ if ( $the_query->have_posts() ) {
 
 
             <h2 class="purple big mt-4">
-                <a href="<?php echo get_the_permalink();?>">
+                <a class="resource-h2-a" href="<?php echo get_the_permalink();?>">
                     <?php echo get_the_title();?></a>
             </h2>
 

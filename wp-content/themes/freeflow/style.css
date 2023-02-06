@@ -1588,6 +1588,14 @@ p {
   padding: 0 !important;
 }
 
+.resource-h2-a {
+  transition: 0.2s all;
+}
+
+.resource-h2-a:hover {
+  color: #ff6c2f;
+}
+
 @media only screen and (max-width: 1400px) {
   .album-a-div {
     display: none;
