@@ -368,7 +368,7 @@ html[lang='en-US'] .orange-link {
 }
 
 html[lang='en-US'] .orange-link:hover {
-  color: #ff6c2f;
+  color: #ff6c2f !important;
   display: inline-block;
   text-underline-offset: auto;
   text-decoration: underline;
