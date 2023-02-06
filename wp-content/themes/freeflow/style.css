@@ -1767,7 +1767,8 @@ html[lang='en-US'] .subtitle-td.align-bottom {
   .resource-detail-img {
     width: 100%;
   }
-  .page-resource .text-end {
+  .page-resource .text-end,
+  .single .text-end {
     text-align: right !important;
   }
   .page-resource .vertical-article {
