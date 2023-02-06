@@ -977,6 +977,10 @@ a.container:hover {
   line-height: 3.5rem;
 }
 
+html[lang='en-US'] .feeling-div.big-text {
+  line-height: 2.5rerm;
+}
+
 .quote {
   height: 27px;
   border-radius: 0px;
