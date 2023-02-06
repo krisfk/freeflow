@@ -1601,6 +1601,11 @@ p {
   color: #ff6c2f;
 }
 
+textarea.form-control {
+  font-size: 12px;
+  border: none !important;
+}
+
 @media only screen and (max-width: 1400px) {
   .album-a-div {
     display: none;
