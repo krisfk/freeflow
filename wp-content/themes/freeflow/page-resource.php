@@ -267,6 +267,9 @@ for($i=0;$i<count($tags_arr);$i++)
 
                     <a href="javascript:void(0);" class="d-inline-block three-dots-a ms-2"> <img class="three-dots"
                             src="http://64.227.13.14/freeflow/wp-content/uploads/2023/01/3dots.png" alt=""></a>
+
+                    <?php echo do_shortcode('[addtoany url="'.get_the_permalink().'"]');?>
+
                 </div>
 
             </div>
