@@ -1372,11 +1372,8 @@ html[lang='en-US'] .orange-bubble-know-more {
 }
 
 .search-icon-a {
-  /* position: absolute;
-  top: 7px;
-  right: 20px; */
   position: absolute;
-  top: 4px;
+  top: 0px;
   right: 10px;
   display: inline-block !important;
   width: 23px;
@@ -1712,6 +1709,13 @@ html[lang='en-US'] .subtitle-td.align-bottom {
 }
 
 @media only screen and (max-width: 991px) {
+  .search-icon-a {
+    position: absolute;
+    top: 4px;
+    right: 10px;
+    display: inline-block !important;
+    width: 23px;
+  }
   .resource-first-table {
     display: flex;
   }
