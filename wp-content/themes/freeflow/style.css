@@ -1672,7 +1672,7 @@ textarea.form-control {
 }
 
 .addtoany_shortcode {
-  display: none !important;
+  display: none;
 }
 
 @media only screen and (max-width: 1400px) {
