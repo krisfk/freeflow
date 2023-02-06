@@ -103,7 +103,7 @@ echo get_sub_field('tutor_description');
 else
 {
 ?>
-    <div class="row align-items-center mt-5 gx-5 ">
+    <div class="row align-items-center mt-5 gx-5 mobile-reverse-row">
 
         <div class="col-lg-6 col-md-12 col-sm-12 col-12 ">
 
