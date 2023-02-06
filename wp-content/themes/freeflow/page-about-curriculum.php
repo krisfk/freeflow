@@ -488,7 +488,7 @@ if( have_rows('feature_contents') ):
 
 
             <div class="row align-items-top">
-                <div class="col-lg-6 col-md-6 col-sm-4 col-4 ">
+                <div class="col-lg-6 col-md-6 col-sm-5 col-5 ">
 
                     <a href="javascript:void(0);" class="album-a mobile-keep"
                         rel="<?php echo wp_get_attachment_image_src(get_sub_field('feature_image_enlarge'),'full')[0];?>">
@@ -497,7 +497,7 @@ if( have_rows('feature_contents') ):
                             alt="">
                     </a>
                 </div>
-                <div class="col-lg-6 col-md-6 col-sm-8 col-8 ">
+                <div class="col-lg-6 col-md-6 col-sm-7 col-7 ">
                     <span class="green middle-size">
                         <?php echo get_sub_field('feature_green_title');?></span>
                     <br>
