@@ -978,7 +978,7 @@ a.container:hover {
 }
 
 html[lang='en-US'] .feeling-div.big-text {
-  line-height: 2.5rerm;
+  line-height: 2.5rem;
 }
 
 .quote {
@@ -1845,7 +1845,7 @@ html[lang='en-US'] .subtitle-td.align-bottom {
   }
   .middle-size {
     font-size: 20px;
-    line-height: 1;
+    line-height: 1.5;
   }
   html[lang='en-US'] .middle-size {
     font-size: 20px;
