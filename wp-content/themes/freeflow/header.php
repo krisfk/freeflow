@@ -736,6 +736,9 @@ echo'</li>';
 
 
                 $(this).fadeOut(0);
+                $(this).css({
+                    'opacity': '0'
+                });
                 $('.search-ui-div').fadeIn(200)
             })
 
