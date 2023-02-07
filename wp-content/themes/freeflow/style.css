@@ -2004,6 +2004,15 @@ html[lang='en-US'] .subtitle-td.align-bottom {
         width: auto !important;
         transform: rotate(0) !important;
     }
+    html[lang='en-US'] .home .mobile-home-entry-title {
+        display: block;
+        writing-mode: vertical-lr !important;
+        float: right;
+        /* display: block; */
+        margin: 0;
+        width: auto !important;
+        transform: rotate(180deg) !important;
+    }
     .mobile-home-entry-title br {
         display: none;
     }
