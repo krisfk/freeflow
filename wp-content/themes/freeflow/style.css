@@ -211,9 +211,12 @@ html[lang='en-US'] body {
     text-decoration: none !important;
     display: inline-block;
     color: #808080 !important;
-    border-bottom: 2px solid #ff6c2f !important;
+    /* border-bottom: 2px solid #ff6c2f !important; */
     font-weight: bold;
     transition: 0.2s all;
+    text-decoration-color: #ff6c2f;
+    text-underline-offset: 0.8rem;
+    text-decoration: underline;
 }
 
 .home-entry-link:hover {
@@ -346,12 +349,13 @@ html[lang='en-US'] body {
     color: #808080;
     display: inline-block;
     text-underline-offset: 0.8rem;
-    /* border-bottom: 2px solid #ff6c2f !important; */
     text-decoration: underline;
     line-height: 2rem;
     transition: 0.2s all;
     font-weight: bold;
     text-decoration-color: #ff6c2f;
+    text-underline-offset: 0.8rem;
+    text-decoration: underline;
     /* margin: 0 0.05rem 0 0; */
 }
 
