@@ -1854,7 +1854,7 @@ html[lang='en-US'] .subtitle-td.align-bottom {
     .page-resource .vertical-article {
         writing-mode: initial;
         display: block;
-        width: 100%;
+        width: 100% !important;
         margin: 1rem 0 0 0;
     }
     html[lang='en-US'] .page-resource .vertical-article {
