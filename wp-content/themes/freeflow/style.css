@@ -1995,14 +1995,14 @@ html[lang='en-US'] .subtitle-td.align-bottom {
         width: 100%;
         transform: rotate(0deg) !important;
     }
-    .mobile-home-entry-title {
+    .home .mobile-home-entry-title {
         display: block;
-        /* writing-mode: horizontal-tb !important; */
+        writing-mode: vertical-rl;
         float: left;
         display: block;
         margin: 0;
         width: 100%;
-        transform: rotate(0deg) !important;
+        transform: rotate(180deg) !important;
     }
     .mobile-home-entry-title br {
         display: none;
