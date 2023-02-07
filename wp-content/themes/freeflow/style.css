@@ -1675,8 +1675,8 @@ textarea.form-control {
 .page-resource .vertical-article {
     writing-mode: initial;
     display: block;
-    width: 120px;
-    margin: 1rem 0 0 0;
+    width: 50px;
+    margin-top: 0rem 0 0 0;
 }
 
 @media only screen and (max-width: 1400px) {
