@@ -1672,6 +1672,13 @@ textarea.form-control {
     display: none;
 }
 
+.page-resource .vertical-article {
+    writing-mode: initial;
+    display: block;
+    width: 120px;
+    margin: 1rem 0 0 0;
+}
+
 @media only screen and (max-width: 1400px) {
     .album-a-div {
         display: none;
