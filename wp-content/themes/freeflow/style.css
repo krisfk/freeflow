@@ -2436,4 +2436,9 @@ html[lang='en-US'] .subtitle-td.align-bottom {
         font-size: 15px;
         width: 150px;
     }
+    html[lang='en-US'] .big-white-arrow-div {
+        height: 35px;
+        font-size: 11px;
+        width: 150px;
+    }
 }
