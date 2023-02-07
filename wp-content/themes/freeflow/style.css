@@ -208,15 +208,15 @@ html[lang='en-US'] body {
 }
 
 .home-entry-link {
-    text-decoration: none !important;
+    /* text-decoration: none !important; */
     display: inline-block;
     color: #808080 !important;
     /* border-bottom: 2px solid #ff6c2f !important; */
     font-weight: bold;
     transition: 0.2s all;
-    text-decoration-color: #ff6c2f;
+    text-decoration-color: #ff6c2f !important;
     text-underline-offset: 0.8rem;
-    text-decoration: underline;
+    text-decoration: underline !important;
 }
 
 .home-entry-link:hover {
