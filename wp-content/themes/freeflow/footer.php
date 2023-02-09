@@ -40,7 +40,7 @@
 $general_config_id =  $current_language_code=='zh-hant' ? 323:810;
 
 
-echo $current_language_code=='zh-hant' ? '主辦機構' : 'Organiser by';
+echo $current_language_code=='zh-hant' ? '主辦機構' : 'Organized by';
 
 
 ?>
