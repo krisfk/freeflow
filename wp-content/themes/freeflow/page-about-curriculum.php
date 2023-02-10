@@ -327,7 +327,8 @@ endwhile; ?>
                         </div>
                         <div class="col-5">
 
-                            <a href="javascript:void(0);" class="orange-bubble-know-more">.</a>
+                            <a href="javascript:void(0);" class="orange-bubble-know-more"
+                                rel="<?php echo get_field('step_8_youtube_code');?>">.</a>
 
 
                         </div>
