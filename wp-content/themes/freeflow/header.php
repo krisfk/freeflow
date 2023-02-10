@@ -607,8 +607,7 @@ echo'</li>';
             })
 
             // 7qB6dtbavXI
-            var video_html =
-                '<iframe width="560" height="315" src="https://www.youtube.com/embed/9tKGHIdpEac?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>';
+
 
             // home_curve_fadein();
 
@@ -769,9 +768,13 @@ echo'</li>';
 
             $('.orange-bubble-know-more').click(function() {
 
-
+                var code = $(this).attr('rel');
 
                 $('.lightbox-layer.video-layer').fadeIn(200);
+
+                var video_html =
+                    '<iframe width="560" height="315" src="https://www.youtube.com/embed/' + code +
+                    '?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>';
 
                 $('.video').html(video_html);
 
