@@ -280,7 +280,8 @@ endwhile; ?>
                     </tr>
                     <tr>
                         <td class="">
-                            <a href="javascript:void(0);" class="orange-bubble-know-more">.</a>
+                            <a href="javascript:void(0);" class="orange-bubble-know-more"
+                                rel="step_8_youtube_code">.</a>
                         </td>
                         <td class="pt-0 pe-2 ps-2">
 
