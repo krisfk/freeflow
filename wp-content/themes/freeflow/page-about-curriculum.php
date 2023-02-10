@@ -281,7 +281,7 @@ endwhile; ?>
                     <tr>
                         <td class="">
                             <a href="javascript:void(0);" class="orange-bubble-know-more"
-                                rel="step_8_youtube_code">.</a>
+                                rel="<?php echo get_field('step_8_youtube_code');?>">.</a>
                         </td>
                         <td class="pt-0 pe-2 ps-2">
 
