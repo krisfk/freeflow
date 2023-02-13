@@ -246,7 +246,7 @@ while( have_rows('content_blocks') ): the_row();
         <div class="col-lg-5 col-md-12 col-sm-12 col-12 ">
 
 
-            <table class="float-end">
+            <table class="float-end w-100">
                 <tr>
 
                     <td class="subtitle-td align-bottom ">
