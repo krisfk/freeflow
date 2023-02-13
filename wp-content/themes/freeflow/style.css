@@ -1693,7 +1693,7 @@ textarea.form-control {
     .row-img-min-400 {
         /* max-width: 300px; */
         height: auto;
-        width: 60%;
+        width: 60% !important;
     }
     .album-a-div {
         display: none;
