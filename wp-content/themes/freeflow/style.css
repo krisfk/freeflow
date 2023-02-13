@@ -2149,6 +2149,7 @@ html[lang='en-US'] .subtitle-td.align-bottom {
     .mobile .step-arrow {
         height: 20px;
         display: inline-block;
+        width: auto !important;
     }
     .mobile .orange-bubble-know-more {
         color: #fff;
