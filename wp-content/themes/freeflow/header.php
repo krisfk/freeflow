@@ -600,12 +600,18 @@ echo'</li>';
                 var scroll = $(window).scrollTop();
 
 
-                if (scroll > 100) {
-                    $('.menu-btn-txt').fadeOut(0);
-                } else {
+                if ($('.menu-btn').hasClass('active')) {
                     $('.menu-btn-txt').fadeIn(0);
+                } else {
+                    if (scroll > 100) {
+                        $('.menu-btn-txt').fadeOut(0);
+                    } else {
+                        $('.menu-btn-txt').fadeIn(0);
 
+                    }
                 }
+
+
 
             });
 
