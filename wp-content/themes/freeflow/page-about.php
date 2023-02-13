@@ -73,7 +73,7 @@ while( have_rows('content_blocks') ): the_row();
                                 src="<?php echo wp_get_attachment_image_src(get_sub_field('image_desktop'),'full')[0];?>"
                                 alt="">
 
-                            <article class="vertical-article  float-start subtitle-td  d-inline-block">
+                            <article class="vertical-article  float-start subtitle-td  d-inline-block ps-3">
                                 <h2 class="purple"><?php echo get_sub_field('big_title');?>
                                 </h2>
                             </article>
