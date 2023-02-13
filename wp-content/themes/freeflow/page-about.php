@@ -197,15 +197,18 @@ while( have_rows('content_blocks') ): the_row();
                             <img class="entry-img row-img-min-400"
                                 src="<?php echo wp_get_attachment_image_src(get_sub_field('image_desktop'),'full')[0];?>"
                                 alt="">
-                        </a>
 
-                        <article class="vertical-article float-end subtitle-td">
-                            <h2 class="purple"><?php
+
+                            <article class="vertical-article float-end subtitle-td">
+                                <h2 class="purple"><?php
                                      echo get_sub_field('big_title');
 
                             ?>
-                            </h2>
-                        </article>
+                                </h2>
+                            </article>
+
+                        </a>
+
 
 
                         <a href="javascript:void(0);" class="m-album-a"
