@@ -272,10 +272,6 @@ while( have_rows('content_blocks') ): the_row();
                     <td>
                         <a href="javascript:void(0);" class="album-a float-end"
                             rel="<?php echo wp_get_attachment_image_src(get_sub_field('image_enlarge'),'full')[0];?>">
-                            <img class="entry-img row-img-min-400 d-inline-block"
-                                src="<?php echo wp_get_attachment_image_src(get_sub_field('image_desktop'),'full')[0];?>"
-                                alt="">
-
 
 
                             <article class="vertical-article float-end pe-3  d-inline-block">
@@ -285,6 +281,14 @@ while( have_rows('content_blocks') ): the_row();
                             ?>
                                 </h2>
                             </article>
+
+                            <img class="entry-img row-img-min-400 d-inline-block"
+                                src="<?php echo wp_get_attachment_image_src(get_sub_field('image_desktop'),'full')[0];?>"
+                                alt="">
+
+
+
+
 
                         </a>
 
