@@ -151,14 +151,20 @@ while( have_rows('content_blocks') ): the_row();
 
                         <a href="javascript:void(0);" class="m-album-a"
                             rel="<?php echo wp_get_attachment_image_src(get_sub_field('image_enlarge'),'full')[0];?>">
-                            <img class="entry-img row-img-min-400"
+                            <img class="entry-img row-img-min-400 d-inline-block"
                                 src="<?php echo wp_get_attachment_image_src(get_sub_field('image_mobile'),'full')[0];?>"
                                 alt="">
+
+
+                            <article class="vertical-article  d-inline-block">
+                                <h2 class="purple"><?php echo get_sub_field('big_title');?>
+                                </h2>
+                            </article>
                         </a>
 
 
                     </td>
-                    <td class="subtitle-td align-bottom float-start">
+                    <!-- <td class="subtitle-td align-bottom float-start">
 
                         <article class="vertical-article ">
                             <h2 class="purple"><?php echo get_sub_field('big_title');?>
@@ -166,7 +172,7 @@ while( have_rows('content_blocks') ): the_row();
                         </article>
 
 
-                    </td>
+                    </td> -->
                 </tr>
             </table>
 
