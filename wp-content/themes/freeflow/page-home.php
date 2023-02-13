@@ -257,7 +257,7 @@ while( have_rows('content_blocks') ): the_row();
             <table class="float-end w-100">
                 <tr>
 
-                    <td class="subtitle-td align-bottom ">
+                    <!-- <td class="subtitle-td align-bottom ">
 
 
                         <article class="vertical-article ">
@@ -268,7 +268,7 @@ while( have_rows('content_blocks') ): the_row();
                             </h2>
                         </article>
 
-                    </td>
+                    </td> -->
                     <td>
                         <a href="javascript:void(0);" class="album-a float-end"
                             rel="<?php echo wp_get_attachment_image_src(get_sub_field('image_enlarge'),'full')[0];?>">
@@ -283,6 +283,16 @@ while( have_rows('content_blocks') ): the_row();
                                 src="<?php echo wp_get_attachment_image_src(get_sub_field('image_mobile'),'full')[0];?>"
                                 alt="">
                         </a>
+
+
+                        <article class="vertical-article float-end">
+                            <h2 class="purple"><?php
+                                     echo get_sub_field('big_title');
+
+                            ?>
+                            </h2>
+                        </article>
+
 
 
 
