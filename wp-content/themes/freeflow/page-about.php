@@ -177,7 +177,7 @@ while( have_rows('content_blocks') ): the_row();
             class="col-lg-<?php echo get_sub_field('column_proportion') == '5 7' ? '5':'6'; ?> col-md-12 col-sm-12 col-12 ">
 
 
-            <table class="float-end">
+            <table class="float-end w-100">
                 <tr>
 
                     <!-- <td class="subtitle-td align-bottom">
