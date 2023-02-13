@@ -2048,7 +2048,7 @@ html[lang='en-US'] .subtitle-td.align-bottom {
     .m-album-a {
         display: inline-block;
     }
-    .home .m-album-a img {
+    .home .m-album-a img.entry-img {
         width: 100%;
     }
     .yellow-bg-div img {
