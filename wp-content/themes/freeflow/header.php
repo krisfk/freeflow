@@ -724,6 +724,16 @@ echo'</li>';
 
                     $('.menu-layer').fadeOut(0);
 
+                    var scroll = $(window).scrollTop();
+
+                    if (scroll > 100) {
+                        $('.menu-btn-txt').fadeOut(0);
+                    } else {
+                        $('.menu-btn-txt').fadeIn(0);
+
+                    }
+
+
                 }
             })
 
