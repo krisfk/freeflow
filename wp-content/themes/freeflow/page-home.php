@@ -262,7 +262,7 @@ while( have_rows('content_blocks') ): the_row();
 
                     </td>
                     <td>
-                        <a href="javascript:void(0);" class="album-a"
+                        <a href="javascript:void(0);" class="album-a float-end"
                             rel="<?php echo wp_get_attachment_image_src(get_sub_field('image_enlarge'),'full')[0];?>">
                             <img class="entry-img row-img-min-400"
                                 src="<?php echo wp_get_attachment_image_src(get_sub_field('image_desktop'),'full')[0];?>"
