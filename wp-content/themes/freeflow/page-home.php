@@ -142,7 +142,7 @@ while( have_rows('content_blocks') ): the_row();
             <table class="float-start w-100 position-relative">
                 <tr>
                     <td>
-                        <a href="javascript:void(0);" class="album-a"
+                        <a href="javascript:void(0);" class="album-a w-100"
                             rel="<?php echo wp_get_attachment_image_src(get_sub_field('image_enlarge'),'full')[0];?>">
                             <img class="entry-img row-img-min-400 d-inline-block"
                                 src="<?php echo wp_get_attachment_image_src(get_sub_field('image_desktop'),'full')[0];?>"
