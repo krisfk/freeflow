@@ -285,7 +285,7 @@ while( have_rows('content_blocks') ): the_row();
                         </a>
 
 
-                        <article class="vertical-article float-end">
+                        <article class="vertical-article float-end pe-3">
                             <h2 class="purple"><?php
                                      echo get_sub_field('big_title');
 
