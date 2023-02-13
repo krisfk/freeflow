@@ -1026,6 +1026,7 @@ html[lang='en-US'] .feeling-div.big-text {
     display: inline-block !important;
     /* display: block; */
     border-radius: 0px !important;
+    width: initial !important;
 }
 
 .quote.open {
