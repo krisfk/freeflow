@@ -57,7 +57,7 @@ while( have_rows('content_blocks') ): the_row();
 
             <table class="float-start w-100 position-relative">
                 <tr>
-                    <td>
+                    <td class="align-top">
                         <a href="javascript:void(0);" class="album-a"
                             rel="<?php echo wp_get_attachment_image_src(get_sub_field('image_enlarge'),'full')[0];?>">
                             <img class="entry-img row-img-min-400"
@@ -177,7 +177,7 @@ while( have_rows('content_blocks') ): the_row();
                         </article>
 
                     </td>
-                    <td>
+                    <td class="align-top">
                         <a href="javascript:void(0);" class="album-a"
                             rel="<?php echo wp_get_attachment_image_src(get_sub_field('image_enlarge'),'full')[0];?>">
                             <img class="entry-img row-img-min-400"
