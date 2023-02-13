@@ -2054,6 +2054,7 @@ html[lang='en-US'] .subtitle-td.align-bottom {
     .yellow-bg-div img {
         display: block;
         border-radius: 1rem;
+        width: 100% !important;
     }
     .mobile-reverse-row {
         flex-direction: column-reverse;
