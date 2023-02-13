@@ -198,6 +198,12 @@ html[lang='en-US'] body {
     /* line-height: 2rem; */
 }
 
+html[lang='en-US'] .home-entry-title {
+    color: #605ed3;
+    font-size: 24px;
+    line-height: 2rem;
+}
+
 .subtitle-td {
     color: #605ed3;
     font-size: 60px;
