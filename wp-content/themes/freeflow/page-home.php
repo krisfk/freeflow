@@ -177,12 +177,12 @@ while( have_rows('content_blocks') ): the_row();
 
                 <div class="row">
 
-                    <div class="col-11">
+                    <div class="col-lg-11 col-md-11 col-sm-9  col-9">
 
                         <?php echo get_sub_field('subtitle');?>
 
                     </div>
-                    <div class="col-1">
+                    <div class="col-lg-1 col-md-1 col-sm-3 col-3">
 
                         <article class="vertical-article mobile-home-entry-title ">
                             <h2 class="purple"> <?php echo get_sub_field('big_title');?>
