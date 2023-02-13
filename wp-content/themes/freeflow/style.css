@@ -1696,6 +1696,10 @@ textarea.form-control {
         /* width: 75% !important; */
         width: 63% !important;
     }
+    .page-about-curriculum .row-img-min-400 {
+        width: 100% !important;
+        height: auto;
+    }
     .album-a-div {
         display: none;
     }
