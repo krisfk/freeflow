@@ -315,7 +315,6 @@ endif;
 }
 ?>
 
-testing
 <?php
 
 if(get_field('youtube_video_code'))
