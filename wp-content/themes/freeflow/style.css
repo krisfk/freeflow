@@ -2048,6 +2048,9 @@ html[lang='en-US'] .subtitle-td.align-bottom {
     .m-album-a {
         display: inline-block;
     }
+    .home .m-album-a img {
+        width: 100%;
+    }
     .yellow-bg-div img {
         display: block;
         border-radius: 1rem;
