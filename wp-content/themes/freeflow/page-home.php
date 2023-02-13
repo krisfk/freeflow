@@ -149,7 +149,7 @@ while( have_rows('content_blocks') ): the_row();
                                 alt="">
 
 
-                            <article class="vertical-article  d-inline-block  float-start">
+                            <article class="vertical-article  d-inline-block  float-start ps-3">
                                 <h2 class="purple"><?php echo get_sub_field('big_title');?>
                                 </h2>
                             </article>
