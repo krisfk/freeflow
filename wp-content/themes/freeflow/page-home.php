@@ -158,7 +158,7 @@ while( have_rows('content_blocks') ): the_row();
 
 
                     </td>
-                    <td class="subtitle-td align-bottom">
+                    <td class="subtitle-td align-bottom float-start">
 
                         <article class="vertical-article ">
                             <h2 class="purple"><?php echo get_sub_field('big_title');?>
@@ -249,7 +249,7 @@ while( have_rows('content_blocks') ): the_row();
             <table class="float-end">
                 <tr>
 
-                    <td class="subtitle-td align-bottom float-start">
+                    <td class="subtitle-td align-bottom ">
 
 
                         <article class="vertical-article ">
