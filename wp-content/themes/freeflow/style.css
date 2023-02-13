@@ -2049,7 +2049,7 @@ html[lang='en-US'] .subtitle-td.align-bottom {
         display: inline-block;
     }
     .home .m-album-a img.entry-img {
-        width: 100%;
+        width: 100% !important;
     }
     .yellow-bg-div img {
         display: block;
