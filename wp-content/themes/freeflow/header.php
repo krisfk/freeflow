@@ -596,6 +596,21 @@ echo'</li>';
         $(function() {
 
 
+            $(window).scroll(function(event) {
+                var scroll = $(window).scrollTop();
+
+
+                if (scroll > 100) {
+                    $('.menu-btn-txt').fadeOut(0);
+                } else {
+                    $('.menu-btn-txt').fadeIn(0);
+
+                }
+
+            });
+
+
+
 
             $('.three-dots-a').click(function() {
 
