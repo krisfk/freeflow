@@ -144,12 +144,12 @@ while( have_rows('content_blocks') ): the_row();
                     <td>
                         <a href="javascript:void(0);" class="album-a w-100"
                             rel="<?php echo wp_get_attachment_image_src(get_sub_field('image_enlarge'),'full')[0];?>">
-                            <img class="entry-img row-img-min-400 d-inline-block"
+                            <img class="entry-img row-img-min-400 d-inline-block float-start"
                                 src="<?php echo wp_get_attachment_image_src(get_sub_field('image_desktop'),'full')[0];?>"
                                 alt="">
 
 
-                            <article class="vertical-article  d-inline-block">
+                            <article class="vertical-article  d-inline-block  float-start">
                                 <h2 class="purple"><?php echo get_sub_field('big_title');?>
                                 </h2>
                             </article>
