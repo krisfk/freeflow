@@ -1026,17 +1026,18 @@ html[lang='en-US'] .feeling-div.big-text {
     display: inline-block !important;
     /* display: block; */
     border-radius: 0px !important;
-    width: initial !important;
 }
 
 .quote.open {
     margin: 0 0 1rem 0;
+    width: initial !important;
 }
 
 .quote.close {
     margin: 1rem 0 0 0;
     position: relative;
     top: -0.5rem;
+    width: initial !important;
 }
 
 .preloader-plus {
