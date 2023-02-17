@@ -1694,7 +1694,7 @@ textarea.form-control {
 @media only screen and (max-width: 1400px) {
     .single-freeflow-news .m-album-a {
         display: inline-block;
-        width: 95%;
+        width: 100%;
     }
     .single-freeflow-news .m-album-a img {
         /* display: block !important; */
