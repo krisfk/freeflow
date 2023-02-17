@@ -1694,11 +1694,15 @@ textarea.form-control {
 @media only screen and (max-width: 1400px) {
     .single-freeflow-news .m-album-a {
         display: inline-block;
+        width: 95%;
     }
     .single-freeflow-news .m-album-a img {
-        display: inline-block;
-        width: 100%;
-        height: auto !important;
+        /* display: block !important; */
+        /* width: 95% !important; */
+        /* height: 95% !important; */
+        width: 100% !important;
+        max-width: auto !important;
+        max-height: fit-content;
     }
     .row-img-min-400 {
         /* max-width: 300px; */
