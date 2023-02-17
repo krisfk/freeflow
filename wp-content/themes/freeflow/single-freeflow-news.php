@@ -234,7 +234,7 @@ if( have_rows('layout2_content_blocks') ):
 
             <div class="album-a-div mobile mt-4">
 
-                <div class="row gx-lg-0 gx-md-3 gx-sm-3 gx-3 layout2-row-2-set">
+                <div class="row gx-lg-0 gx-md-3 gx-sm-3 gx-3 layout2-row-2-set-mobile">
 
                     <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3"
                             rel="<?php echo wp_get_attachment_image_src(get_sub_field('image1_enlarge'),'full')[0];?>">
