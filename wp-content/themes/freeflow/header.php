@@ -604,9 +604,13 @@ echo'</li>';
                     $('.menu-btn-txt').fadeIn(0);
                 } else {
                     if (scroll > 100) {
-                        $('.menu-btn-txt').fadeOut(0);
+                        $('.menu-btn-txt').css({
+                            'opacity': '0'
+                        })
                     } else {
-                        $('.menu-btn-txt').fadeIn(0);
+                        $('.menu-btn-txt').css({
+                            'opacity': '1'
+                        })
 
                     }
                 }
@@ -733,9 +737,13 @@ echo'</li>';
                     var scroll = $(window).scrollTop();
 
                     if (scroll > 100) {
-                        $('.menu-btn-txt').fadeOut(0);
+                        $('.menu-btn-txt').css({
+                            'opacity': '0'
+                        })
                     } else {
-                        $('.menu-btn-txt').fadeIn(0);
+                        $('.menu-btn-txt').css({
+                            'opacity': '1'
+                        })
 
                     }
 
