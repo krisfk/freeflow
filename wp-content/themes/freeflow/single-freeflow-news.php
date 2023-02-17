@@ -100,7 +100,8 @@ if( have_rows('layout1_content_blocks') ):
 
         <div class="col-6">
 
-            <a href="javascript:void(0);" class="m-album-a">
+            <a href="javascript:void(0);" class="m-album-a"
+                rel="<?php echo wp_get_attachment_image_src(get_sub_field('block_image_1_enlarge'),'full')[0];?>">
                 <img class="w-100"
                     src="<?php echo wp_get_attachment_image_src(get_sub_field('block_image_1_mobile'),'full')[0];?>"
                     alt=""
@@ -109,7 +110,8 @@ if( have_rows('layout1_content_blocks') ):
         </div>
         <div class="col-6">
 
-            <a href="javascript:void(0);" class="m-album-a">
+            <a href="javascript:void(0);" class="m-album-a"
+                rel="<?php echo wp_get_attachment_image_src(get_sub_field('block_image_2_enlarge'),'full')[0];?>">
                 <img class="w-100"
                     src="<?php echo wp_get_attachment_image_src(get_sub_field('block_image_2_mobile'),'full')[0];?>"
                     alt=""
