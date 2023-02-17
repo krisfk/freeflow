@@ -142,7 +142,7 @@ else
     <h2 class="purple"><?php echo get_field('layout2_content_block_1_title');?></h2>
 
 
-    <div class="row mt-4 mobile-reverse-row">
+    <div class="row mt-4 mobile-reverse-row layout2-row-1-set">
 
         <div class="col-lg-7 col-md-12 col-sm-12 col-12 ">
 
@@ -189,7 +189,7 @@ if( have_rows('layout2_content_blocks') ):
 
 <div class="container yellow-bg-div gx-0 mt-60px">
 
-    <div class="row mt-4 mobile-reverse-row">
+    <div class="row mt-4 mobile-reverse-row layout2-row-2-set">
 
         <div class="col-lg-9 col-md-12 col-sm-12 col-12 ">
 
@@ -234,7 +234,7 @@ if( have_rows('layout2_content_blocks') ):
 
             <div class="album-a-div mobile mt-4">
 
-                <div class="row gx-lg-0 gx-md-3 gx-sm-3 gx-3">
+                <div class="row gx-lg-0 gx-md-3 gx-sm-3 gx-3 layout2-row-2-set">
 
                     <div class="col-6"> <a href="javascript:void(0);" class="m-album-a  mb-3"
                             rel="<?php echo wp_get_attachment_image_src(get_sub_field('image1_enlarge'),'full')[0];?>">
