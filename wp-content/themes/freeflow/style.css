@@ -1692,6 +1692,14 @@ textarea.form-control {
 }
 
 @media only screen and (max-width: 1400px) {
+    .single-freeflow-news .m-album-a {
+        display: inline-block;
+    }
+    .single-freeflow-news .m-album-a img {
+        display: inline-block;
+        width: 100%;
+        height: auto !important;
+    }
     .row-img-min-400 {
         /* max-width: 300px; */
         height: auto;
