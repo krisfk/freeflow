@@ -158,7 +158,7 @@ else
                     alt=""></a>
 
 
-            <a href="javascript:void(0);" class="m-album-a">
+            <a href="javascript:void(0);" class="m-album-a mb-3">
                 <img class="row-img-min-400"
                     src="<?php echo wp_get_attachment_image_src(get_field('layout2_content_block_1_image_mobile'),'full')[0];?>"
                     alt="">
