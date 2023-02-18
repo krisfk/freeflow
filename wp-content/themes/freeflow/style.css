@@ -1716,10 +1716,16 @@ textarea.form-control {
         display: inline-block;
         width: 100%;
     }
-    .single-freeflow-news .m-album-a img {
-        /* display: block !important; */
-        /* width: 95% !important; */
-        /* height: 95% !important; */
+    /* .single-freeflow-news .m-album-a img {
+        width: 100% !important;
+        max-width: auto !important;
+    } */
+    .single-freeflow-news .single-freeflow-news-1 .m-album-a img {
+        width: 100% !important;
+        max-width: auto !important;
+        max-height: fit-content;
+    }
+    .single-freeflow-news .single-freeflow-news-2 .m-album-a img {
         width: 100% !important;
         max-width: auto !important;
         /* max-height: fit-content; */

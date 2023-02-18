@@ -73,7 +73,7 @@ if( have_rows('layout1_content_blocks') ):
 
     ?>
 
-<div class="container yellow-bg-div gx-0 mt-120px">
+<div class="container yellow-bg-div gx-0 mt-120px single-freeflow-news-1">
 
 
     <h2 class="purple"><?php echo get_sub_field('block_title');?></h2>
@@ -138,7 +138,7 @@ else
     ?>
 
 
-<div class="container yellow-bg-div gx-0 mt-120px">
+<div class="container yellow-bg-div gx-0 mt-120px single-freeflow-news-2">
 
 
     <h2 class="purple"><?php echo get_field('layout2_content_block_1_title');?></h2>
