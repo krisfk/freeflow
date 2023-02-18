@@ -1120,6 +1120,7 @@ img.lazyloaded {
     /* text-align: center; */
     margin: 0 auto;
     max-width: 90%;
+    /* width: auto; */
 }
 
 .terms-yellow-bg-div div {
@@ -2093,6 +2094,16 @@ html[lang='en-US'] .subtitle-td.align-bottom {
         display: block;
         border-radius: 1rem;
         width: 100% !important;
+    }
+    .photo-yellow-bg-div img {
+        border-radius: 0 !important;
+        max-height: 70vh;
+        display: block;
+        width: auto !important;
+        /* text-align: center; */
+        margin: 0 auto;
+        max-width: 90%;
+        /* width: auto; */
     }
     .mobile-reverse-row {
         flex-direction: column-reverse;
