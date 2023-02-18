@@ -1722,7 +1722,7 @@ textarea.form-control {
         /* height: 95% !important; */
         width: 100% !important;
         max-width: auto !important;
-        max-height: fit-content;
+        /* max-height: fit-content; */
     }
     .row-img-min-400 {
         /* max-width: 300px; */
