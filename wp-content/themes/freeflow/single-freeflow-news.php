@@ -209,7 +209,7 @@ if( have_rows('layout2_content_blocks') ):
 
                         <img class="height-280px d-inline-block"
                             src="<?php echo wp_get_attachment_image_src(get_sub_field('image2_desktop'),'full')[0];?>"
-                            alt=""> f</a>
+                            alt=""> </a>
 
                 </div>
 
@@ -219,7 +219,7 @@ if( have_rows('layout2_content_blocks') ):
 
                         <img class=" height-280px d-inline-block"
                             src="<?php echo wp_get_attachment_image_src(get_sub_field('image3_desktop'),'full')[0];?>"
-                            alt="">d
+                            alt="">
                     </a>
 
                     <a href="javascript:void(0);" class="album-a"
