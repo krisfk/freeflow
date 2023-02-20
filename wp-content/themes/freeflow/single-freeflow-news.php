@@ -209,7 +209,7 @@ if( have_rows('layout2_content_blocks') ):
 
                         <img class="height-280px d-inline-block"
                             src="<?php echo wp_get_attachment_image_src(get_sub_field('image2_desktop'),'full')[0];?>"
-                            alt=""> </a>
+                            alt=""> f</a>
 
                 </div>
 
