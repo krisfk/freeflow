@@ -402,7 +402,7 @@ endwhile; ?>
 
                         </div>
                         <div class="col-5">
-                            <div class="green-bubble"><?php echo get_field('step_5_name');?></div>
+                            <div class="green-bubble"><?php echo get_field('step_6_name');?></div>
 
                         </div>
                     </div>
