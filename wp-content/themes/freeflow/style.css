@@ -1363,6 +1363,7 @@ html[lang='en-US'] .orange-bubble-know-more {
   font-size: 36px;
   font-weight: 200;
   text-indent: -1000px;
+  overflow: hidden;
   padding: 0.5rem;
   border-radius: 3rem;
   text-align: center;
