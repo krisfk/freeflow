@@ -718,7 +718,10 @@ echo'</li>';
             $('.menu-btn').click(function() {
 
                 if ($(window).width() > 991) {
-                    $('.menu-btn-txt').fadeIn(0);
+                    // $('.menu-btn-txt').fadeIn(0);
+                    $('.menu-btn-txt').css({
+                        'opacity': '1'
+                    })
                 }
                 $(this).toggleClass('active');
 
