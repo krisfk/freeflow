@@ -717,7 +717,9 @@ echo'</li>';
 
             $('.menu-btn').click(function() {
 
-                $('.menu-btn-txt').fadeIn(0);
+                if ($(window).width() > 991) {
+                    $('.menu-btn-txt').fadeIn(0);
+                }
                 $(this).toggleClass('active');
 
                 if ($(this).hasClass('active')) {
