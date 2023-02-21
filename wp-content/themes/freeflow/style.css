@@ -2500,6 +2500,7 @@ html[lang='en-US'] .subtitle-td.align-bottom {
         z-index: 200;
         text-decoration: none;
         z-index: 6000 !important;
+        width: 20%;
         transition: 0.2s all;
     }
     .home .home-banner-div .freeflow-logo-a {
