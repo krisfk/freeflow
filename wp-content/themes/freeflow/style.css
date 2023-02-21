@@ -2500,13 +2500,12 @@ html[lang='en-US'] .subtitle-td.align-bottom {
         z-index: 200;
         text-decoration: none;
         z-index: 6000 !important;
-        width: 30%;
+        /* width: 30%; */
         transition: 0.2s all;
     }
     .menu-btn-txt {
         width: auto;
         display: none;
-        /* display: inline-block !important; */
     }
     .home .home-banner-div .freeflow-logo-a {
         top: 48px;
