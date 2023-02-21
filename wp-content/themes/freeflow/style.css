@@ -201,7 +201,7 @@ html[lang='en-US'] body {
 html[lang='en-US'] .home-entry-title {
     color: #605ed3;
     font-size: 24px;
-    line-height: 2rem;
+    line-height: 1.9rem;
 }
 
 .subtitle-td {
@@ -1914,7 +1914,7 @@ html[lang='en-US'] .subtitle-td.align-bottom {
     .home-entry-title {
         color: #605ed3;
         font-size: 1.4rem;
-        line-height: 2rem;
+        line-height: 1.9rem;
         /* line-height: 2rem; */
     }
     body {
