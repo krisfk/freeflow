@@ -360,7 +360,7 @@ endwhile; ?>
                     <div class="row">
 
                         <div class="col-5">
-                            <div class="green-bubble"><?php echo get_field('step_2_name');?></div>
+                            <div class="green-bubble two-line"><?php echo get_field('step_2_name');?></div>
                         </div>
 
                         <div class="col-2">
