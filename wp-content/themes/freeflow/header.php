@@ -603,7 +603,7 @@ echo'</li>';
                 if ($('.menu-btn').hasClass('active')) {
                     $('.menu-btn-txt').fadeIn(0);
                 } else {
-                    if (scroll > 100) {
+                    if (scroll > 100 && $(window).width() > 991) {
                         $('.menu-btn-txt').css({
                             'opacity': '0'
                         })
@@ -736,7 +736,7 @@ echo'</li>';
 
                     var scroll = $(window).scrollTop();
 
-                    if (scroll > 100) {
+                    if (scroll > 100 && $(window).width() > 991) {
                         $('.menu-btn-txt').css({
                             'opacity': '0'
                         })
