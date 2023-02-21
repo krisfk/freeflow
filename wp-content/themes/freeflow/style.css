@@ -1705,6 +1705,10 @@ textarea.form-control {
     margin-top: 0rem 0 0 0;
 }
 
+.eng-font {
+    font-family: 'Poppins', sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Liberation Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji' !important;
+}
+
 @media only screen and (max-width: 1400px) {
     .page-about-curriculum .elements-title {
         display: block;
