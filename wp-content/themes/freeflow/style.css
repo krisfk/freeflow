@@ -2397,6 +2397,9 @@ html[lang='en-US'] .subtitle-td.align-bottom {
     .home-banner-div .icons-div table {
         margin-right: 0.5rem;
     }
+    html[lang='en-US'] .home-banner-div .icons-div table {
+        margin-right: 0rem;
+    }
     .home-banner-div .icons-div {
         line-height: 1;
         top: 13px;
