@@ -2505,7 +2505,8 @@ html[lang='en-US'] .subtitle-td.align-bottom {
     }
     .menu-btn-txt {
         width: auto;
-        display: inline-block !important;
+        display: none;
+        /* display: inline-block !important; */
     }
     .home .home-banner-div .freeflow-logo-a {
         top: 48px;
