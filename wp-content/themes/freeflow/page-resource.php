@@ -286,7 +286,7 @@ for($i=0;$i<count($tags_arr);$i++)
 	wp_reset_postdata();
 } else {
 
-    echo $current_language_code;
+    // echo $current_language_code;
     ?>
 
 
