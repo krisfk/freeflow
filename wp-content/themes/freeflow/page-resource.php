@@ -286,9 +286,11 @@ for($i=0;$i<count($tags_arr);$i++)
 	wp_reset_postdata();
 } else {
 
+    echo $current_language_code;
     ?>
-        <?php
-        ?>
+
+
+
         <script type="text/javascript">
         $(function() {
 
