@@ -111,7 +111,7 @@ global $current_language_code;
 
 
 
-<div class="container yellow-bg-div gx-0 mt-120px position-relative">
+<div class="container yellow-bg-div gx-0 mt-120px position-relative tags-container">
 
 
     <div class="row">
@@ -285,6 +285,31 @@ for($i=0;$i<count($tags_arr);$i++)
         <?php
 	wp_reset_postdata();
 } else {
+
+    ?>
+        <?php
+        ?>
+        <script type="text/javascript">
+        $(function() {
+
+            var display_str = '<?php 
+                    if($current_language_code=='zh-hant')
+                    {
+                            echo '密切留意最新資源或觀看我們的社交平台';
+                    }
+                    else
+                    {
+         echo 'Stay tuned for upcoming resources.
+In the meantime, do check out our socials.';
+                   
+                    }
+                    ?>';
+
+            $('.tags-container').html(display_str);
+        })
+        </script>
+
+        <?php
 	// no posts found
 }
         
