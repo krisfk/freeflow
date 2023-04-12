@@ -301,10 +301,8 @@ for($i=0;$i<count($tags_arr);$i++)
                     }
                     else
                     {
-         echo 'Stay tuned for upcoming resources.
-In the meantime, do check out our socials.';
-                   
-                    }
+         echo 'Stay tuned for upcoming resources.In the meantime, do check out our socials.';
+                   }
                     ?>';
 
             $('.tags-container').html(display_str);
